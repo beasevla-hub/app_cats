@@ -1,0 +1,115 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "SZC-15870",
+    "numero_art": "92221220080888230, 92221220090499750 e 92221220090555304",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "Prefeitura do Município de São Paulo - Subprefeitura de Vila Prudente.",
+    "cnpj_contratante": null,
+    "objeto": "EXECUÇÃO DE SERVIÇOS DE TOPOGRAFIA NA PRAÇA REPÚBLICA LITUANA E ÁREA EM TORNO",
+    "processo_administrativo": "2008-0.035.820-8",
+    "contrato": null,
+    "endereco_obra": "Praça República Lituana",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2008-04-25",
+    "data_fim": "2008-05-08",
+    "area_m2": null,
+    "valor_contrato": 13993.55
+  },
+  "servicos": [
+    {
+      "grupo": null,
+      "codigo": "01-10-00",
+      "fonte": null,
+      "descricao": "LEVANTAMENTO PLANIALTÍMETRICO CADASTRAL",
+      "unidade": "M2",
+      "quantidade": 6082.13,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "01-15-00",
+      "fonte": null,
+      "descricao": "NIVELAMENTO DO EIXO DE VIA PÚBLICA INCLUISIVE SOLEIRAS, GUIAS E TAMÕES",
+      "unidade": "M",
+      "quantidade": 350.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "01-22-00",
+      "fonte": null,
+      "descricao": "RELATÓRIO TÉCNICO",
+      "unidade": "M",
+      "quantidade": 350.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "01-25-00",
+      "fonte": null,
+      "descricao": "CADASTRO E AMARRAÇÃO DE BOCA DE LOBO OU LEÃO",
+      "unidade": "UNID",
+      "quantidade": 7.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "01-26-00",
+      "fonte": null,
+      "descricao": "CADASTRO E AMARRAÇÃO DE PV",
+      "unidade": "UNID",
+      "quantidade": 12.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "01-33-00",
+      "fonte": null,
+      "descricao": "ESTAÇÃO TOTAL PRECISÃO 1,5\"-TIPO \"LEICA\" TC 1101 OU SIMILAR, INCLUISIVE ACESSÓRIOS",
+      "unidade": "H",
+      "quantidade": 10.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "03-20-00",
+      "fonte": null,
+      "descricao": "CÓPIA XEROX EM TAMANHO OFICIO, UMA FACE, PRETO E BRANCO",
+      "unidade": "UNID",
+      "quantidade": 4.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "03-52-00",
+      "fonte": null,
+      "descricao": "SERVIÇO DE PLOTAGEM EM PAPEL SULFITE, TAMANHO A1, PRETO E BRANCO",
+      "unidade": "UNID",
+      "quantidade": 4.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "03-24-00",
+      "fonte": null,
+      "descricao": "CONSULTOR",
+      "unidade": "H",
+      "quantidade": 40.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    }
+  ],
+  "apelido": "REPÚBLICA LITUANA"
+}

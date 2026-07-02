@@ -1,0 +1,125 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620110006680",
+    "numero_art": "92221220110924809",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "PMSP - SUBPREFEITURA VILA PRUDENTE SAPOPEMBA",
+    "cnpj_contratante": "05.969.123/0001-59",
+    "objeto": "EXECUCAO DE PROJETO DE GALERIA DE AGUAS PLUVIAIS COM CAPTACAO DESDE A RUA PARICA E LANCAMENTO NO CORREGO ORATORIO, ATRAVES DA RUA SALVADOR MOTA JARDIM PANORAMA.",
+    "processo_administrativo": "2010-0.047.260-0",
+    "contrato": null,
+    "endereco_obra": "RUA SALVADOR DA MOTA",
+    "cidade": "SAO PAULO",
+    "estado": "SP",
+    "data_inicio": "2010-07-15",
+    "data_fim": "2010-10-15",
+    "area_m2": null,
+    "valor_contrato": 18752.81
+  },
+  "servicos": [
+    {
+      "grupo": "EDIF",
+      "codigo": "20-03-16",
+      "fonte": null,
+      "descricao": "AS BUILT FORMATO AO",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SIURB",
+      "codigo": "01-14-00",
+      "fonte": null,
+      "descricao": "LEVANTAMENTO PLANIMÉTRICO DE VIA PÚBLICA E SEMI-CADASTRO DE IMÓVEIS",
+      "unidade": "M",
+      "quantidade": 280.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SIURB",
+      "codigo": "01-18-00",
+      "fonte": null,
+      "descricao": "TRANSPORTE DE COTA DE REFERÊNCIA DE NÍVEL",
+      "unidade": "M",
+      "quantidade": 280.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "SIURB",
+      "codigo": "01-22-00",
+      "fonte": null,
+      "descricao": "RELATÓRIO TÉCNICO",
+      "unidade": "M",
+      "quantidade": 280.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "SIURB",
+      "codigo": "02-02-02",
+      "fonte": null,
+      "descricao": "MOBILIZAÇÃO E INSTALAÇÃO DE 1 EQUIPAMENTO",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "SIURB",
+      "codigo": "03-04-00",
+      "fonte": null,
+      "descricao": "PROJETO HIDRÁULICO DE GALERIA PLUVIAL EM TUBOS",
+      "unidade": "M",
+      "quantidade": 280.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "SIURB",
+      "codigo": "03-08-00",
+      "fonte": null,
+      "descricao": "ESTUDO HIDROLÓGICO DE VIA PÚBLICA INTEGRANTE DE PROGRAMA DE PAVIMENTAÇÃO E PROJETO HIDRÁULICO, SE NECESSÁRIA GALERIA EM TUBOS",
+      "unidade": "M",
+      "quantidade": 280.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "SIURB",
+      "codigo": "03-24-00",
+      "fonte": null,
+      "descricao": "CONSULTOR",
+      "unidade": "H",
+      "quantidade": 5.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "SIURB",
+      "codigo": "03-25-00",
+      "fonte": null,
+      "descricao": "COORDENADOR GERAL",
+      "unidade": "H",
+      "quantidade": 10.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "SIURB",
+      "codigo": "03-39-00",
+      "fonte": null,
+      "descricao": "PROJETISTA",
+      "unidade": "H",
+      "quantidade": 57.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    }
+  ],
+  "apelido": "PROJETO GALERIA SALVADOR MOTA"
+}

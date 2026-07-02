@@ -1,0 +1,1275 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620240009581",
+    "numero_art": "2620240852472",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "PREFEITURA DO MUNICIPIO DE ITAPEVI",
+    "cnpj_contratante": null,
+    "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA REALIZAR A RECUPERAÇÃO ESTRUTURAL E REFORMA DA UNIDADE BÁSICA DE SAÚDE DO JARDIM SANTA RITA NO MUNICÍPIO DE ITAPEVI.",
+    "processo_administrativo": "26/2022",
+    "contrato": "103/2022",
+    "endereco_obra": "RUA ALCIDES COTRIN",
+    "cidade": "Itapevi",
+    "estado": "SP",
+    "data_inicio": "2022-06-27",
+    "data_fim": "2023-05-26",
+    "area_m2": 858.67,
+    "valor_contrato": 1288904.02
+  },
+  "servicos": [
+    {
+      "grupo": "REFORÇO FUNDAÇÃO",
+      "codigo": "01.01.01",
+      "fonte": "CDHU",
+      "descricao": "Locação de container tipo depósito - área mínima de 13,80 m²",
+      "unidade": "UNMES",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "REFORÇO FUNDAÇÃO",
+      "codigo": "01.01.01-A",
+      "fonte": "FDE",
+      "descricao": "LOCAÇÃO MENSAL SANITÁRIO QUÍMICO COM DUAS HIGIENIZAÇÕES NA SEMANA, INCLUSO COLETA DE EFLUENTES",
+      "unidade": "UN",
+      "quantidade": 18.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "REFORÇO FUNDAÇÃO",
+      "codigo": "01.01.02",
+      "fonte": "CDHU",
+      "descricao": "Placa de identificação para obra",
+      "unidade": "M2",
+      "quantidade": 8.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "REFORÇO FUNDAÇÃO",
+      "codigo": "01.01.03",
+      "fonte": "CDHU",
+      "descricao": "Tapume fixo para fechamento de áreas, com portão",
+      "unidade": "M2",
+      "quantidade": 0.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "REFORÇO FUNDAÇÃO",
+      "codigo": "01.02.01",
+      "fonte": "CDHU",
+      "descricao": "Demolição manual de concreto armado",
+      "unidade": "M3",
+      "quantidade": 1.08,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "REFORÇO FUNDAÇÃO",
+      "codigo": "01.02.02",
+      "fonte": "CDHU",
+      "descricao": "Escavação manual em solo de 1ª e 2ª categoria em vala ou cava além de 1,5 m",
+      "unidade": "M3",
+      "quantidade": 16.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "REFORÇO FUNDAÇÃO",
+      "codigo": "01.02.03",
+      "fonte": "CDHU",
+      "descricao": "Reaterro manual apiloado sem controle de compactação",
+      "unidade": "M3",
+      "quantidade": 16.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "REFORÇO FUNDAÇÃO",
+      "codigo": "01.02.04",
+      "fonte": "FDE",
+      "descricao": "ESTACA REACAO PARA 20T CRAVADA ALEM 5,00M DE PROFUNDIDADE",
+      "unidade": "M",
+      "quantidade": 80.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "TRATAMENTO FISSURAS",
+      "codigo": "01.03.01",
+      "fonte": "CDHU",
+      "descricao": "Demarcação de área com disco de corte diamantado",
+      "unidade": "M",
+      "quantidade": 263.4,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "TRATAMENTO FISSURAS",
+      "codigo": "01.03.02",
+      "fonte": "CDHU",
+      "descricao": "Demolição manual de revestimento em massa de parede ou teto",
+      "unidade": "M2",
+      "quantidade": 79.02,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "TRATAMENTO FISSURAS",
+      "codigo": "01.03.03",
+      "fonte": "CDHU",
+      "descricao": "Limpeza de superfície com hidrojateamento",
+      "unidade": "M2",
+      "quantidade": 79.02,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "TRATAMENTO FISSURAS",
+      "codigo": "01.03.04",
+      "fonte": "CDHU",
+      "descricao": "Chapisco fino peneirado",
+      "unidade": "M2",
+      "quantidade": 79.02,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "TRATAMENTO FISSURAS",
+      "codigo": "01.03.05",
+      "fonte": "CDHU",
+      "descricao": "Teļa galvanizada fio 24 BWG, malha hexagonal de 1/2', para armadura de argamassa",
+      "unidade": "M2",
+      "quantidade": 79.02,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "TRATAMENTO FISSURAS",
+      "codigo": "01.03.06",
+      "fonte": "FDE",
+      "descricao": "FINCA PINOS LONGO",
+      "unidade": "UN",
+      "quantidade": 439.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "TRATAMENTO FISSURAS",
+      "codigo": "01.03.07",
+      "fonte": "FDE",
+      "descricao": "PISTOLA PARA FIXACAO DE PINOS",
+      "unidade": "H",
+      "quantidade": 528.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "TRATAMENTO FISSURAS",
+      "codigo": "01.03.08",
+      "fonte": "CDHU",
+      "descricao": "Reparo superficial com argamassa polimérica (tixotrópica), bicomponente",
+      "unidade": "M3",
+      "quantidade": 2.37,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "TRATAMENTO FISSURAS",
+      "codigo": "01.03.09",
+      "fonte": "CDHU",
+      "descricao": "Massa corrida à base de resina acrílica",
+      "unidade": "M2",
+      "quantidade": 79.02,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "GRAUTEAMENTO DAS CONTRA VERGAS",
+      "codigo": "01.04.01",
+      "fonte": "CDHU",
+      "descricao": "Demarcação de área com disco de corte diamantado",
+      "unidade": "M",
+      "quantidade": 56.16,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "GRAUTEAMENTO DAS CONTRA VERGAS",
+      "codigo": "01.04.02",
+      "fonte": "SINAPI",
+      "descricao": "FIXAÇÃO (ENCUNHAMENTO) DE ALVENARIA DE VEDAÇÃO COM ESPUMA DE POLIURETANO EXPANSIVA. AF_03/2016",
+      "unidade": "M",
+      "quantidade": 46.8,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "GRAUTEAMENTO DAS CONTRA VERGAS",
+      "codigo": "01.04.03",
+      "fonte": "SINAPI",
+      "descricao": "FABRICAÇÃO DE FÔRMA PARA VIGAS, EM CHAPA DE MADEIRA COMPENSADA PLASTIFICADA, E = 18 MM. AF_09/2020",
+      "unidade": "M2",
+      "quantidade": 2.52,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "GRAUTEAMENTO DAS CONTRA VERGAS",
+      "codigo": "01.04.04",
+      "fonte": "SIURB INFRA",
+      "descricao": "GRAUTE COM PEDRISCO - FORNECIMENTO, PREPARO E APLICAÇÃO",
+      "unidade": "M3",
+      "quantidade": 1.69,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "GRAUTEAMENTO DAS CONTRA VERGAS",
+      "codigo": "01.04.05",
+      "fonte": "CDHU",
+      "descricao": "Reparo superficial com argamassa polimérica (tixotrópica), bicomponente",
+      "unidade": "M3",
+      "quantidade": 0.05,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "CONSOLIDAÇÃO DO ATERRO",
+      "codigo": "01.05.01",
+      "fonte": "Cotação",
+      "descricao": "Fornecimento de material e mão de obra para execução da injeção de calda de cimento para consolidação de trechos do aterro da UBS Santa Rita II",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "RECOMPOSIÇÃO CIVIL",
+      "codigo": "01.06.01",
+      "fonte": "CDHU",
+      "descricao": "Demolição manual de revestimento cerâmico, incluindo a base",
+      "unidade": "M2",
+      "quantidade": 205.77,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "RECOMPOSIÇÃO CIVIL",
+      "codigo": "01.06.02",
+      "fonte": "CDHU",
+      "descricao": "Demolição manual de concreto armado",
+      "unidade": "M3",
+      "quantidade": 8.36,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "RECOMPOSIÇÃO CIVIL",
+      "codigo": "01.06.03",
+      "fonte": "CDHU",
+      "descricao": "Retirada de piso em material sintético assentado a cola",
+      "unidade": "M2",
+      "quantidade": 160.73,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "RECOMPOSIÇÃO CIVIL",
+      "codigo": "01.06.04",
+      "fonte": "CDHU",
+      "descricao": "Retirada de divisória em placa de madeira ou fibrocimento com montantes metálicos",
+      "unidade": "M2",
+      "quantidade": 42.75,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "RECOMPOSIÇÃO CIVIL",
+      "codigo": "01.06.05",
+      "fonte": "CDHU",
+      "descricao": "Recolocação de divisórias em chapas com montantes metálicos",
+      "unidade": "M2",
+      "quantidade": 42.75,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "RECOMPOSIÇÃO CIVIL",
+      "codigo": "01.06.06",
+      "fonte": "CDHU",
+      "descricao": "Retirada de aparelho sanitário incluindo acessórios",
+      "unidade": "UN",
+      "quantidade": 14.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "RECOMPOSIÇÃO CIVIL",
+      "codigo": "01.06.07",
+      "fonte": "CDHU",
+      "descricao": "Recolocação de aparelhos sanitários, incluindo acessórios",
+      "unidade": "UN",
+      "quantidade": 14.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "RECOMPOSIÇÃO CIVIL",
+      "codigo": "01.06.08",
+      "fonte": "SINAPI",
+      "descricao": "EXECUÇÃO DE PASSEIO (CALÇADA) OU PISO DE CONCRETO COM CONCRETO MOLDADO IN LOCO, FEITO EM OBRA, ACABAMENTO CONVENCIONAL, ESPESSURA 10 CM, ARMADO. AF_07/2016",
+      "unidade": "M2",
+      "quantidade": 180.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "RECOMPOSIÇÃO CIVIL",
+      "codigo": "01.06.08-A",
+      "fonte": "EDIF",
+      "descricao": "TUBO DE PVC RÍGIDO, PONTA E BOLSA (LINHA ESGOTO) - 75MM (3\")",
+      "unidade": "M",
+      "quantidade": 24.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "RECOMPOSIÇÃO CIVIL",
+      "codigo": "01.06.08-B",
+      "fonte": "EDIF",
+      "descricao": "TUBO DE PVC RÍGIDO, PONTA E BOLSA (LINHA ESGOTO) - 100MM (4\")",
+      "unidade": "M",
+      "quantidade": 40.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": "RECOMPOSIÇÃO CIVIL",
+      "codigo": "01.06.09-A",
+      "fonte": "FDE",
+      "descricao": "PISO VINIÍLICO EM MANTA COM TRATAMENTO SUPERFÍCIE COM PUR LARG.DE 2,00M E=2MM INCLUSO RODAPÉ CURVO H= 5CM FORNEC E INSTALADO.",
+      "unidade": "M2",
+      "quantidade": 131.83,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "RECOMPOSIÇÃO CIVIL",
+      "codigo": "01.06.09-B",
+      "fonte": "EDIF",
+      "descricao": "PINTURA PROTETORA COM TINTA A BASE DE EPÓXI (PARA ARGAMASSA IMPERMEÁVEL)",
+      "unidade": "M2",
+      "quantidade": 131.83,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "RECOMPOSIÇÃO CIVIL",
+      "codigo": "01.06.10",
+      "fonte": "CDHU",
+      "descricao": "Regularização de piso com nata de cimento e bianco",
+      "unidade": "M2",
+      "quantidade": 223.28,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "RECOMPOSIÇÃO CIVIL",
+      "codigo": "01.06.11",
+      "fonte": "CDHU",
+      "descricao": "Revestimento em porcelanato esmaltado antiderrapante para área externa e ambiente com alto tráfego, grupo de absorção Bla, assentado com argamassa colante industrializada, rejuntado",
+      "unidade": "M2",
+      "quantidade": 120.27,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "RECOMPOSIÇÃO CIVIL",
+      "codigo": "01.06.11-A",
+      "fonte": "CDHU",
+      "descricao": "Rodapé em porcelanato esmaltado antiderrapante para área externa e ambiente com alto tráfego, grupo de absorção Bla, assentado com argamassa colante industrializada, rejuntado",
+      "unidade": "M",
+      "quantidade": 142.58,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "RECOMPOSIÇÃO CIVIL",
+      "codigo": "01.06.12",
+      "fonte": "CDHU",
+      "descricao": "Revestimento em placa cerâmica esmaltada de 20x20 cm, tipo monocolor, assentado e rejuntado com argamassa industrializada",
+      "unidade": "M2",
+      "quantidade": 114.4,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "RECOMPOSIÇÃO CIVIL",
+      "codigo": "01.06.13",
+      "fonte": "CDHU",
+      "descricao": "Remoção de pintura em massa com lixamento",
+      "unidade": "M2",
+      "quantidade": 752.88,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "RECOMPOSIÇÃO CIVIL",
+      "codigo": "01.06.14",
+      "fonte": "CDHU",
+      "descricao": "Tinta látex antimofo em massa, inclusive preparo",
+      "unidade": "M2",
+      "quantidade": 752.88,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "RECOMPOSIÇÃO CIVIL",
+      "codigo": "01.06.15",
+      "fonte": "FDE",
+      "descricao": "CAÇAMBA DE 4M3 PARA RETIRADA DE ENTULHO",
+      "unidade": "UN",
+      "quantidade": 5.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "RECOMPOSIÇÃO CIVIL",
+      "codigo": "01.06.16",
+      "fonte": "SINAPI",
+      "descricao": "ARGAMASSA TRAÇO 1:3 (EM VOLUME DE CIMENTO E AREIA MÉDIA ÚMIDA) PARA CONTRAPISO, PREPARO MANUAL. AF_08/2019",
+      "unidade": "M3",
+      "quantidade": 14.01,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "REFORMA GERAL",
+      "codigo": "02.01.01",
+      "fonte": "CDHU",
+      "descricao": "Retirada de forro qualquer em placas ou tiras fixadas",
+      "unidade": "M2",
+      "quantidade": 180.42,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "REFORMA GERAL",
+      "codigo": "02.01.02",
+      "fonte": "CDHU",
+      "descricao": "Demolição manual de painéis divisórias, inclusive montantes metálicos",
+      "unidade": "M2",
+      "quantidade": 16.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "REFORMA GERAL",
+      "codigo": "02.01.03",
+      "fonte": "SINAPI",
+      "descricao": "REMOÇÃO DE PORTAS, DE FORMA MANUAL, SEM REAPROVEITAMENTO. AF_12/2017",
+      "unidade": "M2",
+      "quantidade": 16.8,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "REFORMA GERAL",
+      "codigo": "02.01.04",
+      "fonte": "CDHU",
+      "descricao": "Retirada de cerca",
+      "unidade": "M",
+      "quantidade": 36.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "REFORMA GERAL",
+      "codigo": "02.01.05",
+      "fonte": "CDHU",
+      "descricao": "Retirada de torneira ou chuveiro",
+      "unidade": "UN",
+      "quantidade": 24.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "REFORMA GERAL",
+      "codigo": "02.01.06",
+      "fonte": "CDHU",
+      "descricao": "Retirada de aparelho sanitário incluindo acessórios",
+      "unidade": "UN",
+      "quantidade": 15.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "REFORMA GERAL",
+      "codigo": "02.01.07",
+      "fonte": "CDHU",
+      "descricao": "Retirada de esquadria metálica em geral",
+      "unidade": "M2",
+      "quantidade": 10.25,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "REFORMA GERAL",
+      "codigo": "02.01.08",
+      "fonte": "CDHU",
+      "descricao": "Demolição manual de alvenaria de elevação ou elemento vazado, incluindo revestimento",
+      "unidade": "M3",
+      "quantidade": 15.03,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "REFORMA GERAL",
+      "codigo": "02.01.09",
+      "fonte": "CDHU",
+      "descricao": "Remoção de entulho separado de obra com caçamba metálica - terra, alvenaria, concreto, argamassa, madeira, papel, plástico ou metal",
+      "unidade": "M3",
+      "quantidade": 46.78,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "REFORMA GERAL",
+      "codigo": "02.01.10",
+      "fonte": "CDHU",
+      "descricao": "Demolição manual de revestimento cerâmico, incluindo a base",
+      "unidade": "M2",
+      "quantidade": 98.2,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "REFORMA GERAL",
+      "codigo": "02.01.10-A",
+      "fonte": "EDIF",
+      "descricao": "RETIRADA DE BRINQUEDOS",
+      "unidade": "UN",
+      "quantidade": 12.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "REFORMA GERAL",
+      "codigo": "02.01.10-B",
+      "fonte": "FDE",
+      "descricao": "DEMOLICAO DE PISO DE CONCRETO SIMPLES CAPEADO",
+      "unidade": "M3",
+      "quantidade": 0.38,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "REFORMA GERAL",
+      "codigo": "02.01.10-C",
+      "fonte": "FDE",
+      "descricao": "ESCAVACAO MANUAL - PROFUNDIDADE ATE 1.80 M",
+      "unidade": "M3",
+      "quantidade": 1.78,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "REFORMA GERAL",
+      "codigo": "02.01.10-D",
+      "fonte": "FDE",
+      "descricao": "TUBO DE PVC REFORÇADO \"SR\" JUNTA ELÁSTICA DN 100 INCL CONEXÕES",
+      "unidade": "M",
+      "quantidade": 18.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "REFORMA GERAL",
+      "codigo": "02.01.10-E",
+      "fonte": "SINAPI",
+      "descricao": "REATERRO MANUAL APILOADO COM SOQUETE. AF_10/2017",
+      "unidade": "M3",
+      "quantidade": 1.78,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "REFORMA GERAL",
+      "codigo": "02.01.10-F",
+      "fonte": "FDE",
+      "descricao": "PISO DE CONCRETO FCK=25MPA E=5CM",
+      "unidade": "M2",
+      "quantidade": 0.38,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "REFORMA GERAL",
+      "codigo": "02.01.10-G",
+      "fonte": "FDE",
+      "descricao": "CA-21 CANALETA DE AGUAS PLUVIAIS EM CONCRETO (20CM)",
+      "unidade": "M",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": "REFORMA GERAL",
+      "codigo": "02.01.10-H",
+      "fonte": "FDE",
+      "descricao": "TC-06 TAMPA EM GRELHA DE FERRO GALVANIZADO P/CANALETA (20CM)",
+      "unidade": "M",
+      "quantidade": 4.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": "GRADIL E PORTÃO TIPO PARQUE",
+      "codigo": "02.02.01",
+      "fonte": "SIURB EDIF",
+      "descricao": "FP.02 - GRADIL DE FERRO PERFILADO, TIPO PARQUE COM MURETA - GPM-1/DEPAVE",
+      "unidade": "M",
+      "quantidade": 87.36,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "GRADIL E PORTÃO TIPO PARQUE",
+      "codigo": "02.02.02",
+      "fonte": "SIURB EDIF",
+      "descricao": "PP.39/PP.40 - PORTÃO DE FERRO PERFILADO TIPO PARQUE (GP.5/GPM1) 3,0M, 1 OU 2 FOLHAS",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "PAREDES, DIVISÓRIAS E FORRO",
+      "codigo": "02.03.01-A",
+      "fonte": "FDE",
+      "descricao": "FORRO DE GESSO ACARTONADO INCL ESTRUTURA",
+      "unidade": "M2",
+      "quantidade": 180.42,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "PAREDES, DIVISÓRIAS E FORRO",
+      "codigo": "02.03.01-B",
+      "fonte": "EDIF",
+      "descricao": "ANDAIMES METÁLICOS - FORNECIMENTO",
+      "unidade": "M3xMÊS",
+      "quantidade": 67.5,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "PAREDES, DIVISÓRIAS E FORRO",
+      "codigo": "02.03.01-C",
+      "fonte": "EDIF",
+      "descricao": "ANDAIMES METÁLICOS - MONTAGEM E DESMONTAGEM",
+      "unidade": "M3",
+      "quantidade": 67.5,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "PAREDES, DIVISÓRIAS E FORRO",
+      "codigo": "02.03.01-D",
+      "fonte": "FDE",
+      "descricao": "MASSA NIVELADORA PARA INTERIOR (AREAS MOLHADAS)",
+      "unidade": "M2",
+      "quantidade": 180.42,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "PAREDES, DIVISÓRIAS E FORRO",
+      "codigo": "02.03.01-E",
+      "fonte": "FDE",
+      "descricao": "TINTA LATEX STANDARD",
+      "unidade": "M2",
+      "quantidade": 354.42,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "PAREDES, DIVISÓRIAS E FORRO",
+      "codigo": "02.03.02",
+      "fonte": "SINAPI",
+      "descricao": "PAREDE COM PLACAS DE GESSO ACARTONADO (DRYWALL), PARA USO INTERNO, COM DUAS FACES SIMPLES E ESTRUTURA METÁLICA COM GUIAS SIMPLES, SEM VÃOS. AF_06/2017_P",
+      "unidade": "M2",
+      "quantidade": 15.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "PAREDES, DIVISÓRIAS E FORRO",
+      "codigo": "02.03.03",
+      "fonte": "SINAPI",
+      "descricao": "PAREDE COM PLACAS DE GESSO ACARTONADO (DRYWALL), PARA USO INTERNO, COM DUAS FACES SIMPLES E ESTRUTURA METÁLICA COM GUIAS SIMPLES, COM VÃOS AF_06/2017_P",
+      "unidade": "M2",
+      "quantidade": 7.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "PAREDES, DIVISÓRIAS E FORRO",
+      "codigo": "02.03.04",
+      "fonte": "SINAPI",
+      "descricao": "PAREDE COM PLACAS DE GESSO ACARTONADO (DRYWALL), PARA USO INTERNO, COM DUAS FACES DUPLAS E ESTRUTURA METÁLICA COM GUIAS SIMPLES, COM VÃOS. AF_06/2017_P",
+      "unidade": "M2",
+      "quantidade": 4.5,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "PAREDES, DIVISÓRIAS E FORRO",
+      "codigo": "02.03.05",
+      "fonte": "CDHU",
+      "descricao": "Alvenaria de bloco cerâmico de vedação, uso revestido, de 14 cm",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "REVESTIMENTOS DE PAREDES E PISO",
+      "codigo": "02.04.01",
+      "fonte": "CDHU",
+      "descricao": "Massa corrida a base de PVA",
+      "unidade": "M2",
+      "quantidade": 64.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "REVESTIMENTOS DE PAREDES E PISO",
+      "codigo": "02.04.02",
+      "fonte": "CDHU",
+      "descricao": "Revestimento em porcelanato esmaltado antiderrapante para área externa e ambiente com alto tráfego, grupo de absorção Bla, assentado com argamassa colante industrializada, rejuntado",
+      "unidade": "M2",
+      "quantidade": 98.2,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "REVESTIMENTOS DE PAREDES E PISO",
+      "codigo": "02.04.03",
+      "fonte": "CDHU",
+      "descricao": "Rodapé em porcelanato esmaltado antiderrapante para área externa e ambiente com alto tráfego, grupo de absorção Bla, assentado com argamassa colante industrializada, rejuntado",
+      "unidade": "M",
+      "quantidade": 67.46,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "REVESTIMENTOS DE PAREDES E PISO",
+      "codigo": "02.04.04",
+      "fonte": "CDHU",
+      "descricao": "Chapisco",
+      "unidade": "M2",
+      "quantidade": 4.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "REVESTIMENTOS DE PAREDES E PISO",
+      "codigo": "02.04.05",
+      "fonte": "CDHU",
+      "descricao": "Emboço comum",
+      "unidade": "M2",
+      "quantidade": 4.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "REVESTIMENTOS DE PAREDES E PISO",
+      "codigo": "02.04.05-A",
+      "fonte": "FDE",
+      "descricao": "SO-23 SOLEIRA DE GRANITO EM NIVEL 1 PEÇA (L=19 A 22CM)",
+      "unidade": "M",
+      "quantidade": 10.1,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "REVESTIMENTOS DE PAREDES E PISO",
+      "codigo": "02.04.05-B",
+      "fonte": "FDE",
+      "descricao": "PR-08 PRATELEIRA DE GRANITO",
+      "unidade": "M",
+      "quantidade": 2.75,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "ESQUADRIAS",
+      "codigo": "02.05.01",
+      "fonte": "CDHU",
+      "descricao": "Porta lisa com batente madeira - 90 x 210 cm",
+      "unidade": "UN",
+      "quantidade": 5.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "ESQUADRIAS",
+      "codigo": "02.05.02",
+      "fonte": "CDHU",
+      "descricao": "Porta/portão de abrir em chapa, sob medida",
+      "unidade": "M2",
+      "quantidade": 3.95,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "ESQUADRIAS",
+      "codigo": "02.05.03",
+      "fonte": "FDE",
+      "descricao": "PM-83 PORTA DE CORRER ACESSIVEL SARRAFEADA MACIÇA G1-C1 P/PINTURA L=101CM",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "ESQUADRIAS",
+      "codigo": "02.05.04",
+      "fonte": "CDHU",
+      "descricao": "Caixilho em alumínio de correr, sob medida",
+      "unidade": "M2",
+      "quantidade": 0.45,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "ESQUADRIAS",
+      "codigo": "02.05.05",
+      "fonte": "CDHU",
+      "descricao": "Vidro temperado incolor de 6 mm",
+      "unidade": "M2",
+      "quantidade": 3.42,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "ESQUADRIAS",
+      "codigo": "02.05.05-A",
+      "fonte": "FDE",
+      "descricao": "PF-15 PORTA EM CHAPA DE FERRO (L=82 CM)",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "COBERTURA",
+      "codigo": "02.06.01",
+      "fonte": "SINAPI",
+      "descricao": "RUFO EM CHAPA DE AÇO GALVANIZADO NÚMERO 24, CORTE DE 25 CM, INCLUSO TRANSPORTE VERTICAL. AF_07/2019",
+      "unidade": "M",
+      "quantidade": 60.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "COBERTURA",
+      "codigo": "02.06.02",
+      "fonte": "CDHU",
+      "descricao": "Manta termoacústica em fibra cerâmica aluminizada, espessura de 38 mm",
+      "unidade": "M2",
+      "quantidade": 180.42,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "COBERTURA",
+      "codigo": "02.06.03",
+      "fonte": "EDIF",
+      "descricao": "REVISÃO, ESCOVAÇÃO, INCLUSIVE TOMADA DE GOTEIRAS DE TELHADOS EM GERAL, EXCLUSIVE PARA TELHAS DE BARRO COZIDO OU VIDRO",
+      "unidade": "M2",
+      "quantidade": 400.96,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "COBERTURA",
+      "codigo": "02.06.04",
+      "fonte": "FDE",
+      "descricao": "RETIRADA DE TELHAS OND DE FIBRO-CIM/PLAST OU ALUM/PLANA PRE FAB",
+      "unidade": "M2",
+      "quantidade": 180.42,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "COBERTURA",
+      "codigo": "02.06.05",
+      "fonte": "FDE",
+      "descricao": "RECOLOCAÇÃO DE TELHA DE FIBROCIMENTO, PLÁSTICO OU ALUMÍNIO",
+      "unidade": "M2",
+      "quantidade": 100.42,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "COBERTURA",
+      "codigo": "02.06.05-A",
+      "fonte": "FDE",
+      "descricao": "TELHA TECNOLOGIA CRFS ONDULADA E=8MM",
+      "unidade": "M2",
+      "quantidade": 130.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "PINTURA INTERNA E EXTERNA",
+      "codigo": "02.07.01",
+      "fonte": "CDHU",
+      "descricao": "Remoção de pintura em superfícies de madeira e/ou metálicas com lixamento",
+      "unidade": "M2",
+      "quantidade": 48.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "PINTURA INTERNA E EXTERNA",
+      "codigo": "02.07.02",
+      "fonte": "SINAPI",
+      "descricao": "PINTURA COM TINTA ALQUÍDICA DE FUNDO (TIPO ZARCÃO) APLICADA A ROLO OU PINCEL SOBRE SUPERFÍCIES METÁLICAS (EXCETO PERFIL) EXECUTADO EM OBRA (POR DEMÃO). AF_01/2020",
+      "unidade": "M2",
+      "quantidade": 264.8,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "PINTURA INTERNA E EXTERNA",
+      "codigo": "02.07.03",
+      "fonte": "SINAPI",
+      "descricao": "PINTURA COM TINTA ALQUÍDICA DE ACABAMENTO (ESMALTE SINTÉTICO FOSCO) APLICADA A ROLO OU PINCEL SOBRE SUPERFÍCIES METÁLICAS (EXCETO PERFIL) EXECUTADO EM OBRA (02 DEMÃOS). AF_01/2020",
+      "unidade": "M2",
+      "quantidade": 264.8,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "PINTURA INTERNA E EXTERNA",
+      "codigo": "02.07.04",
+      "fonte": "CDHU",
+      "descricao": "Remoção de pintura em massa com lixamento",
+      "unidade": "M2",
+      "quantidade": 1302.66,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "PINTURA INTERNA E EXTERNA",
+      "codigo": "02.07.05",
+      "fonte": "CDHU",
+      "descricao": "Tinta látex antimofo em massa, inclusive preparo",
+      "unidade": "M2",
+      "quantidade": 1302.66,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "PINTURA INTERNA E EXTERNA",
+      "codigo": "02.07.06",
+      "fonte": "SIURB EDIF",
+      "descricao": "ΤΙΝΤΑ ΕΡÓΧΙ - REBOCO COM MASSA BASE EPÓXI",
+      "unidade": "M2",
+      "quantidade": 39.7,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "LOUÇAS E METAIS",
+      "codigo": "02.08.01",
+      "fonte": "CDHU",
+      "descricao": "Torneira volante tipo alavanca",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "LOUÇAS E METAIS",
+      "codigo": "02.08.02",
+      "fonte": "CDHU",
+      "descricao": "Torneira de mesa para lavatório, acionamento hidromecânico com alavanca, registro integrado regulador de vazão, em latão cromado, DN= 1/2'",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "LOUÇAS E METAIS",
+      "codigo": "02.08.02-A",
+      "fonte": "FDE",
+      "descricao": "TORNEIRA DE FECHAMENTO AUTOMATICO DE MESA",
+      "unidade": "UN",
+      "quantidade": 18.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "LOUÇAS E METAIS",
+      "codigo": "02.08.02-B",
+      "fonte": "FDE",
+      "descricao": "TORNEIRA MEC/CER 1/4 VOLTA TIPO MESA CROMADO 1/2",
+      "unidade": "UN",
+      "quantidade": 6.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "LOUÇAS E METAIS",
+      "codigo": "02.08.03",
+      "fonte": "FDE",
+      "descricao": "BR-03 CONJUNTO LAVATORIO E BACIA ACESSIVEIS",
+      "unidade": "CJ",
+      "quantidade": 2.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "LOUÇAS E METAIS",
+      "codigo": "02.08.04",
+      "fonte": "CDHU",
+      "descricao": "Tampa de plástico para bacia sanitária",
+      "unidade": "UN",
+      "quantidade": 8.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "LOUÇAS E METAIS",
+      "codigo": "02.08.05",
+      "fonte": "CDHU",
+      "descricao": "Lavatório de louça pequeno com coluna suspensa - linha especial",
+      "unidade": "UN",
+      "quantidade": 10.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "LOUÇAS E METAIS",
+      "codigo": "02.08.05-A",
+      "fonte": "SINAPI",
+      "descricao": "LAVATÓRIO LOUÇA BRANCA COM COLUNA, 45 X 55CM OU EQUIVALENTE, PADRÃO MÉDIO - FORNECIMENTO E INSTALAÇÃO. AF_01/2020",
+      "unidade": "UN",
+      "quantidade": 5.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "LOUÇAS E METAIS",
+      "codigo": "02.08.06",
+      "fonte": "CDHU",
+      "descricao": "Barra de apoio reta, para pessoas com mobilidade reduzida, em tubo de aço inoxidável de 1 1/4′ x 400 mm",
+      "unidade": "UN",
+      "quantidade": 6.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "LOUÇAS E METAIS",
+      "codigo": "02.08.06-A",
+      "fonte": "FDE",
+      "descricao": "GRELHA METALICA CROMADA DIAM 15 CM",
+      "unidade": "UN",
+      "quantidade": 10.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "LOUÇAS E METAIS",
+      "codigo": "02.08.07",
+      "fonte": "CDHU",
+      "descricao": "Tanque de louça com coluna de 18 a 20 litros",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "LOUÇAS E METAIS",
+      "codigo": "02.08.07-A",
+      "fonte": "FDE",
+      "descricao": "CHUVEIRO ELETRICO COM RESISTENCIA BLINDADA",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "LOUÇAS E METAIS",
+      "codigo": "02.08.08",
+      "fonte": "FDE",
+      "descricao": "TAMPO ACO INOX (304) C/ CUBA SIMPLES - CH.22",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": "02.09.01",
+      "fonte": "CDHU",
+      "descricao": "Abertura para vão de luminária em forro de PVC modular",
+      "unidade": "UN",
+      "quantidade": 23.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": "02.09.01-A",
+      "fonte": "EDIF",
+      "descricao": "LÂMPADA DE LED TUBULAR T8 - 18/20W",
+      "unidade": "UN",
+      "quantidade": 86.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": "02.09.01-B",
+      "fonte": "EDIF",
+      "descricao": "PONTO COM INTERRUPTOR SIMPLES - 1 TECLA, EM CAIXA 4\"X2\"",
+      "unidade": "UN",
+      "quantidade": 50.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": "02.09.01-C",
+      "fonte": "EDIF",
+      "descricao": "PONTO COM TOMADA SIMPLES DE EMBUTIR - 110/220V CAIXA 4\"X2\"",
+      "unidade": "UN",
+      "quantidade": 80.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": "02.09.01-D",
+      "fonte": "FDE",
+      "descricao": "FIO DE 4 MM2 - 750 V DE ISOLACAO",
+      "unidade": "UN",
+      "quantidade": 386.85,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": "02.09.01-E",
+      "fonte": "FDE",
+      "descricao": "FIO DE 6 MM2 - 750 V DE ISOLACAO",
+      "unidade": "UN",
+      "quantidade": 112.5,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": "02.09.02",
+      "fonte": "CDHU",
+      "descricao": "Luminária retangular de embutir tipo calha fechada, com difusor plano, para 2 lâmpadas fluorescentes tubulares de 28 W/32 W/36 W/54 W",
+      "unidade": "UN",
+      "quantidade": 23.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": "02.09.03",
+      "fonte": "CDHU",
+      "descricao": "Luminária retangular de sobrepor tipo calha fechada, com difusor translúcido, para 2 lâmpadas fluorescentes de 28 W/32 W/36 W/54 W",
+      "unidade": "UN",
+      "quantidade": 10.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": "02.09.03-A",
+      "fonte": "FDE",
+      "descricao": "IL-83 ILUMINAÇÃO AUTONOMA DE EMERGÊNCIA - LED",
+      "unidade": "UN",
+      "quantidade": 6.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": "02.09.03-B",
+      "fonte": "FDE",
+      "descricao": "IL-96 LUMINÁRIA LED QUADRADA DE SOBREPOR DIMERIZÁVEL COM DIFUSOR TRANSLÚCIDO <= 40W",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": "02.09.03-C",
+      "fonte": "FDE",
+      "descricao": "IL-103 ARANDELA PARA CIRCULAÇÕES COM LÂMPADA BULBO LED <=13W.",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "COMUNICAÇÃO VISUAL",
+      "codigo": "02.10.01",
+      "fonte": "CDHU",
+      "descricao": "Placa de identificação em PVC com texto em vinil",
+      "unidade": "M2",
+      "quantidade": 1.7,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "02.11.01",
+      "fonte": "CDHU",
+      "descricao": "Faixa em vinil para proteção de paredes, com amortecimento à alto impacto, altura de 400 mm",
+      "unidade": "M",
+      "quantidade": 60.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "02.11.02",
+      "fonte": "CDHU",
+      "descricao": "Sistema de alarme PNE com indicador audiovisual, sistema sem fio (Wireless), para pessoas com mobilidade reduzida ou cadeirante",
+      "unidade": "CJ",
+      "quantidade": 2.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "02.11.03",
+      "fonte": "CDHU",
+      "descricao": "Limpeza final da obra",
+      "unidade": "M2",
+      "quantidade": 205.17,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 12
+    }
+  ],
+  "apelido": "ITAPEVI - UBS SANTA RITA"
+}

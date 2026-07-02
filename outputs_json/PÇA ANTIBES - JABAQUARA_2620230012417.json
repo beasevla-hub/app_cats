@@ -1,0 +1,165 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620230012417",
+    "numero_art": "28027230231268973",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA JABAQUARA",
+    "cnpj_contratante": "05.659.015/0001-80",
+    "objeto": "REVITALIZAÇÃO DA PRAÇA ANTIBES",
+    "processo_administrativo": "6042.2022/0001724-6",
+    "contrato": "36/SUB-JA/2022",
+    "endereco_obra": "RUA ANTIBES PRAÇA ANTIBES",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2022-10-31",
+    "data_fim": "2022-11-15",
+    "area_m2": 319.0,
+    "valor_contrato": 51205.0
+  },
+  "servicos": [
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "01-01-07",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 3.77,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "01-05-40",
+      "fonte": null,
+      "descricao": "TELA PARA PROTEÇÃO DE OBRAS, MALHA 2 MM",
+      "unidade": "M2",
+      "quantidade": 54.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "17-30-02",
+      "fonte": null,
+      "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": "01-01-08",
+      "fonte": null,
+      "descricao": "LIMPEZA MANUAL GERAL INCLUSIVE REMOÇÃO DE COBERTURA VEGETAL TRONCO ATÉ 10CM - SEM TRANSPORTE",
+      "unidade": "M2",
+      "quantidade": 29.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": "18-03-05",
+      "fonte": null,
+      "descricao": "GRAMA ESMERALDA",
+      "unidade": "M2",
+      "quantidade": 319.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": "18-03-21",
+      "fonte": null,
+      "descricao": "LÍRIO (HEMEROCALLIS FLAVA)",
+      "unidade": "DÚZIA",
+      "quantidade": 10.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": "18-03-29",
+      "fonte": null,
+      "descricao": "VEDELIA (WEDELIA PALUDARIS)",
+      "unidade": "DÚZIA",
+      "quantidade": 10.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": "18-03-67",
+      "fonte": null,
+      "descricao": "AZALÉA (RHODODENDRON INDICUM)",
+      "unidade": "UN",
+      "quantidade": 50.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": "15-01-15",
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 251.3,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": "15-03-10",
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO ESQUADRIAS E PEÇAS DE SERRALHERIA",
+      "unidade": "M2",
+      "quantidade": 273.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": "15-50-03",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE PINTURA EM ALVENARIA E CONCRETO - LIXA",
+      "unidade": "M2",
+      "quantidade": 251.3,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": "15-50-20",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE PINTURA EM ESQUADRIAS E PEÇAS DE SERRALHERIA - LIXA",
+      "unidade": "M2",
+      "quantidade": 273.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "20-03-03",
+      "fonte": null,
+      "descricao": "ENGENHEIRO/ARQUITETO JUNIOR",
+      "unidade": "H",
+      "quantidade": 8.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "20-03-61",
+      "fonte": null,
+      "descricao": "PROJETO EXECUTIVO (PRANCHA A1)",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    }
+  ],
+  "apelido": "PÇA ANTIBES - JABAQUARA"
+}

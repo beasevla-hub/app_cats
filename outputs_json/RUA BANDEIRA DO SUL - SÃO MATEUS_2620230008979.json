@@ -1,0 +1,295 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620230008979",
+    "numero_art": "28027230230751538",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA SÃO MATEUS",
+    "cnpj_contratante": "05.639.268/0001-91",
+    "objeto": "Execução de reforma de edificação, em materiais mistos.",
+    "processo_administrativo": "2015.0.265.571-0",
+    "contrato": "074/SPSM/2015",
+    "endereco_obra": "RUA BANDEIRA DO SUL COM RUA HENRY DUMONT",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2015-12-29",
+    "data_fim": "2016-01-26",
+    "area_m2": 600.0,
+    "valor_contrato": 170075.03
+  },
+  "servicos": [
+    {
+      "grupo": null,
+      "codigo": "01-01-07",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 50.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "01-01-08",
+      "fonte": null,
+      "descricao": "LIMPEZA MANUAL GERAL INCLUSIVE REMOÇÃO DE COBERTURA VEGETAL - TRONCO ATÉ 10CM - SEM TRANSPORTE",
+      "unidade": "M2",
+      "quantidade": 600.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "02-02-01",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL COM PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 41.5,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "02-02-10",
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 25.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "02-02-15",
+      "fonte": null,
+      "descricao": "LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 5.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "02-03-01",
+      "fonte": null,
+      "descricao": "FORMA COMUM DE TÁBUAS DE PINUS",
+      "unidade": "M2",
+      "quantidade": 30.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "02-04-07",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-60",
+      "unidade": "KG",
+      "quantidade": 750.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "02-04-09",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-60 - TELA",
+      "unidade": "KG",
+      "quantidade": 500.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "13-02-02",
+      "fonte": null,
+      "descricao": "CIMENTADO COMUM, DESEMPENADO E ALISADO ESPESSURA 20MM",
+      "unidade": "M2",
+      "quantidade": 120.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "11-03-10",
+      "fonte": null,
+      "descricao": "EMBOÇO EXTERNO - ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 200.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "15-01-10",
+      "fonte": null,
+      "descricao": "TINTA PVA (LATEX) - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 200.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "17-02-01",
+      "fonte": null,
+      "descricao": "CONCRETO SIMPLES DESEMPENADO E RIPADO. 200KG CIM/M3",
+      "unidade": "M3",
+      "quantidade": 10.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": "04-01-98",
+      "fonte": null,
+      "descricao": "VERGAS, CINTAS E PILARETES DE CONCRETO",
+      "unidade": "M3",
+      "quantidade": 10.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": null,
+      "codigo": "13-03-65",
+      "fonte": null,
+      "descricao": "DEGRAUS DE ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M",
+      "quantidade": 250.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "17-05-25",
+      "fonte": null,
+      "descricao": "DP.05-CORRIMÃO EM TUBO GALVANIZADO COM GUARDA CORPO",
+      "unidade": "M",
+      "quantidade": 38.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "01-05-01",
+      "fonte": null,
+      "descricao": "TAPUME CHAPA COMPENSADA 6MM",
+      "unidade": "M2",
+      "quantidade": 100.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "11-03-01",
+      "fonte": null,
+      "descricao": "CHAPISCO COMUM - ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 48.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "11-03-08",
+      "fonte": null,
+      "descricao": "EMBOÇO EXTERNO - ARGAMASSA MISTA DE CIMENTO, CAL E AREIA 1:4/12",
+      "unidade": "M2",
+      "quantidade": 48.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "17-01-64",
+      "fonte": null,
+      "descricao": "FV.15/16-MURO DE FECHO EM BLOCOS E ESTRUTURA DE CONCRETO, FUNDAÇÃO COM BROCAS",
+      "unidade": "M",
+      "quantidade": 4.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "04-01-35",
+      "fonte": null,
+      "descricao": "BLOCOS VAZADOS DE CONCRETO ESTRUTURAL - 19CM - 8MPA",
+      "unidade": "M2",
+      "quantidade": 48.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "15-01-15",
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 200.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "17-01-80",
+      "fonte": null,
+      "descricao": "FV.12/13-MURETA DE ARRIMO EM BLOCOS DE CONCRETO, H=1,00 M",
+      "unidade": "M",
+      "quantidade": 20.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "20-03-18",
+      "fonte": null,
+      "descricao": "DESENVOLVIMENTO DE PRANCHA TÉCNICA EM FORMATO AO",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "02-01-03",
+      "fonte": null,
+      "descricao": "BROCA DE CONCRETO - DIAMETRO DE 30CM",
+      "unidade": "M",
+      "quantidade": 120.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "18-80-11",
+      "fonte": null,
+      "descricao": "TERRA PREPARADA PARA PLANTIO",
+      "unidade": "M3",
+      "quantidade": 60.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": "18-03-05",
+      "fonte": null,
+      "descricao": "GRAMA ESMERALDA",
+      "unidade": "M2",
+      "quantidade": 800.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": null,
+      "codigo": "17-04-01",
+      "fonte": null,
+      "descricao": "LIMPEZA GERAL DA OBRA",
+      "unidade": "M2",
+      "quantidade": 600.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    }
+  ],
+  "apelido": "RUA BANDEIRA DO SUL - SÃO MATEUS"
+}

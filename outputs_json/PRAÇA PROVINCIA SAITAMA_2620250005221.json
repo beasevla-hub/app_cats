@@ -1,0 +1,385 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620250005221",
+    "numero_art": "28027230232024250",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA PINHEIROS",
+    "cnpj_contratante": "05.649.898/0001-47",
+    "objeto": "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DE OBRA DE REVITALIZAÇÃO DA PRAÇA PROVÍNCIA DE SAITAMA - ALTO DO PINHEIROS - SÃO PAULO - SP.",
+    "processo_administrativo": "6050.2023/0020464-5",
+    "contrato": "029/SUB-PI/2023",
+    "endereco_obra": "PRAÇA PROVÍNCIA DE SAITAMA",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2023-12-14",
+    "data_fim": "2024-02-12",
+    "area_m2": 562.0,
+    "valor_contrato": 198024.52
+  },
+  "servicos": [
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CARGA MANUAL E REMOÇÃO DE ENTULHO, INCLUSIVE TRANSPORTE ATE I KM",
+      "unidade": "M3",
+      "quantidade": 74.4,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "LIMPEZA MANUAL GERAL INCLUSIVE REMOÇÃO DE COBERTURA VEGETAL-TRONCO ATÉ 10CM - SEM TRANSPORTE",
+      "unidade": "M2",
+      "quantidade": 3000.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TRANSPORTE DE ENTULHO POR CAMINHÃO BASCULANTE, A PARTIR DE IKM",
+      "unidade": "M3XKM",
+      "quantidade": 2574.24,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TELA PARA PROTEÇÃO DE OBRAS, MALHA 2 MM",
+      "unidade": "M2",
+      "quantidade": 295.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
+      "unidade": "M2",
+      "quantidade": 3.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "LOCAÇÃO DE CONTAINER TIPO SANITÁRIO COM 2 VASOS SANITÁRIOS. 2 LAVATÓRIOS, 2 MICTÓRIOS E 4 PONTOS PARA CHUVEIRO - ÁREA MINIMA DE 13,80 M²",
+      "unidade": "UNMES",
+      "quantidade": 2.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "LOCAÇÃO DE CONTAINER TIPO DEPÓSITO - ÁREA MÍNIMA DE 13,80 M²",
+      "unidade": "UNMES",
+      "quantidade": 2.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "CRIAÇÃO DE NOVO PASSEIO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CORTE E ATERRO COMPACTADO",
+      "unidade": "M3",
+      "quantidade": 8.77,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "CRIAÇÃO DE NOVO PASSEIO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL, PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 2.92,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "CRIAÇÃO DE NOVO PASSEIO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PISO DE CONCRETO INTERTRAVADO, ESPESSURA 10CM",
+      "unidade": "M2",
+      "quantidade": 29.24,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "CRIAÇÃO DE NOVO PASSEIO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ORLA DE SEPARAÇÃO EM CONCRETO NC.26",
+      "unidade": "M",
+      "quantidade": 46.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "FECHAMENTOS EM CANALETAS DE DRENAGEM",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ATERRO, INCLUSIVE COMPACTAÇÃO",
+      "unidade": "M3",
+      "quantidade": 10.35,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "FECHAMENTOS EM CANALETAS DE DRENAGEM",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 13.05,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "FECHAMENTOS EM CANALETAS DE DRENAGEM",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CAIXA DE LIGAÇÃO OU INSPEÇÃO - TAMPA DE CONCRETO",
+      "unidade": "M2",
+      "quantidade": 0.36,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "FECHAMENTOS EM CANALETAS DE DRENAGEM",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "MANTA GEOTEXTIL",
+      "unidade": "M2",
+      "quantidade": 174.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "FECHAMENTOS EM CANALETAS DE DRENAGEM",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "REATERRO DE VALAS, INCLUSIVE COMPACTAÇÃO",
+      "unidade": "M3",
+      "quantidade": 4.35,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "FECHAMENTOS EM CANALETAS DE DRENAGEM",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PISO DE CONCRETO INTERTRAVADO, ESPESSURA 10CM",
+      "unidade": "M2",
+      "quantidade": 43.5,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "FECHAMENTOS EM CANALETAS DE DRENAGEM",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MANUAL DE CONCRETO ARMADO",
+      "unidade": "M3",
+      "quantidade": 5.78,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "BANCOS/MURETAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "BROCA DE CONCRETO - DIAMETRO DE 20CM",
+      "unidade": "M",
+      "quantidade": 15.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "BANCOS/MURETAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "BLOCOS VAZADOS DE CONCRETO ESTRUTURAL APARENTE - 19CM - ATÉ 6MPA",
+      "unidade": "M2",
+      "quantidade": 20.4,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "BANCOS/MURETAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-60 PARA BLOCOS VAZADOS DE CONCRETO ESTRUTURAL",
+      "unidade": "KG",
+      "quantidade": 50.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "BANCOS/MURETAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CONCRETO \"GROUT\"",
+      "unidade": "M3",
+      "quantidade": 0.68,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "BANCOS/MURETAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "VERGAS, CINTAS E PILARETES DE CONCRETO",
+      "unidade": "M3",
+      "quantidade": 2.72,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "BANCOS/MURETAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE ARGAMASSA DE REGULARIZAÇÃO - ESPESSURA MÉDIA DE 30MM",
+      "unidade": "M2",
+      "quantidade": 105.92,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "BANCOS/MURETAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ARGAMASSA DE ALTA RESISTÊNCIA, TIPO LEVE - ESPESSURA 8MM",
+      "unidade": "M2",
+      "quantidade": 105.92,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "REGULARIZAÇÃO DE PASSEIO INTERNO (PONTUAL)",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "FORNECIMENTO DE TERRA, INCLUSIVE CORTE, CARGA, DESCARGA E TRANSPORTE ATÉ IKM",
+      "unidade": "M3",
+      "quantidade": 93.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "REGULARIZAÇÃO DE PASSEIO INTERNO (PONTUAL)",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ATERRO, INCLUSIVE COMPACTAÇÃO",
+      "unidade": "M3",
+      "quantidade": 93.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "REGULARIZAÇÃO DE PASSEIO INTERNO (PONTUAL)",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TRANSPORTE DE TERRA POR CAMINHÃO BASCULANTE, A PARTIR DE IKM",
+      "unidade": "M3XKM",
+      "quantidade": 2927.16,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "REGULARIZAÇÃO DE PASSEIO INTERNO (PONTUAL)",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PISO DE CONCRETO INTERTRAVADO, ESPESSURA 10CM",
+      "unidade": "M2",
+      "quantidade": 93.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "REGULARIZAÇÃO DE PASSEIO INTERNO (PONTUAL)",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "RETIRADA DE PISO INTERTRAVADO",
+      "unidade": "M2",
+      "quantidade": 465.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "REGULARIZAÇÃO DE PASSEIO INTERNO (PONTUAL)",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "RECOLOCAÇÃO DE PISO INTERTRAVADO COM AREIA RECICLADA",
+      "unidade": "M2",
+      "quantidade": 465.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "REGULARIZAÇÃO DE PASSEIO INTERNO (PONTUAL)",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "FORNECIMENTO E APLICAÇÃO DE AREIA FINA",
+      "unidade": "M3",
+      "quantidade": 23.25,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "PARQUE INFANTIL",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 24.23,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "ADMINISTRAÇÃO LOCAL",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ENCARREGADO",
+      "unidade": "H",
+      "quantidade": 180.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "ADMINISTRAÇÃO LOCAL",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ENGENHEIRO DA OBRA",
+      "unidade": "H",
+      "quantidade": 60.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "PROJETOS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PROJETO BÁSICO (PRANCHA A1)",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 18
+    }
+  ],
+  "apelido": "PRAÇA PROVINCIA SAITAMA"
+}

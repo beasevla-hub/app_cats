@@ -1,0 +1,395 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620160003598",
+    "numero_art": "92221220160368391",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA SÃO MATEUS",
+    "cnpj_contratante": "05.639.268/0001-91",
+    "objeto": "RECONSTITUIÇÃO DO CERCAMENTO DA ÁREA DO RESERVATÓRIO DE PISCINÕES, SITUADA NO RESERVATÓRIO ARICANDUVA II E III.",
+    "processo_administrativo": null,
+    "contrato": "11/SM-SM/2010",
+    "endereco_obra": "AVENIDA RAGUEB CHOHFI",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2010-11-22",
+    "data_fim": "2010-12-31",
+    "area_m2": 5234.4,
+    "valor_contrato": 463668.51
+  },
+  "servicos": [
+    {
+      "grupo": "ARICANDUVA II",
+      "codigo": "01.01.06",
+      "fonte": null,
+      "descricao": "CARGA MANUAL E REMOÇÃO DE ENTULHO, INCLUSIVE TRANSPORTE ATÉ 1 KM",
+      "unidade": "M3",
+      "quantidade": 25.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "ARICANDUVA II",
+      "codigo": "01.01.08",
+      "fonte": null,
+      "descricao": "LIMPEZA MANUAL GERAL INCLUSIVE REMOÇÃO DE COBERTURA VEGETAL - TRONCO ATÉ 10CM - SEM TRANSPORTE",
+      "unidade": "M2",
+      "quantidade": 1790.4,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "ARICANDUVA II",
+      "codigo": "01.01.10",
+      "fonte": null,
+      "descricao": "TRANSPORTE DE ENTULHO POR CAMINHÃO BASCULANTE, A PARTIR DE 1KM",
+      "unidade": "M3XKM",
+      "quantidade": 750.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "ARICANDUVA II",
+      "codigo": "15.03.10",
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO - ESQUADRIAS E PEÇAS DE SERRALHERIA",
+      "unidade": "M2",
+      "quantidade": 241.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "ARICANDUVA II",
+      "codigo": "17.01.38",
+      "fonte": null,
+      "descricao": "PP.42 - PORTÃO DE FERRO PERFILADO, TIPO PARQUE (GP-5/GPM-1) 6,00M, 2 FOLHAS",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "ARICANDUVA II",
+      "codigo": "17.01.59",
+      "fonte": null,
+      "descricao": "FC.01 MURO DE FECHO, ELEMENTOS DE CONCRETO MF.D3/EDIF - FUNDAÇÃO COM BROCAS",
+      "unidade": "M",
+      "quantidade": 155.9,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "ARICANDUVA II",
+      "codigo": "17.80.19",
+      "fonte": null,
+      "descricao": "FERRO TRABALHADO PARA GRADIS",
+      "unidade": "KG",
+      "quantidade": 650.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "ARICANDUVA II",
+      "codigo": "20.01.01",
+      "fonte": null,
+      "descricao": "LEVANTAMENTO PLANIMÉTRICO DE PERÍMETRO - ATÉ 1.000M",
+      "unidade": "GL",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "ARICANDUVA II",
+      "codigo": "20.02.02",
+      "fonte": null,
+      "descricao": "MOBILIZAÇÃO E INSTALAÇÃO DE 1 EQUIPAMENTO PARA EXECUÇÃO DE SONDAGEM A PERCUSSÃO",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "ARICANDUVA II",
+      "codigo": "20.02.03",
+      "fonte": null,
+      "descricao": "DESLOCAMENTO DE EQUIPAMENTO ENTRE FUROS EM TERRENO PLANO, CONSIDERANDO A DISTÂNCIA ATÉ 100M, PARA SONDAGEM A PERCUSSÃO",
+      "unidade": "UN",
+      "quantidade": 8.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "ARICANDUVA II",
+      "codigo": "20.03.02",
+      "fonte": null,
+      "descricao": "ENGENHEIRO/ARQUITETO SÊNIOR",
+      "unidade": "H",
+      "quantidade": 68.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "ARICANDUVA II",
+      "codigo": "20.03.03",
+      "fonte": null,
+      "descricao": "ENGENHEIRO/ARQUITETO JUNIOR",
+      "unidade": "H",
+      "quantidade": 72.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "ARICANDUVA II",
+      "codigo": "20.03.09",
+      "fonte": null,
+      "descricao": "PROJETISTA CADISTA",
+      "unidade": "H",
+      "quantidade": 48.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "ARICANDUVA II",
+      "codigo": "20.03.16",
+      "fonte": null,
+      "descricao": "AS BUILT FORMATO AO",
+      "unidade": "UN",
+      "quantidade": 4.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "ARICANDUVA III",
+      "codigo": "01.01.06",
+      "fonte": null,
+      "descricao": "CARGA MANUAL E REMOÇÃO DE ENTULHO, INCLUSIVE TRANSPORTE ATÉ 1 KM",
+      "unidade": "M3",
+      "quantidade": 92.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "ARICANDUVA III",
+      "codigo": "01.01.08",
+      "fonte": null,
+      "descricao": "LIMPEZA MANUAL GERAL INCLUSIVE REMOÇÃO DE COBERTURA VEGETAL - TRONCO ATÉ 10CM - SEM TRANSPORTE",
+      "unidade": "M2",
+      "quantidade": 3444.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "ARICANDUVA III",
+      "codigo": "01.01.10",
+      "fonte": null,
+      "descricao": "TRANSPORTE DE ENTULHO POR CAMINHÃO BASCULANTE, A PARTIR DE 1KM",
+      "unidade": "M3XKM",
+      "quantidade": 23424.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "ARICANDUVA III",
+      "codigo": "01.03.03",
+      "fonte": null,
+      "descricao": "CORTE E CARREGAMENTO PARA BOTA-FORA, INCLUSIVE TRANSPORTE ATÉ 1KM",
+      "unidade": "M3",
+      "quantidade": 746.4,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "ARICANDUVA III",
+      "codigo": "01.03.10",
+      "fonte": null,
+      "descricao": "TRANSPORTE DE TERRA POR CAMINHÃO BASCULANTE, A PARTIR DE 1KM",
+      "unidade": "M3XKM",
+      "quantidade": 22392.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "ARICANDUVA III",
+      "codigo": "02.01.01",
+      "fonte": null,
+      "descricao": "BROCA DE CONCRETO - DIÂMETRO DE 20CM",
+      "unidade": "M",
+      "quantidade": 210.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "ARICANDUVA III",
+      "codigo": "02.02.11",
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, COM SOQUETE VIBRATÓRIO",
+      "unidade": "M2",
+      "quantidade": 18.9,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "ARICANDUVA III",
+      "codigo": "02.02.16",
+      "fonte": null,
+      "descricao": "LASTRO DE CONCRETO 150KG CIM/M3",
+      "unidade": "M3",
+      "quantidade": 2.84,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "ARICANDUVA III",
+      "codigo": "03.01.15",
+      "fonte": null,
+      "descricao": "FORMA ESPECIAL DE CHAPAS RESINADAS (12MM) - PLANA",
+      "unidade": "M2",
+      "quantidade": 445.36,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "ARICANDUVA III",
+      "codigo": "03.02.04",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-50",
+      "unidade": "KG",
+      "quantidade": 5134.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "ARICANDUVA III",
+      "codigo": "03.03.18",
+      "fonte": null,
+      "descricao": "CONCRETO FCK = 25,0MPA - USINADO E BOMBEÁVEL",
+      "unidade": "M3",
+      "quantidade": 51.34,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "ARICANDUVA III",
+      "codigo": "15.03.10",
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO - ESQUADRIAS E PEÇAS DE SERRALHERIA",
+      "unidade": "M2",
+      "quantidade": 22.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "ARICANDUVA III",
+      "codigo": "17.01.32",
+      "fonte": null,
+      "descricao": "FP.02 - GRADIL DE FERRO PERFILADO, TIPO PARQUE COM MURETA - GPM-1/DEPAVE",
+      "unidade": "M",
+      "quantidade": 30.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "ARICANDUVA III",
+      "codigo": "14.01.38",
+      "fonte": null,
+      "descricao": "PP.42 - PORTÃO DE FERRO PERFILADO, TIPO PARQUE (GP-5/GPM-1)6,00M, 2 FOLHAS",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "ARICANDUVA III",
+      "codigo": "17.01.59",
+      "fonte": null,
+      "descricao": "FC.01 - MURO DE FECHO, ELEMENTOS DE CONCRETO MF.D3/EDIF - FUNDAÇÃO COM BROCAS",
+      "unidade": "M",
+      "quantidade": 223.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "ARICANDUVA III",
+      "codigo": "17.80.19",
+      "fonte": null,
+      "descricao": "FERRO TRABALHADO PARA GRADIS",
+      "unidade": "KG",
+      "quantidade": 680.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "ARICANDUVA III",
+      "codigo": "20.01.01",
+      "fonte": null,
+      "descricao": "LEVANTAMENTO PLANIMÉTRICO DE PERÍMETRO - ATÉ 1.000M",
+      "unidade": "GL",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "ARICANDUVA III",
+      "codigo": "20.02.02",
+      "fonte": null,
+      "descricao": "MOBILIZAÇÃO E INSTALAÇÃO DE 1 EQUIPAMENTO PARA EXECUÇÃO DE SONDAGEM A PERCUSSÃO",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "ARICANDUVA III",
+      "codigo": "20.02.03",
+      "fonte": null,
+      "descricao": "DESLOCAMENTO DE EQUIPAMENTO ENTRE FUROS EM TERRENO PLANO, CONSIDERANDO A DISTÂNCIA ATÉ 100M, PARA SONDAGEM A PERCUSSÃO",
+      "unidade": "UN",
+      "quantidade": 13.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "ARICANDUVA III",
+      "codigo": "20.03.02",
+      "fonte": null,
+      "descricao": "ENGENHEIRO/ARQUITETO SÊNIOR",
+      "unidade": "H",
+      "quantidade": 96.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "ARICANDUVA III",
+      "codigo": "20.03.03",
+      "fonte": null,
+      "descricao": "ENGENHEIRO/ARQUITETO JUNIOR",
+      "unidade": "H",
+      "quantidade": 176.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "ARICANDUVA III",
+      "codigo": "20.03.09",
+      "fonte": null,
+      "descricao": "PROJETISTA CADISTA",
+      "unidade": "H",
+      "quantidade": 76.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "ARICANDUVA III",
+      "codigo": "20.03.16",
+      "fonte": null,
+      "descricao": "AS BUILT FORMATO AO",
+      "unidade": "UN",
+      "quantidade": 4.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 22
+    }
+  ],
+  "apelido": "MURO SÃO MATEUS"
+}

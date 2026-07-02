@@ -1,0 +1,1995 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620240024634",
+    "numero_art": "28027230231091323",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA VILA PRUDENTE",
+    "cnpj_contratante": "05.969.123/0001-59",
+    "objeto": "CONTRATAÇÃO DE EMPRESA DE ENGENHARIA OU ARQUITETURA PARA EXECUÇÃO DE OBRAS DE REVITALIZAÇÃO DE ÁREA PÚBLICA NA AV. ENGENHEIRO THOMAZ MAGALHÃES, 255 -SÍTIO DA FIGUEIRA - SÃO PAULO - SP, CEP 03211-020, COM IMPLANTAÇÃO DE QUADRA POLIESPORTIVA, CACHORRÓDROMO, PLAYGROUND, ATI S, PISTA DE CAMINHADA E PISTA \"PUMP-TRACK\".",
+    "processo_administrativo": "6060.2023/0001322-4",
+    "contrato": "07/SUB-VP/2023",
+    "endereco_obra": "AVENIDA ENGENHEIRO THOMAZ MAGALHÃES",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2023-07-12",
+    "data_fim": "2024-01-08",
+    "area_m2": 3690.0,
+    "valor_contrato": 2937181.84
+  },
+  "servicos": [
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "101603",
+      "fonte": null,
+      "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "101800",
+      "fonte": null,
+      "descricao": "PROTEÇÃO PARA TERCEIROS COM TELA DE NYLON",
+      "unidade": "M2",
+      "quantidade": 60.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "35318",
+      "fonte": null,
+      "descricao": "PROJETO EXECUTIVO (PRANCHA A1)",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "200603",
+      "fonte": null,
+      "descricao": "CONTROLE TECNOLÓGICO DE CONCRETO - MOBILIZAÇÃO PARA MOLDAGEM E/OU COLETA DOS CORPOS DE PROVA DE CONCRETO",
+      "unidade": "VIAGEM",
+      "quantidade": 4.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "10501",
+      "fonte": null,
+      "descricao": "TAPUME CHAPA COMPENSADA 6MM",
+      "unidade": "M2",
+      "quantidade": 22.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "10506",
+      "fonte": null,
+      "descricao": "PORTÃO METÁLICO DE OBRA - 5M, PIVOTANTE, 2 FOLHAS, PARA TAPUME",
+      "unidade": "M2",
+      "quantidade": 8.8,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "MOVIMENTO DE TERRA",
+      "codigo": "111000",
+      "fonte": null,
+      "descricao": "MOTONIVELADORA",
+      "unidade": "H",
+      "quantidade": 240.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "MOVIMENTO DE TERRA",
+      "codigo": "111400",
+      "fonte": null,
+      "descricao": "RETROESCAVADEIRA CAP CAÇAMBA FRONTAL 0,76M3",
+      "unidade": "H",
+      "quantidade": 240.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "MOVIMENTO DE TERRA",
+      "codigo": "10305",
+      "fonte": null,
+      "descricao": "FORNECIMENTO DE TERRA, INCLUSIVE CORTE, CARGA, DESCARGA E TRANSPORTE ATÉ 1KM",
+      "unidade": null,
+      "quantidade": 496.4,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "MOVIMENTO DE TERRA",
+      "codigo": "10310",
+      "fonte": null,
+      "descricao": "TRANSPORTE DE TERRA POR CAMINHÃO BASCULANTE, A PARTIR DE 1KM",
+      "unidade": "M3XK M",
+      "quantidade": 7446.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "DRENAGEM PLUVIAL",
+      "codigo": "10401",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL, PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 272.01,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "DRENAGEM PLUVIAL",
+      "codigo": "10410",
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 387.09,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "DRENAGEM PLUVIAL",
+      "codigo": "130110",
+      "fonte": null,
+      "descricao": "LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 198.35,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "DRENAGEM PLUVIAL",
+      "codigo": "20301",
+      "fonte": null,
+      "descricao": "FORMA COMUM DE TÁBUAS DE PINUS",
+      "unidade": "M2",
+      "quantidade": 24.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "DRENAGEM PLUVIAL",
+      "codigo": "20404",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-50",
+      "unidade": "KG",
+      "quantidade": 256.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "DRENAGEM PLUVIAL",
+      "codigo": "170201",
+      "fonte": null,
+      "descricao": "CONCRETO SIMPLES DESEMPENADO E RIPADO, 200KG CIM/M3",
+      "unidade": "M3",
+      "quantidade": 3.2,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "DRENAGEM PLUVIAL",
+      "codigo": "10423",
+      "fonte": null,
+      "descricao": "TUBO DE PEAD CORRUGADO E PERFURADOPARA DRENAGEM - DIAMETRO 6,0\" (EM ACORDO COM AS NORMAS DNIT 093/06, NBR 15073 E NBR 14692)",
+      "unidade": "M",
+      "quantidade": 324.5,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "DRENAGEM PLUVIAL",
+      "codigo": "10422",
+      "fonte": null,
+      "descricao": "TUBO DE PEAD CORRUGADO E PERFURADOPARA DRENAGEM - DIAMETRO 4,0\" (EM ACORDO COM AS NORMAS DNIT 093/06, NBR 15073 E NBR 14692)",
+      "unidade": "M",
+      "quantidade": 965.8,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "DRENAGEM PLUVIAL",
+      "codigo": "10475",
+      "fonte": null,
+      "descricao": "MANTA GEOTEXTIL",
+      "unidade": "M2",
+      "quantidade": 2129.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "DRENAGEM PLUVIAL",
+      "codigo": "101094",
+      "fonte": null,
+      "descricao": "CAIXA DE LIGAÇÃO OU INSPEÇÃO - ESCAVAÇÃO E APILOAMENTO",
+      "unidade": "M3",
+      "quantidade": 27.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "DRENAGEM PLUVIAL",
+      "codigo": "101095",
+      "fonte": null,
+      "descricao": "CAIXA DE LIGAÇÃO OU INSPEÇÃO - LASTRO DE CONCRETO (FUNDO)",
+      "unidade": "M3",
+      "quantidade": 2.7,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "DRENAGEM PLUVIAL",
+      "codigo": "101097",
+      "fonte": null,
+      "descricao": "CAIXA DE LIGAÇÃO OU INSPEÇÃO - ALVENARIA DE 1 TIJOLO, REVESTIDA",
+      "unidade": "M2",
+      "quantidade": 96.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "DRENAGEM PLUVIAL",
+      "codigo": "101098",
+      "fonte": null,
+      "descricao": "CAIXA DE LIGAÇÃO OU INSPEÇÃO - TAMPA DE CONCRETO",
+      "unidade": "M2",
+      "quantidade": 27.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "DRENAGEM PLUVIAL",
+      "codigo": "101187 HV.23",
+      "fonte": null,
+      "descricao": "CANALETA DE ALVENARIA PARA GRELHA OU TAMPA DE CONCRETO L=40CM",
+      "unidade": "M",
+      "quantidade": 266.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "DRENAGEM PLUVIAL",
+      "codigo": "101197 HC.04",
+      "fonte": null,
+      "descricao": "TAMPA DE CONCRETO PARA CANALETA DE A.P.L=0,40M",
+      "unidade": "M",
+      "quantidade": 266.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "DRENAGEM PLUVIAL",
+      "codigo": "100935",
+      "fonte": null,
+      "descricao": "TUBO DE PVC RÍGIDO, PONTA E BOLSA (LINHA ESGOTO) - 200MM (8\")",
+      "unidade": "M",
+      "quantidade": 250.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": "10401",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL, PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 144.42,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": "90253",
+      "fonte": null,
+      "descricao": "ELETRODUTO DE POLIETILENO FLEXÍVEL, ALTA RESISTÊNCIA - 2\"",
+      "unidade": "M",
+      "quantidade": 1180.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": "90298",
+      "fonte": null,
+      "descricao": "ENVELOPAMENTO DE ELETRODUTO ENTERRADO, COM CONCRETO",
+      "unidade": "M",
+      "quantidade": 590.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": "90308",
+      "fonte": null,
+      "descricao": "CABO 10,00MM2 - ISOLAMENTO PARA 0,7KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 2940.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": "90309",
+      "fonte": null,
+      "descricao": "CABO 16,00MM2 - ISOLAMENTO PARA 0,7KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 30.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": "90306",
+      "fonte": null,
+      "descricao": "CABO 4,00MM2 - ISOLAMENTO PARA 0,7KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 1350.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": "10480",
+      "fonte": null,
+      "descricao": "REATERRO DE VALAS, INCLUSIVE COMPACTAÇÃO",
+      "unidade": "M3",
+      "quantidade": 141.6,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": "90570",
+      "fonte": null,
+      "descricao": "CAIXA DE PASSAGEM E TAMPA PRÉ-MOLDADAS EM CONCRETO, SEM FUNDO, 40X40CM",
+      "unidade": "UN",
+      "quantidade": 44.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": "91114",
+      "fonte": null,
+      "descricao": "CAIXA DE INSPEÇÃO DE ATERRAMENTO TIPO EMBUTIR COM TAMPA E ALÇA",
+      "unidade": "UN",
+      "quantidade": 44.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 29
+    },
+    {
+      "grupo": null,
+      "codigo": "98391",
+      "fonte": null,
+      "descricao": "CONECTOR PARA HASTE \"COPPERWELD\"",
+      "unidade": "UN",
+      "quantidade": 44.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "98397",
+      "fonte": null,
+      "descricao": "HASTE \"COPPERWELD \" - 3/4\"X3,00M",
+      "unidade": "UN",
+      "quantidade": 44.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "92034",
+      "fonte": null,
+      "descricao": "POSTE DE AÇO GALVANIZADO TIPO RETO, FLANGEADO H=7M COM LUMINÁRIA HERMÉTICA EM ALUMÍNIO FUNDIDO PARA LÂMPADA DE VAPOR DE MERCURIO DE 250W - COM APROVAÇÃO DE ILUME/PMSP",
+      "unidade": "UN",
+      "quantidade": 40.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "98423",
+      "fonte": null,
+      "descricao": "SUPORTE CURTO PARA LUMINÁRIA 100X38MM GE",
+      "unidade": "UN",
+      "quantidade": 40.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "90957",
+      "fonte": null,
+      "descricao": "LUMINÁRIA HERMÉTICA EM ALUMÍNIO FUNDIDO PARA LÂMPADA ATÉ 250W - COM APROVAÇÃO DE ILUME/ PMSP",
+      "unidade": "UN",
+      "quantidade": 40.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "98351",
+      "fonte": null,
+      "descricao": "FOTOCELULA SOLAR-RELÊ FOTOELÉTRICO CAPACIDADE - 1000W",
+      "unidade": "UN",
+      "quantidade": 40.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "90813",
+      "fonte": null,
+      "descricao": "MINI DISJUNTOR - TIPO EUROPEU (IEC) - BIPOLAR 32/50A",
+      "unidade": "UN",
+      "quantidade": 4.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "98366",
+      "fonte": null,
+      "descricao": "POSTE DE AÇO GALVANIZADO, TIPO RETO FLANGEADO H=7M",
+      "unidade": "UN",
+      "quantidade": 4.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "98362",
+      "fonte": null,
+      "descricao": "CRUZETA DE FERRO GALVANIZADO PARA 3 PROJETORES",
+      "unidade": "UN",
+      "quantidade": 4.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "90939",
+      "fonte": null,
+      "descricao": "PROJETOR PARA USO EXTERNO COM LÂMPADA LED DE 150W - COMPLETA",
+      "unidade": "UN",
+      "quantidade": 12.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "PISTA DE CAMINHADA",
+      "codigo": "10401",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL, PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 158.18,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "PISTA DE CAMINHADA",
+      "codigo": "10410",
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 1054.5,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "PISTA DE CAMINHADA",
+      "codigo": "130110",
+      "fonte": null,
+      "descricao": "LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 52.73,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "PISTA DE CAMINHADA",
+      "codigo": "20301",
+      "fonte": null,
+      "descricao": "FORMA COMUM DE TÁBUAS DE PINUS",
+      "unidade": "M2",
+      "quantidade": 55.5,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "PISTA DE CAMINHADA",
+      "codigo": "20409",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-60 - TELA",
+      "unidade": "KG",
+      "quantidade": 6327.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "PISTA DE CAMINHADA",
+      "codigo": "170201",
+      "fonte": null,
+      "descricao": "CONCRETO SIMPLES DESEMPENADO E RIPADO, 200KG CIM/M3",
+      "unidade": "M3",
+      "quantidade": 105.45,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "PISTA DE CAMINHADA",
+      "codigo": "101500",
+      "fonte": null,
+      "descricao": "CURA QUÍMICA",
+      "unidade": "M2",
+      "quantidade": 1054.5,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "PISTA DE CAMINHADA",
+      "codigo": "100400",
+      "fonte": null,
+      "descricao": "CORTE SUPERFICIAL DE CONCRETO ATÉ 3 CM DE PROFUNDIDADE",
+      "unidade": "M2",
+      "quantidade": 43.65,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "PISTA DE CAMINHADA",
+      "codigo": "170370",
+      "fonte": null,
+      "descricao": "DEMARCAÇÃO E PINTURA DE SUPERFÍCIES - BORRACHA CLORADA",
+      "unidade": "M2",
+      "quantidade": 1054.5,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "PISTA DE CAMINHADA",
+      "codigo": "170372",
+      "fonte": null,
+      "descricao": "DEMARCAÇÃO E PINTURA DE FAIXAS ATÉ 10CM - BORRACHA CLORADA",
+      "unidade": "M",
+      "quantidade": 1295.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "QUADRA POLIESPORTIVA",
+      "codigo": "10401",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL, PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 44.94,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "QUADRA POLIESPORTIVA",
+      "codigo": "20304",
+      "fonte": null,
+      "descricao": "FORMA COMUM DE TÁBUAS DE PINUS - NÃO RECUPERÁVEL",
+      "unidade": "M2",
+      "quantidade": 49.5,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "QUADRA POLIESPORTIVA",
+      "codigo": "130110",
+      "fonte": null,
+      "descricao": "LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 13.99,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "QUADRA POLIESPORTIVA",
+      "codigo": "20101",
+      "fonte": null,
+      "descricao": "BROCA DE CONCRETO - DIAMETRO DE 20CM",
+      "unidade": "M",
+      "quantidade": 66.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "QUADRA POLIESPORTIVA",
+      "codigo": "10410",
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 279.8,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "QUADRA POLIESPORTIVA",
+      "codigo": "20404",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-50",
+      "unidade": "KG",
+      "quantidade": 475.2,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "QUADRA POLIESPORTIVA",
+      "codigo": "20409",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-60 - TELA",
+      "unidade": "KG",
+      "quantidade": 1560.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": "QUADRA POLIESPORTIVA",
+      "codigo": "170201",
+      "fonte": null,
+      "descricao": "CONCRETO SIMPLES DESEMPENADO E RIPADO, 200KG CIM/M3",
+      "unidade": "M3",
+      "quantidade": 31.94,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": "QUADRA POLIESPORTIVA",
+      "codigo": "40141",
+      "fonte": null,
+      "descricao": "BLOCOS VAZADOS DE CONCRETO - 14CM",
+      "unidade": "M2",
+      "quantidade": 66.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 29
+    },
+    {
+      "grupo": "QUADRA POLIESPORTIVA",
+      "codigo": "110101",
+      "fonte": null,
+      "descricao": "CHAPISCO COMUM - ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 132.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 30
+    },
+    {
+      "grupo": null,
+      "codigo": "110310",
+      "fonte": null,
+      "descricao": "EMBOÇO EXTERNO - ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 132.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "110313",
+      "fonte": null,
+      "descricao": "REBOCO EXTERNO - ARGAMASSA PRÉFABRICADA",
+      "unidade": "M2",
+      "quantidade": 132.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "150115",
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 132.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "170129 FP.03",
+      "fonte": null,
+      "descricao": "ALAMBRADO PARA QUADRAS DE ESPORTE - GP.6/EDIF - TG/4,5M",
+      "unidade": "M",
+      "quantidade": 66.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "170141 PP.20/24",
+      "fonte": null,
+      "descricao": "PORTÃO EM FERRO PERFILADO COM TELA, 1 FOLHA",
+      "unidade": "M2",
+      "quantidade": 5.04,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "170370",
+      "fonte": null,
+      "descricao": "DEMARCAÇÃO E PINTURA DE SUPERFÍCIES - BORRACHA CLORADA",
+      "unidade": "M2",
+      "quantidade": 260.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "170355 QD.01",
+      "fonte": null,
+      "descricao": "DEMARCAÇÃO DE QUADRA COM TINTA A BASE DE BORRACHA CLORADA - VOLEIBOL",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "170356",
+      "fonte": null,
+      "descricao": "QD.02 - DEMARCAÇÃO DE QUADRA COM TINTA A BASE DE BORRACHA. CLORADA - FUTEBOL DE SALÃO",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "170357",
+      "fonte": null,
+      "descricao": "QD.03 - DEMARCAÇÃO DE QUADRA COM TINTA A BASE DE BORRACHA CLORADA - BASQUETE",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "170363",
+      "fonte": null,
+      "descricao": "TABELA PARA BASQUETE, ENGLOBANDO DESDE FUNDAÇÃO ATÉ A CESTA DE NYLON",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "170360",
+      "fonte": null,
+      "descricao": "POSTES PARA VOLEIBOL, INCLUSIVE PINTURA E REDE",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "170361",
+      "fonte": null,
+      "descricao": "TRAVE PARA FUTEBOL DE SALÃO, INCLUSIVE PINTURA E REDE",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": "170365",
+      "fonte": null,
+      "descricao": "TELA DE NYLON PARA COBERTURA DE QUADRA",
+      "unidade": "M2",
+      "quantidade": 260.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "PLAYGROUND",
+      "codigo": "10401",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL, PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 22.3,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "PLAYGROUND",
+      "codigo": "20101",
+      "fonte": null,
+      "descricao": "BROCA DE CONCRETO - DIAMETRO DE 20CM",
+      "unidade": "M",
+      "quantidade": 44.4,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "PLAYGROUND",
+      "codigo": "10410",
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 135.34,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "PLAYGROUND",
+      "codigo": "130110",
+      "fonte": null,
+      "descricao": "LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 6.77,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "PLAYGROUND",
+      "codigo": "20301",
+      "fonte": null,
+      "descricao": "FORMA COMUM DE TÁBUAS DE PINUS",
+      "unidade": "M2",
+      "quantidade": 33.26,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "PLAYGROUND",
+      "codigo": "20404",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-50",
+      "unidade": "KG",
+      "quantidade": 319.25,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "PLAYGROUND",
+      "codigo": "20409",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-60 - TELA",
+      "unidade": "KG",
+      "quantidade": 854.28,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "PLAYGROUND",
+      "codigo": "170201",
+      "fonte": null,
+      "descricao": "CONCRETO SIMPLES DESEMPENADO E RIPADO, 200KG CIM/M3",
+      "unidade": "M3",
+      "quantidade": 16.19,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "PLAYGROUND",
+      "codigo": "101500",
+      "fonte": null,
+      "descricao": "CURA QUÍMICA",
+      "unidade": "M2",
+      "quantidade": 135.34,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "PLAYGROUND",
+      "codigo": "100400",
+      "fonte": null,
+      "descricao": "CORTE SUPERFICIAL DE CONCRETO ATÉ 3 CM DE PROFUNDIDADE",
+      "unidade": "M2",
+      "quantidade": 6.6,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "PLAYGROUND",
+      "codigo": "130292",
+      "fonte": null,
+      "descricao": "CHAPAS DE BORRACHA SINTÉTICA ASSENTES COM ARGAMASSA, E=8 A 10MM - LISAS",
+      "unidade": "M2",
+      "quantidade": 140.35,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "PLAYGROUND",
+      "codigo": "150310",
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO - ESQUADRIAS E PEÇAS DE SERRALHERIA",
+      "unidade": "M2",
+      "quantidade": 44.34,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "PLAYGROUND",
+      "codigo": "170128 FP.05",
+      "fonte": null,
+      "descricao": "ALAMBRADO EM TUBO GALVANIZADO E TELA GALVANIZADA H=1,00M",
+      "unidade": "M",
+      "quantidade": 44.34,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "PLAYGROUND",
+      "codigo": "170141 PP.20/24",
+      "fonte": null,
+      "descricao": "PORTÃO EM FERRO PERFILADO COM TELA, 1 FOLHA",
+      "unidade": "M2",
+      "quantidade": 2.4,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": "PLAYGROUND BRINQUEDOS DE MADEIRA",
+      "codigo": "181442",
+      "fonte": null,
+      "descricao": "CASA TARZAN COM RAMPA ESCALADA, ESCORREGADOR E ESCADA MARINHEIRO",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": "PLAYGROUND BRINQUEDOS DE MADEIRA",
+      "codigo": "181445",
+      "fonte": null,
+      "descricao": "ESCORREGADOR (ALT.=1,80M COMP.=3,00M)",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 29
+    },
+    {
+      "grupo": "PLAYGROUND BRINQUEDOS DE MADEIRA",
+      "codigo": "181446",
+      "fonte": null,
+      "descricao": "GANGORRA DUPLA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 30
+    },
+    {
+      "grupo": "PLAYGROUND BRINQUEDOS DE MADEIRA",
+      "codigo": "181448",
+      "fonte": null,
+      "descricao": "BALANÇA DUPLA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 31
+    },
+    {
+      "grupo": "PLAYGROUND BRINQUEDOS DE MADEIRA",
+      "codigo": "181449",
+      "fonte": null,
+      "descricao": "ESCADA HORIZONTAL",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 32
+    },
+    {
+      "grupo": null,
+      "codigo": "181405",
+      "fonte": null,
+      "descricao": "CARROSSEL PARA 20 LUGARES, DIÂMETRO 2,20M, FORNECIMENTO E INSTALAÇÃO",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "ACADEMIA DA TERCEIRA IDADE",
+      "codigo": "10401",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL, PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 9.15,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "ACADEMIA DA TERCEIRA IDADE",
+      "codigo": "20101",
+      "fonte": null,
+      "descricao": "BROCA DE CONCRETO - DIAMETRO DE 20CM",
+      "unidade": "M",
+      "quantidade": 14.4,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "ACADEMIA DA TERCEIRA IDADE",
+      "codigo": "10410",
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 61.02,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "ACADEMIA DA TERCEIRA IDADE",
+      "codigo": "130110",
+      "fonte": null,
+      "descricao": "LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 3.05,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "ACADEMIA DA TERCEIRA IDADE",
+      "codigo": "20301",
+      "fonte": null,
+      "descricao": "FORMA COMUM DE TÁBUAS DE PINUS",
+      "unidade": "M2",
+      "quantidade": 4.85,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "ACADEMIA DA TERCEIRA IDADE",
+      "codigo": "20404",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-50",
+      "unidade": "KG",
+      "quantidade": 200.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "ACADEMIA DA TERCEIRA IDADE",
+      "codigo": "20409",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-60 - TELA",
+      "unidade": "KG",
+      "quantidade": 427.14,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "ACADEMIA DA TERCEIRA IDADE",
+      "codigo": "170201",
+      "fonte": null,
+      "descricao": "CONCRETO SIMPLES DESEMPENADO E RIPADO, 200KG CIM/M3",
+      "unidade": "M3",
+      "quantidade": 6.1,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "ACADEMIA DA TERCEIRA IDADE",
+      "codigo": "101500",
+      "fonte": null,
+      "descricao": "CURA QUÍMICA",
+      "unidade": "M2",
+      "quantidade": 61.02,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "ACADEMIA DA TERCEIRA IDADE",
+      "codigo": "100400",
+      "fonte": null,
+      "descricao": "CORTE SUPERFICIAL DE CONCRETO ATÉ 3 CM DE PROFUNDIDADE",
+      "unidade": "M2",
+      "quantidade": 3.15,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "ACADEMIA DA TERCEIRA IDADE",
+      "codigo": "150115",
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 61.02,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "ACADEMIA DA TERCEIRA IDADE",
+      "codigo": "181608",
+      "fonte": null,
+      "descricao": "REMADA SENTADA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "ACADEMIA DA TERCEIRA IDADE",
+      "codigo": "181616",
+      "fonte": null,
+      "descricao": "BICICLETA DE CADEIRA TRIPLA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "ACADEMIA DA TERCEIRA IDADE",
+      "codigo": "181610",
+      "fonte": null,
+      "descricao": "SIMULADOR DE CAMINHADA TRIPLO CONJUGADO",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "ACADEMIA DA TERCEIRA IDADE",
+      "codigo": "181612",
+      "fonte": null,
+      "descricao": "ROTAÇÃO VERTICAL TRIPLO CONJUGADO",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "ACADEMIA DA TERCEIRA IDADE",
+      "codigo": "181617",
+      "fonte": null,
+      "descricao": "PUXADOR PEITORAL DUPLO STAR",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "ACADEMIA DA TERCEIRA IDADE",
+      "codigo": "181619",
+      "fonte": null,
+      "descricao": "PLACA ORIENTADORA VERTICAL",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "ACADEMIA DA TERCEIRA IDADE",
+      "codigo": "181501",
+      "fonte": null,
+      "descricao": "APARELHOS DE GINÁTICA EM MADEIRA - BARRA DUPLA EM DOIS NIVEIS",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "ACADEMIA DA TERCEIRA IDADE",
+      "codigo": "181503",
+      "fonte": null,
+      "descricao": "APARELHOS DE GINÁTICA EM MADEIRA - BARRAS PARALELAS",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "CACHORRÓDROMO",
+      "codigo": "10401",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL, PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 83.82,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "CACHORRÓDROMO",
+      "codigo": "20304",
+      "fonte": null,
+      "descricao": "FORMA COMUM DE TÁBUAS DE PINUS - NÃO RECUPERÁVEL",
+      "unidade": "M2",
+      "quantidade": 58.8,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "CACHORRÓDROMO",
+      "codigo": "20101",
+      "fonte": null,
+      "descricao": "BROCA DE CONCRETO - DIAMETRO DE 20CM",
+      "unidade": "M",
+      "quantidade": 108.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "CACHORRÓDROMO",
+      "codigo": "10410",
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 29.4,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "CACHORRÓDROMO",
+      "codigo": "20404",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-50",
+      "unidade": "KG",
+      "quantidade": 705.6,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "CACHORRÓDROMO",
+      "codigo": "170201",
+      "fonte": null,
+      "descricao": "CONCRETO SIMPLES DESEMPENADO E RIPADO, 200KG CIM/M3",
+      "unidade": "M3",
+      "quantidade": 8.82,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "CACHORRÓDROMO",
+      "codigo": "40141",
+      "fonte": null,
+      "descricao": "BLOCOS VAZADOS DE CONCRETO 14CM",
+      "unidade": "M2",
+      "quantidade": 19.6,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": "CACHORRÓDROMO",
+      "codigo": "110101",
+      "fonte": null,
+      "descricao": "CHAPISCO COMUM - ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 39.2,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": "CACHORRÓDROMO",
+      "codigo": "110310",
+      "fonte": null,
+      "descricao": "EMBOÇO EXTERNO - ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 39.2,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 29
+    },
+    {
+      "grupo": "CACHORRÓDROMO",
+      "codigo": "110313",
+      "fonte": null,
+      "descricao": "REBOCO EXTERNO - ARGAMASSA PRÉFABRICADA",
+      "unidade": "M2",
+      "quantidade": 39.2,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 30
+    },
+    {
+      "grupo": "CACHORRÓDROMO",
+      "codigo": "150115",
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 39.2,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 31
+    },
+    {
+      "grupo": "CACHORRÓDROMO",
+      "codigo": "150310",
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO - ESQUADRIAS E PEÇAS DE SERRALHERIA",
+      "unidade": "M2",
+      "quantidade": 98.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 32
+    },
+    {
+      "grupo": null,
+      "codigo": "170128 FP.05",
+      "fonte": null,
+      "descricao": "ALAMBRADO EM TUBO GALVANIZADO E TELA GALVANIZADA H=1,00M",
+      "unidade": "M",
+      "quantidade": 98.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "170141 PP.20/24",
+      "fonte": null,
+      "descricao": "PORTÃO EM FERRO PERFILADO COM TELA, 1 FOLHA",
+      "unidade": "M2",
+      "quantidade": 3.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "170229",
+      "fonte": null,
+      "descricao": "PEDRISCO - FORNECIMENTO E ESPALHAMENTO COM COMPACTAÇÃO MECÂNICA",
+      "unidade": "M3",
+      "quantidade": 18.75,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "181550",
+      "fonte": null,
+      "descricao": "FORNECIMENTO E APLICAÇÃO DE AREIA FINA",
+      "unidade": "M3",
+      "quantidade": 56.25,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "1",
+      "fonte": null,
+      "descricao": "CONJUNTO DE BRINQUEDOS PARA PET (7 UNIDADES)",
+      "unidade": "CJ",
+      "quantidade": 1.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "PISTA DE PUMP-TRACK",
+      "codigo": "10401",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL, PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 7.65,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "PISTA DE PUMP-TRACK",
+      "codigo": "20304",
+      "fonte": null,
+      "descricao": "FORMA COMUM DE TÁBUAS DE PINUS - NÃO RECUPERÁVEL",
+      "unidade": "M2",
+      "quantidade": 51.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "PISTA DE PUMP-TRACK",
+      "codigo": "20101",
+      "fonte": null,
+      "descricao": "BROCA DE CONCRETO - DIAMETRO DE 20CM",
+      "unidade": "M",
+      "quantidade": 84.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "PISTA DE PUMP-TRACK",
+      "codigo": "10410",
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 25.5,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "PISTA DE PUMP-TRACK",
+      "codigo": "20404",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-50",
+      "unidade": "KG",
+      "quantidade": 612.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "PISTA DE PUMP-TRACK",
+      "codigo": "170201",
+      "fonte": null,
+      "descricao": "CONCRETO SIMPLES DESEMPENADO E RIPADO, 200KG CIM/M3",
+      "unidade": "M3",
+      "quantidade": 7.65,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "PISTA DE PUMP-TRACK",
+      "codigo": "40141",
+      "fonte": null,
+      "descricao": "BLOCOS VAZADOS DE CONCRETO 14CM",
+      "unidade": "M2",
+      "quantidade": 17.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "PISTA DE PUMP-TRACK",
+      "codigo": "110101",
+      "fonte": null,
+      "descricao": "CHAPISCO COMUM - ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 34.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "PISTA DE PUMP-TRACK",
+      "codigo": "110310",
+      "fonte": null,
+      "descricao": "EMBOÇO EXTERNO - ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 34.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "PISTA DE PUMP-TRACK",
+      "codigo": "110313",
+      "fonte": null,
+      "descricao": "REBOCO EXTERNO - ARGAMASSA PRÉFABRICADA",
+      "unidade": "M2",
+      "quantidade": 34.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "PISTA DE PUMP-TRACK",
+      "codigo": "150115",
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 34.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "PISTA DE PUMP-TRACK",
+      "codigo": "150310",
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO - ESQUADRIAS E PEÇAS DE SERRALHERIA",
+      "unidade": "M2",
+      "quantidade": 85.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "PISTA DE PUMP-TRACK",
+      "codigo": "170128 FP.05",
+      "fonte": null,
+      "descricao": "ALAMBRADO EM TUBO GALVANIZADO E TELA GALVANIZADA H=1,00M",
+      "unidade": "M",
+      "quantidade": 85.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "PISTA DE PUMP-TRACK",
+      "codigo": "170141 PP.20/24",
+      "fonte": null,
+      "descricao": "PORTÃO EM FERRO PERFILADO COM TELA, 1 FOLHA",
+      "unidade": "M2",
+      "quantidade": 2.4,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": null,
+      "codigo": "51000",
+      "fonte": null,
+      "descricao": "ABERTURA DE CAIXA ATÉ 40CM, INCLUI ESCAVAÇÃO, COMPACTAÇÃO, TRANSPORTE E PREPARO DO SUB-LEITO",
+      "unidade": "M2",
+      "quantidade": 190.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": null,
+      "codigo": "54700",
+      "fonte": null,
+      "descricao": "BASE DE BICA CORRIDA",
+      "unidade": "M3",
+      "quantidade": 57.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": null,
+      "codigo": "54800",
+      "fonte": null,
+      "descricao": "BASE DE BRITA GRADUADA",
+      "unidade": "M3",
+      "quantidade": 76.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": null,
+      "codigo": "52501",
+      "fonte": null,
+      "descricao": "BASE DE BINDER ABERTO (SEM TRANSPORTE)",
+      "unidade": "M3",
+      "quantidade": 9.5,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": null,
+      "codigo": "52700",
+      "fonte": null,
+      "descricao": "IMPRIMAÇÃO BETUMINOSA IMPERMEABILIZANTE",
+      "unidade": "M2",
+      "quantidade": 190.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": null,
+      "codigo": "52600",
+      "fonte": null,
+      "descricao": "IMPRIMAÇÃO BETUMINOSA LIGANTE",
+      "unidade": "M2",
+      "quantidade": 190.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": null,
+      "codigo": "52800",
+      "fonte": null,
+      "descricao": "REVESTIMENTO DE CONCRETO ASFÁLTICO (SEM TRANSPORTE)",
+      "unidade": "M3",
+      "quantidade": 9.5,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": null,
+      "codigo": "57801",
+      "fonte": null,
+      "descricao": "CARGA, DESCARGA E TRANSPORTE DE CONCRETO ASFÁLTICO ATÉ A DISTÂNCIA MÉDIA DE IDA E VOLTA DE 1KM",
+      "unidade": "M3",
+      "quantidade": 9.5,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": null,
+      "codigo": "57807",
+      "fonte": null,
+      "descricao": "TRANSPORTE DE CONCRETO ASFÁLTICO ALÉM DO PRIMEIRO KM",
+      "unidade": "M3XK M",
+      "quantidade": 190.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": "PASSEIOS E MOBILIARIOS URBANOS",
+      "codigo": "10401",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL, PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 66.49,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 29
+    },
+    {
+      "grupo": "PASSEIOS E MOBILIARIOS URBANOS",
+      "codigo": "10410",
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 374.98,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 30
+    },
+    {
+      "grupo": "PASSEIOS E MOBILIARIOS URBANOS",
+      "codigo": "130110",
+      "fonte": null,
+      "descricao": "LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 17.36,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 31
+    },
+    {
+      "grupo": "PASSEIOS E MOBILIARIOS URBANOS",
+      "codigo": "20301",
+      "fonte": null,
+      "descricao": "FORMA COMUM DE TÁBUAS DE PINUS",
+      "unidade": "M2",
+      "quantidade": 96.29,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 32
+    },
+    {
+      "grupo": "PASSEIOS E MOBILIARIOS URBANOS",
+      "codigo": "20409",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-60 - TELA",
+      "unidade": "KG",
+      "quantidade": 2083.53,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 33
+    },
+    {
+      "grupo": null,
+      "codigo": "170201",
+      "fonte": null,
+      "descricao": "CONCRETO SIMPLES DESEMPENADO E RIPADO, 200KG CIM/M3",
+      "unidade": "M3",
+      "quantidade": 34.73,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "101500",
+      "fonte": null,
+      "descricao": "CURA QUÍMICA",
+      "unidade": "M2",
+      "quantidade": 347.26,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "100400",
+      "fonte": null,
+      "descricao": "CORTE SUPERFICIAL DE CONCRETO ATÉ 3 CM DE PROFUNDIDADE",
+      "unidade": "M2",
+      "quantidade": 7.62,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "181204 IC.04",
+      "fonte": null,
+      "descricao": "BANCO EM CONCRETO APARENTE - L=50CM",
+      "unidade": "M",
+      "quantidade": 60.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "181202",
+      "fonte": null,
+      "descricao": "IC.02-CONJUNTO MESA E BANCOS EM CONCRETO",
+      "unidade": "CJ",
+      "quantidade": 14.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "181620",
+      "fonte": null,
+      "descricao": "LIXEIRA DUPLA",
+      "unidade": "UN",
+      "quantidade": 10.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "40141",
+      "fonte": null,
+      "descricao": "BLOCOS VAZADOS DE CONCRETO 14CM",
+      "unidade": "M2",
+      "quantidade": 272.4,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "110101",
+      "fonte": null,
+      "descricao": "CHAPISCO COMUM - ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 544.8,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "110310",
+      "fonte": null,
+      "descricao": "EMBOÇO EXTERNO - ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 544.8,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "110313",
+      "fonte": null,
+      "descricao": "REBOCO EXTERNO - ARGAMASSA PRÉFABRICADA",
+      "unidade": "M2",
+      "quantidade": 544.8,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "150115",
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 544.8,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "150310",
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO - ESQUADRIAS E PEÇAS DE SERRALHERIA",
+      "unidade": "M2",
+      "quantidade": 10.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": "170137 PP.41",
+      "fonte": null,
+      "descricao": "PORTÃO DE FERRO PERFILADO, TIPO PARQUE (GP-5/GPM-1) 4,00M, 2 FOLHAS",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": null,
+      "codigo": "20102",
+      "fonte": null,
+      "descricao": "BROCA DE CONCRETO - DIAMETRO DE 25CM",
+      "unidade": "M",
+      "quantidade": 124.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": null,
+      "codigo": "20404",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-50",
+      "unidade": "KG",
+      "quantidade": 414.62,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": null,
+      "codigo": "20407",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-60",
+      "unidade": "KG",
+      "quantidade": 207.31,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": null,
+      "codigo": "20511",
+      "fonte": null,
+      "descricao": "CONCRETO FCK=30MPA - USINADO",
+      "unidade": "M3",
+      "quantidade": 6.91,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": null,
+      "codigo": "170129 FP.03",
+      "fonte": null,
+      "descricao": "ALAMBRADO PARA QUADRAS DE ESPORTE - GP.6/EDIF - TG/4,5M",
+      "unidade": "M",
+      "quantidade": 92.4,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": "188001",
+      "fonte": null,
+      "descricao": "REVOLVIMENTO E AJUSTE DO SOLO",
+      "unidade": "M2",
+      "quantidade": 3690.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": "188011",
+      "fonte": null,
+      "descricao": "TERRA PREPARADA PARA PLANTIO",
+      "unidade": "M3",
+      "quantidade": 284.13,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": "188015",
+      "fonte": null,
+      "descricao": "ADUBO QUÍMICO NPK, 10:10:10",
+      "unidade": "KG",
+      "quantidade": 1704.78,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": "180301",
+      "fonte": null,
+      "descricao": "GRAMA BATATAES EM PLACAS (PASPALUM NOTATUM)",
+      "unidade": "M2",
+      "quantidade": 3690.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": "180315",
+      "fonte": null,
+      "descricao": "CLOROFITO (CLOROPHYTUM CROMOSSUM)",
+      "unidade": "DÚZIA",
+      "quantidade": 35.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": "180367",
+      "fonte": null,
+      "descricao": "AZALÉA (RHODODENDRON INDICUM)",
+      "unidade": "UN",
+      "quantidade": 100.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": "180377",
+      "fonte": null,
+      "descricao": "DRACENA (DRACAENA FRAGRANS)",
+      "unidade": "UN",
+      "quantidade": 100.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "SERVIÇOS TÉCNICOS E COMPLEMENTARES",
+      "codigo": "10107",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 937.99,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "SERVIÇOS TÉCNICOS E COMPLEMENTARES",
+      "codigo": "30330",
+      "fonte": null,
+      "descricao": "BOMBEAMENTO DE CONCRETO",
+      "unidade": "M3",
+      "quantidade": 214.08,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": "SERVIÇOS TÉCNICOS E COMPLEMENTARES",
+      "codigo": "174501",
+      "fonte": null,
+      "descricao": "ANDAIMES METÁLICOS - FORNECIMENTO",
+      "unidade": "M3xM ÊS",
+      "quantidade": 675.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": "SERVIÇOS TÉCNICOS E COMPLEMENTARES",
+      "codigo": "174502",
+      "fonte": null,
+      "descricao": "ANDAIMES METÁLICOS - MONTAGEM E DESMONTAGEM",
+      "unidade": "M3",
+      "quantidade": 450.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 29
+    },
+    {
+      "grupo": "SERVIÇOS TÉCNICOS E COMPLEMENTARES",
+      "codigo": "110800",
+      "fonte": null,
+      "descricao": "CARRO POPULAR 50% EM OPERAÇÃO",
+      "unidade": "H",
+      "quantidade": 200.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 30
+    },
+    {
+      "grupo": "SERVIÇOS TÉCNICOS E COMPLEMENTARES",
+      "codigo": "32700",
+      "fonte": null,
+      "descricao": "ENGENHEIRO/ARQUITETO SÊNIOR",
+      "unidade": "H",
+      "quantidade": 200.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 31
+    },
+    {
+      "grupo": "SERVIÇOS TÉCNICOS E COMPLEMENTARES",
+      "codigo": "121200",
+      "fonte": null,
+      "descricao": "ENCARREGADO",
+      "unidade": "H",
+      "quantidade": 600.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 32
+    },
+    {
+      "grupo": null,
+      "codigo": "13200",
+      "fonte": null,
+      "descricao": "ESTAÇÃO TOTAL PRECISÃO 3\", TIPO \"LEICA\" TC1103 OU SIMILAR, INCLUSIVE ACESSÓRIOS",
+      "unidade": "H",
+      "quantidade": 160.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "34000",
+      "fonte": null,
+      "descricao": "TOPÓGRAFO",
+      "unidade": "H",
+      "quantidade": 160.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "170401",
+      "fonte": null,
+      "descricao": "LIMPEZA GERAL DA OBRA",
+      "unidade": "M2",
+      "quantidade": 4964.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 3
+    }
+  ],
+  "apelido": "VILA PRUDENTE, AV. THOMAZ DE MAGALHAES"
+}

@@ -1,0 +1,1105 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620250003729",
+    "numero_art": "2620250242881",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO - SECRETARIA MUNICIPAL DE ESPORTES E LAZER",
+    "cnpj_contratante": "46.392.122/0004-14",
+    "objeto": "Contratação de empresa especializada de engenharia para refroma no Parque Linear Invernada, Tv. Ubirassanga, 50 - Campo Belo, São Paulo - SP, CEP: 04614-050",
+    "processo_administrativo": "6019.2023/0003483-0",
+    "contrato": "58/SEME/2023",
+    "endereco_obra": "TRAVESSA UBIRASSANGA",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2023-12-20",
+    "data_fim": "2024-07-31",
+    "area_m2": 151.0,
+    "valor_contrato": 871272.96
+  },
+  "servicos": [
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "17-45-01",
+      "fonte": null,
+      "descricao": "ANDAIMES METÁLICOS - FORNECIMENTO",
+      "unidade": "M3xMES",
+      "quantidade": 40.5,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "17-45-02",
+      "fonte": null,
+      "descricao": "ANDAIMES METÁLICOS - MONTAGEM E DESMONTAGEM",
+      "unidade": "M3",
+      "quantidade": 13.5,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "01-05-40",
+      "fonte": null,
+      "descricao": "TELA PARA PROTEÇÃO DE OBRAS, MALHA 2 MM",
+      "unidade": "M2",
+      "quantidade": 43.2,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "01-05-02",
+      "fonte": null,
+      "descricao": "TAPUME CHAPA COMPENSADA RESINADA 10MM",
+      "unidade": "M2",
+      "quantidade": 50.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "17-60-46",
+      "fonte": null,
+      "descricao": "RETIRADA DE PISO INTERTRAVADO",
+      "unidade": "M2",
+      "quantidade": 151.37,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "17-70-46",
+      "fonte": null,
+      "descricao": "RECOLOCAÇÃO DE PISO INTERTRAVADO COM AREIA RECICLADA",
+      "unidade": "M2",
+      "quantidade": 75.68,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "17-30-02",
+      "fonte": null,
+      "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "17-30-01",
+      "fonte": null,
+      "descricao": "PLACA INAUGURAL - 600X500X3MM - CHAPA DE AÇO INOX EM BAIXO RELEVO",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "MOVIMENTO DE TERRA E ACERTO DE TERRENO",
+      "codigo": "01-02-02",
+      "fonte": null,
+      "descricao": "CORTE E ESPALHAMENTO DENTRO DA OBRA",
+      "unidade": "M3",
+      "quantidade": 23.18,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "MOVIMENTO DE TERRA E ACERTO DE TERRENO",
+      "codigo": "02-02-10",
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 57.96,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "VESTIÁRIOS, BANHEIROS E ÁREAS DE CONVIVÊNCIA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ESTRUTURA",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "VESTIÁRIOS, BANHEIROS E ÁREAS DE CONVIVÊNCIA",
+      "codigo": "02-01-03",
+      "fonte": null,
+      "descricao": "BROCA DE CONCRETO - DIAMETRO DE 30CM",
+      "unidade": "M",
+      "quantidade": 155.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "VESTIÁRIOS, BANHEIROS E ÁREAS DE CONVIVÊNCIA",
+      "codigo": "02-03-04",
+      "fonte": null,
+      "descricao": "FORMA COMUM DE TABUAS DE PINUS - NÃO RECUPERÁVEL",
+      "unidade": "M2",
+      "quantidade": 63.36,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "VESTIÁRIOS, BANHEIROS E ÁREAS DE CONVIVÊNCIA",
+      "codigo": "02-05-10",
+      "fonte": null,
+      "descricao": "CONCRETO FCK=25MPA - USINADO",
+      "unidade": "M3",
+      "quantidade": 21.11,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "VESTIÁRIOS, BANHEIROS E ÁREAS DE CONVIVÊNCIA",
+      "codigo": "02-04-04",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-50",
+      "unidade": "KG",
+      "quantidade": 1688.45,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "VESTIÁRIOS, BANHEIROS E ÁREAS DE CONVIVÊNCIA",
+      "codigo": "02-04-07",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-60",
+      "unidade": "KG",
+      "quantidade": 1266.34,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "VESTIÁRIOS, BANHEIROS E ÁREAS DE CONVIVÊNCIA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "SUPERESTRUTURA",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "VESTIÁRIOS, BANHEIROS E ÁREAS DE CONVIVÊNCIA",
+      "codigo": "03-01-04",
+      "fonte": null,
+      "descricao": "FORMA COMUM DE TÁBUAS DE PINUS - NÃO RECUPERÁVEL",
+      "unidade": "M2",
+      "quantidade": 151.86,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "VESTIÁRIOS, BANHEIROS E ÁREAS DE CONVIVÊNCIA",
+      "codigo": "03-03-18",
+      "fonte": null,
+      "descricao": "CONCRETO FCK = 25,0MPA - USINADO E BOMBEÁVEL",
+      "unidade": "M3",
+      "quantidade": 15.19,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "VESTIÁRIOS, BANHEIROS E ÁREAS DE CONVIVÊNCIA",
+      "codigo": "03-03-30",
+      "fonte": null,
+      "descricao": "BOMBEAMENTO DE CONCRETO",
+      "unidade": "M3",
+      "quantidade": 15.19,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "VESTIÁRIOS, BANHEIROS E ÁREAS DE CONVIVÊNCIA",
+      "codigo": "03-02-04",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-50",
+      "unidade": "KG",
+      "quantidade": 1214.91,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "VESTIÁRIOS, BANHEIROS E ÁREAS DE CONVIVÊNCIA",
+      "codigo": "03-02-07",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-60",
+      "unidade": "KG",
+      "quantidade": 911.18,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "VESTIÁRIOS, BANHEIROS E ÁREAS DE CONVIVÊNCIA",
+      "codigo": "03-04-21",
+      "fonte": null,
+      "descricao": "LAJE MISTA TRELIÇADA H-12CM COM CAPEAMENTO 4CM (16CM)",
+      "unidade": "M2",
+      "quantidade": 151.37,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "VESTIÁRIOS, BANHEIROS E ÁREAS DE CONVIVÊNCIA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "VEDAÇÕES",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "VESTIÁRIOS, BANHEIROS E ÁREAS DE CONVIVÊNCIA",
+      "codigo": "04-01-37",
+      "fonte": null,
+      "descricao": "BLOCOS VAZADOS DE CONCRETO ESTRUTURAL - 19CM - 12MPA",
+      "unidade": "M2",
+      "quantidade": 360.24,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "VESTIÁRIOS, BANHEIROS E ÁREAS DE CONVIVÊNCIA",
+      "codigo": "04-03-51",
+      "fonte": null,
+      "descricao": "VL.01 DIVISÓRIA DE ACABAMENTO LAMINADO MELAMÍNICO, MIOLO COLMÉIA - PAINEL/PAINEL",
+      "unidade": "M2",
+      "quantidade": 50.12,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "VESTIÁRIOS, BANHEIROS E ÁREAS DE CONVIVÊNCIA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ESQUADRIAS DE MADEIRA",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "VESTIÁRIOS, BANHEIROS E ÁREAS DE CONVIVÊNCIA",
+      "codigo": "07-01-09",
+      "fonte": null,
+      "descricao": "PM.09 - PORTA LISA \"ESPECIAL\" SÓLIDA - 102X210CM",
+      "unidade": "UN",
+      "quantidade": 10.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "VESTIÁRIOS, BANHEIROS E ÁREAS DE CONVIVÊNCIA",
+      "codigo": "07-01-50",
+      "fonte": null,
+      "descricao": "EM.01 - BATENTE DE MADEIRA (14CM) - PARA PORTA DE 1 FOLHA, SEM BANDEIRA",
+      "unidade": "JG",
+      "quantidade": 10.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "VESTIÁRIOS, BANHEIROS E ÁREAS DE CONVIVÊNCIA",
+      "codigo": "07-02-02",
+      "fonte": null,
+      "descricao": "CONJUNTO DE FECHADURA DE CILINDRO, 55MM, TRÁFEGO INTENSO, MAÇANETA EM ZAMAC, GUARNIÇÕES EM AÇO, ACABAMENTO CROMADO - PARA PORTA INTERNA OU EXTERNA",
+      "unidade": "UN",
+      "quantidade": 10.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "VESTIÁRIOS, BANHEIROS E ÁREAS DE CONVIVÊNCIA",
+      "codigo": "07-02-50",
+      "fonte": null,
+      "descricao": "TARGETA DE SOBREPOR,TIPO \"LIVRE-OCUPADO\"- 60X65MM",
+      "unidade": "UN",
+      "quantidade": 10.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "VESTIÁRIOS, BANHEIROS E ÁREAS DE CONVIVÊNCIA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ESQUADRIAS METÁLICAS/FERRO",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "VESTIÁRIOS, BANHEIROS E ÁREAS DE CONVIVÊNCIA",
+      "codigo": "08-01-25",
+      "fonte": null,
+      "descricao": "PF-23 - PORTA EM PERFIL DE CHAPA DOBRADA, VENEZIANA, ABRIR 1 FOLHA",
+      "unidade": "M2",
+      "quantidade": 18.48,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "VESTIÁRIOS, BANHEIROS E ÁREAS DE CONVIVÊNCIA",
+      "codigo": "08-01-10",
+      "fonte": null,
+      "descricao": "PP.01 - PORTA EM FERRO PERFILADO - INSTALAÇÃO SANITÁRIA PARA PORTADORES DE DEFICIÊNCIA - 90 X 210CM",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "VESTIÁRIOS, BANHEIROS E ÁREAS DE CONVIVÊNCIA",
+      "codigo": "07-02-02",
+      "fonte": null,
+      "descricao": "CONJUNTO DE FECHADURA DE CILINDRO, 55MM, TRÁFEGO INTENSO, MAÇANETA EM ZAMAC, GUARNIÇÕES EM AÇO, ACABAMENTO CROMADO - PARA PORTA INTERNA OU EXTERNA",
+      "unidade": "UN",
+      "quantidade": 8.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": "VESTIÁRIOS, BANHEIROS E ÁREAS DE CONVIVÊNCIA",
+      "codigo": "08-01-70",
+      "fonte": null,
+      "descricao": "EF.01 BATENTE ESPECIAL EM PERFIL DE CHAPA DOBRADA N. 14",
+      "unidade": "M",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "08-02-09",
+      "fonte": null,
+      "descricao": "CP.09 - CAIXILHO EM FERRO PERFILADO - MAXIMAR",
+      "unidade": "M2",
+      "quantidade": 13.42,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-02-02",
+      "fonte": null,
+      "descricao": "ELETRODUTO DE PVC RÍGIDO, ROSCÁVEL - 25MM (3/4\")",
+      "unidade": "M",
+      "quantidade": 210.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-02-03",
+      "fonte": null,
+      "descricao": "ELETRODUTO DE PVC RIGIDO, ROSCAVEL - 32MM (1\")",
+      "unidade": "M",
+      "quantidade": 165.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-03-05",
+      "fonte": null,
+      "descricao": "CABO 2,50MM2 - ISOLAMENTO PARA 0,7KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 630.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-03-06",
+      "fonte": null,
+      "descricao": "CABO 4,00MM2 - ISOLAMENTO PARA 0,7KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 360.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-03-08",
+      "fonte": null,
+      "descricao": "CABO 10,00MM2 - ISOLAMENTO PARA 0,7KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 135.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-04-68",
+      "fonte": null,
+      "descricao": "INTERRUPTOR DIFERENCIAL RESIDUAL BIPOLAR - 25A - SENSIBILIDADE 30MA - 220V",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-05-06",
+      "fonte": null,
+      "descricao": "QUADRO DE DISTRIBUIÇÃO EM CHAPA METALICA - PARA ATÉ 16 DISJUNTORES",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-05-20",
+      "fonte": null,
+      "descricao": "CAIXA DE PASSAGEM E LIGAÇÃO EM PVC OCTOGONAL FUNDO MOVEL 10X10CM, INCLUSIVE ESPELHO",
+      "unidade": "UN",
+      "quantidade": 26.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-07-01",
+      "fonte": null,
+      "descricao": "PONTO COM INTERRUPTOR SIMPLES - 1 TECLA, EM CAIXA 4\"X2\"",
+      "unidade": "UN",
+      "quantidade": 17.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-07-60",
+      "fonte": null,
+      "descricao": "PONTO COM TOMADA SIMPLES DE EMBUTIR - 110/220V CAIXA 4\"X2\"",
+      "unidade": "UN",
+      "quantidade": 12.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-07-90",
+      "fonte": null,
+      "descricao": "PONTO DE LUZ - CAIXA FUNDO MÓVEL",
+      "unidade": "UN",
+      "quantidade": 26.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-08-12",
+      "fonte": null,
+      "descricao": "MINI DISJUNTOR - TIPO EUROPEU (IEC) - BIPOLAR 6/25A",
+      "unidade": "UN",
+      "quantidade": 24.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-08-18",
+      "fonte": null,
+      "descricao": "MINI DISJUNTOR - TIPO EUROPEU (IEC) - TRIPOLAR 100A",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-09-53",
+      "fonte": null,
+      "descricao": "LUMINARIA COMERCIAL DE EMBUTIR COM DIFUSOR TRANSPARENTE OU FOSCO PARA 2 LÂMPADAS TUBULARES DE LED 18/20W COMPLETA",
+      "unidade": "UN",
+      "quantidade": 26.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-82-81",
+      "fonte": null,
+      "descricao": "LÂMPADA DE LED TUBULAR T8 - 18/20W",
+      "unidade": "UN",
+      "quantidade": 52.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRÁULICAS",
+      "codigo": "10-02-10",
+      "fonte": null,
+      "descricao": "CAIXA D'ÁGUA DE FIBRA DE VIDRO - 1500 LITROS",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRÁULICAS",
+      "codigo": "10-04-62",
+      "fonte": null,
+      "descricao": "TUBO DE PVC RÍGIDO, SOLDÁVEL (LINHA ÁGUA) - 25MM (3/4\")",
+      "unidade": "M",
+      "quantidade": 140.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRÁULICAS",
+      "codigo": "10-04-63",
+      "fonte": null,
+      "descricao": "TUBO DE PVC RIGIDO, SOLDAVEL (LINHA AGUA) - 32MM (1\")",
+      "unidade": "M",
+      "quantidade": 100.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRÁULICAS",
+      "codigo": "10-04-65",
+      "fonte": null,
+      "descricao": "TUBO DE PVC RÍGIDO, SOLDÁVEL (LINHA ÁGUA) - 50MM (1 1/2\")",
+      "unidade": "M",
+      "quantidade": 65.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRÁULICAS",
+      "codigo": "10-05-31",
+      "fonte": null,
+      "descricao": "REGISTRO DE GAVETA, METAL CROMADO - 3/4\"",
+      "unidade": "UN",
+      "quantidade": 10.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRÁULICAS",
+      "codigo": "10-05-51",
+      "fonte": null,
+      "descricao": "REGISTRO DE PRESSÃO, METAL CROMADO - 3/4\"",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRÁULICAS",
+      "codigo": "10-09-31",
+      "fonte": null,
+      "descricao": "TUBO DE PVC RIGIDO, PONTA E BOLSA (LINHA ESGOTO) - 50MM (2\")",
+      "unidade": "M",
+      "quantidade": 85.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRÁULICAS",
+      "codigo": "10-09-33",
+      "fonte": null,
+      "descricao": "TUBO DE PVC RÍGIDO, PONTA E BOLSA (LINHA ESGOTO) - 100MM (4\")",
+      "unidade": "M",
+      "quantidade": 100.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRÁULICAS",
+      "codigo": "10-09-98",
+      "fonte": null,
+      "descricao": "ENVELOPAMENTO DE TUBULAÇÃO ENTERRADA, COM CONCRETO",
+      "unidade": "M",
+      "quantidade": 185.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "REVESTIMENTO DE PAREDES E TETOS",
+      "codigo": "10-10-12",
+      "fonte": null,
+      "descricao": "CAIXA SIFONADA DE PVC RÍGIDO - 150X150MM",
+      "unidade": "UN",
+      "quantidade": 14.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "REVESTIMENTO DE PAREDES E TETOS",
+      "codigo": "10-10-94",
+      "fonte": null,
+      "descricao": "CAIXA DE LIGAÇÃO OU INSPEÇÃO - ESCAVAÇÃO E APILOAMENTO",
+      "unidade": "M3",
+      "quantidade": 4.61,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "REVESTIMENTO DE PAREDES E TETOS",
+      "codigo": "10-10-95",
+      "fonte": null,
+      "descricao": "CAIXA DE LIGAÇÃO OU INSPEÇÃO - LASTRO DE CONCRETO (FUNDO)",
+      "unidade": "M3",
+      "quantidade": 0.86,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "REVESTIMENTO DE PAREDES E TETOS",
+      "codigo": "10-10-97",
+      "fonte": null,
+      "descricao": "CAIXA DE LIGAÇÃO OU INSPEÇÃO - ALVENARIA DE 1 TIJOLO, REVESTIDA",
+      "unidade": "M2",
+      "quantidade": 23.04,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "REVESTIMENTO DE PAREDES E TETOS",
+      "codigo": "10-10-98",
+      "fonte": null,
+      "descricao": "CAIXA DE LIGAÇÃO OU INSPEÇÃO - TAMPA DE CONCRETO",
+      "unidade": "M2",
+      "quantidade": 9.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "REVESTIMENTO DE PAREDES E TETOS",
+      "codigo": "10-13-03",
+      "fonte": null,
+      "descricao": "BACIA SANITÁRIA COM CAIXA ACOPLADA DE LOUÇA BRANCA",
+      "unidade": "UN",
+      "quantidade": 8.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "REVESTIMENTO DE PAREDES E TETOS",
+      "codigo": "10-13-25",
+      "fonte": null,
+      "descricao": "MICTÓRIO INDIVIDUAL DE LOUÇA BRANCA, TIPO BACIA - DE CENTRO",
+      "unidade": "UN",
+      "quantidade": 4.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "REVESTIMENTO DE PAREDES E TETOS",
+      "codigo": "10-13-05",
+      "fonte": null,
+      "descricao": "BACIA SANITÁRIA ALTEADA PARA PORTADORES DE DEFICIÊNCIA FÍSICA",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "REVESTIMENTO DE PAREDES E TETOS",
+      "codigo": "10-13-14",
+      "fonte": null,
+      "descricao": "LAVATORIO DE LOUÇA INDIVIDUAL PARA PORTADORES DE DEFICIÊNCIA FÍSICA",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "REVESTIMENTO DE PAREDES E TETOS",
+      "codigo": "10-13-08",
+      "fonte": null,
+      "descricao": "LAVATÓRIO DE LOUÇA BRANCA, SEM COLUNA, CAPACIDADE MÍNIMA 5L, EXCLUSIVE TORNEIRA",
+      "unidade": "UN",
+      "quantidade": 6.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "REVESTIMENTO DE PAREDES E TETOS",
+      "codigo": "10-14-75",
+      "fonte": null,
+      "descricao": "TAMPO PARA BANCADA UMIDA - GRANITO CINZA ANDORINHA - ESPESSURA 2CM",
+      "unidade": "M2",
+      "quantidade": 3.12,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "REVESTIMENTO DE PAREDES E TETOS",
+      "codigo": "10-14-10",
+      "fonte": null,
+      "descricao": "TORNEIRA DE MESA COM ACIONAMENTO MANUAL E FECHAMENTO AUTOMÁTICO",
+      "unidade": "UN",
+      "quantidade": 6.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "REVESTIMENTO DE PAREDES E TETOS",
+      "codigo": "10-14-37",
+      "fonte": null,
+      "descricao": "CHUVEIRO FIXO DE METAL CROMADO CRIVO COM DIAMETRO DE NO MÍNIMO 6CM",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "REVESTIMENTO DE PAREDES E TETOS",
+      "codigo": "11-01-13",
+      "fonte": null,
+      "descricao": "REBOCO INTERNO - ARGAMASSA PRÉ-FABRICADA",
+      "unidade": "M2",
+      "quantidade": 543.68,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "REVESTIMENTO DE PAREDES E TETOS",
+      "codigo": "11-03-13",
+      "fonte": null,
+      "descricao": "REBOCO EXTERNO - ARGAMASSA PRÉ-FABRICADA",
+      "unidade": "M2",
+      "quantidade": 207.78,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "REVESTIMENTO DE PAREDES E TETOS",
+      "codigo": "11-01-08",
+      "fonte": null,
+      "descricao": "EMBOÇO - ARGAMASSA MISTA DE CIMENTO, CAL E AREIA 1:4/12",
+      "unidade": "M2",
+      "quantidade": 823.29,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "REVESTIMENTO DE PAREDES E TETOS",
+      "codigo": "11-02-01",
+      "fonte": null,
+      "descricao": "CHAPISCO COMUM - ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 823.29,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "REVESTIMENTO DE PAREDES E TETOS",
+      "codigo": "11-02-29",
+      "fonte": null,
+      "descricao": "AZULEJOS, JUNTA AMARRAÇÃO OU A PRUMO - ASSENTES COM ARGAMASSA COLANTE",
+      "unidade": "M2",
+      "quantidade": 329.68,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "VIDROS",
+      "codigo": "14-01-05",
+      "fonte": null,
+      "descricao": "VIDRO LISO COMUM, TRANSPARENTE INCOLOR - ESPESSURA 6MM",
+      "unidade": "M2",
+      "quantidade": 13.43,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "PINTURAS",
+      "codigo": "15-01-16",
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA - REBOCO COM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 823.29,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "PINTURAS",
+      "codigo": "15-02-11",
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO - ESQUADRIAS E PEÇAS DE MARCENARIA, COM EMASSAMENTO",
+      "unidade": "M2",
+      "quantidade": 42.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "PINTURAS",
+      "codigo": "15-03-10",
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO - ESQUADRIAS E PEÇAS DE SERRALHERIA",
+      "unidade": "M2",
+      "quantidade": 44.52,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "PINTURAS",
+      "codigo": "15-03-04",
+      "fonte": null,
+      "descricao": "TINTA BETUMINOSA - INTERIOR DE CALHAS, RUFOS E RINCÕES METÁLICOS",
+      "unidade": "M",
+      "quantidade": 36.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "PISOS",
+      "codigo": "13-02-11",
+      "fonte": null,
+      "descricao": "PISO ESTRUTURAL EM CONCRETO ARMADO - 7CM",
+      "unidade": "M2",
+      "quantidade": 151.37,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "PISOS",
+      "codigo": "05-01-40",
+      "fonte": null,
+      "descricao": "REGULARIZAÇÃO COM ARGAMASSA DE CIMENTO E AREIA - TRAÇO 1:3, ESPESSURA MÉDIA 30MM",
+      "unidade": "M2",
+      "quantidade": 150.12,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "PISOS",
+      "codigo": "13-02-40",
+      "fonte": null,
+      "descricao": "PISO CERÂMICO ESMALTADO (PEI-5)",
+      "unidade": "M2",
+      "quantidade": 150.12,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "PISOS / PASSEIO DE CONCRETO ARMADO, INCLUINDO O PREPARO DA CAIXA, LASTRO DE BRITA, TELA METÁLICA E A MÃO DE OBRA REFERENTE AOS SERVIÇOS NO CONCRETO:",
+      "codigo": "17-02-47",
+      "fonte": null,
+      "descricao": "LANÇAMENTO E ACABAMENTO (RIPADO E DESEMPENADO), EXCLUSIVE O FORNECIMENTO DO CONCRETO",
+      "unidade": "M3",
+      "quantidade": 14.96,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "PISOS / PASSEIO DE CONCRETO ARMADO, INCLUINDO O PREPARO DA CAIXA, LASTRO DE BRITA, TELA METÁLICA E A MÃO DE OBRA REFERENTE AOS SERVIÇOS NO CONCRETO:",
+      "codigo": "03-03-18",
+      "fonte": null,
+      "descricao": "CONCRETO FCK = 25,0MPA - USINADO E BOMBEÁVEL",
+      "unidade": "M3",
+      "quantidade": 14.9,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "PISOS / PASSEIO DE CONCRETO ARMADO, INCLUINDO O PREPARO DA CAIXA, LASTRO DE BRITA, TELA METÁLICA E A MÃO DE OBRA REFERENTE AOS SERVIÇOS NO CONCRETO:",
+      "codigo": "03-03-30",
+      "fonte": null,
+      "descricao": "BOMBEAMENTO DE CONCRETO",
+      "unidade": "M3",
+      "quantidade": 14.9,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "PISOS / PASSEIO DE CONCRETO ARMADO, INCLUINDO O PREPARO DA CAIXA, LASTRO DE BRITA, TELA METÁLICA E A MÃO DE OBRA REFERENTE AOS SERVIÇOS NO CONCRETO:",
+      "codigo": "18-12-02",
+      "fonte": null,
+      "descricao": "IC.02 CONJUNTO MESA E BANCOS EM CONCRETO",
+      "unidade": "CJ",
+      "quantidade": 4.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "COBERTURA",
+      "codigo": "06-01-30",
+      "fonte": null,
+      "descricao": "FORNECIMENTO DE ESTRUTURA METÁLICA PARA COBERTURA",
+      "unidade": "KG",
+      "quantidade": 1120.12,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "COBERTURA",
+      "codigo": "06-01-31",
+      "fonte": null,
+      "descricao": "MONTAGEM DE ESTRUTURA METÁLICA PARA COBERTURA",
+      "unidade": "KG",
+      "quantidade": 1110.89,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "COBERTURA",
+      "codigo": "06-02-49",
+      "fonte": null,
+      "descricao": "TELHA TRAPEZOIDAL DUP. AÇO GALVANIZADO E=0,5MM, REVESTIMENTO B, H=40MM PINTURA MIOLO POLIURETANO E=30MM",
+      "unidade": "M2",
+      "quantidade": 57.96,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "COBERTURA",
+      "codigo": "10-11-33",
+      "fonte": null,
+      "descricao": "RUFO EM CHAPA DE AÇO GALVANIZADO N.24 - DESENVOLVIMENTO 50CM",
+      "unidade": "M",
+      "quantidade": 69.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "COBERTURA",
+      "codigo": "10-11-01",
+      "fonte": null,
+      "descricao": "CALHA EM CHAPA DE AÇO GALVANIZADO N.24 - DESENVOLVIMENTO 33CM",
+      "unidade": "M",
+      "quantidade": 36.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "COBERTURA",
+      "codigo": "10-12-16",
+      "fonte": null,
+      "descricao": "CONDUTOR EM TUBO DE PVC RÍGIDO, PONTA E BOLSA - 100MM (4\")",
+      "unidade": "M",
+      "quantidade": 16.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "COBERTURA",
+      "codigo": "09-05-55",
+      "fonte": null,
+      "descricao": "CAIXA DE PASSAGEM EM ALVENARIA - ESCAVAÇÃO E APILOAMENTO",
+      "unidade": "M3",
+      "quantidade": 4.1,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "COBERTURA",
+      "codigo": "09-05-56",
+      "fonte": null,
+      "descricao": "CAIXA DE PASSAGEM EM ALVENARIA - LASTRO DE BRITA (FUNDO)",
+      "unidade": "M3",
+      "quantidade": 0.77,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "COBERTURA",
+      "codigo": "09-05-57",
+      "fonte": null,
+      "descricao": "CAIXA DE PASSAGEM EM ALVENARIA - LASTRO DE CONCRETO (FUNDO)",
+      "unidade": "M3",
+      "quantidade": 0.77,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "COBERTURA",
+      "codigo": "09-05-59",
+      "fonte": null,
+      "descricao": "CAIXA DE PASSAGEM EM ALVENARIA - PAREDE DE 1 TIJOLO, REVESTIDA",
+      "unidade": "M2",
+      "quantidade": 20.48,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "COBERTURA",
+      "codigo": "09-05-60",
+      "fonte": null,
+      "descricao": "CAIXA DE PASSAGEM EM ALVENARIA - TAMPA DE CONCRETO",
+      "unidade": "M2",
+      "quantidade": 6.48,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "COBERTURA",
+      "codigo": "10-12-17",
+      "fonte": null,
+      "descricao": "CONDUTOR EM TUBO DE PVC RIGIDO, PONTA E BOLSA - 150MM (6\")",
+      "unidade": "M",
+      "quantidade": 220.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "COBERTURA",
+      "codigo": "10-12-98",
+      "fonte": null,
+      "descricao": "ENVELOPAMENTO DE TUBULAÇÃO ENTERRADA, COM CONCRETO",
+      "unidade": "M",
+      "quantidade": 220.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "ADMINISTRAÇÃO LOCAL E ELABORAÇÃO DE PROJETOS",
+      "codigo": "20-03-61",
+      "fonte": null,
+      "descricao": "PROJETO EXECUTIVO (PRANCHA A1)",
+      "unidade": "UN",
+      "quantidade": 4.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "ADMINISTRAÇÃO LOCAL E ELABORAÇÃO DE PROJETOS",
+      "codigo": "20-03-03",
+      "fonte": null,
+      "descricao": "ENGENHEIRO/ARQUITETO JUNIOR",
+      "unidade": "H",
+      "quantidade": 130.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "ADMINISTRAÇÃO LOCAL E ELABORAÇÃO DE PROJETOS",
+      "codigo": "12-12-00",
+      "fonte": null,
+      "descricao": "ENCARREGADO",
+      "unidade": "H",
+      "quantidade": 396.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "ADMINISTRAÇÃO LOCAL E ELABORAÇÃO DE PROJETOS",
+      "codigo": "03-41-00",
+      "fonte": null,
+      "descricao": "AJUDANTE GERAL",
+      "unidade": "H",
+      "quantidade": 396.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 21
+    }
+  ],
+  "apelido": "PARQUE LINEAR INVERNADA"
+}

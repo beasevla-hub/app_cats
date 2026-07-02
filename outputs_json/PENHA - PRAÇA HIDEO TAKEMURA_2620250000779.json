@@ -1,0 +1,325 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620250000779",
+    "numero_art": "28027230221473081",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA PENHA",
+    "cnpj_contratante": "05.640.843/0001-76",
+    "objeto": "REVITALIZAÇÃO, INSTALAÇÃO DE PLAYGROUND E ATISNA PRAÇA HIDEO TAKEMURA SITUADO NA RUA OLGA ARTACHO, 530 - JD PIRATININGASÃO PAULO - SP",
+    "processo_administrativo": "6048.2022/0002880-1",
+    "contrato": null,
+    "endereco_obra": "RUA OLGA ARTACHO",
+    "cidade": "SÃO PAULO",
+    "estado": "SP",
+    "data_inicio": "2022-09-01",
+    "data_fim": "2022-10-31",
+    "area_m2": 2400.0,
+    "valor_contrato": 176387.97
+  },
+  "servicos": [
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TABELA DE CUSTOS UNITÁRIOS DE EDIF",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "10-16-03",
+      "fonte": null,
+      "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "20-03-61",
+      "fonte": null,
+      "descricao": "PROJETO EXECUTIVO (PRANCHA A1)",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "02-50-04",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MANUAL DE CONCRETO ARMADO",
+      "unidade": "M3",
+      "quantidade": 35.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "01-01-07",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 35.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "17-60-50",
+      "fonte": null,
+      "descricao": "RETIRADA DE BRINQUEDOS",
+      "unidade": "UN",
+      "quantidade": 15.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "PASSEIO",
+      "codigo": "17-02-43",
+      "fonte": null,
+      "descricao": "PASSEIO DE CONCRETO ARMADO, FCK=25MPA, INCLUINDO PREPARO DA CAIXA E LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 22.2,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "PASSEIO",
+      "codigo": "03-03-15",
+      "fonte": null,
+      "descricao": "CONCRETO FCK = 20,0MPA - USINADO",
+      "unidade": "M3",
+      "quantidade": 7.5,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "PASSEIO",
+      "codigo": "03-02-09",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-60 - TELA",
+      "unidade": "KG",
+      "quantidade": 234.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "PASSEIO",
+      "codigo": "01-04-15",
+      "fonte": null,
+      "descricao": "LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 3.75,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "PASSEIO",
+      "codigo": "17-01-32",
+      "fonte": null,
+      "descricao": "FP.02 - GRADIL DE FERRO PERFILADO, TIPO PARQUE COM MURETA - GPM-1/DEPAVE",
+      "unidade": "M",
+      "quantidade": 25.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "MESAS E BANCOS",
+      "codigo": "18B025",
+      "fonte": null,
+      "descricao": "MESA (1) BANCO (3) CONCRETO APARANTE (JOGO DAMAS) DEPAVE (MB99)",
+      "unidade": "CJ",
+      "quantidade": 4.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "MESAS E BANCOS",
+      "codigo": "18-12-01",
+      "fonte": null,
+      "descricao": "IC.01 - BANCO DE CONCRETO POLIDO COM PINTURA EM POLIURETANO",
+      "unidade": "M",
+      "quantidade": 8.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "PONTOS DE ILUMINAÇÃO",
+      "codigo": "09-20-33",
+      "fonte": null,
+      "descricao": "POSTE DE AÇO GALVANIZADO TIPO RETO, FLANGEADO H=5M COM LUMINÁRIA HERMÉTICA EM ALUMÍNIO FUNDIDO PARA LÂMPADA DE VAPOR DE MERCÚRIO DE 250W - COM APROVAÇÃO DE ILUME/ PMSP",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "PLAYGROUND",
+      "codigo": "18-14-42",
+      "fonte": null,
+      "descricao": "PLAYGROUND BRINQUEDOS DE MADEIRA - CASA TARZAN COM RAMPA ESCALADA, ESCORREGADOR E ESCADA MARINHEIRO",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "PLAYGROUND",
+      "codigo": "18-14-45",
+      "fonte": null,
+      "descricao": "PLAYGROUND BRINQUEDOS DE MADEIRA - ESCORREGADOR (ALT.=1,80M COMP.=3,00M)",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "PLAYGROUND",
+      "codigo": "18-14-46",
+      "fonte": null,
+      "descricao": "PLAYGROUND BRINQUEDOS DE MADEIRA - GANGORRA DUPLA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "PLAYGROUND",
+      "codigo": "18-14-48",
+      "fonte": null,
+      "descricao": "PLAYGROUND BRINQUEDOS DE MADEIRA - BALANÇA DUPLA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "PLAYGROUND",
+      "codigo": "18-15-01",
+      "fonte": null,
+      "descricao": "APARELHOS DE GINÁTICA EM MADEIRA - BARRA DUPLA EM DOIS NIVEIS",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "PLAYGROUND",
+      "codigo": "15-03-12",
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO - ESTRUTURAS METÁLICAS",
+      "unidade": "M2",
+      "quantidade": 10.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "PLAYGROUND",
+      "codigo": "18-14-49",
+      "fonte": null,
+      "descricao": "PLAYGROUND BRINQUEDOS DE MADEIRA - ESCADA HORIZONTAL",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "ATI'S",
+      "codigo": "18-16-08",
+      "fonte": null,
+      "descricao": "REMADA SENTADA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "ATI'S",
+      "codigo": "17B336",
+      "fonte": null,
+      "descricao": "ESTAÇÃO PLACA GIRATORIA (GIRO VERTICAL DUPLO)",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "ATI'S",
+      "codigo": "17B338",
+      "fonte": null,
+      "descricao": "ESTAÇÃO ESCADA E RAMPA (SIMULADOR DE ESCADA)",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "ATI'S",
+      "codigo": "17B366",
+      "fonte": null,
+      "descricao": "SURF DUPLO CONJUGADO",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "ATI'S",
+      "codigo": "17B376",
+      "fonte": null,
+      "descricao": "ALONGADOR COM 3 ALTURAS CONJUGADO",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "ATI'S",
+      "codigo": "17B337",
+      "fonte": null,
+      "descricao": "ESTAÇÃO SENTA E LEVANTA (PRESSAO DE PERNAS)",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "ATI'S",
+      "codigo": "18-16-15",
+      "fonte": null,
+      "descricao": "BICICLETA DE CADEIRA INDIVIDUAL",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "ATI'S",
+      "codigo": "18-16-04",
+      "fonte": null,
+      "descricao": "SIMULADOR DE CAVALGADA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "ATI'S",
+      "codigo": "18-16-19",
+      "fonte": null,
+      "descricao": "PLACA ORIENTADORA VERTICAL",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 9
+    }
+  ],
+  "apelido": "PENHA - PRAÇA HIDEO TAKEMURA"
+}

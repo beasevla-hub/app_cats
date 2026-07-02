@@ -1,0 +1,425 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620250006712",
+    "numero_art": "28027230230261196",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA VILA PRUDENTE",
+    "cnpj_contratante": "05.969.123/0001-59",
+    "objeto": "CONTRATAÇÃO DE EMPRESA DE ENGENHARIA OU ARQUITETURA PARA EXECUÇÃO DE OBRAS DE REVITALIZAÇÃO DA PRAÇA MAIRARA.",
+    "processo_administrativo": "6060.2022/0003365-7",
+    "contrato": "01 SUB-VP/2023",
+    "endereco_obra": "PRAÇA MAIRARA",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2023-02-17",
+    "data_fim": "2023-04-18",
+    "area_m2": 200.17,
+    "valor_contrato": 205661.92
+  },
+  "servicos": [
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 103.55,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TELA PARA PROTEÇÃO DE OBRAS, MALHA 2 MM",
+      "unidade": "M2",
+      "quantidade": 210.24,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "ESPAÇO PLAYGROUND",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "LIMPEZA MANUAL GERAL INCLUSIVE REMOÇÃO DE COBERTURA VEGETAL - TRONCO ATÉ 10CM - SEM TRANSPORTE",
+      "unidade": "M2",
+      "quantidade": 146.32,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "ESPAÇO PLAYGROUND",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL, PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 9.18,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "ESPAÇO PLAYGROUND",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 91.85,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "ESPAÇO PLAYGROUND",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 6.43,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "ESPAÇO PLAYGROUND",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "FORMA COMUM DE TÁBUAS DE PINUS - NÃO RECUPERÁVEL",
+      "unidade": "M2",
+      "quantidade": 4.6,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "ESPAÇO PLAYGROUND",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-60 - TELA",
+      "unidade": "KG",
+      "quantidade": 285.67,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "ESPAÇO PLAYGROUND",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CONCRETO FCK=25MPA - USINADO",
+      "unidade": "M3",
+      "quantidade": 11.02,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "03-03-30",
+      "fonte": null,
+      "descricao": "BOMBEAMENTO DE CONCRETO",
+      "unidade": "M3",
+      "quantidade": 50.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "08-60-01",
+      "fonte": null,
+      "descricao": "RETIRADA DE ESQUADRIAS METÁLICAS EM GERAL, PORTAS OU CAIXILHOS",
+      "unidade": "M2",
+      "quantidade": 15.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "11-80-01",
+      "fonte": null,
+      "descricao": "REPAROS EM TRINCAS E RACHADURAS",
+      "unidade": "M",
+      "quantidade": 143.34,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "11-80-05",
+      "fonte": null,
+      "descricao": "REPAROS EM EMBOÇO - ARGAMASSA MISTA DE CIMENTO, CAL E AREIA 1:4/12",
+      "unidade": "M2",
+      "quantidade": 25.2,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "13-02-04",
+      "fonte": null,
+      "descricao": "ACABAMENTO DE PISO DE CONCRETO TIPO BAMBOLÊ",
+      "unidade": "M2",
+      "quantidade": 91.85,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "13-02-92",
+      "fonte": null,
+      "descricao": "CHAPAS DE BORRACHA SINTÉTICA ASSENTES COM ARGAMASSA, E=8 A 10MM - LISAS",
+      "unidade": "M2",
+      "quantidade": 91.85,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "15-01-15",
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 36.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "15-50-03",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE PINTURA EM ALVENARIA E CONCRETO - LIXA",
+      "unidade": "M2",
+      "quantidade": 36.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "17-01-27",
+      "fonte": null,
+      "descricao": "FP.04-ALAMBRADO EM TUBO GALVANIZADO E TELA GALVANIZADA H=2,00M",
+      "unidade": "M",
+      "quantidade": 90.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "17-01-41",
+      "fonte": null,
+      "descricao": "PP.20/24-PORTÃO EM FERRO PERFILADO COM TELA, 1 FOLHA",
+      "unidade": "M2",
+      "quantidade": 4.2,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "17-50-21",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MANUAL DE CONCRETO ARMADO",
+      "unidade": "M3",
+      "quantidade": 11.02,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "17-60-95",
+      "fonte": null,
+      "descricao": "RETIRADA DE ALAMBRADO EM TELA INCLUSIVE ESTRUTURA DE SUSTENTAÇÃO (FP.04)",
+      "unidade": "M",
+      "quantidade": 90.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": "18-14-43",
+      "fonte": null,
+      "descricao": "PLAYGROUND BRINQUEDOS DE MADEIRA - CASA TARZAN COM ESCORREGADOR E ESCADA MARINHEIRO",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": null,
+      "codigo": "18-14-45",
+      "fonte": null,
+      "descricao": "PLAYGROUND BRINQUEDOS DE MADEIRA - ESCORREGADOR (ALT.=1,80M COMP.=3,00M)",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": null,
+      "codigo": "18-14-46",
+      "fonte": null,
+      "descricao": "PLAYGROUND BRINQUEDOS DE MADEIRA - GANGORRA DUPLA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": null,
+      "codigo": "18-14-48",
+      "fonte": null,
+      "descricao": "PLAYGROUND BRINQUEDOS DE MADEIRA - BALANÇA DUPLA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": null,
+      "codigo": "18-14-49",
+      "fonte": null,
+      "descricao": "PLAYGROUND BRINQUEDOS DE MADEIRA - ESCADA HORIZONTAL",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "ATI'S, MOBILIÁRIOS URBANOS E PAISAGISMO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "LIMPEZA MANUAL GERAL INCLUSIVE REMOÇÃO DE COBERTURA VEGETAL - TRONCO ATÉ 10CM - SEM TRANSPORTE",
+      "unidade": "M2",
+      "quantidade": 75.5,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "ATI'S, MOBILIÁRIOS URBANOS E PAISAGISMO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL, PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 5.06,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "ATI'S, MOBILIÁRIOS URBANOS E PAISAGISMO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "ATI'S, MOBILIÁRIOS URBANOS E PAISAGISMO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CONCRETO FCK=20,0MPA - VIRADO NA OBRA",
+      "unidade": "M3",
+      "quantidade": 4.87,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "ATI'S, MOBILIÁRIOS URBANOS E PAISAGISMO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PISO/PASSEIO DE CONCRETO ARMADO, INCLUINDO O PREPARO DA CAIXA, LASTRO DE BRITA, TELA METÁLICA E A MÃO DE OBRA REFERENTE AOS SERVIÇOS NO CONCRETO: LANÇAMENTO E ACABAMENTO (RIPADO E DESEMPENADO), EXCLUSIVE O FORNECIMENTO DO CONCRETO",
+      "unidade": "M3",
+      "quantidade": 4.87,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "ATI'S, MOBILIÁRIOS URBANOS E PAISAGISMO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MANUAL DE CONCRETO ARMADO",
+      "unidade": "M3",
+      "quantidade": 4.87,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "ATI'S, MOBILIÁRIOS URBANOS E PAISAGISMO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "GRAMA ESMERALDA",
+      "unidade": "M2",
+      "quantidade": 120.8,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "ATI'S, MOBILIÁRIOS URBANOS E PAISAGISMO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "SURF DUPLO CONJUGADO (EXERCITADOR PARA IDOSOS)",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "ATI'S, MOBILIÁRIOS URBANOS E PAISAGISMO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ROTAÇÃO DIAGONAL DUPLA - APARELHO DUPLO CONJUGADO",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "ATI'S, MOBILIÁRIOS URBANOS E PAISAGISMO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "MESA(1) BANCO(3) CONCRETO APARENTE (JOGO DAMAS)DEPAVE (MB99)",
+      "unidade": "CJ",
+      "quantidade": 3.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "LIMPEZA GERAL DA OBRA",
+      "unidade": "M2",
+      "quantidade": 200.17,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PROJETO BÁSICO (PRANCHA A1)",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ENGENHEIRO/ARQUITETO PLENO",
+      "unidade": "H",
+      "quantidade": 48.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 3
+    }
+  ],
+  "apelido": "PRAÇA MAIRARA"
+}

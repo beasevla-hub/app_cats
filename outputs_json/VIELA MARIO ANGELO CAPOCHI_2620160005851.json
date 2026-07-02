@@ -1,0 +1,315 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620160005851",
+    "numero_art": "92221220160389385",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA CIDADE ADEMAR",
+    "cnpj_contratante": "05.587.823/0001-89",
+    "objeto": "Contratação de empresa de engenharia especializada para execução de reforma da Viela localizada na Rua José Santana Teixeira com a Rua Mario Ângelo Capochi – Jardim São Carlos - SP/AD.",
+    "processo_administrativo": "2011-0.181.904-5",
+    "contrato": "014/SP-AD/2011",
+    "endereco_obra": "RUA JOSÉ SANTANA TEIXEIRA",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2011-12-29",
+    "data_fim": "2012-01-28",
+    "area_m2": 172.8,
+    "valor_contrato": 78984.99
+  },
+  "servicos": [
+    {
+      "grupo": null,
+      "codigo": "01-01-06",
+      "fonte": null,
+      "descricao": "CARGA MANUAL E REMOÇÃO DE ENTULHO, INCLUSIVE TRANSPORTE ATÉ 1 KM",
+      "unidade": "M3",
+      "quantidade": 53.89,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "01-01-07",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 20.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "01-01-10",
+      "fonte": null,
+      "descricao": "TRANSPORTE DE ENTULHO POR CAMINHÃO BASCULANTE, A PARTIR DE 1KM",
+      "unidade": "M3XKM",
+      "quantidade": 1616.7,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "01-02-01",
+      "fonte": null,
+      "descricao": "CORTE",
+      "unidade": "M3",
+      "quantidade": 48.13,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "01-02-11",
+      "fonte": null,
+      "descricao": "CARGA MANUAL E REMOÇÃO DE TERRA, INCLUSIVE TRANSPORTE ATÉ 1 KM",
+      "unidade": "M3",
+      "quantidade": 62.5,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "01-03-05",
+      "fonte": null,
+      "descricao": "FORNECIMENTO DE TERRA, INCLUSIVE CORTE, CARGA, DESCARGA E TRANSPORTE ATÉ 1KM",
+      "unidade": "M3",
+      "quantidade": 16.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "01-03-10",
+      "fonte": null,
+      "descricao": "TRANSPORTE DE TERRA POR CAMINHÃO BASCULANTE, A PARTIR DE 1KM",
+      "unidade": "M3XKM",
+      "quantidade": 641.68,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "01-04-10",
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 165.89,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "02-01-03",
+      "fonte": null,
+      "descricao": "BROCA DE CONCRETO - DIÂMETRO DE 30CM",
+      "unidade": "M",
+      "quantidade": 69.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "02-02-15",
+      "fonte": null,
+      "descricao": "LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 2.78,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "02-02-16",
+      "fonte": null,
+      "descricao": "LASTRO DE CONCRETO - 150KG CIM/M3",
+      "unidade": "M3",
+      "quantidade": 2.7,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "02-03-04",
+      "fonte": null,
+      "descricao": "FORMA COMUM DE TÁBUAS DE PINUS - NÃO RECUPERÁVEL",
+      "unidade": "M2",
+      "quantidade": 55.2,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": "02-04-04",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-50",
+      "unidade": "KG",
+      "quantidade": 82.88,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": null,
+      "codigo": "02-04-07",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-60",
+      "unidade": "KG",
+      "quantidade": 41.48,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": null,
+      "codigo": "02-04-09",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-60 - TELA",
+      "unidade": "KG",
+      "quantidade": 1383.8,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": null,
+      "codigo": "03-03-08",
+      "fonte": null,
+      "descricao": "CONCRETO FCK = 25,0MPA - VIRADO NA OBRA",
+      "unidade": "M3",
+      "quantidade": 5.58,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": null,
+      "codigo": "04-01-42",
+      "fonte": null,
+      "descricao": "BLOCOS VAZADOS DE CONCRETO - 19CM",
+      "unidade": "M2",
+      "quantidade": 46.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": null,
+      "codigo": "04-01-98",
+      "fonte": null,
+      "descricao": "VERGAS, CINTAS E PILARETES DE CONCRETO",
+      "unidade": "M3",
+      "quantidade": 3.6,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": null,
+      "codigo": "10-11-86",
+      "fonte": null,
+      "descricao": "HV.22 - CANALETA DE ALVENARIA PARA GRELHA OU TAMPA DE CONCRETO L=30CM",
+      "unidade": "M",
+      "quantidade": 92.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": null,
+      "codigo": "11-03-10",
+      "fonte": null,
+      "descricao": "EMBOÇO EXTERNO - ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 92.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": null,
+      "codigo": "11-03-13",
+      "fonte": null,
+      "descricao": "REBOCO EXTERNO - ARGAMASSA PRÉ-FABRICADA",
+      "unidade": "M2",
+      "quantidade": 92.08,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": null,
+      "codigo": "13-01-10",
+      "fonte": null,
+      "descricao": "LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 13.8,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": null,
+      "codigo": "13-01-15",
+      "fonte": null,
+      "descricao": "LASTRO DE CONCRETO - 200KG CIM/M3",
+      "unidade": "M3",
+      "quantidade": 20.7,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": null,
+      "codigo": "13-02-01",
+      "fonte": null,
+      "descricao": "CIMENTADO COMUM, DESEMPENADO - ESPESSURA 20MM",
+      "unidade": "M2",
+      "quantidade": 138.38,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": null,
+      "codigo": "15-01-15",
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 92.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": null,
+      "codigo": "17-04-01",
+      "fonte": null,
+      "descricao": "LIMPEZA GERAL DA OBRA",
+      "unidade": "M2",
+      "quantidade": 172.8,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "17-05-25",
+      "fonte": null,
+      "descricao": "DP.05 - CORRIMÃO EM TUBO GALVANIZADO COM GUARDA CORPO",
+      "unidade": "M",
+      "quantidade": 16.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "17-50-21",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MANUAL DE CONCRETO ARMADO",
+      "unidade": "M3",
+      "quantidade": 41.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "11-02-01",
+      "fonte": null,
+      "descricao": "CHAPISCO COMUM ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 92.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    }
+  ],
+  "apelido": "VIELA MARIO ANGELO CAPOCHI"
+}

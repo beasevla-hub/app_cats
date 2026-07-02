@@ -1,0 +1,535 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620240024234",
+    "numero_art": "28027230221888270",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA SÃO MATEUS",
+    "cnpj_contratante": "05.639.268/0001-91",
+    "objeto": "OBJETO:A PRESENTE LICITAÇÃO TEM COMO OBJETO REVITALIZAÇÃO DE PISTA DE SKATE, NA PRAÇA DO VINHO, SITO A AVENIDA PIRANGUÇÚ, 175 - JARDIM IMPERADOR, CONFORME ESPECIFICAÇÕES CONTIDAS NO ANEXO II DO PRESENTE EDITAL.",
+    "processo_administrativo": "6054.2022/0001992-9",
+    "contrato": "043/SUB-SM/2022",
+    "endereco_obra": "AVENIDA PIRANGUÇÚ, 175",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2022-11-21",
+    "data_fim": "2023-04-21",
+    "area_m2": 928.7,
+    "valor_contrato": 685661.58
+  },
+  "servicos": [
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "01-01-08",
+      "fonte": null,
+      "descricao": "LIMPEZA MANUAL GERAL INCLUSIVE REMOÇÃO DE COBERTURA VEGETAL - TRONCO ATÉ 10CM - SEM TRANSPORTE",
+      "unidade": "M2",
+      "quantidade": 928.7,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "17-30-02",
+      "fonte": null,
+      "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "01-05-01",
+      "fonte": null,
+      "descricao": "TAPUME CHAPA COMPENSADA 6MM",
+      "unidade": "M2",
+      "quantidade": 262.02,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "01-05-40",
+      "fonte": null,
+      "descricao": "TELA PARA PROTEÇÃO DE OBRAS, MALHA 2 MM",
+      "unidade": "M2",
+      "quantidade": 6.12,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "17-45-01",
+      "fonte": null,
+      "descricao": "ANDAIMES METÁLICOS - FORNECIMENTO",
+      "unidade": "M3xMÊS",
+      "quantidade": 108.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "17-45-02",
+      "fonte": null,
+      "descricao": "ANDAIMES METÁLICOS - MONTAGEM E DESMONTAGEM",
+      "unidade": "M3",
+      "quantidade": 216.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "INFRA-ESTRUTURA",
+      "codigo": "01-01-07",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 243.36,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "INFRA-ESTRUTURA",
+      "codigo": "04-50-01",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE ALVENARIA ESTRUTURAL DE BLOCOS VAZADOS DE CONCRETO",
+      "unidade": "M3",
+      "quantidade": 6.55,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "INFRA-ESTRUTURA",
+      "codigo": "03-50-03",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MANUAL DE CONCRETO SIMPLES",
+      "unidade": "M3",
+      "quantidade": 0.73,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "INFRA-ESTRUTURA",
+      "codigo": "03-50-02",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MECANIZADA DE CONCRETO ARMADO",
+      "unidade": "M3",
+      "quantidade": 153.18,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "INFRA-ESTRUTURA",
+      "codigo": "01-04-01",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL, PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 35.75,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "INFRA-ESTRUTURA",
+      "codigo": "01-04-80",
+      "fonte": null,
+      "descricao": "REATERRO DE VALAS, INCLUSIVE COMPACTAÇÃO",
+      "unidade": "M3",
+      "quantidade": 9.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "INFRA-ESTRUTURA",
+      "codigo": "01-04-10",
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 30.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": null,
+      "codigo": "10-50-01",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE TUBULAÇÃO DE AÇO PRETO OU GALVANIZADO - ATÉ 2\"",
+      "unidade": "M",
+      "quantidade": 7.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "02-02-15",
+      "fonte": null,
+      "descricao": "LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 2.58,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "03-01-01",
+      "fonte": null,
+      "descricao": "FORMA COMUM DE TÁBUAS DE PINUS - PLANA",
+      "unidade": "M2",
+      "quantidade": 51.96,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "03-02-04",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-50",
+      "unidade": "KG",
+      "quantidade": 787.61,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "02-01-01",
+      "fonte": null,
+      "descricao": "BROCA DE CONCRETO - DIÂMETRO DE 20CM",
+      "unidade": "M",
+      "quantidade": 87.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "PISO DE CONCRETO, RAMPAS STREET E REVITALIZAÇÃO DE ARQUIBANCADA",
+      "codigo": "04-01-37",
+      "fonte": null,
+      "descricao": "BLOCOS VAZADOS DE CONCRETO ESTRUTURAL - 19CM - 12MPA",
+      "unidade": "M2",
+      "quantidade": 271.52,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "PISO DE CONCRETO, RAMPAS STREET E REVITALIZAÇÃO DE ARQUIBANCADA",
+      "codigo": "03-04-21",
+      "fonte": null,
+      "descricao": "LAJE MISTA TRELIÇADA H-12CM COM CAPEAMENTO 4CM (16CM)",
+      "unidade": "M2",
+      "quantidade": 70.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "PISO DE CONCRETO, RAMPAS STREET E REVITALIZAÇÃO DE ARQUIBANCADA",
+      "codigo": "01-02-05",
+      "fonte": null,
+      "descricao": "ATERRO, INCLUSIVE COMPACTAÇÃO",
+      "unidade": "M3",
+      "quantidade": 165.77,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "PISO DE CONCRETO, RAMPAS STREET E REVITALIZAÇÃO DE ARQUIBANCADA",
+      "codigo": "10-07-14",
+      "fonte": null,
+      "descricao": "TUBO PRETO DE AÇO-CARBONO, CLASSE SCH-40 - 1 1/2\"",
+      "unidade": "M",
+      "quantidade": 46.9,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "PISO DE CONCRETO, RAMPAS STREET E REVITALIZAÇÃO DE ARQUIBANCADA",
+      "codigo": "17-05-25",
+      "fonte": null,
+      "descricao": "DP.05 - CORRIMÃO EM TUBO GALVANIZADO COM GUARDA CORPO",
+      "unidade": "M",
+      "quantidade": 35.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "PISO DE CONCRETO, RAMPAS STREET E REVITALIZAÇÃO DE ARQUIBANCADA",
+      "codigo": "17-02-47",
+      "fonte": null,
+      "descricao": "PISO/ PASSEIO DE CONCRETO ARMADO, INCLUINDO O PREPARO DA CAIXA, LASTRO DE BRITA, TELA METÁLICA E A MÃO DE OBRA REFERENTE AOS SERVIÇOS NO CONCRETO: LANÇAMENTO E ACABAMENTO (RIPADO E DESEMPENADO), EXCLUSIVE O FORNECIMENTO DO CONCRETO",
+      "unidade": "M3",
+      "quantidade": 102.12,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "PISO DE CONCRETO, RAMPAS STREET E REVITALIZAÇÃO DE ARQUIBANCADA",
+      "codigo": "17-02-01",
+      "fonte": null,
+      "descricao": "CONCRETO SIMPLES DESEMPENADO E RIPADO, 200KG CIM/M3",
+      "unidade": "M3",
+      "quantidade": 145.94,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "PISO DE CONCRETO, RAMPAS STREET E REVITALIZAÇÃO DE ARQUIBANCADA",
+      "codigo": "03-03-30",
+      "fonte": null,
+      "descricao": "BOMBEAMENTO DE CONCRETO",
+      "unidade": "M3",
+      "quantidade": 145.94,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "PISO DE CONCRETO, RAMPAS STREET E REVITALIZAÇÃO DE ARQUIBANCADA",
+      "codigo": "02-04-09",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-60 - TELA",
+      "unidade": "KG",
+      "quantidade": 2074.24,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "PISO DE CONCRETO, RAMPAS STREET E REVITALIZAÇÃO DE ARQUIBANCADA",
+      "codigo": "13-02-04",
+      "fonte": null,
+      "descricao": "ACABAMENTO DE PISO DE CONCRETO TIPO BAMBOLÊ",
+      "unidade": "M2",
+      "quantidade": 1024.71,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "PISO DE CONCRETO, RAMPAS STREET E REVITALIZAÇÃO DE ARQUIBANCADA",
+      "codigo": "11-01-01",
+      "fonte": null,
+      "descricao": "CHAPISCO COMUM - ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 121.6,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "PISO DE CONCRETO, RAMPAS STREET E REVITALIZAÇÃO DE ARQUIBANCADA",
+      "codigo": "11-01-08",
+      "fonte": null,
+      "descricao": "EMBOÇO - ARGAMASSA MISTA DE CIMENTO, CAL E AREIA 1:4/12",
+      "unidade": "M2",
+      "quantidade": 121.6,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "PISO DE CONCRETO, RAMPAS STREET E REVITALIZAÇÃO DE ARQUIBANCADA",
+      "codigo": "11-03-13",
+      "fonte": null,
+      "descricao": "REBOCO EXTERNO - ARGAMASSA PRÉ-FABRICADA",
+      "unidade": "M2",
+      "quantidade": 267.38,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "PISO DE CONCRETO, RAMPAS STREET E REVITALIZAÇÃO DE ARQUIBANCADA",
+      "codigo": "15-01-25",
+      "fonte": null,
+      "descricao": "APLICAÇÃO DE TINTA ANTI-PICHAÇÃO - BASE SOLVENTE - 2 DEMÃOS (REMOÇÃO DA PICHAÇÃO SOMENTE A SECO OU COM ÁGUA E SABÃO)",
+      "unidade": "M2",
+      "quantidade": 267.38,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "PISO DE CONCRETO, RAMPAS STREET E REVITALIZAÇÃO DE ARQUIBANCADA",
+      "codigo": "15-03-10",
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO - ESQUADRIAS E PEÇAS DE SERRALHERIA",
+      "unidade": "M2",
+      "quantidade": 59.25,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "PISO DE CONCRETO, RAMPAS STREET E REVITALIZAÇÃO DE ARQUIBANCADA",
+      "codigo": "10-04-00",
+      "fonte": null,
+      "descricao": "CORTE SUPERFICIAL DE CONCRETO ATÉ 3 CM DE PROFUNDIDADE",
+      "unidade": "M2",
+      "quantidade": 25.74,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": "09-02-53",
+      "fonte": null,
+      "descricao": "ELETRODUTO DE POLIETILENO FLEXÍVEL, ALTA RESISTÊNCIA - 2\"",
+      "unidade": "M",
+      "quantidade": 240.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": "09-02-98",
+      "fonte": null,
+      "descricao": "ENVELOPAMENTO DE ELETRODUTO ENTERRADO, COM CONCRETO",
+      "unidade": "M",
+      "quantidade": 240.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": "09-03-08",
+      "fonte": null,
+      "descricao": "CABO 10,00MM2 - ISOLAMENTO PARA 0,7KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 1080.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": "09-83-51",
+      "fonte": null,
+      "descricao": "FOTOCELULA SOLAR-RELÊ FOTOELÉTRICO CAPACIDADE - 1000W",
+      "unidade": "UN",
+      "quantidade": 4.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": "09-20-35",
+      "fonte": null,
+      "descricao": "POSTE GALVANIZADO, RETO, FLANGEADO, H=5M COM LUMINÁRIA HERMÉTICA TIPO LED DE 150W COM APROVAÇÃO DE ILUME/PMSP, INCLUSIVE CAIXA DE INSPEÇÃO DE ALVENARIA 40X40X40CM DE 1 TIJOLO COM TAMPA DE CONCRETO",
+      "unidade": "UN",
+      "quantidade": 4.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": "09-09-57",
+      "fonte": null,
+      "descricao": "LUMINÁRIA HERMÉTICA EM ALUMÍNIO FUNDIDO PARA LÂMPADA ATÉ 250W - COM APROVAÇÃO DE ILUME/PMSP",
+      "unidade": "UN",
+      "quantidade": 4.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": "18-03-05",
+      "fonte": null,
+      "descricao": "GRAMA ESMERALDA",
+      "unidade": "M2",
+      "quantidade": 120.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": "18-80-01",
+      "fonte": null,
+      "descricao": "REVOLVIMENTO E AJUSTE DO SOLO",
+      "unidade": "M2",
+      "quantidade": 120.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": "18-80-11",
+      "fonte": null,
+      "descricao": "TERRA PREPARADA PARA PLANTIO",
+      "unidade": "M3",
+      "quantidade": 24.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": "18-80-15",
+      "fonte": null,
+      "descricao": "ADUBO QUÍMICO NPK, 10:10:10",
+      "unidade": "KG",
+      "quantidade": 12.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "SERVIÇOS TÉCNICOS",
+      "codigo": "20-03-09",
+      "fonte": null,
+      "descricao": "PROJETISTA CADISTA",
+      "unidade": "H",
+      "quantidade": 30.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "SERVIÇOS TÉCNICOS",
+      "codigo": "20-03-60",
+      "fonte": null,
+      "descricao": "PROJETO BÁSICO (PRANCHA A1)",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "SERVIÇOS TÉCNICOS",
+      "codigo": "20-01-01",
+      "fonte": null,
+      "descricao": "LEVANTAMENTO PLANIMÉTRICO DE PERÍMETRO - ATÉ 1.000M",
+      "unidade": "GL",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "SERVIÇOS TÉCNICOS",
+      "codigo": "20-03-08",
+      "fonte": null,
+      "descricao": "CONSULTOR",
+      "unidade": "H",
+      "quantidade": 16.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "SERVIÇOS TÉCNICOS",
+      "codigo": "20-03-04",
+      "fonte": null,
+      "descricao": "ENGENHEIRO/ARQUITETO PLENO",
+      "unidade": "H",
+      "quantidade": 108.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "SERVIÇOS TÉCNICOS",
+      "codigo": "11-08-00",
+      "fonte": null,
+      "descricao": "CARRO POPULAR 50% EM OPERAÇÃO",
+      "unidade": "H",
+      "quantidade": 108.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "SERVIÇOS TÉCNICOS",
+      "codigo": "12-12-00",
+      "fonte": null,
+      "descricao": "ENCARREGADO",
+      "unidade": "H",
+      "quantidade": 160.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 14
+    }
+  ],
+  "apelido": "SÃO MATEUS - PISTA DE SKATE (PRAÇA DO VINHO)"
+}

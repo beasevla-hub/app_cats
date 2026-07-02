@@ -1,0 +1,215 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620250001119",
+    "numero_art": "2620240016428",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA DE PARELHEIROS",
+    "cnpj_contratante": "05.494.401/0001-69",
+    "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM ENGENHARIA OU ARQUITETURA PARA REVITALIZAÇÃO E REURBANIZAÇÃO DE ÁREA PÚBLICA.",
+    "processo_administrativo": "6047.2023/0001712-1",
+    "contrato": "050/SUB-PA/2023",
+    "endereco_obra": "ESTRADA DA BARRAGEM",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2023-11-16",
+    "data_fim": "2024-01-14",
+    "area_m2": 4641.0,
+    "valor_contrato": 783239.95
+  },
+  "servicos": [
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "TELA PARA PROTEÇÃO DE OBRAS, MALHA 2 MM",
+      "unidade": "M2",
+      "quantidade": 177.6,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "TAPUME METÁLICO COM TELHA METÁLICA, SEM PINTURA, TRAPEZOIDAL 40 ESP=0,43MM, COLUNAS, BASES E PARAFUSOS",
+      "unidade": "M2",
+      "quantidade": 64.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "CORTE E CARREGAMENTO PARA BOTA-FORA, INCLUSIVE TRANSPORTE ATÉ 1KM",
+      "unidade": "M3",
+      "quantidade": 1389.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "TRANSPORTE DE TERRA POR CAMINHÃO BASCULANTE, A PARTIR DE 1KM",
+      "unidade": "M3XKM",
+      "quantidade": 54171.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "BROCA DE CONCRETO - DIAMETRO DE 30CM",
+      "unidade": "M",
+      "quantidade": 302.5,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "ESCAVAÇÃO MANUAL COM PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 60.86,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 152.15,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 15.21,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "FORMA COMUM DE TÁBUAS DE PINUS - NÃO RECUPERÁVEL",
+      "unidade": "M2",
+      "quantidade": 230.98,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "ARMADURA EM AÇO CA-50",
+      "unidade": "KG",
+      "quantidade": 1005.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "ARMADURA EM AÇO CA-60",
+      "unidade": "KG",
+      "quantidade": 236.21,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "CONCRETO FCK=20,0MPA - VIRADO NA OBRA",
+      "unidade": "M3",
+      "quantidade": 22.59,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "BLOCOS VAZADOS DE CONCRETO APARENTE - 14CM",
+      "unidade": "M2",
+      "quantidade": 304.3,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 608.6,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "FP.03 - ALAMBRADO PARA QUADRAS DE ESPORTE - GP.6/EDIF - TG/4,5M",
+      "unidade": "M",
+      "quantidade": 304.3,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "ENGENHEIRO/ARQUITETO SÊNIOR",
+      "unidade": "H",
+      "quantidade": 32.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "ENGENHEIRO/ARQUITETO JUNIOR",
+      "unidade": "H",
+      "quantidade": 70.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "DESENVOLVIMENTO DE PRANCHA DE DESENHO TÉCNICO/ DETALHAMENTO FORMATO A1",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    }
+  ],
+  "apelido": "ALAMBRADO CAMPO EST DA COLONIA"
+}

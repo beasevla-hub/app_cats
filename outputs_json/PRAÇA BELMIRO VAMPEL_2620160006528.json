@@ -1,0 +1,305 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620160006528",
+    "numero_art": "92221220160531152",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA DO IPIRANGA",
+    "cnpj_contratante": "05.636.771/0001-93",
+    "objeto": "URBANIZAÇÃO, CONSTRUÇÃO DE PRAÇA, REQUALIFICAÇÃO.",
+    "processo_administrativo": null,
+    "contrato": "027/SP-IP/2014",
+    "endereco_obra": "RUA JUDITE ANDERSON E SEBASTIÃO S. MENA",
+    "cidade": "SÃO PAULO",
+    "estado": "SP",
+    "data_inicio": "2014-10-27",
+    "data_fim": "2014-12-24",
+    "area_m2": 200.0,
+    "valor_contrato": 29653.1
+  },
+  "servicos": [
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "01-01-07",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 7.07,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "MOVIMENTO DE TERRA MANUAL",
+      "codigo": "01-02-02",
+      "fonte": null,
+      "descricao": "CORTE E ESPALHAMENTO DENTRO DA OBRA",
+      "unidade": "M3",
+      "quantidade": 0.5,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "MOVIMENTO DE TERRA MANUAL",
+      "codigo": "01-02-11",
+      "fonte": null,
+      "descricao": "CARGA MANUAL E REMOÇÃO DE TERRA, INCLUSIVE TRANSPORTE ATÉ 1 KM",
+      "unidade": "M3",
+      "quantidade": 0.5,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "FUNDACOES",
+      "codigo": "02-02-01",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL COM PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "FUNDACOES",
+      "codigo": "02-02-10",
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 20.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "FUNDACOES",
+      "codigo": "02-03-01",
+      "fonte": null,
+      "descricao": "FORMA COMUM DE TÁBUAS DE PINUS",
+      "unidade": "M2",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "ESTRUTURA",
+      "codigo": "03-03-08",
+      "fonte": null,
+      "descricao": "CONCRETO FCK = 25,0MPA - VIRADO NA OBRA",
+      "unidade": "M3",
+      "quantidade": 1.5,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "PISOS",
+      "codigo": "13-01-10",
+      "fonte": null,
+      "descricao": "LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 1.5,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "SERV.COMPLEMENTARES",
+      "codigo": "17-50-20",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MANUAL DE CONCRETO SIMPLES",
+      "unidade": "M3",
+      "quantidade": 3.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "PISOS",
+      "codigo": "13-02-54",
+      "fonte": null,
+      "descricao": "PISO PODOTÁTIL COLORIDO, ALERTA OU DIRECIONAL VIBRO-PRENSADO - 3CM - SELADO",
+      "unidade": "M2",
+      "quantidade": 3.2,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "MOVIMENTO DE TERRA",
+      "codigo": "04-01-00",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL PARA FUNDAÇÕES E VALAS COM PROFUNDIDADE MÉDIA MENOR OU IGUAL À 1,50M",
+      "unidade": "M3",
+      "quantidade": 0.4,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "05-01-00",
+      "fonte": null,
+      "descricao": "ARRANCAMENTO DE GUIAS, INCLUI CARGA EM CAMINHÃO",
+      "unidade": "M",
+      "quantidade": 1.2,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "05-14-02",
+      "fonte": null,
+      "descricao": "FORNECIMENTO E ASSENTAMENTO DE GUIAS TIPO PMSP 100, INCLUSIVE ENCOSTAMENTO DE TERRA - FCK=25,0MPA",
+      "unidade": "M",
+      "quantidade": 1.2,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "05-17-00",
+      "fonte": null,
+      "descricao": "ARRANCAMENTO E REASSENTAMENTO DE GUIAS SOBRE CONCRETO",
+      "unidade": "M",
+      "quantidade": 10.8,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "05-42-00",
+      "fonte": null,
+      "descricao": "PASSEIO DE CONCRETO FCK=15,0MPA, INCLUSIVE PREPARO DE CAIXA E LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 1.4,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "CANALIZAÇÃO DE TUBOS",
+      "codigo": "06-05-00",
+      "fonte": null,
+      "descricao": "LASTRO DE BRITA E PÓ DE PEDRA",
+      "unidade": "M3",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "PONTES E VIADUTOS",
+      "codigo": "08-49-00",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE CONCRETO SIMPLES",
+      "unidade": "M3",
+      "quantidade": 1.48,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "BRINQUEDOS INDUSTRIALIZADOS",
+      "codigo": "18-14-45",
+      "fonte": null,
+      "descricao": "PLAYGROUND BRINQUEDOS DE MADEIRA - ESCORREGADOR (ALT.=1,80M COMP. 3,00M)",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "BRINQUEDOS INDUSTRIALIZADOS",
+      "codigo": "18-14-46",
+      "fonte": null,
+      "descricao": "PLAYGROUND BRINQUEDOS DE MADEIRA - GANGORRA DUPLA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "BRINQUEDOS INDUSTRIALIZADOS",
+      "codigo": "18-14-48",
+      "fonte": null,
+      "descricao": "PLAYGROUND BRINQUEDOS DE MADEIRA - BALANÇA DUPLA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "SERVICOS TECNICOS",
+      "codigo": "20-01-13",
+      "fonte": null,
+      "descricao": "LEVANTAMENTO PLANIALTIMÉTRICO DE ÁREAS - ATÉ 10.000M2",
+      "unidade": "GL",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "SERVICOS TECNICOS",
+      "codigo": "20-03-17",
+      "fonte": null,
+      "descricao": "AS BUILT FORMATO A1",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "ACADEMIA DA TERCEIRA IDADE",
+      "codigo": "ATI 01",
+      "fonte": null,
+      "descricao": "MULTI-EXERCITADOR CONJUGADO COM 6 (SEIS) FUNÇÕES DISTINTAS, SENDO: 1°) Flexor de Fernas; 2°) Extensor de Pernas; 3°) Supino Reto Sentado; 4°) Supino Inclinado Sentado; 5°) Rotação Vertical Individual; 6°) Puxada Alta.",
+      "unidade": "Equipamento",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "ACADEMIA DA TERCEIRA IDADE",
+      "codigo": "ATI 02",
+      "fonte": null,
+      "descricao": "SIMULADOR DE CAVALGADA DUPLO CONJUGADO.",
+      "unidade": "Equipamento",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "ACADEMIA DA TERCEIRA IDADE",
+      "codigo": "ATI 04",
+      "fonte": null,
+      "descricao": "PRESSÃO DE PERNAS DUPLO CONJUGADO",
+      "unidade": "Equipamento",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "ACADEMIA DA TERCEIRA IDADE",
+      "codigo": "ATI 06",
+      "fonte": null,
+      "descricao": "SIMULADOR DE CAMINHADA DUPLO CONJUGADO",
+      "unidade": "Equipamento",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "ACADEMIA DA TERCEIRA IDADE",
+      "codigo": "ATI 17",
+      "fonte": null,
+      "descricao": "PLACA ORIENTATIVA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "ACADEMIA DA TERCEIRA IDADE",
+      "codigo": "ATI 18",
+      "fonte": null,
+      "descricao": "LIXEIRA COM TUBOS E CESTA PERFURADA EM AÇO - 435 X 365 MM (CAPACIDADE 50 LITROS)",
+      "unidade": "UN",
+      "quantidade": 4.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    }
+  ],
+  "apelido": "PRAÇA BELMIRO VAMPEL"
+}

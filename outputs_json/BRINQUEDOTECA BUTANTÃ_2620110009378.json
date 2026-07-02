@@ -1,0 +1,775 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620110009378",
+    "numero_art": "92221220111165790",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA BUTANTĂ",
+    "cnpj_contratante": "05.546.795/0001-51",
+    "objeto": "IMPLANTAÇÃO DE CASTELINHO “BRINQUEDOTECA\" NO E.L. ENTRE AS RUAS AMARALINA E MARIA LUIZA VERRIER – JD ARPOADOR",
+    "processo_administrativo": "2009-0.332.979-0",
+    "contrato": null,
+    "endereco_obra": "RUA AMARALINA x MARIA LUIZA VERRIER",
+    "cidade": "SAO PAULO",
+    "estado": "SP",
+    "data_inicio": "2010-05-03",
+    "data_fim": "2010-07-01",
+    "area_m2": null,
+    "valor_contrato": 121459.64
+  },
+  "servicos": [
+    {
+      "grupo": "CIVIL, FORTIFICACAO E CONSTRUCAO. SERV. AFINS E CORRELATOS EM EDIFICACOES.",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "100,00 Metro quadrado. Coordenacao, Execucao de Obra Obs: COORDENAR E EXECUTAR A IMPLANTACAO DO CASTELINHO BRINQUEDOTECA NO ESPACO LIVRE ENTRE AS RUAS AMARALINA E MARIA LUIZA VERRIER NO JARDIM ARPOADOR.",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 1,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "01 01 01",
+      "fonte": null,
+      "descricao": "LIMPEZA MECANIZADA GERAL, INCLUSIVE REMOÇÃO DA COBERTURA VEGETAL TRONCOS COM DIAMETRO ATÉ 10CM - SEM TRANSPORTE",
+      "unidade": "M2",
+      "quantidade": null,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "01 01 07",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 80.79,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "01 04 01",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL, PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 10.37,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "01 04 10",
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 103.71,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "02 01 02",
+      "fonte": null,
+      "descricao": "BROCA DE CONCRETO - DIAMETRO DE 25CM",
+      "unidade": "M",
+      "quantidade": 36.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "02 02 15",
+      "fonte": null,
+      "descricao": "LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 0.47,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "02 03 01",
+      "fonte": null,
+      "descricao": "FORMA COMUM DE TÁBUAS DE PINUS",
+      "unidade": "M2",
+      "quantidade": 37.53,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "02 04 04",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-50",
+      "unidade": "KG",
+      "quantidade": 300.22,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "02 05 10",
+      "fonte": null,
+      "descricao": "CONCRETO FCK=25MPA - USINADO",
+      "unidade": "M3",
+      "quantidade": 3.75,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "03 03 30",
+      "fonte": null,
+      "descricao": "BOMBEAMENTO DE CONCRETO",
+      "unidade": "M3",
+      "quantidade": 3.75,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "04 01 60",
+      "fonte": null,
+      "descricao": "BLOCOS VAZADOS DE CONCRETO ESTRUTURAL - 14CM - ATÉ 6MPA",
+      "unidade": "M2",
+      "quantidade": 165.15,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "04 01 96",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-60 PARA BLOCOS VAZADOS DE CONCRETO ESTRUTURAL",
+      "unidade": "KG",
+      "quantidade": 1156.05,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": "04 03 65",
+      "fonte": null,
+      "descricao": "VL.15 DIVISÓRIA DE ACABAMENTO LAMINADO MELAMÍNICO, MIOLO FIBRA - PORTA/VIDRO",
+      "unidade": "M2",
+      "quantidade": 1.6,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": null,
+      "codigo": "04 03 67",
+      "fonte": null,
+      "descricao": "VL.17 - DIVISÓRIA DE ACABAMENTO LAMINADO MELAMÍNICO, MIOLO FIBRA - PAINEL/VIDRO VIDRO",
+      "unidade": "M2",
+      "quantidade": 10.4,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": null,
+      "codigo": "06 01 30",
+      "fonte": null,
+      "descricao": "FORNECIMENTO DE ESTRUTURA METÁLICA PARA COBERTURA",
+      "unidade": "KG",
+      "quantidade": 1443.78,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "06 01 31",
+      "fonte": null,
+      "descricao": "MONTAGEM DE ESTRUTURA METÁLICA PARA COBERTURA",
+      "unidade": "KG",
+      "quantidade": 1443.78,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "06 02 45",
+      "fonte": null,
+      "descricao": "TELHA ONDULADA EM AÇO GALVANIZADO ESPESSURA DE 0,50MM, REVESTIMENTO B, H=17,5MM",
+      "unidade": "M2",
+      "quantidade": 80.21,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "06 02 95",
+      "fonte": null,
+      "descricao": "CUMEEIRA ONDULADA EM AÇO GALVANIZADO ESP=0,50MM, REVESTIMENTO B, H=17,5MM, LARG=0,60M",
+      "unidade": "M",
+      "quantidade": 9.69,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "07 01 04",
+      "fonte": null,
+      "descricao": "PM.04 PORTA LISA ESPECIAL/ SÓLIDA PARA PORTADORES DE DEFICIÊNCIA FÍSICA - 82X210CM",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "07 01 07",
+      "fonte": null,
+      "descricao": "PM.07-PORTA LISA ESPECIAL/ SÓLIDA - 82X210CM",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "07 01 47",
+      "fonte": null,
+      "descricao": "PM.47 PORTA DE MADEIRA LISA COMUM/ ENCABEÇADA - 2 FOLHAS - 164X210CM",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "07 01 50",
+      "fonte": null,
+      "descricao": "EM.01 - BATENTE DE MADELRA (14CM) - PARA PORTA DE 1 FOLHA, SEM BANDEIRA",
+      "unidade": "JG",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "07 01 51",
+      "fonte": null,
+      "descricao": "EM.01 - BATENTE DE MADEIRA (14CM) - PARA PORTA DE 2 FOLHAS, SEM BANDEIRA",
+      "unidade": "JG",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "07 02 16",
+      "fonte": null,
+      "descricao": "FECHADURA TIPO GORGE (55MM) TRÁFEGO INTENSO, MAÇANETA EM ZEMAC, GUARNIÇÕES EM AÇO, ACABAMENTO CROMADO BRILHANTE",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "08 02 17",
+      "fonte": null,
+      "descricao": "CP.17-CAIXILHO EM FERRO PERFILADO - DE CORRER",
+      "unidade": "M2",
+      "quantidade": 79.48,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "08 02 80",
+      "fonte": null,
+      "descricao": "TELA DE PROTEÇÃO EM ARAME N.12, MALHA DE 1/2'' - INCLUSIVE REQUADRO",
+      "unidade": "M2",
+      "quantidade": 79.48,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": "09 01 54",
+      "fonte": null,
+      "descricao": "ENTRADA AÉREA DE ENERGIA E TELEFONE - 17 À 20KVA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": null,
+      "codigo": "09 02 03",
+      "fonte": null,
+      "descricao": "ELETRODUTO DE PVC RÍGIDO, ROSCÁVEL - 32MM (1\")",
+      "unidade": "M",
+      "quantidade": 100.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": null,
+      "codigo": "09 03 07",
+      "fonte": null,
+      "descricao": "FIO 6,00MM2 - ISOLAMENTO PARA 0,7KV",
+      "unidade": "M",
+      "quantidade": 150.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": null,
+      "codigo": "09 03 32",
+      "fonte": null,
+      "descricao": "CABO 10,00MM2 - ISOLAMENTO PARA 1,0KV",
+      "unidade": "M",
+      "quantidade": 150.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": null,
+      "codigo": "09 05 10",
+      "fonte": null,
+      "descricao": "QUADRO DE DISTRIBUIÇÃO EM CHAPA METÁLICA - PARA ATÉ 24 DISJUNTORES",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": null,
+      "codigo": "09 07 35",
+      "fonte": null,
+      "descricao": "PONTO COM INTERRUPTOR SIMPLES - 1 TECLA, EM CONDULETE 3/4\"",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": null,
+      "codigo": "09 07 36",
+      "fonte": null,
+      "descricao": "PONTO COM INTERRUPTOR SIMPLES - 2 TECLAS, EM CONDULETE 3/4\"",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": null,
+      "codigo": "09 07 37",
+      "fonte": null,
+      "descricao": "PONTO COM INTERRUPTOR SIMPLES - 3 TECLAS, EM CONDULETE 3/4\"",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": null,
+      "codigo": "09 07 60",
+      "fonte": null,
+      "descricao": "PONTO COM TOMADA SIMPLES DE EMBUTIR - 110/220V CAIXA 4\"X2\"",
+      "unidade": "UN",
+      "quantidade": 12.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": null,
+      "codigo": "09 07 95",
+      "fonte": null,
+      "descricao": "PONTO DE LUZ - CONDULETE 3/4\"",
+      "unidade": "UN",
+      "quantidade": 14.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": null,
+      "codigo": "09 08 01",
+      "fonte": null,
+      "descricao": "DISJUNTOR CAIXA MOLDADA UNIPOLAR 10/30A TIPO AMERICANO",
+      "unidade": "UN",
+      "quantidade": 6.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": null,
+      "codigo": "09 09 75",
+      "fonte": null,
+      "descricao": "LUMINÁRIA INDUSTRIAL 2 LÂMPADAS FLUORESCENTE 32/40W",
+      "unidade": "UN",
+      "quantidade": 12.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": null,
+      "codigo": "09 82 07",
+      "fonte": null,
+      "descricao": "ESPELHO PLÁSTICO - 4\"X2\"",
+      "unidade": "UN",
+      "quantidade": 19.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": null,
+      "codigo": "10 01 04",
+      "fonte": null,
+      "descricao": "CAVALETE DE ENTRADA - 1 1/2\"",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": null,
+      "codigo": "10 01 15",
+      "fonte": null,
+      "descricao": "HV.01 ABRIGO PARA CAVALETE DE ENTRADA D=19MM OU 25MM EM BLOCO DE CONCRETO APARENTE",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": null,
+      "codigo": "10 04 07",
+      "fonte": null,
+      "descricao": "TUBO DE AÇO GALVANIZADO, CLASSE LEVE I (LINHA ÁGUA) - 2 1/2\"",
+      "unidade": "M",
+      "quantidade": 20.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "10 04 62",
+      "fonte": null,
+      "descricao": "TUBO DE PVC RÍGIDO, SOLDÁVEL (LINHA ÁGUA) - 25MM (3/4\")",
+      "unidade": "M",
+      "quantidade": 15.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "10 04 63",
+      "fonte": null,
+      "descricao": "TUBO DE PVC RÍGIDO, SOLDÁVEL (LINHA ÁGUA) - 32MM (1\")",
+      "unidade": "M",
+      "quantidade": 15.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "10 04 64",
+      "fonte": null,
+      "descricao": "TUBO DE PVC RÍGIDO, SOLDÁVEL (LINHA ÁGUA) - 40MM (1 1/4\")",
+      "unidade": "M",
+      "quantidade": 15.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "10 05 34",
+      "fonte": null,
+      "descricao": "REGISTRO DE GAVETA, METAL CROMADO - 1 1/2\"",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "10 05 51",
+      "fonte": null,
+      "descricao": "REGISTRO DE PRESSÃO, METAL CROMADO - 3/4\"",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "10 09 30",
+      "fonte": null,
+      "descricao": "TUBO DE PVC RÍGIDO, PONTA E BOLSA (LINHA ESGOTO) - 40MM (1 1/2\")",
+      "unidade": "M",
+      "quantidade": 8.1,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "10 09 31",
+      "fonte": null,
+      "descricao": "TUBO DE PVC RÍGIDO, PONTA E BOLSA (LINHA ESGOTO) - 50MM (2\")",
+      "unidade": "M",
+      "quantidade": 24.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "10 09 32",
+      "fonte": null,
+      "descricao": "TUBO DE PVC RÍGIDO, PONTA E BOLSA (LINHA ESGOTO) - 75MM (3\")",
+      "unidade": "M",
+      "quantidade": 6.6,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "10 13 05",
+      "fonte": null,
+      "descricao": "BACIA SANITÁRIA ALTEADA PARA PORTADORES DE DEFICIÊNCIA FÍSICA",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "10 13 14",
+      "fonte": null,
+      "descricao": "LAVATÓRIO DE LOUÇA INDIVIDUAL PARA PORTADORES DE DEFICIÊNCIA FÍSICA",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "11 01 01",
+      "fonte": null,
+      "descricao": "CHAPISCO COMUM ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 330.3,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": "11 01 13",
+      "fonte": null,
+      "descricao": "REBOCO INTERNO - ARGAMASSA PRÉ-FABRICADA",
+      "unidade": "M2",
+      "quantidade": 138.75,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": null,
+      "codigo": "11 02 08",
+      "fonte": null,
+      "descricao": "EMBOÇO INTERNO - ARGAMASSA MISTA DE CIMENTO, CAL E AREIA 1:4/12",
+      "unidade": "M2",
+      "quantidade": 138.75,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": null,
+      "codigo": "11 02 25",
+      "fonte": null,
+      "descricao": "AZULEJOS, JUNTAS AMARRAÇÃO OU A PRUMO ASSENTES COM ARGAMASSA COMUM",
+      "unidade": "M2",
+      "quantidade": 43.44,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": null,
+      "codigo": "11 03 10",
+      "fonte": null,
+      "descricao": "EMBOÇO EXTERNO ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 73.8,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": null,
+      "codigo": "11 03 13",
+      "fonte": null,
+      "descricao": "REBOCO EXTERNO - ARGAMASSA PRÉ-FABRICADA",
+      "unidade": "M2",
+      "quantidade": 73.8,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": null,
+      "codigo": "12 01 45",
+      "fonte": null,
+      "descricao": "FORRO EM RÉGUA DE PVC 200MM - INCLUSIVE PERFIS DE FIXAÇÃO E ACABAMENTO",
+      "unidade": "M2",
+      "quantidade": 80.21,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": null,
+      "codigo": "13 01 10",
+      "fonte": null,
+      "descricao": "LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 7.24,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": null,
+      "codigo": "13 01 14",
+      "fonte": null,
+      "descricao": "LASTRO DE CONCRETO - 150KG CIM/M3",
+      "unidade": "M3",
+      "quantidade": 7.24,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": null,
+      "codigo": "13 02 02",
+      "fonte": null,
+      "descricao": "CIMENTADO COMUM, DESEMPENADO E ALISADO ESPESSURA 20MM",
+      "unidade": "M2",
+      "quantidade": 20.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": null,
+      "codigo": "13 02 39",
+      "fonte": null,
+      "descricao": "PISO CERÂMICO ESMALTADO ANTIDERRAPANTE (PEI-5) - ASSENTADO COM ARGAMASSA COLANTE",
+      "unidade": "M2",
+      "quantidade": 72.48,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": null,
+      "codigo": "13 03 09",
+      "fonte": null,
+      "descricao": "RODAPÉ CERÂMICO ESMALTADO PEIV 7CM À 10CM",
+      "unidade": "M",
+      "quantidade": 65.08,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": null,
+      "codigo": "15 01 16",
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA - REBOCO COM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 286.86,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": null,
+      "codigo": "17 01 27",
+      "fonte": null,
+      "descricao": "FP.04 ALAMBRADO EM TUBO GALVANIZADO E TELA GALVANIZADA H=2,00M",
+      "unidade": "M",
+      "quantidade": 16.5,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": null,
+      "codigo": "17 02 12",
+      "fonte": null,
+      "descricao": "PISO DE CONCRETO INTERTRAVADO, ESPESSURA 10CM",
+      "unidade": "M2",
+      "quantidade": 103.71,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": null,
+      "codigo": "17 02 31",
+      "fonte": null,
+      "descricao": "PÓ DE BRITA COM COMPACTAÇÃO MECÂNICA ESPESSURA 10CM",
+      "unidade": "M2",
+      "quantidade": 103.71,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": null,
+      "codigo": "20 01 01",
+      "fonte": null,
+      "descricao": "LEVANTAMENTO PLANIMÉTRICO DE PERÍMETRO - ATÉ 1.000M",
+      "unidade": "GL",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": null,
+      "codigo": "20 02 02",
+      "fonte": null,
+      "descricao": "MOBILIZAÇÃO E INSTALAÇÃO DE 1 EQUIPAMENTO PARA EXECUÇÃO DE SONDAGEM A PERCUSSÃO",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "20 02 03",
+      "fonte": null,
+      "descricao": "DESLOCAMENTO DE EQUIPAMENTO ENTRE FUROS EM TERRENO PLANO, CONSIDERANDO A DISTÂNCIA ATÉ 100M, PARA SONDAGEM A PERCUSSÃO",
+      "unidade": "UN",
+      "quantidade": 10.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "20 03 19",
+      "fonte": null,
+      "descricao": "DESENVOLVIMENTO DE PRANCHA TÉCNICA EM FORMATO A1",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "20 03 21",
+      "fonte": null,
+      "descricao": "DESENVOLVIMENTO DE PRANCHA DE DESENHO TÉCNICO/DETALHAMENTO FORMATO A1",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "20 03 50",
+      "fonte": null,
+      "descricao": "SERVIÇO DE PLOTAGEM EM PAPEL SULFITE, TAMANHO A1, PRETO E BRANCO",
+      "unidade": "UN",
+      "quantidade": 4.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 5
+    }
+  ],
+  "apelido": "BRINQUEDOTECA BUTANTÃ"
+}

@@ -1,0 +1,765 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620250010799",
+    "numero_art": "2620250967557",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA DE ITAQUERA",
+    "cnpj_contratante": "06.056.497/0001-46",
+    "objeto": "Execução, Execução de reforma, de requalificação, de área metropolitana.",
+    "processo_administrativo": "6041.2023/0003127-0",
+    "contrato": "47/SUB-IQ/2023",
+    "endereco_obra": "RUA ANDRÉAS AMON, Nº 91",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2023-12-29",
+    "data_fim": "2024-05-26",
+    "area_m2": 630.0,
+    "valor_contrato": 575178.03
+  },
+  "servicos": [
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "01-01-06",
+      "fonte": null,
+      "descricao": "CARGA MANUAL E REMOÇÃO DE ENTULHO, INCLUSIVE TRANSPORTE ATÉ 1 KM",
+      "unidade": "M3",
+      "quantidade": 14.05,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "01-01-08",
+      "fonte": null,
+      "descricao": "LIMPEZA MANUAL GERAL INCLUSIVE REMOÇÃO DE COBERTURA VEGETAL - TRONCO ATÉ 10CM - SEM TRANSPORTE",
+      "unidade": "M2",
+      "quantidade": 990.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "01-01-10",
+      "fonte": null,
+      "descricao": "TRANSPORTE DE ENTULHO POR CAMINHÃO BASCULANTE, A PARTIR DE 1KM",
+      "unidade": "M3XKM",
+      "quantidade": 3978.26,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "04-50-04",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE ALVENARIA EM GERAL (TIJOLOS OU BLOCOS)",
+      "unidade": "M3",
+      "quantidade": 10.29,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "04-50-09",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE VERGAS, CINTAS E PILARETES DE CONCRETO",
+      "unidade": "M3",
+      "quantidade": 0.72,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "17-30-02",
+      "fonte": null,
+      "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "17-50-15",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE ALAMBRADO DE TELA GALVANIZADA",
+      "unidade": "M2",
+      "quantidade": 607.5,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "02.02.150",
+      "fonte": null,
+      "descricao": "LOCAÇÃO DE CONTAINER TIPO DEPÓSITO - ÁREA MINIMA DE 13,80 M²",
+      "unidade": "UNMES",
+      "quantidade": 4.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "02.02.130",
+      "fonte": null,
+      "descricao": "LOCAÇÃO DE CONTAINER TIPO ESCRITÓRIO COM 1 VASO SANITÁRIO, 1 LAVATÓRIO E 1 PONTO PARA CHUVEIRO - ÁREA MÍNIMA DE 13,80 M2",
+      "unidade": "UNMES",
+      "quantidade": 4.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "RECUPERAÇÃO DA QUADRA POLIESPORTIVA",
+      "codigo": "01-04-10",
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 666.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "RECUPERAÇÃO DA QUADRA POLIESPORTIVA",
+      "codigo": "01-04-15",
+      "fonte": null,
+      "descricao": "LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 33.3,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "RECUPERAÇÃO DA QUADRA POLIESPORTIVA",
+      "codigo": "03-02-09",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-60 - TELA",
+      "unidade": "KG",
+      "quantidade": 1465.2,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "RECUPERAÇÃO DA QUADRA POLIESPORTIVA",
+      "codigo": "03-03-30",
+      "fonte": null,
+      "descricao": "BOMBEAMENTO DE CONCRETO",
+      "unidade": "M3",
+      "quantidade": 79.92,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "RECUPERAÇÃO DA QUADRA POLIESPORTIVA",
+      "codigo": "03-03-17",
+      "fonte": null,
+      "descricao": "CONCRETO FCK = 25,0MPA - USINADO",
+      "unidade": "M3",
+      "quantidade": 79.92,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "RECUPERAÇÃO DA QUADRA POLIESPORTIVA",
+      "codigo": "04-04-51",
+      "fonte": null,
+      "descricao": "BLOCOS VAZADOS DE CONCRETO APARENTE - 14CM",
+      "unidade": "M2",
+      "quantidade": 43.5,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "RECUPERAÇÃO DA QUADRA POLIESPORTIVA",
+      "codigo": "13-02-04",
+      "fonte": null,
+      "descricao": "ACABAMENTO DE PISO DE CONCRETO TIPO BAMBOLÊ",
+      "unidade": "M2",
+      "quantidade": 666.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "RECUPERAÇÃO DA QUADRA POLIESPORTIVA",
+      "codigo": "17-01-29",
+      "fonte": null,
+      "descricao": "FP.03 - ALAMBRADO PARA QUADRAS DE ESPORTE - GP.6/EDIF - TG/4,5M",
+      "unidade": "M",
+      "quantidade": 135.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "RECUPERAÇÃO DA QUADRA POLIESPORTIVA",
+      "codigo": "17-01-41",
+      "fonte": null,
+      "descricao": "PP.20/24 - PORTÃO EM FERRO PERFILADO COM TELA, 1 FOLHA",
+      "unidade": "M2",
+      "quantidade": 6.6,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "RECUPERAÇÃO DA QUADRA POLIESPORTIVA",
+      "codigo": "17-01-43",
+      "fonte": null,
+      "descricao": "PP.30/34 - PORTÃO EM FERRO PERFILADO COM TELA, 2 FOLHAS",
+      "unidade": "M2",
+      "quantidade": 12.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "RECUPERAÇÃO DA QUADRA POLIESPORTIVA",
+      "codigo": "17-45-01",
+      "fonte": null,
+      "descricao": "ANDAIMES METÁLICOS - FORNECIMENTO",
+      "unidade": "M3xMÊS",
+      "quantidade": 33.75,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "RECUPERAÇÃO DA QUADRA POLIESPORTIVA",
+      "codigo": "17-45-02",
+      "fonte": null,
+      "descricao": "ANDAIMES METÁLICOS - MONTAGEM E DESMONTAGEM",
+      "unidade": "M3",
+      "quantidade": 33.75,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "DEMARCAÇÕES E MOBILIÁRIOS",
+      "codigo": "15-01-15",
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 229.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "DEMARCAÇÕES E MOBILIÁRIOS",
+      "codigo": "15-50-03",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE PINTURA EM ALVENARIA E CONCRETO - LIXA",
+      "unidade": "M2",
+      "quantidade": 154.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "DEMARCAÇÕES E MOBILIÁRIOS",
+      "codigo": "17-03-55",
+      "fonte": null,
+      "descricao": "QD.01 - DEMARCAÇÃO DE QUADRA COM TINTA A BASE DE BORRACHA CLORADA - VOLEIBOL",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "DEMARCAÇÕES E MOBILIÁRIOS",
+      "codigo": "17-03-56",
+      "fonte": null,
+      "descricao": "QD.02 - DEMARCAÇÃO DE QUADRA COM TINTA A BASE DE BORRACHA. CLORADA - FUTEBOL DE SALÃO",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "DEMARCAÇÕES E MOBILIÁRIOS",
+      "codigo": "17-03-58",
+      "fonte": null,
+      "descricao": "QD.05 - DEMARCAÇÃO DE QUADRA COM TINTA A BASE DE BORRACHA CLORADA - HANDBOL",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "DEMARCAÇÕES E MOBILIÁRIOS",
+      "codigo": "17-03-63",
+      "fonte": null,
+      "descricao": "TABELA PARA BASQUETE, ENGLOBANDO DESDE FUNDAÇÃO ATÉ A CESTA DE NYLON",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "DEMARCAÇÕES E MOBILIÁRIOS",
+      "codigo": "17-03-61",
+      "fonte": null,
+      "descricao": "TRAVE PARA FUTEBOL DE SALÃO, INCLUSIVE PINTURA E REDE",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "DEMARCAÇÕES E MOBILIÁRIOS",
+      "codigo": "17-03-65",
+      "fonte": null,
+      "descricao": "TELA DE NYLON PARA COBERTURA DE QUADRA",
+      "unidade": "M2",
+      "quantidade": 666.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "DEMARCAÇÕES E MOBILIÁRIOS",
+      "codigo": "17-03-70",
+      "fonte": null,
+      "descricao": "DEMARCAÇÃO E PINTURA DE SUPERFÍCIES - BORRACHA CLORADA",
+      "unidade": "M2",
+      "quantidade": 666.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-01-55",
+      "fonte": null,
+      "descricao": "ENTRADA AÉREA DE ENERGIA E TELEFONE - 21 À 23KVA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-02-03",
+      "fonte": null,
+      "descricao": "ELETRODUTO DE PVC RÍGIDO, ROSCÁVEL - 32MM (1\")",
+      "unidade": "M",
+      "quantidade": 20.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-03-05",
+      "fonte": null,
+      "descricao": "CABO 2,50MM2 - ISOLAMENTO PARA 0,7KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 90.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-03-06",
+      "fonte": null,
+      "descricao": "CABO 4,00MM2 - ISOLAMENTO PARA 0,7KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 60.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-03-09",
+      "fonte": null,
+      "descricao": "CABO 16,00MM2 - ISOLAMENTO PARA 0,7KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 20.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 29
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-04-68",
+      "fonte": null,
+      "descricao": "INTERRUPTOR DIFERENCIAL RESIDUAL BIPOLAR 25A - SENSIBILIDADE 30MA - 220V",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 30
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-05-06",
+      "fonte": null,
+      "descricao": "QUADRO DE DISTRIBUIÇÃO EM CHAPA METÁLICA - PARA ATÉ 16 DISJUNTORES",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 31
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-07-01",
+      "fonte": null,
+      "descricao": "PONTO COM INTERRUPTOR SIMPLES - 1 TECLA, EM CAIXA 4\"X2\"",
+      "unidade": "UN",
+      "quantidade": 5.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 32
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-07-60",
+      "fonte": null,
+      "descricao": "PONTO COM TOMADA SIMPLES DE EMBUTIR - 110/220V CAIXA 4\"X2\"",
+      "unidade": "UN",
+      "quantidade": 10.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 33
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-82-81",
+      "fonte": null,
+      "descricao": "LÂMPADA DE LED TUBULAR T8 - 18/20W",
+      "unidade": "UN",
+      "quantidade": 20.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 34
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-08-12",
+      "fonte": null,
+      "descricao": "MINI DISJUNTOR - TIPO EUROPEU (IEC) - BIPOLAR 6/25A",
+      "unidade": "UN",
+      "quantidade": 6.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 35
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-08-18",
+      "fonte": null,
+      "descricao": "MINI DISJUNTOR - TIPO EUROPEU (IEC) - TRIPOLAR 100A",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 36
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-09-53",
+      "fonte": null,
+      "descricao": "LUMINÁRIA COMERCIAL DE EMBUTIR COM DIFUSOR TRANSPARENTE OU FOSCO PARA 2 LÂMPADAS TUBULARES DE LED 18/20W - COMPLETA",
+      "unidade": "UN",
+      "quantidade": 10.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 37
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRÁULICAS",
+      "codigo": "10-02-09",
+      "fonte": null,
+      "descricao": "RESERVATÓRIO DE FIBRA DE VIDRO - CAPACIDADE 1000L",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 38
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRÁULICAS",
+      "codigo": "10-04-62",
+      "fonte": null,
+      "descricao": "TUBO DE PVC RÍGIDO, SOLDÁVEL (LINHA ÁGUA) - 25MM (3/4\")",
+      "unidade": "M",
+      "quantidade": 20.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 39
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRÁULICAS",
+      "codigo": "10-04-63",
+      "fonte": null,
+      "descricao": "TUBO DE PVC RÍGIDO, SOLDÁVEL (LINHA ÁGUA) - 32MM (1\")",
+      "unidade": "M",
+      "quantidade": 15.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 40
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRÁULICAS",
+      "codigo": "10-04-65",
+      "fonte": null,
+      "descricao": "TUBO DE PVC RÍGIDO, SOLDÁVEL (LINHA ÁGUA) - 50MM (1 1/2\")",
+      "unidade": "M",
+      "quantidade": 15.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 41
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRÁULICAS",
+      "codigo": "10-05-31",
+      "fonte": null,
+      "descricao": "REGISTRO DE GAVETA, METAL CROMADO - 3/4\"",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 42
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRÁULICAS",
+      "codigo": "10-05-51",
+      "fonte": null,
+      "descricao": "REGISTRO DE PRESSÃO, METAL CROMADO - 3/4\"",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 43
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRÁULICAS",
+      "codigo": "10-09-31",
+      "fonte": null,
+      "descricao": "TUBO DE PVC RÍGIDO, PONTA E BOLSA (LINHA ESGOTO) - 50MM (2\")",
+      "unidade": "M",
+      "quantidade": 20.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 44
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRÁULICAS",
+      "codigo": "10-09-33",
+      "fonte": null,
+      "descricao": "TUBO DE PVC RÍGIDO, PONTA E BOLSA (LINHA ESGOTO) - 100MM (4\")",
+      "unidade": "M",
+      "quantidade": 14.74,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRÁULICAS",
+      "codigo": "10-09-98",
+      "fonte": null,
+      "descricao": "ENVELOPAMENTO DE TUBULAÇÃO ENTERRADA, COM CONCRETO",
+      "unidade": "M",
+      "quantidade": 14.74,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRÁULICAS",
+      "codigo": "10-13-03",
+      "fonte": null,
+      "descricao": "BACIA SANITÁRIA COM CAIXA ACOPLADA DE LOUÇA BRANCA",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRÁULICAS",
+      "codigo": "10-13-08",
+      "fonte": null,
+      "descricao": "LAVATÓRIO DE LOUÇA BRANCA, SEM COLUNA, CAPACIDADE MÍNIMA 5L, EXCLUSIVE TORNEIRA",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRÁULICAS",
+      "codigo": "10-14-04",
+      "fonte": null,
+      "descricao": "TORNEIRA DE PRESSÃO PARA USO GERAL, METAL CROMADO - 3/4\"",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRÁULICAS",
+      "codigo": "10-14-40",
+      "fonte": null,
+      "descricao": "CHUVEIRO ELÉTRICO AUTOMÁTICO, CORPO EM PVC CROMADO - 220V-2800/4400W",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "COBERTURA",
+      "codigo": "06-01-30",
+      "fonte": null,
+      "descricao": "FORNECIMENTO DE ESTRUTURA METÁLICA PARA COBERTURA",
+      "unidade": "KG",
+      "quantidade": 1680.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "COBERTURA",
+      "codigo": "06-01-31",
+      "fonte": null,
+      "descricao": "MONTAGEM DE ESTRUTURA METÁLICA PARA COBERTURA",
+      "unidade": "KG",
+      "quantidade": 1680.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "COBERTURA",
+      "codigo": "06-02-46",
+      "fonte": null,
+      "descricao": "TELHA TRAPEZOIDAL DUP. AÇO GALVANIZADO ESPESSURA DE 0,5MM, REVESTIMENTO B, H=40MM, COM MIOLO POLIURETANO E=30MM",
+      "unidade": "M2",
+      "quantidade": 364.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "COBERTURA",
+      "codigo": "06-02-55",
+      "fonte": null,
+      "descricao": "CUMEEIRA PARA TELHA ONDULADA (CRFS, PVC RÍGIDO E POLIÉSTER), TRAPEZOIDAL E GRECA (PVC RÍGIDO E POLIÉSTER)",
+      "unidade": "M",
+      "quantidade": 28.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "COBERTURA",
+      "codigo": "10-12-16",
+      "fonte": null,
+      "descricao": "CONDUTOR EM TUBO DE PVC RÍGIDO, PONTA E BOLSA - 100MM (4\")",
+      "unidade": "M",
+      "quantidade": 30.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "COBERTURA",
+      "codigo": "10-11-32",
+      "fonte": null,
+      "descricao": "RUFO EM CHAPA DE AÇO GALVANIZADO N.24 - DESENVOLVIMENTO 33CM",
+      "unidade": "M",
+      "quantidade": 28.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "17-04-01",
+      "fonte": null,
+      "descricao": "LIMPEZA GERAL DA OBRA",
+      "unidade": "M2",
+      "quantidade": 60.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "07-02-80",
+      "fonte": null,
+      "descricao": "PORTA-CADEADO DE FERRO PINTADO - 63MM PESO MÍNIMO 25G",
+      "unidade": "UN",
+      "quantidade": 4.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "ADMINISTRAÇÃO LOCAL E ELABORAÇÃO DE PROJETO EXECUTIVO DE ARQUITETURA E URBANISMO",
+      "codigo": "20-03-61",
+      "fonte": null,
+      "descricao": "PROJETO EXECUTIVO (PRANCHA A1)",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "ADMINISTRAÇÃO LOCAL E ELABORAÇÃO DE PROJETO EXECUTIVO DE ARQUITETURA E URBANISMO",
+      "codigo": "20-03-02",
+      "fonte": null,
+      "descricao": "ENGENHEIRO/ ARQUITETO SÊNIOR",
+      "unidade": "H",
+      "quantidade": 30.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "ADMINISTRAÇÃO LOCAL E ELABORAÇÃO DE PROJETO EXECUTIVO DE ARQUITETURA E URBANISMO",
+      "codigo": "20-03-03",
+      "fonte": null,
+      "descricao": "ENGENHEIRO/ ARQUITETO JUNIOR",
+      "unidade": "H",
+      "quantidade": 64.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "ADMINISTRAÇÃO LOCAL E ELABORAÇÃO DE PROJETO EXECUTIVO DE ARQUITETURA E URBANISMO",
+      "codigo": "12-12-00",
+      "fonte": null,
+      "descricao": "ENCARREGADO",
+      "unidade": "H",
+      "quantidade": 132.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "ADMINISTRAÇÃO LOCAL E ELABORAÇÃO DE PROJETO EXECUTIVO DE ARQUITETURA E URBANISMO",
+      "codigo": "03-41-00",
+      "fonte": null,
+      "descricao": "AJUDANTE GERAL",
+      "unidade": "H",
+      "quantidade": 265.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "EXTRA",
+      "codigo": "04-50-04",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE ALVENARIA EM GERAL (TIJOLOS OU BLOCOS)",
+      "unidade": "M3",
+      "quantidade": 2.91,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "EXTRA",
+      "codigo": "06-60-06",
+      "fonte": null,
+      "descricao": "RETIRADA DE ESTRUTURA DE MADEIRA COM TESOURAS - PARA TELHA ONDULADA DE CIMENTO AMIANTO, ALUMÍNIO OU PLÁSTICO",
+      "unidade": "M2",
+      "quantidade": 364.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "EXTRA",
+      "codigo": "06-60-25",
+      "fonte": null,
+      "descricao": "RETIRADA DE TELHAS EM GERAL, EXCLUSIVE TELHAS DE BARRO COZIDO, VIDRO E ESTRUTURAIS DE CRFS",
+      "unidade": "M2",
+      "quantidade": 364.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "EXTRA",
+      "codigo": "04-01-51",
+      "fonte": null,
+      "descricao": "BLOCOS VAZADOS DE CONCRETO APARENTE - 14CM",
+      "unidade": "M2",
+      "quantidade": 31.2,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "EXTRA",
+      "codigo": "10-11-01",
+      "fonte": null,
+      "descricao": "CALHA EM CHAPA DE AÇO GALVANIZADO N.24 - DESENVOLVIMENTO 33CM",
+      "unidade": "M",
+      "quantidade": 56.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 24
+    }
+  ],
+  "apelido": "QUADRA JOSE BONIFACIO"
+}

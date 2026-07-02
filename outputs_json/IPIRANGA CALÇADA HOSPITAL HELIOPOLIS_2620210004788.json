@@ -1,0 +1,275 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620210004788",
+    "numero_art": "28027230210532132",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA IPIRANGA",
+    "cnpj_contratante": "05.636.771/0001-93",
+    "objeto": "CONTRATAÇÃO DE EMPRESA PARA CONSTRUÇÃO E RECUPERAÇÃO DE CALÇADAS NO ENTORNO DO HOSPITAL HELIÓPOLIS RUA CÔNEGO XAVIER, 276",
+    "processo_administrativo": "6010.2020/0001428-1",
+    "contrato": "33/SUB-IP/2020",
+    "endereco_obra": "RUA CÔNEGO XAVIER, 276",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2020-10-20",
+    "data_fim": "2020-10-31",
+    "area_m2": 550.4,
+    "valor_contrato": 127750.02
+  },
+  "servicos": [
+    {
+      "grupo": null,
+      "codigo": "01-05-40",
+      "fonte": null,
+      "descricao": "TELA PARA PROTEÇÃO DE OBRAS, MALHA 2MM",
+      "unidade": "M2",
+      "quantidade": 281.6,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "01-01-05",
+      "fonte": null,
+      "descricao": "CARGA MECANIZADA E REMOÇÃO DE ENTULHO, INCLUSIVE TRANSPORTE ATÉ 1KM",
+      "unidade": "M3",
+      "quantidade": 166.4,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "01-01-10",
+      "fonte": null,
+      "descricao": "TRANSPORTE DE ENTULHO POR CAMINHÃO BASCULANTE, A PARTIR DE 1KM",
+      "unidade": "M3XKM",
+      "quantidade": 4492.8,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "02-02-01",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL COM PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 51.2,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "02-50-05",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MECANIZADA DE CONCRETO SIMPLES",
+      "unidade": "M3",
+      "quantidade": 46.08,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "02-50-06",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MECANIZADA DE CONCRETO ARMADO",
+      "unidade": "M3",
+      "quantidade": 30.72,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "03-40-05",
+      "fonte": null,
+      "descricao": "LIMPEZA DE SUPERFÍCIES COM HIDROJATEAMENTO",
+      "unidade": "M2",
+      "quantidade": 550.4,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "10-01-98",
+      "fonte": null,
+      "descricao": "ENVELOPAMENTO DE TUBULAÇÃO ENTERRADA, COM CONCRETO",
+      "unidade": "M",
+      "quantidade": 20.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "10-04-67",
+      "fonte": null,
+      "descricao": "TUBO DE PVC RÍGIDO, SOLDÁVEL (LINHA ÁGUA) - 75MM (2 1/2\")",
+      "unidade": "M",
+      "quantidade": 20.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "10-12-34",
+      "fonte": null,
+      "descricao": "LIGAÇÃO PARA DESPEJO LIVRE EM SARJETAS, COM TUBO DE FERRO FUNDIDO SMU - 100MM",
+      "unidade": "M",
+      "quantidade": 6.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "13-02-04",
+      "fonte": null,
+      "descricao": "ACABAMENTO DE PISO DE CONCRETO TIPO BAMBOLÊ",
+      "unidade": "M2",
+      "quantidade": 550.4,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "13-02-47",
+      "fonte": null,
+      "descricao": "PISO PODOTÁTIL, ALERTA OU DIRECIONAL, EM LADRILHO HIDRÁULICO",
+      "unidade": "M2",
+      "quantidade": 74.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "17-02-43",
+      "fonte": null,
+      "descricao": "PASSEIO DE CONCRETO ARMADO, FCK=25MPA, INCLUINDO PREPARO DA CAIXA E LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 66.05,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "17-02-50",
+      "fonte": null,
+      "descricao": "GUIA DE CONCRETO RETA OU CURVA, TIPO PMSP",
+      "unidade": "M",
+      "quantidade": 80.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "17-02-54",
+      "fonte": null,
+      "descricao": "REBAIXAMENTO DE GUIA",
+      "unidade": "M",
+      "quantidade": 14.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "18-03-03",
+      "fonte": null,
+      "descricao": "GRAMA SÃO CARLOS EM PLACAS (ANOXONOPUS OBTUSIFOLIUS)",
+      "unidade": "M2",
+      "quantidade": 150.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "ELABORAÇÃO DE PROJETO DE ARQUITETURA E URBANISMO, E TOPOGRAFIA",
+      "codigo": "20-01-01",
+      "fonte": null,
+      "descricao": "LEVANTAMENTO PLANIALMÉTRICO DE PERÍMETRO - ATÉ 1.000M",
+      "unidade": "GL",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": "20-03-03",
+      "fonte": null,
+      "descricao": "ENGENHEIRO/ARQUITETO JUNIOR",
+      "unidade": "H",
+      "quantidade": 30.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": null,
+      "codigo": "20-03-05",
+      "fonte": null,
+      "descricao": "PROJETISTA",
+      "unidade": "H",
+      "quantidade": 16.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": null,
+      "codigo": "20-03-06",
+      "fonte": null,
+      "descricao": "DESENHISTA PROJETISTA",
+      "unidade": "H",
+      "quantidade": 10.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": null,
+      "codigo": "20-03-50",
+      "fonte": null,
+      "descricao": "SERVIÇO DE PLOTAGEM EM PAPEL SULFITE, TAMANHO A1, PRETO E BRANCO",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "INTENS INFRA - COM DESONERAÇÃO - JANEIRO/2020",
+      "codigo": "05-01-00",
+      "fonte": null,
+      "descricao": "ARRANCAMENTO DE GUIAS, INCLUI CARGA EM CAMINHÃO",
+      "unidade": "M",
+      "quantidade": 80.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": null,
+      "codigo": "05-17-00",
+      "fonte": null,
+      "descricao": "ARRANCAMENTO E REASSENTAMENTO DE GUIAS SOBRE CONCRETO",
+      "unidade": "M",
+      "quantidade": 120.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": null,
+      "codigo": "06-23-05",
+      "fonte": null,
+      "descricao": "SUBSTITUIÇÃO DE TAMPA DE CONCRETO PARA BOCA DE LOBO",
+      "unidade": "UN",
+      "quantidade": 4.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": null,
+      "codigo": "10-04-00",
+      "fonte": null,
+      "descricao": "CORTE SUPERFICIAL DE CONCRETO ATÉ 3 CM DE PROFUNDIDADE",
+      "unidade": "M2",
+      "quantidade": 60.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 20
+    }
+  ],
+  "apelido": "IPIRANGA, CALÇADA HOSPITAL HELIOPOLIS"
+}

@@ -1,0 +1,405 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620240007843",
+    "numero_art": "28027230211908658",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA JAÇANÃ TREMEMBÉ",
+    "cnpj_contratante": "05.655.070/0001-00",
+    "objeto": "Execução de serviços de revitalização de área pública, localizada à Alameda das Roseiras, alt. nº. 50, Jardim Joana D'Arc, Subprefeitura Jaçanã-Tremembé",
+    "processo_administrativo": "6043.2021/0002605-2",
+    "contrato": "33/SUB-JT/2021",
+    "endereco_obra": "ALAMEDA DAS ROSEIRAS, No.: 50",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2021-12-27",
+    "data_fim": "2022-01-26",
+    "area_m2": 59000.0,
+    "valor_contrato": 320563.58
+  },
+  "servicos": [
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "01-01-07",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 46.11,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "01-01-08",
+      "fonte": null,
+      "descricao": "LIMPEZA MANUAL GERAL INCLUSIVE REMOÇÃO DE COBERTURA VEGETAL - TRONCO ATÉ 10CM - SEM TRANSPORTE",
+      "unidade": "M2",
+      "quantidade": 559.35,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "01-05-02",
+      "fonte": null,
+      "descricao": "TAPUME CHAPA COMPENSADA RESINADA 10MM",
+      "unidade": "M2",
+      "quantidade": 60.5,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "01-05-40",
+      "fonte": null,
+      "descricao": "TELA PARA PROTEÇÃO DE OBRAS, MALHA 2 MM",
+      "unidade": "M2",
+      "quantidade": 442.2,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "17-30-02",
+      "fonte": null,
+      "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": "09-01-55",
+      "fonte": null,
+      "descricao": "ENTRADA AÉREA DE ENERGIA E TELEFONE - 21 À 23KVA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": "09-02-53",
+      "fonte": null,
+      "descricao": "ELETRODUTO DE POLIETILENO FLEXÍVEL, ALTA RESISTÊNCIA - 2\"",
+      "unidade": "M",
+      "quantidade": 607.5,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": "09-02-98",
+      "fonte": null,
+      "descricao": "ENVELOPAMENTO DE ELETRODUTO ENTERRADO, COM CONCRETO",
+      "unidade": "M",
+      "quantidade": 587.5,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": "09-03-08",
+      "fonte": null,
+      "descricao": "CABO 10,00MM2 - ISOLAMENTO PARA 0,7KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 885.75,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": "09-03-09",
+      "fonte": null,
+      "descricao": "CABO 16,00MM2 - ISOLAMENTO PARA 0,7KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 1822.5,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": "09-83-51",
+      "fonte": null,
+      "descricao": "FOTOCELULA SOLAR-RELÊ FOTOELÉTRICO CAPACIDADE - 1000W",
+      "unidade": "UN",
+      "quantidade": 10.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "POSTE GALVANIZADO, RETO, FLANGEADO, H=5M COM LUMINÁRIA HERMÉTICA TIPO LED DE 150W COM APROVAÇÃO",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": "09-20-35",
+      "fonte": null,
+      "descricao": "DE ILUME/PMSP, INCLUSIVE CAIXA DE INSPEÇÃO DE ALVENARIA 40X40X40CM DE 1 TIJOLO COM TAMPA DE CONCRETO",
+      "unidade": "UN",
+      "quantidade": 10.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "PAISAGISMO E EQUIPAMENTOS URBANOS",
+      "codigo": "01-04-01",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL, PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 14.72,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "PAISAGISMO E EQUIPAMENTOS URBANOS",
+      "codigo": "01-04-10",
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 294.47,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "PAISAGISMO E EQUIPAMENTOS URBANOS",
+      "codigo": "02-05-11",
+      "fonte": null,
+      "descricao": "CONCRETO FCK=30MPA - USINADO",
+      "unidade": "M3",
+      "quantidade": 44.17,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "PAISAGISMO E EQUIPAMENTOS URBANOS",
+      "codigo": "03-03-30",
+      "fonte": null,
+      "descricao": "BOMBEAMENTO DE CONCRETO",
+      "unidade": "M3",
+      "quantidade": 44.17,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "PAISAGISMO E EQUIPAMENTOS URBANOS",
+      "codigo": "17-02-47",
+      "fonte": null,
+      "descricao": "PISO/PASSEIO DE CONCRETO ARMADO, INCLUINDO O PREPARO DA CAIXA, LASTRO DE BRITA, TELA METÁLICA E A MÃO DE OBRA REFERENTE AOS SERVIÇOS NO CONCRETO: LANÇAMENTO E ACABAMENTO (RIPADO E DESEMPENADO), EXCLUSIVE O FORNECIMENTO DO CONCRETO",
+      "unidade": "M3",
+      "quantidade": 44.17,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "PAISAGISMO E EQUIPAMENTOS URBANOS",
+      "codigo": "17-50-21",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MANUAL DE CONCRETO ARMADO",
+      "unidade": "M3",
+      "quantidade": 7.5,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "PAISAGISMO E EQUIPAMENTOS URBANOS",
+      "codigo": "17-60-50",
+      "fonte": null,
+      "descricao": "RETIRADA DE BRINQUEDOS",
+      "unidade": "UN",
+      "quantidade": 4.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "PAISAGISMO E EQUIPAMENTOS URBANOS",
+      "codigo": "18-03-05",
+      "fonte": null,
+      "descricao": "GRAMA ESMERALDA",
+      "unidade": "M2",
+      "quantidade": 559.35,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "PAISAGISMO E EQUIPAMENTOS URBANOS",
+      "codigo": "18-03-15",
+      "fonte": null,
+      "descricao": "CLOROFITO (CLOROPHYTUM CROMOSSUM)",
+      "unidade": "DÚZIA",
+      "quantidade": 10.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "PAISAGISMO E EQUIPAMENTOS URBANOS",
+      "codigo": "18-03-17",
+      "fonte": null,
+      "descricao": "FILODENDRO (PHILODENDRON BIPINNATIFIDUM)",
+      "unidade": "DÚZIA",
+      "quantidade": 10.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "PAISAGISMO E EQUIPAMENTOS URBANOS",
+      "codigo": "18-03-21",
+      "fonte": null,
+      "descricao": "LÍRIO (HEMEROCALLIS FLAVA)",
+      "unidade": "DÚZIA",
+      "quantidade": 10.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "PAISAGISMO E EQUIPAMENTOS URBANOS",
+      "codigo": "18-14-45",
+      "fonte": null,
+      "descricao": "PLAYGROUND BRINQUEDOS DE MADEIRA - ESCORREGADOR (ALT.=1,80M COMP.=3,00M)",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "PAISAGISMO E EQUIPAMENTOS URBANOS",
+      "codigo": "18-14-46",
+      "fonte": null,
+      "descricao": "PLAYGROUND BRINQUEDOS DE MADEIRA - GANGORRA DUPLA",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "PAISAGISMO E EQUIPAMENTOS URBANOS",
+      "codigo": "18-14-48",
+      "fonte": null,
+      "descricao": "PLAYGROUND BRINQUEDOS DE MADEIRA - BALANÇA DUPLA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "PAISAGISMO E EQUIPAMENTOS URBANOS",
+      "codigo": "18-16-07",
+      "fonte": null,
+      "descricao": "PRESSÃO DE PERNAS TRIPLO CONJUGADO",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "PAISAGISMO E EQUIPAMENTOS URBANOS",
+      "codigo": "18-16-10",
+      "fonte": null,
+      "descricao": "SIMULADOR DE CAMINHADA TRIPLO CONJUGADO",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "PAISAGISMO E EQUIPAMENTOS URBANOS",
+      "codigo": "18-16-11",
+      "fonte": null,
+      "descricao": "ROTAÇÃO VERTICAL DUPLO",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "PAISAGISMO E EQUIPAMENTOS URBANOS",
+      "codigo": "18-16-13",
+      "fonte": null,
+      "descricao": "ESQUI DUPLO CONJUGADO",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "PAISAGISMO E EQUIPAMENTOS URBANOS",
+      "codigo": "18-16-08",
+      "fonte": null,
+      "descricao": "REMADA SENTADA",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "PAISAGISMO E EQUIPAMENTOS URBANOS",
+      "codigo": "18-16-19",
+      "fonte": null,
+      "descricao": "PLACA ORIENTADORA VERTICAL",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "PAISAGISMO E EQUIPAMENTOS URBANOS",
+      "codigo": "18-16-20",
+      "fonte": null,
+      "descricao": "LIXEIRA DUPLA",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "PAISAGISMO E EQUIPAMENTOS URBANOS",
+      "codigo": "18B025",
+      "fonte": null,
+      "descricao": "MESA(1) BANCO(3) CONCRETO APARENTE (JOGO CAMAS)DEPAVE (MB99)",
+      "unidade": "CJ",
+      "quantidade": 4.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "17-04-01",
+      "fonte": null,
+      "descricao": "LIMPEZA GERAL DA OBRA",
+      "unidade": "M2",
+      "quantidade": 589.27,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "20-03-04",
+      "fonte": null,
+      "descricao": "ENGENHEIRO/ARQUITETO PLENO",
+      "unidade": "H",
+      "quantidade": 90.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "20-03-60",
+      "fonte": null,
+      "descricao": "PROJETO BÁSICO (PRANCHA A1)",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 26
+    }
+  ],
+  "apelido": "SEM_APELIDO"
+}

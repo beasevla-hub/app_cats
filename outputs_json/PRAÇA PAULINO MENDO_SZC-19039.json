@@ -1,0 +1,395 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "SZC-19039",
+    "numero_art": "92221220090495731",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5052126893",
+    "empresa_contratada": "THI Engenharia e Arquitetura Ltda",
+    "contratante": "Prefeitura do Município de São Paulo - Coordenadoria da Infraestrutura Urbana e Obras - Subprefeitura Vila Prudente/Sapopemba.",
+    "cnpj_contratante": null,
+    "objeto": "Responsável Técnico por Execução na área da Engenharia Civil - Execução de reforma na Praça Pública, incluindo projetos.",
+    "processo_administrativo": null,
+    "contrato": null,
+    "endereco_obra": "Rua Paulino Mendo, entre os números 164 e 224 - Jardim Sapopemba",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2008-12-05",
+    "data_fim": "2008-12-24",
+    "area_m2": null,
+    "valor_contrato": 65820.53
+  },
+  "servicos": [
+    {
+      "grupo": null,
+      "codigo": "01-01-01",
+      "fonte": null,
+      "descricao": "LIMPEZA GERAL, INCLUSIVE REMOÇÃO DA COBERTURA VEGETAL - TRONCOS COM DIAMETRO ATÉ 10CM",
+      "unidade": "M2",
+      "quantidade": 1500.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "01-01-05",
+      "fonte": null,
+      "descricao": "CARGA MECANIZADA E REMOÇÃO DE ENTULHO, INCLUSIVE TRANSPORTE ATÉ 1KM",
+      "unidade": "M3",
+      "quantidade": 230.5,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "01-01-09",
+      "fonte": null,
+      "descricao": "DESTOCAMENTO MANUAL, INCLUSIVE REMOÇÃO DE RAÍZES - DIÂMETRO 10,01 À 30 CM",
+      "unidade": "UN",
+      "quantidade": 25.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "01-01-10",
+      "fonte": null,
+      "descricao": "TRANSPORTE POR CAMINHÃO BASCULANTE, A PARTIR DE 1KM",
+      "unidade": "M3XKM",
+      "quantidade": 6684.5,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "01-04-01",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL, PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 80.25,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "01-05-40",
+      "fonte": null,
+      "descricao": "TELA PARA PROTEÇÃO DE OBRAS, MALHA 2 MM",
+      "unidade": "M2",
+      "quantidade": 45.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "02-02-10",
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 264.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "02-03-01",
+      "fonte": null,
+      "descricao": "FORMA COMUM DE TÁBUAS DE PINUS",
+      "unidade": "M2",
+      "quantidade": 54.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "09-02-05",
+      "fonte": null,
+      "descricao": "ELETRODUTO DE PVC RÍGIDO, ROSCÁVEL - 50MM (1 1/2\")",
+      "unidade": "M",
+      "quantidade": 61.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "09-02-99",
+      "fonte": null,
+      "descricao": "ENVELOPAMENTO DE ELETRODUTO ENTERRADO COM CONCRETO E AGREGADO RECICLADO",
+      "unidade": "M",
+      "quantidade": 61.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "09-03-30",
+      "fonte": null,
+      "descricao": "FIO 4,00MM2 - ISOLAMENTO PARA 1,0KV",
+      "unidade": "M",
+      "quantidade": 122.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "09-05-55",
+      "fonte": null,
+      "descricao": "CAIXA DE PASSAGEM EM ALVENARIA - ESCAVAÇÃO E APILOAMENTO",
+      "unidade": "M3",
+      "quantidade": 0.25,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "09-05-56",
+      "fonte": null,
+      "descricao": "CAIXA DE PASSAGEM EM ALVENARIA - LASTRO DE BRITA (FUNDO)",
+      "unidade": "M3",
+      "quantidade": 0.02,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "09-05-57",
+      "fonte": null,
+      "descricao": "CAIXA DE PASSAGEM EM ALVENARIA - LASTRO DE CONCRETO (FUNDO)",
+      "unidade": "M3",
+      "quantidade": 0.05,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "09-05-59",
+      "fonte": null,
+      "descricao": "CAIXA DE PASSAGEM EM ALVENARIA - PAREDE DE 1 TIJOLO, REVESTIDA",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "09-05-60",
+      "fonte": null,
+      "descricao": "CAIXA DE PASSAGEM EM ALVENARIA - TAMPA DE CONCRETO",
+      "unidade": "M2",
+      "quantidade": 0.5,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "09-20-33",
+      "fonte": null,
+      "descricao": "POSTE DE AÇO GALVANIZADO TIPO RETO, FLANGEADO H=5M COM LUMINÁRIA HERMÉTICA EM ALUMÍNIO FUNDIDO PARA LÂMPADA DE VAPOR DE MERCÚRIO DE 250W",
+      "unidade": "UN",
+      "quantidade": 4.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "09-83-51",
+      "fonte": null,
+      "descricao": "FOTOCELULA SOLAR-RELÉ FOTOELÉTRICO CAPACIDADE - 1000W",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "13-01-10",
+      "fonte": null,
+      "descricao": "LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 13.2,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "13-01-14",
+      "fonte": null,
+      "descricao": "LASTRO DE CONCRETO - 150KG CIM/M3",
+      "unidade": "M3",
+      "quantidade": 26.4,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "13-02-02",
+      "fonte": null,
+      "descricao": "CIMENTADO COMUM, DESEMPENADO E ALISADO - ESPESSURA 20MM",
+      "unidade": "M2",
+      "quantidade": 264.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "13-02-04",
+      "fonte": null,
+      "descricao": "ACABAMENTO DE PISO DE CONCRETO TIPO BAMBOLÊ",
+      "unidade": "M2",
+      "quantidade": 264.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": "17-04-01",
+      "fonte": null,
+      "descricao": "LIMPEZA GERAL DA OBRA",
+      "unidade": "M2",
+      "quantidade": 264.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": null,
+      "codigo": "18-13-46",
+      "fonte": null,
+      "descricao": "RV.11 - TANQUE DE AREIA - GENÉRICO - FORNECIMENTO E APLICAÇÃO DE AREIA LAVADA",
+      "unidade": "M3",
+      "quantidade": 12.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": null,
+      "codigo": "17-02-50",
+      "fonte": null,
+      "descricao": "GUIA DE CONCRETO RETA OU CURVA, TIPO PMSP",
+      "unidade": "M",
+      "quantidade": 12.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": null,
+      "codigo": "18-03-03",
+      "fonte": null,
+      "descricao": "GRAMA SÃO CARLOS EM PLACAS (ANOXONOPUS OBTUSIFOLIUS)",
+      "unidade": "M2",
+      "quantidade": 595.5,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": null,
+      "codigo": "18-03-67",
+      "fonte": null,
+      "descricao": "AZALÉA (RHODODENDRON INDICUM)",
+      "unidade": "UN",
+      "quantidade": 44.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": null,
+      "codigo": "18-03-83",
+      "fonte": null,
+      "descricao": "HIBISCO (HIBISCUS ROSA SINENSIS)",
+      "unidade": "UN",
+      "quantidade": 37.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": null,
+      "codigo": "18-03-85",
+      "fonte": null,
+      "descricao": "MALVAVISCO (MALVAVISCUS MOLLIS)",
+      "unidade": "UN",
+      "quantidade": 44.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": null,
+      "codigo": "18-12-02",
+      "fonte": null,
+      "descricao": "IC.02 - CONJUNTO MESA E BANCOS EM CONCRETO",
+      "unidade": "CJ",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": null,
+      "codigo": "18-12-03",
+      "fonte": null,
+      "descricao": "IC.03 BANCO EM CONCRETO APARENTE - L=40CM",
+      "unidade": "M",
+      "quantidade": 4.5,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": null,
+      "codigo": "18-14-08",
+      "fonte": null,
+      "descricao": "ESCORREGADOR COMPR=3,00M H=1,80M - ESTRUTURA METÁLICA",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": null,
+      "codigo": "18-14-11",
+      "fonte": null,
+      "descricao": "GANGORRA COM 3 PRANCHAS COMPR=3,00M H=0,70M - ESTRUTURA METÁLICA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": null,
+      "codigo": "18-14-15",
+      "fonte": null,
+      "descricao": "BALANÇO DE 3 LUGARES COM PNEUS COMPR=4,50M H=2,50M - ESTRUTURA METÁLICA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": null,
+      "codigo": "18-80-01",
+      "fonte": null,
+      "descricao": "REVOLVIMENTO E AJUSTE DO SOLO",
+      "unidade": "M2",
+      "quantidade": 595.5,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "18-80-11",
+      "fonte": null,
+      "descricao": "TERRA PREPARADA PARA PLANTIO",
+      "unidade": "M3",
+      "quantidade": 59.55,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "05-01-00",
+      "fonte": "SIURB",
+      "descricao": "ARRANCAMENTO DE GUIAS, INCLUI CARGA EM CAMINHÃO",
+      "unidade": "M",
+      "quantidade": 12.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 3
+    }
+  ],
+  "apelido": "PRAÇA PAULINO MENDO"
+}

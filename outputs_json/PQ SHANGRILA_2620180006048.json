@@ -1,0 +1,565 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620180006048",
+    "numero_art": "28027230180973484",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA CAPELA DO SOCORRO",
+    "cnpj_contratante": "05.658.440/0001-54",
+    "objeto": "Execução de reforma e modernização da infraestrutura esportiva, através de drenagem do campo de futebol do Parque Shangrilá.",
+    "processo_administrativo": "06/SPCS/2016",
+    "contrato": "063/SPCS/2016",
+    "endereco_obra": "RUA IRMÃ MARIA LOURENÇA",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2016-11-17",
+    "data_fim": "2017-02-14",
+    "area_m2": 1200.0,
+    "valor_contrato": 355324.83
+  },
+  "servicos": [
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "73686",
+      "fonte": null,
+      "descricao": "LOCACAO DA OBRA, COM USO DE EQUIPAMENTOS TOPOGRAFICOS, INCLUSIVE NIVELADOR",
+      "unidade": "M2",
+      "quantidade": 420.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "73847/002",
+      "fonte": null,
+      "descricao": "ALUGUEL CONTAINER/ESCRIT/WC C/1 VASO/1 LAV/1 MIC/4 CHUV LARG=2,20M COMPR=6,20M ALT=2,50M CHAPA ACO NERV TRAPEZ FORROC/ ISOL TERMO-ACUST CHASSIS REFORC PISO COMPENS NAVAL INCL INST ELETR/HIDRO-SANIT EXCL TRANSP/CARGA/DESCARGA",
+      "unidade": "MÊS",
+      "quantidade": 3.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "74209/001",
+      "fonte": null,
+      "descricao": "PLACA DE OBRA EM CHAPA DE ACO GALVANIZADO",
+      "unidade": "M2",
+      "quantidade": 0.72,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "DEMOLIÇÕES",
+      "codigo": "72214",
+      "fonte": null,
+      "descricao": "DEMOLICAO DE ALVENARIA ESTRUTURAL DE BLOCOS VAZADOS DE CONCRETO",
+      "unidade": "M3",
+      "quantidade": 1.5,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "DEMOLIÇÕES",
+      "codigo": "73616",
+      "fonte": null,
+      "descricao": "DEMOLICAO DE CONCRETO SIMPLES",
+      "unidade": "M3",
+      "quantidade": 29.43,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "DEMOLIÇÕES",
+      "codigo": "72949",
+      "fonte": null,
+      "descricao": "DEMOLICAO DE PAVIMENTACAO ASFALTICA, EXCLUSIVE TRANSPORTE DO MATERIAL RETIRADO",
+      "unidade": "M3",
+      "quantidade": 86.13,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "DEMOLIÇÕES",
+      "codigo": "72898",
+      "fonte": null,
+      "descricao": "CARGA E DESCARGA MECANIZADAS DE ENTULHO EM CAMINHAO BASCULANTE 6 M3",
+      "unidade": "M3",
+      "quantidade": 117.05,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "MOVIMENTO DE TERRA",
+      "codigo": "04-35-00",
+      "fonte": null,
+      "descricao": "APILOAMENTO MANUAL DE CAVA DE FUNDAÇÃO",
+      "unidade": "M2",
+      "quantidade": 459.21,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "MOVIMENTO DE TERRA",
+      "codigo": "73481",
+      "fonte": null,
+      "descricao": "ESCAVACAO MANUAL DE VALAS EM TERRA COMPACTA, PROF. DE 0 M H <= 1 M",
+      "unidade": "M3",
+      "quantidade": 18.85,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "MOVIMENTO DE TERRA",
+      "codigo": "73576",
+      "fonte": null,
+      "descricao": "ESCAV MEC VALA N ESCOR DE1,5 A 3M(ESCAV HIDRAUL 0,78M3)MAT 1A CAT EXCL ESGOTAMENTO.",
+      "unidade": "M3",
+      "quantidade": 184.67,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "MOVIMENTO DE TERRA",
+      "codigo": "73575",
+      "fonte": null,
+      "descricao": "ESCAV MEC VALA N ESCOR DE 3 A 4,5M(ESCAV HIDRAUL 0,78M3)MAT 1A CAT EXCL ESGOTAMENTO.",
+      "unidade": "M3",
+      "quantidade": 1061.24,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "MOVIMENTO DE TERRA",
+      "codigo": "74015/001",
+      "fonte": null,
+      "descricao": "REATERRO E COMPACTACAO MECANICO DE VALA COM COMPACTADOR MANUAL TIPO SOQUETE VIBRATORIO",
+      "unidade": "M3",
+      "quantidade": 858.25,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "MOVIMENTO DE TERRA",
+      "codigo": "74010/001",
+      "fonte": null,
+      "descricao": "CARGA E DESCARGA MECANICA DE SOLO UTILIZANDO CAMINHAO BASCULANTE 5,0M3 / 11T E PA CARREGADEIRA SOBRE PNEUS * 105 HP * CAP. 1,72M3.",
+      "unidade": "M3",
+      "quantidade": 406.5,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "MOVIMENTO DE TERRA",
+      "codigo": "72843",
+      "fonte": null,
+      "descricao": "TRANSPORTE COMERCIAL COM CAMINHAO BASCULANTE 6 M3, RODOVIA PAVIMENTADA",
+      "unidade": "TXKM",
+      "quantidade": 11768.2,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "MOVIMENTO DE TERRA",
+      "codigo": "83867",
+      "fonte": null,
+      "descricao": "ESCORAMENTO DE VALAS DESCONTINUO",
+      "unidade": "M2",
+      "quantidade": 1188.87,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "MOVIMENTO DE TERRA",
+      "codigo": "83344",
+      "fonte": null,
+      "descricao": "ESPALHAMENTO DE MATERIAL EM BOTA FORA, COM UTILIZACAO DE TRATOR DE ESTEIRAS DE 165 HP",
+      "unidade": "M3",
+      "quantidade": 406.51,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "72945",
+      "fonte": null,
+      "descricao": "IMPRIMACAO DE BASE DE PAVIMENTACAO COM EMULSAO CM- 30",
+      "unidade": "M2",
+      "quantidade": 581.85,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "72956",
+      "fonte": null,
+      "descricao": "TRATAMENTO SUPERFICIAL SIMPLES - TSS, COM EMULSAO RR- 2C",
+      "unidade": "M2",
+      "quantidade": 1163.7,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "74223/001",
+      "fonte": null,
+      "descricao": "MEIO-FIO (GUIA) DE CONCRETO PRE-MOLDADO, DIMENSÕES",
+      "unidade": "M",
+      "quantidade": 52.5,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "12X15X30X100CM (FACE SUPERIORXFACE INFERIORXALTURAXCOMPRIMENTO), REJUNTADO C/ARGAMASSA 1:4 CIMENTO:AREIA, INCLUINDO ESCAVAÇÃO E REATERRO.",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "72948",
+      "fonte": null,
+      "descricao": "COLCHAO DE AREIA PARA PAVIMENTACAO EM PARALELEPIPEDO OU BLOCOS DE CONCRETO INTERTRAVADOS",
+      "unidade": "M3",
+      "quantidade": 3.19,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "73790/001",
+      "fonte": null,
+      "descricao": "RETIRADA, LIMPEZA E REASSENTAMENTO DE PARALELEPIPEDO SOBRE COLCHAO DE PO DE PEDRA ESPESSURA 10CM, REJUNTADO COM BETUME E PEDRISCO, CONSIDERANDO APROVEITAMENTO DO PARALELEPIPEDO",
+      "unidade": "M2",
+      "quantidade": 79.85,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "72961",
+      "fonte": null,
+      "descricao": "REGULARIZACAO E COMPACTACAO DE SUBLEITO ATE 20 CM DE ESPESSURA",
+      "unidade": "M2",
+      "quantidade": 661.7,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "73710",
+      "fonte": null,
+      "descricao": "BASE PARA PAVIMENTACAO COM BRITA GRADUADA, INCLUSIVE COMPACTACAO",
+      "unidade": "M3",
+      "quantidade": 62.65,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "74138/003",
+      "fonte": null,
+      "descricao": "CONCRETO USINADO BOMBEADO FCK=25MPA, INCLUSIVE LANCAMENTO E ADENSAMENTO",
+      "unidade": "M3",
+      "quantidade": 40.22,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "72965",
+      "fonte": null,
+      "descricao": "FABRICAÇÃO E APLICAÇÃO DE CONCRETO BETUMINOSO USINADO A QUENTE(CBUQ),CAP 50/70, EXCLUSIVE TRANSPORTE",
+      "unidade": "T",
+      "quantidade": 55.86,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "72964",
+      "fonte": null,
+      "descricao": "CONCRETO BETUMINOSO USINADO A QUENTE COM CAP 50/70, BINDER, INCLUSO USINAGEM E APLICACAO, EXCLUSIVE TRANSPORTE",
+      "unidade": "T",
+      "quantidade": 53.53,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "83357",
+      "fonte": null,
+      "descricao": "TRANSPORTE LOCAL DE MASSA ASFALTICA - PAVIMENTACAO URBANA",
+      "unidade": "M3XKM",
+      "quantidade": 1078.05,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "72856",
+      "fonte": null,
+      "descricao": "TRANSPORTE LOCAL COM CAMINHAO BASCULANTE 6 M3, RODOVIA EM LEITO NATURAL",
+      "unidade": "M3XKM",
+      "quantidade": 1033.13,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "72846",
+      "fonte": null,
+      "descricao": "CARGA, MANOBRAS E DESCARGA DE MISTURA BETUMINOSA A QUENTE, COM CAMINHAO BASCULANTE 6 M3",
+      "unidade": "T",
+      "quantidade": 257.18,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "83740",
+      "fonte": null,
+      "descricao": "IMPERMEABILIZACAO COM FELTRO ASFALTICO BETUMINADO, NUM 15",
+      "unidade": "M2",
+      "quantidade": 581.85,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "83656",
+      "fonte": null,
+      "descricao": "COLCHAO DRENANTE C/ 30CM PEDRA BRITADA N.3/FILTRO TRANSICAO MANTA GEOTEXTIL 100% POLIPROPILENO OU POLIESTER INCL FORNEC/COLOCMAT",
+      "unidade": "M2",
+      "quantidade": 581.85,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "DRENAGEM",
+      "codigo": "74254/002",
+      "fonte": null,
+      "descricao": "ARMACAO ACO CA-50, DIAM. 6,3 (1/4) À 12,5MM(1/2) - FORNECIMENTO/ CORTE(PERDA DE 10%) / DOBRA / COLOCAÇÃO.",
+      "unidade": "KG",
+      "quantidade": 2218.6,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "DRENAGEM",
+      "codigo": "73406",
+      "fonte": null,
+      "descricao": "CONCRETO FCK=15MPA (1:2,5:3), INCLUIDO PREPARO MECANICO, LANCAMENTO E ADENSAMENTO.",
+      "unidade": "M3",
+      "quantidade": 3.42,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "DRENAGEM",
+      "codigo": "84217",
+      "fonte": null,
+      "descricao": "FORMA PARA ESTRUTURAS DE CONCRETO (PILAR, VIGA E LAJE) EM CHAPA DE MADEIRA COMPENSADA PLASTIFICADA, DE 1,10 X 2,20, ESPESSURA = 12 MM, 02 UTILIZAÇOES. (FABRICAÇAO, MONTAGEM E DESMONTAGEM - EXCLUSIVE ESCORAMENTO)",
+      "unidade": "M2",
+      "quantidade": 122.4,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "DRENAGEM",
+      "codigo": "74164/004",
+      "fonte": null,
+      "descricao": "LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 28.71,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "DRENAGEM",
+      "codigo": "83677",
+      "fonte": null,
+      "descricao": "TUBO CONCRETO SIMPLES DN 400 MM PARA DRENAGEM - FORNECIMENTO E INSTALACAO INCLUSIVE ESCAVACAO MANUAL 1,5M3/M",
+      "unidade": "M",
+      "quantidade": 17.5,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "DRENAGEM",
+      "codigo": "06.10.01",
+      "fonte": null,
+      "descricao": "FORNECIMENTO E ASSENTAMENTO DE TUBOS DE CONCRETO ARMADO, DIAMETRO 60CM - TIPO PA-2",
+      "unidade": "M",
+      "quantidade": 247.96,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "DRENAGEM",
+      "codigo": "83709",
+      "fonte": null,
+      "descricao": "POCO DE VISITA EM ALVENARIA, PARA REDE D=0,60 M, PARTE FIXA C/ 1,00 M DE ALTURA",
+      "unidade": "UNID",
+      "quantidade": 10.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "DRENAGEM",
+      "codigo": "83715",
+      "fonte": null,
+      "descricao": "CHAMINE P/ POCO DE VISITA EM ALVENARIA, EXCLUSOS TAMPAO E ANEL",
+      "unidade": "M",
+      "quantidade": 14.75,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "DRENAGEM",
+      "codigo": "73607",
+      "fonte": null,
+      "descricao": "ASSENTAMENTO DE TAMPAO DE FERRO FUNDIDO 600 MM",
+      "unidade": "UNID",
+      "quantidade": 10.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "DRENAGEM",
+      "codigo": "74206/001",
+      "fonte": null,
+      "descricao": "CAIXA COLETORA, 1,20X1,20X1,50M, COM FUNDO E TAMPA DE CONCRETO E PAREDES EM ALVENARIA",
+      "unidade": "UNID",
+      "quantidade": 4.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "DRENAGEM",
+      "codigo": "83659",
+      "fonte": null,
+      "descricao": "BOCA DE LOBO EM ALVENARIA TIJOLO MACICO, REVESTIDA C/ ARGAMASSA DE CIMENTO E AREIA 1:3, SOBRE LASTRO DE CONCRETO 10CM E TAMPA DE CONCRETO ARMADO",
+      "unidade": "UNID",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "DRENAGEM",
+      "codigo": "83716",
+      "fonte": null,
+      "descricao": "GRELHA FF 30X90CM, 135KG, P/ CX RALO COM ASSENTAMENTO DE ARGAMASSA CIMENTO/AREIA 1:4 - FORNECIMENTO E INSTALAÇÃO",
+      "unidade": "UNID",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": "73892/002",
+      "fonte": null,
+      "descricao": "EXECUÇÃO DE PASSEIO (CALÇADA) EM CONCRETO 12 MPA, TRAÇO 1:3:5 (CIMENTO/AREIA/BRITA), PREPARO MECÂNICO, ESPESSURA 7CM, COM JUNTA DE DILATAÇÃO EM MADEIRA, INCLUSO LANÇAMENTO E ADENSAMENTO",
+      "unidade": "M2",
+      "quantidade": 83.15,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": "74236/001",
+      "fonte": null,
+      "descricao": "PLANTIO DE GRAMA BATATAIS EM PLACAS",
+      "unidade": "M2",
+      "quantidade": 298.59,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": "9537",
+      "fonte": null,
+      "descricao": "LIMPEZA FINAL DA OBRA",
+      "unidade": "M2",
+      "quantidade": 360.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "PROJETO EXECUTIVO",
+      "codigo": "20.03.19",
+      "fonte": null,
+      "descricao": "DESENVOLVIMENTO DE PRANCHA TÉCNICA EM FORMATO A1",
+      "unidade": "UNID",
+      "quantidade": 2.83,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "ATO-ASSESSORIA TÉCNICA DE OBRA",
+      "codigo": "02.01.02",
+      "fonte": null,
+      "descricao": "SONDAGEM COM EXTRAÇÃO DE AMOSTRAS NAS CONDIÇÕES NATURAIS",
+      "unidade": "UNID",
+      "quantidade": 3.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "ATO-ASSESSORIA TÉCNICA DE OBRA",
+      "codigo": "02.02.02",
+      "fonte": null,
+      "descricao": "MOBILIZAÇÃO E INSTALAÇÃO DE 1 EQUIPAMENTO",
+      "unidade": "UNID",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "ATO-ASSESSORIA TÉCNICA DE OBRA",
+      "codigo": "02.02.05",
+      "fonte": null,
+      "descricao": "DESLOCAMENTO DE EQUIPAMENTO ENTRE FUROS EM TERRENO PLANO, CONSIDERANDO A DISTÂNCIA DE 100 À 200M",
+      "unidade": "UNID",
+      "quantidade": 2.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "ATO-ASSESSORIA TÉCNICA DE OBRA",
+      "codigo": "02.06.21",
+      "fonte": null,
+      "descricao": "ENSAIOS DE LABORATÓRIO - DOSAGEM MARSHALL, GRANULOMETRIA, TEOR DE ASFALTO, ESTABILIDADE E FLUÊNCIA",
+      "unidade": "ENS",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "ATO-ASSESSORIA TÉCNICA DE OBRA",
+      "codigo": "02.03.11",
+      "fonte": null,
+      "descricao": "PERFURAÇÃO EM SOLOS OU ROCHAS DECOMPOSTAS HX",
+      "unidade": "M",
+      "quantidade": 0.5,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "ATO-ASSESSORIA TÉCNICA DE OBRA",
+      "codigo": "03.22.00",
+      "fonte": null,
+      "descricao": "LOCAÇÃO DE VEÍCULO DE PASSAGEIRO TIPO VW GOL OU SIMILAR, COM MOTORISTA, INCLUINDO MANUTENÇÃO E COMBUSTÍVEL (MÍNIMO 200 H/MÊS)",
+      "unidade": "H",
+      "quantidade": 9.62,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 2
+    }
+  ],
+  "apelido": "PQ SHANGRILA"
+}

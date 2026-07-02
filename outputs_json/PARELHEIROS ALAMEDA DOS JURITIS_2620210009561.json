@@ -1,0 +1,245 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620210009561",
+    "numero_art": "28027230211196990",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA DE PARELHEIROS",
+    "cnpj_contratante": "05.494.401/0001-69",
+    "objeto": "Contratação de Empresa Especializada de Engenharia Para Requalificação Urbana de Área Pública.",
+    "processo_administrativo": null,
+    "contrato": "055/SUB-PA/2020",
+    "endereco_obra": "AVENIDA DE PARELHEIROS, 5252 / ALAMEDA DOS JURITIS",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2020-08-05",
+    "data_fim": "2020-09-03",
+    "area_m2": 1820.0,
+    "valor_contrato": 356651.26
+  },
+  "servicos": [
+    {
+      "grupo": null,
+      "codigo": "01-01-07",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 18.2,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "04-04-00",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MECÂNICA PARA FUNDAÇÕES E VALAS COM PROFUNDIDADE MENOR OU IGUAL À 4,0M",
+      "unidade": "M3",
+      "quantidade": 546.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "04-09-00",
+      "fonte": null,
+      "descricao": "REENCHIMENTO DE VALA COM COMPACTAÇÃO, SEM FORNECIMENTO DE TERRA",
+      "unidade": "M3",
+      "quantidade": 91.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "04-11-00",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MECÂNICA, CARGA E REMOÇÃO DE TERRA ATÉ A DISTÂNCIA MÉDIA DE 1,0KM",
+      "unidade": "M3",
+      "quantidade": 273.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "04-15-00",
+      "fonte": null,
+      "descricao": "CARGA E REMOÇÃO DE TERRA ATÉ A DISTÂNCIA MÉDIA DE 1,0KM",
+      "unidade": "M3",
+      "quantidade": 91.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "04-31-00",
+      "fonte": null,
+      "descricao": "FORNECIMENTO DE TERRA, INCLUINDO ESCAVAÇÃO, CARGA E TRANSPORTE ATÉ A DISTÂNCIA MÉDIA DE 1,0KM, MEDIDO NO ATERRO COMPACTADO",
+      "unidade": "M3",
+      "quantidade": 364.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "04-33-00",
+      "fonte": null,
+      "descricao": "LIMPEZA MECANIZADA DE TERRENO, INCLUSIVE DE CAMADA VEGETAL ATÉ 30CM DE PROFUNDIDADE, SEM TRANSPORTE",
+      "unidade": "M2",
+      "quantidade": 1820.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "05-10-00",
+      "fonte": null,
+      "descricao": "ABERTURA DE CAIXA ATÉ 40CM, INCLUI ESCAVAÇÃO, COMPACTAÇÃO, TRANSPORTE E PREPARO DO SUB-LEITO",
+      "unidade": "M2",
+      "quantidade": 1820.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "05-14-01",
+      "fonte": null,
+      "descricao": "FORNECIMENTO E ASSENTAMENTO DE GUIAS TIPO PMSP 100, INCLUSIVE ENCOSTAMENTO DE TERRA - FCK=20,0MPA",
+      "unidade": "M",
+      "quantidade": 1820.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "05-14-01",
+      "fonte": null,
+      "descricao": "FORNECIMENTO E ASSENTAMENTO DE GUIAS TIPO PMSP 100, INCLUSIVE ENCOSTAMENTO DE TERRA - FCK=20,0MPA",
+      "unidade": "M",
+      "quantidade": 52.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "05-19-02",
+      "fonte": null,
+      "descricao": "CONSTRUÇÃO DE SARJETA OU SARJETÃO DE CONCRETO - FCK= 20,0MPA",
+      "unidade": "M3",
+      "quantidade": 0.98,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "05-26-00",
+      "fonte": null,
+      "descricao": "IMPRIMAÇÃO BETUMINOSA LIGANTE",
+      "unidade": "M2",
+      "quantidade": 1820.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "05-28-00",
+      "fonte": null,
+      "descricao": "REVESTIMENTO DE CONCRETO ASFÁLTICO (SEM TRANSPORTE)",
+      "unidade": "M3",
+      "quantidade": 54.6,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "05-42-00",
+      "fonte": null,
+      "descricao": "PASSEIO DE CONCRETO FCK=15,0MPA, INCLUSIVE PREPARO DE CAIXA E LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 10.92,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "05-48-00",
+      "fonte": null,
+      "descricao": "BASE DE BRITA GRADUADA",
+      "unidade": "M3",
+      "quantidade": 236.6,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "05-78-01",
+      "fonte": null,
+      "descricao": "CARGA, DESCARGA E TRANSPORTE DE CONCRETO ASFÁLTICO ATÉ A DISTÂNCIA MÉDIA DE IDA E VOLTA DE 1KM",
+      "unidade": "M3",
+      "quantidade": 54.6,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "05-78-07",
+      "fonte": null,
+      "descricao": "TRANSPORTE DE CONCRETO ASFÁLTICO ALÉM DO PRIMEIRO KM",
+      "unidade": "M3XKM",
+      "quantidade": 2184.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "06-05-00",
+      "fonte": null,
+      "descricao": "LASTRO DE BRITA E PÓ DE PEDRA",
+      "unidade": "M3",
+      "quantidade": 91.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "06-68-03",
+      "fonte": null,
+      "descricao": "FORNECIMENTO E ASSENTAMENTO DE TUBO DE PVC RÍGIDO, COR BRANCA, PARA ESGOTO, PONTA E BOLSA - DIÂMETRO 100MM (4\")",
+      "unidade": "M",
+      "quantidade": 52.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "07-14-00",
+      "fonte": null,
+      "descricao": "FORNECIMENTO E APLICAÇÃO DE CONCRETO USINADO FCK=15,0MPA",
+      "unidade": "M3",
+      "quantidade": 10.92,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "08-49-00",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE CONCRETO SIMPLES",
+      "unidade": "M3",
+      "quantidade": 26.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "10-18-00",
+      "fonte": null,
+      "descricao": "PROTEÇÃO PARA TERCEIROS COM TELA DE NYLON",
+      "unidade": "M2",
+      "quantidade": 182.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    }
+  ],
+  "apelido": "PARELHEIROS, ALAMEDA DOS JURITIS"
+}

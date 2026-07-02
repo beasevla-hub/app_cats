@@ -1,0 +1,455 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620230008697",
+    "numero_art": "28027230221566246",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA IPIRANGA",
+    "cnpj_contratante": "05.636.771/0001-93",
+    "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA SERVIÇOS DE MANUTENÇÃO PREVENTIVA E CORRETIVA NO BALNEÁRIO CARLOS JOEL NELLI (BALNEÁRIO DO IPIRANGA), SITUADO NA PRAÇA NAMI JAFET N°45 - DISTRITO IPIRANGA",
+    "processo_administrativo": "6039.2022/0002512-9",
+    "contrato": "044/SUB-IP/2022",
+    "endereco_obra": "PRAÇA NAMI JAFET N°45",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2022-10-03",
+    "data_fim": "2022-11-02",
+    "area_m2": 513.0,
+    "valor_contrato": 195051.47
+  },
+  "servicos": [
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ENCARREGADO",
+      "unidade": "H",
+      "quantidade": 88.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ENGENHEIRO DA OBRA",
+      "unidade": "H",
+      "quantidade": 30.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "RAMPA DE ENTRADA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MANUAL DE CONCRETO ARMADO",
+      "unidade": "M3",
+      "quantidade": 7.2,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "RAMPA DE ENTRADA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "BROCA DE CONCRETO - DIAMETRO DE 25CM",
+      "unidade": "M",
+      "quantidade": 10.5,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "RAMPA DE ENTRADA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PASSEIO DE CONCRETO ARMADO, FCK=25MPA, INCLUINDO PREPÁRO DA CAIXA E LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 7.2,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "RAMPA DE ENTRADA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 35.1,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "RAMPA DE ENTRADA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "DP.04 - CORRIMÃO EM TUBO GALVANIZADO",
+      "unidade": "M",
+      "quantidade": 35.1,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "RAMPA DE ENTRADA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "DEMARCAÇÃO DE VAGA DE ESTACIONAMENTO PARA PORTADORES DE DEFICIÊNCIA FÍSICA",
+      "unidade": "UNID",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "RAMPA DE ENTRADA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "DEMARCAÇÃO E PINTURA DE FAIXAS ATÉ 10CM - BORRACHA",
+      "unidade": "M",
+      "quantidade": 24.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "PISOS EXTERNOS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MANUAL DE CONCRETO ARMADO",
+      "unidade": "M3",
+      "quantidade": 5.86,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "PISOS EXTERNOS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PASSEIO DE CONCRETO ARMADO, FCK=25MPA, INCLUINDO PREPÁRO DA CAIXA E LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 5.86,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "PISOS EXTERNOS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CIMENTADO COMUM, DESEMPENADO - ESPESSURA 20MM",
+      "unidade": "M2",
+      "quantidade": 239.77,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "PISOS EXTERNOS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "DEMARCAÇÃO E PINTURA DE FAIXAS ATÉ 10CM - BORRACHA",
+      "unidade": "M",
+      "quantidade": 760.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "PISOS EXTERNOS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "DEGRAUS DE ARGAMASSA DE ALTA RESISTÊNCIA",
+      "unidade": "M",
+      "quantidade": 10.4,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "PISOS EXTERNOS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE DEGRAUS EM GERAL, INCLUSIVE ARGAMASSA DE ASSENTAMENTO",
+      "unidade": "M",
+      "quantidade": 10.4,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "PISOS EXTERNOS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "REMOÇÃO DE PINTURA EM ALVENARIA E CONCRETO - LIXA",
+      "unidade": "M2",
+      "quantidade": 456.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "PISOS EXTERNOS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "APLICAÇÃO DE TINTA ANTI-PICHAÇÃO - BASE SOLVENTE - 2 DE MÃOS (REMOÇÃO DA PICHAÇÃO SOMENTE A SECO OU COM",
+      "unidade": "M2",
+      "quantidade": 456.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "PISOS EXTERNOS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "DEMARCAÇÃO E PINTURA DE SUPERFÍCIES - EPÓXI",
+      "unidade": "M2",
+      "quantidade": 78.85,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "EQUIPAMENTOS (ATI'S, MESAS E BANCOS, JARDINEIRA DAS ÁRVORES)",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "RETIRADA DE ESCADARIAS METÁLICAS EM GERAL, PORTAS OU CAIXILHOS",
+      "unidade": "M",
+      "quantidade": 6.6,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "EQUIPAMENTOS (ATI'S, MESAS E BANCOS, JARDINEIRA DAS ÁRVORES)",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "DP.04 - CORRIMÃO EM TUBO GALVANIZADO",
+      "unidade": "M",
+      "quantidade": 40.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PLACA DE IDENTIFICAÇÃO EM BRAILE \"INÍCIO E FINAL\" P",
+      "unidade": "UNID",
+      "quantidade": 10.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "FERRO TRABALHADO - CAIXILHOS E PEQUENAS PEÇAS DE SERRALHERIA",
+      "unidade": "KG",
+      "quantidade": 151.44,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "BROCA DE CONCRETO - DIAMETRO DE 25CM",
+      "unidade": "M",
+      "quantidade": 46.5,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ROTAÇÃO DIAGONAL DUPLA-APARELHO DUPLO CONJUGADO",
+      "unidade": "UNID",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "SIMULADOR DE CAVALGADA",
+      "unidade": "UNID",
+      "quantidade": 4.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "REMADA SENTADA",
+      "unidade": "UNID",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PLACA ORIENTADORA VERTICAL",
+      "unidade": "UNID",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL COM PROFUNDIDADE IGUAL OU INFERIOR A 1,5M",
+      "unidade": "M3",
+      "quantidade": 1.92,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "FORMA COMUM DE TÁBUAS DE PINUS - NÃO RECUPERÁVEL",
+      "unidade": "M2",
+      "quantidade": 13.6,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-50",
+      "unidade": "KG",
+      "quantidade": 190.8,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CONCRETO FCK=20,0MPA-VIRADO NA OBRA",
+      "unidade": "M3",
+      "quantidade": 2.12,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "BLOCOS VAZADOS DE CONCRETO ESTRUTURAL-14CM-14MPA",
+      "unidade": "M2",
+      "quantidade": 55.6,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-50 PARA BLOCOS VAZADOS DE CONCRETO",
+      "unidade": "KG",
+      "quantidade": 259.24,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CONCRETO \"GROUT\"",
+      "unidade": "M3",
+      "quantidade": 0.57,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "VERGAS, CINTAS E PILARETES DE CONCRETO",
+      "unidade": "M3",
+      "quantidade": 2.26,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "LAJE MISTA TRELIÇADA H-8CM COM CAPEAMENTO 4CM(12CM)",
+      "unidade": "M2",
+      "quantidade": 8.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "IC.04 - BANCO EM CONCRETO APARENTE - L=50CM",
+      "unidade": "M",
+      "quantidade": 16.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "MADEIRAMENTO DE TELHADO, PADRÃO PEROBA - CAIBROS 5X6CM",
+      "unidade": "M",
+      "quantidade": 20.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CHAPISCO COMUM-ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 79.2,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "EMBOÇO EXTERNO -ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 79.2,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "REBOCO EXTERNO-ARGAMASSA PRÉ-FABRICADA",
+      "unidade": "M2",
+      "quantidade": 79.2,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA - REBOCO COM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 79.2,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 22
+    }
+  ],
+  "apelido": "PRAÇA NAMI JAFET"
+}

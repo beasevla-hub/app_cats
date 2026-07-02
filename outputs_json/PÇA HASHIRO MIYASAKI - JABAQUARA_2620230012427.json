@@ -1,0 +1,335 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620230012427",
+    "numero_art": "28027230231270674",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA JABAQUARA",
+    "cnpj_contratante": "05.659.015/0001-80",
+    "objeto": "REVITALIZAÇÃO DA PRAÇA HASHIRO MIYASAKI",
+    "processo_administrativo": "6042.2022/0002018-2",
+    "contrato": "27/SUB-JA/2022",
+    "endereco_obra": "PRAÇA HACHIRO MIYASAKI",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2022-10-31",
+    "data_fim": "2022-12-30",
+    "area_m2": 202.23,
+    "valor_contrato": 206782.77
+  },
+  "servicos": [
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "01-01-07",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 74.42,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "01-05-40",
+      "fonte": null,
+      "descricao": "TELA PARA PROTEÇÃO DE OBRAS, MALHA 2 MM",
+      "unidade": "M2",
+      "quantidade": 223.24,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "17-30-02",
+      "fonte": null,
+      "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "QUADRA POLIESPORTIVA",
+      "codigo": "03-40-24",
+      "fonte": null,
+      "descricao": "LIXAMENTO MECÂNICO EM SUPERFÍCIES DE CONCRETO",
+      "unidade": "M2",
+      "quantidade": 202.23,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "QUADRA POLIESPORTIVA",
+      "codigo": "15-01-15",
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 81.38,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "QUADRA POLIESPORTIVA",
+      "codigo": "17-01-29",
+      "fonte": null,
+      "descricao": "FP.03 - ALAMBRADO PARA QUADRAS DE ESPORTE - GP.6/EDIF - TG/4,5M",
+      "unidade": "M",
+      "quantidade": 59.2,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "QUADRA POLIESPORTIVA",
+      "codigo": "17-01-41",
+      "fonte": null,
+      "descricao": "PP.20/24 - PORTÃO EM FERRO PERFILADO COM TELA, 1 FOLHA",
+      "unidade": "M2",
+      "quantidade": 4.2,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "QUADRA POLIESPORTIVA",
+      "codigo": "17-03-55",
+      "fonte": null,
+      "descricao": "QD.01 - DEMARCAÇÃO DE QUADRA COM TINTA A BASE DE BORRACHA CLORADA - VOLEIBOL",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "QUADRA POLIESPORTIVA",
+      "codigo": "17-03-56",
+      "fonte": null,
+      "descricao": "QD.02 - DEMARCAÇÃO DE QUADRA COM TINTA A BASE DE BORRACHA. CLORADA - FUTEBOL DE SALÃO",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "QUADRA POLIESPORTIVA",
+      "codigo": "17-03-57",
+      "fonte": null,
+      "descricao": "QD.03 - DEMARCAÇÃO DE QUADRA COM TINTA A BASE DE BORRACHA CLORADA - BASQUETE",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "QUADRA POLIESPORTIVA",
+      "codigo": "17-03-61",
+      "fonte": null,
+      "descricao": "TRAVE PARA FUTEBOL DE SALÃO, INCLUSIVE PINTURA E REDE",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "QUADRA POLIESPORTIVA",
+      "codigo": "17-03-63",
+      "fonte": null,
+      "descricao": "TABELA PARA BASQUETE, ENGLOBANDO DESDE FUNDAÇÃO ATÉ A CESTA DE NYLON",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "QUADRA POLIESPORTIVA",
+      "codigo": "17-03-71",
+      "fonte": null,
+      "descricao": "DEMARCAÇÃO E PINTURA DE SUPERFÍCIES - EPÓXI",
+      "unidade": "M2",
+      "quantidade": 202.23,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "QUADRA POLIESPORTIVA",
+      "codigo": "17-60-95",
+      "fonte": null,
+      "descricao": "RETIRADA DE ALAMBRADO EM TELA INCLUSIVE ESTRUTURA DE SUSTENTAÇÃO (FP.04)",
+      "unidade": "M",
+      "quantidade": 59.2,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "CALÇADA",
+      "codigo": "01-04-01",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL, PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 12.44,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "CALÇADA",
+      "codigo": "01-04-10",
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 248.87,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "CALÇADA",
+      "codigo": "02-05-10",
+      "fonte": null,
+      "descricao": "CONCRETO FCK=25MPA - USINADO",
+      "unidade": "M3",
+      "quantidade": 29.86,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "CALÇADA",
+      "codigo": "10-15-00",
+      "fonte": null,
+      "descricao": "CURA QUÍMICA",
+      "unidade": "M2",
+      "quantidade": 248.87,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": null,
+      "codigo": "10-21-00",
+      "fonte": null,
+      "descricao": "CORTE DE CONCRETO COM DISCO DIAMANTADO ATÉ PROFUNDIDADE DE 13CM",
+      "unidade": "M2",
+      "quantidade": 6.22,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "13-02-04",
+      "fonte": null,
+      "descricao": "ACABAMENTO DE PISO DE CONCRETO TIPO BAMBOLÊ",
+      "unidade": "M2",
+      "quantidade": 248.87,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "13-02-47",
+      "fonte": null,
+      "descricao": "PISO PODOTÁTIL, ALERTA OU DIRECIONAL, EM LADRILHO HIDRÁULICO",
+      "unidade": "M2",
+      "quantidade": 2.25,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "15-01-15",
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 159.53,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "17-02-47",
+      "fonte": null,
+      "descricao": "PISO/PASSEIO DE CONCRETO ARMADO, INCLUINDO O PREPARO DA CAIXA, LASTRO DE BRITA, TELA METÁLICA E A MÃO DE OBRA REFERENTE AOS SERVIÇOS NO CONCRETO: LANÇAMENTO E ACABAMENTO (RIPADO E DESEMPENADO), EXCLUSIVE O FORNECIMENTO DO CONCRETO",
+      "unidade": "M3",
+      "quantidade": 29.86,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "17-02-50",
+      "fonte": null,
+      "descricao": "GUIA DE CONCRETO RETA OU CURVA, TIPO PMSP",
+      "unidade": "M",
+      "quantidade": 18.6,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "17-50-45",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE GUIAS DE CONCRETO",
+      "unidade": "M",
+      "quantidade": 18.6,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "17-50-21",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MANUAL DE CONCRETO ARMADO",
+      "unidade": "M3",
+      "quantidade": 29.86,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "17-45-01",
+      "fonte": null,
+      "descricao": "ANDAIMES METÁLICOS - FORNECIMENTO",
+      "unidade": "M3×MÊS",
+      "quantidade": 67.5,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "17-45-02",
+      "fonte": null,
+      "descricao": "ANDAIMES METÁLICOS - MONTAGEM E DESMONTAGEM",
+      "unidade": "M3",
+      "quantidade": 33.75,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "17-04-01",
+      "fonte": null,
+      "descricao": "LIMPEZA GERAL DA OBRA",
+      "unidade": "M2",
+      "quantidade": 202.23,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "02-03-04",
+      "fonte": null,
+      "descricao": "FORMA COMUM DE TÁBUAS DE PINUS - NÃO RECUPERÁVEL",
+      "unidade": "M2",
+      "quantidade": 48.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "20-03-60",
+      "fonte": null,
+      "descricao": "PROJETO BÁSICO (PRANCHA A1)",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 13
+    }
+  ],
+  "apelido": "PÇA HASHIRO MIYASAKI - JABAQUARA"
+}

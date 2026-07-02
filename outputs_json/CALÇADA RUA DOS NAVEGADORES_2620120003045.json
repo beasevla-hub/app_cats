@@ -1,0 +1,275 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620120003045",
+    "numero_art": "92221220120125514",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA VILA PRUDENTE/SAPOPEMBA",
+    "cnpj_contratante": "08.082.743/0001-60",
+    "objeto": "CIVIL, FORTIFICACAO E CONSTRUCAO. INFRA-ESTRUTURA URBANA. 1230,70 Metro quadrado. Execucao de Obra Obs: Os servicos de lastro de brita, apiloamento do fundo de valas, acabamento de piso de concreto, piso podotatil, passeio de concreto armado, demolicao de pavimento de concreto, arrancamento e reassentamento de guias, construcao de sarjetas e sarjetoes, entre outros na execucao de calcadas em concreto moldado e rampas de acessibilidade.",
+    "processo_administrativo": null,
+    "contrato": "023/SP-VP/SB/2010",
+    "endereco_obra": "DIVERSOS ENDERECOS DA CIDADE DE SP",
+    "cidade": "SAO PAULO",
+    "estado": "SP",
+    "data_inicio": "2010-08-16",
+    "data_fim": "2010-10-15",
+    "area_m2": null,
+    "valor_contrato": 138594.06
+  },
+  "servicos": [
+    {
+      "grupo": null,
+      "codigo": "01-01-06",
+      "fonte": null,
+      "descricao": "CARGA MANUAL E REMOÇÃO DE ENTULHO, INCLUSIVE TRANSPORTE ATÉ 1 KM",
+      "unidade": "M3",
+      "quantidade": 149.73,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "01-01-10",
+      "fonte": null,
+      "descricao": "TRANSPORTE DE ENTULHO POR CAMINHÃO BASCULANTE, A PARTIR DE 1KM",
+      "unidade": "M3XKM",
+      "quantidade": 4491.9,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "02-02-01",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL COM PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 5.54,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "02-02-10",
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 1230.7,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "02-02-15",
+      "fonte": null,
+      "descricao": "LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 2.76,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "02-02-16",
+      "fonte": null,
+      "descricao": "LASTRO DE CONCRETO - 150KG CIM/M3",
+      "unidade": "M3",
+      "quantidade": 2.76,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "03-01-01",
+      "fonte": null,
+      "descricao": "FORMA COMUM DE TÁBUAS DE PINUS - PLANA",
+      "unidade": "M2",
+      "quantidade": 114.03,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "04-01-42",
+      "fonte": null,
+      "descricao": "BLOCOS VAZADOS DE CONCRETO - 19CM",
+      "unidade": "M2",
+      "quantidade": 64.08,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "04-01-98",
+      "fonte": null,
+      "descricao": "VERGAS, CINTAS E PILARETES DE CONCRETO",
+      "unidade": "M3",
+      "quantidade": 7.39,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "11-03-01",
+      "fonte": null,
+      "descricao": "CHAPISCO COMUM ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 128.16,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "11-03-10",
+      "fonte": null,
+      "descricao": "EMBOÇO EXTERNO - ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 128.16,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "11-03-13",
+      "fonte": null,
+      "descricao": "REBOCO EXTERNO ARGAMASSA PRÉ-FABRICADA",
+      "unidade": "M2",
+      "quantidade": 128.16,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": "11-03-20",
+      "fonte": null,
+      "descricao": "ACABAMENTO DE PISO DE CONCRETO TIPO BAMBOLÊ",
+      "unidade": "M2",
+      "quantidade": 1230.7,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": null,
+      "codigo": "13-50-01",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE CONCRETO SIMPLES",
+      "unidade": "M3",
+      "quantidade": 149.73,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "15-01-15",
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 128.16,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "17-02-42",
+      "fonte": null,
+      "descricao": "PASSEIO DE CONCRETO, FCK=25MPA, INCLUINDO PREPARO DA CAIXA E LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 147.67,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "18-80-01",
+      "fonte": null,
+      "descricao": "REVOLVIMENTO E AJUSTE DO SOLO",
+      "unidade": "M2",
+      "quantidade": 240.59,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "18-80-11",
+      "fonte": null,
+      "descricao": "TERRA PREPARADA PARA PLANTIO",
+      "unidade": "M3",
+      "quantidade": 72.17,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "SIURB",
+      "codigo": "05-14-02",
+      "fonte": null,
+      "descricao": "FORNECIMENTO E ASSENTAMENTO DE GUIAS TIPO PMSP 100, INCLUSIVE ENCOSTAMENTO DE TERRA - FCK=25,0MPA",
+      "unidade": "M",
+      "quantidade": 52.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "SIURB",
+      "codigo": "05-17-00",
+      "fonte": null,
+      "descricao": "ARRANCAMENTO E REASSENTAMENTO DE GUIAS SOBRE CONCRETO",
+      "unidade": "M",
+      "quantidade": 57.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "SIURB",
+      "codigo": "05-82-00",
+      "fonte": null,
+      "descricao": "TRANSPORTE DE GUIAS",
+      "unidade": "MXKM",
+      "quantidade": 1560.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "SIURB",
+      "codigo": "10-04-00",
+      "fonte": null,
+      "descricao": "CORTE SUPERFICIAL DE CONCRETO ATÉ 3 CM DE PROFUNDIDADE",
+      "unidade": "M2",
+      "quantidade": 80.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "SIURB",
+      "codigo": "10-16-01",
+      "fonte": null,
+      "descricao": "SINALIZAÇÃO - TAPUME MÓVEL",
+      "unidade": "M2",
+      "quantidade": 120.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "SIURB",
+      "codigo": "10-16-02",
+      "fonte": null,
+      "descricao": "SINALIZAÇÃO - ILUMINAÇÃO",
+      "unidade": "M",
+      "quantidade": 73.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "SIURB",
+      "codigo": "10-18-00",
+      "fonte": null,
+      "descricao": "PROTEÇÃO PARA TERCEIROS COM TELA DE NYLON",
+      "unidade": "M2",
+      "quantidade": 66.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    }
+  ],
+  "apelido": "CALÇADA RUA DOS NAVEGADORES"
+}

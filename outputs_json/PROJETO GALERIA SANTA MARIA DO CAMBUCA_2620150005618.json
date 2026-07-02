@@ -1,0 +1,105 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620150005618",
+    "numero_art": "92221220150205578",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA.",
+    "contratante": "SUBPREFEITURA VILA PRUDENTE",
+    "cnpj_contratante": "05.969.123/0001-59",
+    "objeto": "CONTRATAÇÃO DE PROJETO DE GALERIA DE ÁGUAS PLUVIAIS COM CAPTAÇÃO ENTRE A RUA SANTA MARIA DO CAMBUCA E RUA AZUL, VILA TOLSTOI.",
+    "processo_administrativo": "2012-0.088.761-8",
+    "contrato": "40/SP-VP-SB/2012",
+    "endereco_obra": "RUA SANTA MARIA DO CAMBUCA E RUA AZUL",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2012-10-29",
+    "data_fim": "2012-12-13",
+    "area_m2": 2580.0,
+    "valor_contrato": 21268.07
+  },
+  "servicos": [
+    {
+      "grupo": null,
+      "codigo": "01-14-00",
+      "fonte": null,
+      "descricao": "LEVANTAMENTO PLANIMÉTRICO DE VIA PÚBLICA E SEMI-CADASTRO DE IMÓVEIS",
+      "unidade": "M",
+      "quantidade": 430.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "01-18-00",
+      "fonte": null,
+      "descricao": "TRANSPORTE DE COTA DE REFERÊNCIA DE NÍVEL",
+      "unidade": "M",
+      "quantidade": 430.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "01-22-00",
+      "fonte": null,
+      "descricao": "RELATÓRIO TÉCNICO",
+      "unidade": "M",
+      "quantidade": 430.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "03-04-00",
+      "fonte": null,
+      "descricao": "PROJETO HIDRÁULICO DE GALERIA PLUVIAL EM TUBOS",
+      "unidade": "M",
+      "quantidade": 430.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "03-08-00",
+      "fonte": null,
+      "descricao": "ESTUDO HIDROLÓGICO DE VIA PÚBLICA INTEGRANTE DE PROGRAMA DE PAVIMENTAÇÃO E PROJETO HIDRÁULICO, SE NECESSÁRIA GALERIA EM TUBOS",
+      "unidade": "M",
+      "quantidade": 430.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "03-24-00",
+      "fonte": null,
+      "descricao": "CONSULTOR",
+      "unidade": "H",
+      "quantidade": 5.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "03-25-00",
+      "fonte": null,
+      "descricao": "COORDENADOR GERAL",
+      "unidade": "H",
+      "quantidade": 10.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "03-39-00",
+      "fonte": null,
+      "descricao": "PROJETISTA",
+      "unidade": "H",
+      "quantidade": 57.5,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    }
+  ],
+  "apelido": "PROJETO GALERIA SANTA MARIA DO CAMBUCA"
+}

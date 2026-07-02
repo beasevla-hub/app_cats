@@ -1,0 +1,215 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620150005663",
+    "numero_art": "92221220150204880",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA VILA PRUDENTE",
+    "cnpj_contratante": "05.969.123/0001-59",
+    "objeto": "CONTRATAÇÃO PARA EXECUÇÃO DE GALERIA DE ÁGUAS PLUVIAIS COM FORNECIMENTO DE MÃO DE OBRA E MATERIAIS DE 1ª LINHA.",
+    "processo_administrativo": "2014-0.279.482-3",
+    "contrato": "03/SP-VP-SB/2013",
+    "endereco_obra": "RUA SOLDADO CÂNDIDO DA LUZ PAIVA",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2013-03-07",
+    "data_fim": "2013-06-28",
+    "area_m2": null,
+    "valor_contrato": 60626.54
+  },
+  "servicos": [
+    {
+      "grupo": null,
+      "codigo": "04-02-00",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL PARA FUNDAÇÕES E VALAS COM PROFUNDIDADE MÉDIA MAIOR QUE 1,5M E MENOR OU IGUAL À 3,0M",
+      "unidade": "M3",
+      "quantidade": 158.4,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "04-15-00",
+      "fonte": null,
+      "descricao": "CARGA E REMOÇÃO DE TERRA ATÉ A DISTÂNCIA MÉDIA DE 1,0KM",
+      "unidade": "M3",
+      "quantidade": 9.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "04-60-00",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE TERRA ALÉM DO PRIMEIRO KM",
+      "unidade": "M3XKM",
+      "quantidade": 2640.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "05-04-00",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE PAVIMENTO ASFÁLTICO, INCLUSIVE CAPA, INCLUI CARGA NO CAMINHÃO",
+      "unidade": "M2",
+      "quantidade": 88.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "05-14-01",
+      "fonte": null,
+      "descricao": "FORNECIMENTO E ASSENTAMENTO DE GUIAS TIPO PMSP 100, INCLUSIVE ENCOSTAMENTO DE TERRA - FCK=20,0MPA",
+      "unidade": "M",
+      "quantidade": 9.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "05-25-01",
+      "fonte": null,
+      "descricao": "BASE DE BINDER ABERTO (SEM TRANSPORTE)",
+      "unidade": "M3",
+      "quantidade": 8.8,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "05-28-00",
+      "fonte": null,
+      "descricao": "REVESTIMENTO DE CONCRETO ASFÁLTICO (SEM TRANSPORTE)",
+      "unidade": "M3",
+      "quantidade": 13.2,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "05-67-00",
+      "fonte": null,
+      "descricao": "TRANSPORTE DE PAVIMENTO ASFÁLTICO",
+      "unidade": "M2XKM",
+      "quantidade": 2640.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "05-78-07",
+      "fonte": null,
+      "descricao": "TRANSPORTE DE CONCRETO ASFÁLTICO ALÉM DO PRIMEIRO KM",
+      "unidade": "M3XKM",
+      "quantidade": 396.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TRANSPORTE DE BINDER ALÉM DO PRIMEIRO",
+      "unidade": "M3XKM",
+      "quantidade": 264.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "06-05-00",
+      "fonte": null,
+      "descricao": "LASTRO DE BRITA E PÓ DE PEDRA",
+      "unidade": "M3",
+      "quantidade": 10.56,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "06-06-00",
+      "fonte": null,
+      "descricao": "LASTRO DE CONCRETO FCK=10MPA",
+      "unidade": "M3",
+      "quantidade": 12.48,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "06-10-01",
+      "fonte": null,
+      "descricao": "FORNECIMENTO E ASSENTAMENTO DE TUBOS DE CONCRETO ARMADO, DIAMETRO 60CM - TIPO PA-2",
+      "unidade": "M",
+      "quantidade": 51.2,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "06-18-01",
+      "fonte": null,
+      "descricao": "POÇO DE VISITA TIPO 1 - 1,40 X 1,40 X 1,40M",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "06-19-00",
+      "fonte": null,
+      "descricao": "CHAMINÉ DE POÇO DE VISITA COM ALVENARIA DE UM TIJOLO COMUM",
+      "unidade": "M",
+      "quantidade": 4.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "06-20-03",
+      "fonte": null,
+      "descricao": "INSTALAÇÃO DE TAMPÃO PARA GALERIA DE ÁGUAS PLUVIAIS - ARTICULADO, EXCETO FORNECIMENTO DE TAMPÃO",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "06-20-21",
+      "fonte": null,
+      "descricao": "FORNECIMENTO DE TAMPÃO DE FERRO FUNDIDO DÚCTIL CLASSE MÍNIMA 400 (40T) D=600MM - NBR 10160 ARTICULADO - P/GAL. ÁGUAS PLUV.",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "06-22-04",
+      "fonte": null,
+      "descricao": "BOCA DE LOBO DUPLA",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "08-80-00",
+      "fonte": null,
+      "descricao": "CARGA E REMOÇÃO DE ENTULHO ATÉ A DISTÂNCIA MÉDIA DE IDA E VOLTA DE 1KM",
+      "unidade": "M3",
+      "quantidade": 55.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    }
+  ],
+  "apelido": "GALERIA SOLDADO CÂNDIDO"
+}

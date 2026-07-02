@@ -1,0 +1,345 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620230004558",
+    "numero_art": "28027230211818144",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA VILA PRUDENTE",
+    "cnpj_contratante": "05.969.123/0001-59",
+    "objeto": "CONTRATAÇÃO DE EMPRESA DE ENGENHARIA OU ARQUITETURA PARA EXECUÇÃO DE OBRAS DE REVITALIZAÇÃO NA PRAÇA MARIA DA PENHA NASCIMENTO SILVA, COM FORNECIMENTO DE MATERIAIS DE 1ª LINHA E MÃO DE OBRA ESPECIALIZADA.",
+    "processo_administrativo": "6060.2021/0002851-1",
+    "contrato": "19/SUB-VP/2021",
+    "endereco_obra": "RUA PROFESSOR JOSÉ PELLEGRINO",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2021-12-09",
+    "data_fim": "2022-03-09",
+    "area_m2": 448.0,
+    "valor_contrato": 205929.39
+  },
+  "servicos": [
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "01-01-08",
+      "fonte": null,
+      "descricao": "LIMPEZA MANUAL GERALINCLUSIVE REMOÇÃO DE COBERTURA VEGETAL- TROCO ATÉ 10CM - SEM TRANSPORTE",
+      "unidade": "M²",
+      "quantidade": 448.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "01-05-02",
+      "fonte": null,
+      "descricao": "TAPUME CHAPA COMPENSADA RESINADA 10MM",
+      "unidade": "M²",
+      "quantidade": 24.2,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "01-05-40",
+      "fonte": null,
+      "descricao": "TELA PARA PROTEÇÃO DE OBRAS, MALHA 2MM",
+      "unidade": "M²",
+      "quantidade": 96.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "17-30-02",
+      "fonte": null,
+      "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
+      "unidade": "M²",
+      "quantidade": 2.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "QUADRA POLIESPORTIVA",
+      "codigo": "01-04-01",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL, PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M³",
+      "quantidade": 9.53,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "QUADRA POLIESPORTIVA",
+      "codigo": "01-04-10",
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M²",
+      "quantidade": 31.76,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "QUADRA POLIESPORTIVA",
+      "codigo": "02-01-03",
+      "fonte": null,
+      "descricao": "BROCA DE CONCRETO - DIÂMETRO DE 30CM",
+      "unidade": "M",
+      "quantidade": 20.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "QUADRA POLIESPORTIVA",
+      "codigo": "02-03-04",
+      "fonte": null,
+      "descricao": "FORMA COMUM DE TÁBUAS DE PINUS – NÃO RECUPERÁVEL",
+      "unidade": "M²",
+      "quantidade": 41.36,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "QUADRA POLIESPORTIVA",
+      "codigo": "02-04-04",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO - CA-50",
+      "unidade": "KG",
+      "quantidade": 101.33,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "QUADRA POLIESPORTIVA",
+      "codigo": "02-04-07",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO - CA-60",
+      "unidade": "KG",
+      "quantidade": 96.24,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "QUADRA POLIESPORTIVA",
+      "codigo": "02-05-10",
+      "fonte": null,
+      "descricao": "CONCRETO FCK=25MPA - USINADO",
+      "unidade": "M³",
+      "quantidade": 48.44,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "QUADRA POLIESPORTIVA",
+      "codigo": "02-06-05",
+      "fonte": null,
+      "descricao": "IMPERMEABLIZAÇÃO DO RESPALDO DA FUNDAÇÃO – ARGAMASSA MPERMEÁVEL",
+      "unidade": "M²",
+      "quantidade": 8.22,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "QUADRA POLIESPORTIVA",
+      "codigo": "04-01-41",
+      "fonte": null,
+      "descricao": "BLOCOS VAZADOS E CONCRETO - 14CM",
+      "unidade": "M²",
+      "quantidade": 49.44,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "QUADRA POLIESPORTIVA",
+      "codigo": "10-11-73",
+      "fonte": null,
+      "descricao": "HC.02 - CANALETA DE CONCRETO DE A.P. P/TAMPA/GRELHA DE CONCRETO OU FERRO L=40CM",
+      "unidade": "M",
+      "quantidade": 26.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": null,
+      "codigo": "10-11-97",
+      "fonte": null,
+      "descricao": "HC.04 - TAMPA DE CONCRETO PARA CANALETA DE A.P. L=0,40M",
+      "unidade": "M",
+      "quantidade": 26.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "11-03-01",
+      "fonte": null,
+      "descricao": "CHAPISCO COMUM - ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 98.88,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "11-03-10",
+      "fonte": null,
+      "descricao": "EMBOÇO EXTERNO - ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 98.88,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "13-02-04",
+      "fonte": null,
+      "descricao": "ACABAMENTO DE PISO DE CONCRETO TIPO BAMBOLÊ",
+      "unidade": "M²",
+      "quantidade": 356.2,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "15-01-15",
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M²",
+      "quantidade": 455.08,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "17-01-29",
+      "fonte": null,
+      "descricao": "FP.03 - ALAMBRADO PARA QUADRAS DE ESPORTE - GP.6/EDIF - TG/4,5M",
+      "unidade": "M",
+      "quantidade": 80.3,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "17-01-41",
+      "fonte": null,
+      "descricao": "PP. 20/24-PORTÃO EM FERRO PERFILADO COM TELA, 1 FOLHA",
+      "unidade": "M²",
+      "quantidade": 2.1,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "17-02-47",
+      "fonte": null,
+      "descricao": "PISO/PASSEIO DE CONCRETO ARMADO, INCLUINDO O PREPARO DA CAIXA, LASTRO DE BRITA, TELA METÁLICA E A MÃO DE OBRA REFERENTE AOS SERVIÇOS NO CONCRETO: LANÇAMENTO E ACABAMENTO (RIPADO E DESMPENADO), EXCLUSIVE O FORNECIMENTO DO CONCRETO",
+      "unidade": "M³",
+      "quantidade": 42.74,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "17-03-55",
+      "fonte": null,
+      "descricao": "QD.01 - DEMARCAÇÃO DE QUADRA COM TINTA A BASE DE BORRACHA CLORADA - VOLEIBOL",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "17-03-56",
+      "fonte": null,
+      "descricao": "QD.02 - DEMARCAÇÃO DE QUADRA COM TINTA A BASE DE BORRACHA CLORADA - FUTEBOL DE SALÃO",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "17-03-57",
+      "fonte": null,
+      "descricao": "QD.03 - DEMARCAÇÃO DE QUADRA COM TINTA A BASE DE BORRACHA CLORADA - BASQUETE",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "17-03-60",
+      "fonte": null,
+      "descricao": "POSTES PARA VOLEIBOL, INCLUSIVE PINTURA E REDE",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": "17-03-61",
+      "fonte": null,
+      "descricao": "TRAVE PARA FUTEBOL DE SALÃO, INCLUSIVE PINTURA E REDE",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": null,
+      "codigo": "17-03-65",
+      "fonte": null,
+      "descricao": "TELA DE NYLON PARAA COBERTURA DE QUADRA",
+      "unidade": "M²",
+      "quantidade": 388.36,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": null,
+      "codigo": "17-50-21",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MANUAL DE CONCRETO ARMADO",
+      "unidade": "M³",
+      "quantidade": 14.32,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "01-01-07",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M³",
+      "quantidade": 18.62,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "20-03-04",
+      "fonte": null,
+      "descricao": "ENGENHEIRO/ARQUITETO PLENO",
+      "unidade": "H",
+      "quantidade": 36.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "20-03-60",
+      "fonte": null,
+      "descricao": "PROJETO BÁSICO (PRANCHA A1)",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 18
+    }
+  ],
+  "apelido": "PRAÇA MARIA DA PENHA NASCIMENTO SILVA"
+}

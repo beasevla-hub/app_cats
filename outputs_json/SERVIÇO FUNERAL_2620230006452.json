@@ -1,0 +1,735 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620230006452",
+    "numero_art": "28027230230616329",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SERVIÇO FUNERÁRIO DO MUNICÍPIO DE SÃO PAULO",
+    "cnpj_contratante": "47.261.292/0001-80",
+    "objeto": "Contratação de empresa de construção civil com serviço de mão de obra especializada em reforma geral e reparos no Cemitério São Paulo conforme Memorial Descritivo e Relatório Fotográfico.",
+    "processo_administrativo": "6410.2021/0012578-0",
+    "contrato": "88/SFMSP/2021",
+    "endereco_obra": "RUA CARDEAL ARCOVERDE.",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2021-12-08",
+    "data_fim": "2022-03-07",
+    "area_m2": null,
+    "valor_contrato": 320344.89
+  },
+  "servicos": [
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Execução, Execução de reforma, de edificação, em materiais mistos.",
+      "unidade": "metro quadrado",
+      "quantidade": 500.0,
+      "pagina_pdf": 1,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Execução, Execução de reparo, de reforma de edificação, em materiais mistos.",
+      "unidade": "metro quadrado",
+      "quantidade": 500.0,
+      "pagina_pdf": 1,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Tapume chapa compensada resinada 10mm",
+      "unidade": "m²",
+      "quantidade": 30.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Tela para proteção de obras, malha 2mm",
+      "unidade": "m²",
+      "quantidade": 60.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Placa de obra em chapa de aço galvanizado",
+      "unidade": "m²",
+      "quantidade": 4.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Andaimes metálicos – fornecimento",
+      "unidade": "m³xmês",
+      "quantidade": 200.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Andaimes metálicos - montagem e desmontagem",
+      "unidade": "m³",
+      "quantidade": 100.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "REFORMA: BANHEIROS MUNÍCIPES - VELÓRIO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Esmalte sintético - repintura de esquadrias de madeira",
+      "unidade": "m²",
+      "quantidade": 15.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "REFORMA: BANHEIROS MUNÍCIPES - VELÓRIO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Dispenser papel toalha, de parede, manual, para sanitários - ABS - alto impacto - auto corte",
+      "unidade": "un",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "REFORMA: BANHEIROS MUNÍCIPES - VELÓRIO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Espelho comum - espessura 3mm",
+      "unidade": "m²",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "REFORMA: BANHEIROS MUNÍCIPES - VELÓRIO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Guarnição ou moldura de madeira - 4,5cm",
+      "unidade": "m",
+      "quantidade": 5.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "REFORMA: VELÓRIO - CORREDORES, SALAS E ADMINISTRATIVO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Demolição de vidros encaixilhados em geral, inclusive limpeza do caixilho",
+      "unidade": "m²",
+      "quantidade": 10.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "REFORMA: VELÓRIO - CORREDORES, SALAS E ADMINISTRATIVO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Vidro liso de segurança, laminado incolor - espessura 6mm",
+      "unidade": "m²",
+      "quantidade": 10.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "REFORMA: VELÓRIO - CORREDORES, SALAS E ADMINISTRATIVO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Recolocação de folhas de porta de passagem ou janela",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "REFORMA: VELÓRIO - CORREDORES, SALAS E ADMINISTRATIVO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Esmalte sintético - repintura de esquadrias metálicas",
+      "unidade": "m²",
+      "quantidade": 30.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "REFORMA: VELÓRIO - CORREDORES, SALAS E ADMINISTRATIVO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Ferro trabalhado - caixilhos e pequenas peças de serralheria",
+      "unidade": "kg",
+      "quantidade": 200.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "REFORMA: VELÓRIO - CORREDORES, SALAS E ADMINISTRATIVO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Tomada simples de embutir - 110/220v",
+      "unidade": "un",
+      "quantidade": 5.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "REFORMA: VELÓRIO - CORREDORES, SALAS E ADMINISTRATIVO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Esmalte sintético - repintura de esquadrias de madeira",
+      "unidade": "m²",
+      "quantidade": 30.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "REFORMA: VELÓRIO - CORREDORES, SALAS E ADMINISTRATIVO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Retirada de telhas estruturais de CRFS ou cimento amianto - largura útil=44 cm",
+      "unidade": "m²",
+      "quantidade": 30.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "REFORMA: VELÓRIO - CORREDORES, SALAS E ADMINISTRATIVO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Telha estrutural trapezoidal em CRFS, largura útil=44 cm - espessura 8mm",
+      "unidade": "m²",
+      "quantidade": 30.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "REFORMA: VELÓRIO - CORREDORES, SALAS E ADMINISTRATIVO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Revisão, escovação, inclusive tomada de goteiras de telhados em geral, exclusive para telhas de barro cozido ou vidro",
+      "unidade": "m²",
+      "quantidade": 400.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "REFORMA: VELÓRIO - CORREDORES, SALAS E ADMINISTRATIVO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Porta lisa especial/ sólida - 102x210cm",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "REFORMA: VELÓRIO - CORREDORES, SALAS E ADMINISTRATIVO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Batente de madeira (25 cm) - para porta de 1 folha, sem bandeira",
+      "unidade": "jg",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "REFORMA: VELÓRIO - CORREDORES, SALAS E ADMINISTRATIVO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Conjunto de fechadura de cilindro, 55mm, tráfego intenso, maçaneta em zamac, guarnições em aço, acabamento cromado - para porta interna ou externa",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "REPAROS: ÁREAS EXTERNAS - ENTRADA CORRIMÃO E PAVIMENTAÇÃO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Esmalte sintético - repintura de esquadrias metálicas",
+      "unidade": "m²",
+      "quantidade": 40.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "REPAROS: ÁREAS EXTERNAS - ENTRADA CORRIMÃO E PAVIMENTAÇÃO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Retirada de portão de ferro perfilado tipo parque (GP5/GPM1)",
+      "unidade": "m²",
+      "quantidade": 20.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "REPAROS: ÁREAS EXTERNAS - ENTRADA CORRIMÃO E PAVIMENTAÇÃO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Recolocação de portão de ferro perfilado tipo parque (GP5/GPM-1)",
+      "unidade": "m²",
+      "quantidade": 20.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "REPAROS: ÁREAS EXTERNAS - ENTRADA CORRIMÃO E PAVIMENTAÇÃO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Fita antiderrapante, faixa com largura = 5 cm e espessura = 2 mm, aplicação em degrau",
+      "unidade": "m",
+      "quantidade": 50.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "REPAROS: ÁREAS EXTERNAS - ENTRADA CORRIMÃO E PAVIMENTAÇÃO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Corrimão em tubo galvanizado",
+      "unidade": "m",
+      "quantidade": 15.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "REPAROS: ÁREAS EXTERNAS - ENTRADA CORRIMÃO E PAVIMENTAÇÃO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Retirada de tubulação de aço preto ou galvanizado - acima de 2\"",
+      "unidade": "m",
+      "quantidade": 15.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "REPAROS: ÁREAS EXTERNAS - ENTRADA CORRIMÃO E PAVIMENTAÇÃO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Demolição de pavimentação asfáltica, capa e base - Manual",
+      "unidade": "m²",
+      "quantidade": 700.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "REPAROS: ÁREAS EXTERNAS - ENTRADA CORRIMÃO E PAVIMENTAÇÃO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Demolição de guias de concreto",
+      "unidade": "m",
+      "quantidade": 100.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "REPAROS: ÁREAS EXTERNAS - ENTRADA CORRIMÃO E PAVIMENTAÇÃO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Concreto com agregado reciclado desempenado e ripado, tipo PMSPDL1009/47,335kgcim/m3 - 7cm",
+      "unidade": "m²",
+      "quantidade": 800.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "REPAROS: ÁREAS EXTERNAS - ENTRADA CORRIMÃO E PAVIMENTAÇÃO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Guia de concreto com agregado reciclado, reta ou curva tipo PMSP",
+      "unidade": "m",
+      "quantidade": 100.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "REFORMA: VESTIÁRIOS SEPULTADORES - READEQUAÇÃO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Retirada de forro de chapas em geral – apoiadas",
+      "unidade": "m²",
+      "quantidade": 50.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "REFORMA: VESTIÁRIOS SEPULTADORES - READEQUAÇÃO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Forro De Gesso Acartonado Tipo FGA (Fornecimento E Instalação)",
+      "unidade": "m²",
+      "quantidade": 50.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "REFORMA: VESTIÁRIOS SEPULTADORES - READEQUAÇÃO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Revisão geral de telhados de barro, inclusive tomada de goteira",
+      "unidade": "m²",
+      "quantidade": 65.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "REFORMA: VESTIÁRIOS SEPULTADORES - READEQUAÇÃO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Blocos vazados de concreto - 09 cm 30m²; Reboco externo - argamassa pré-fabricada",
+      "unidade": "m²",
+      "quantidade": 40.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "REFORMA: VESTIÁRIOS SEPULTADORES - READEQUAÇÃO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Pp.01 - porta em ferro perfilado, dupla almofadada - abrir, 1 folha",
+      "unidade": "m²",
+      "quantidade": 1.75,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "REFORMA: VESTIÁRIOS SEPULTADORES - READEQUAÇÃO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Demolição de argamassa, cerâmica ou similar inclusive argamassa de regularização",
+      "unidade": "m²",
+      "quantidade": 35.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "REFORMA: VESTIÁRIOS SEPULTADORES - READEQUAÇÃO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Azulejos, junta amarração ou a prumo - assentes com argamassa colante",
+      "unidade": "m²",
+      "quantidade": 50.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "REFORMA: VESTIÁRIOS SEPULTADORES - READEQUAÇÃO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Piso cerâmico esmaltado (PEI-5) - assentado com argamassa colante",
+      "unidade": "m²",
+      "quantidade": 50.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "REFORMA: VESTIÁRIOS SEPULTADORES - READEQUAÇÃO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Esmalte sintético - esquadrias e peças de serralheria",
+      "unidade": "m²",
+      "quantidade": 5.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "REPAROS: ESTACIONAMENTO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Demarcação e pintura de superfícies - Epóxi",
+      "unidade": "m²",
+      "quantidade": 50.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "REPAROS: ESTACIONAMENTO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Caixa de ligação ou inspeção - tampa de concreto",
+      "unidade": "m²",
+      "quantidade": 3.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "REPAROS: ESTACIONAMENTO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Luminária comercial - 2 lâmpadas fluorescentes 54w",
+      "unidade": "un",
+      "quantidade": 3.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "REPAROS: ESTACIONAMENTO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Lâmpada fluorescente - 40w",
+      "unidade": "un",
+      "quantidade": 7.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "REFORMA: CAPELA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Limpeza mecanizada geral, inclusive remoção da cobertura vegetal – troncos com diâmetro até 10cm - sem transporte",
+      "unidade": "m²",
+      "quantidade": 200.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "REFORMA: CAPELA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Remoção de pintura em alvenaria e concreto - lixa",
+      "unidade": "m²",
+      "quantidade": 500.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "REFORMA: CAPELA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Limpeza e lavagem de piso por hidrojateamento",
+      "unidade": "m²",
+      "quantidade": 100.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "REFORMA: CAPELA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Revisão geral de telhados de barro, inclusive tomada de goteira",
+      "unidade": "m²",
+      "quantidade": 160.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "REFORMA: CAPELA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Remanejamento de telhas de barro cozido, inclusive escovamento",
+      "unidade": "m²",
+      "quantidade": 160.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "REFORMA: CAPELA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Emboço interno - argamassa de cimento e areia 1:3",
+      "unidade": "m²",
+      "quantidade": 150.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "REFORMA: CAPELA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Reboco interno - argamassa pré-fabricada",
+      "unidade": "m²",
+      "quantidade": 150.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "REFORMA: CAPELA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Revestimento com gesso",
+      "unidade": "m²",
+      "quantidade": 300.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "REFORMA: CAPELA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Esmalte sintético - repintura de esquadrias de madeira",
+      "unidade": "m²",
+      "quantidade": 60.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "REFORMA: CAPELA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Esmalte sintético - repintura de esquadrias metálicas",
+      "unidade": "m²",
+      "quantidade": 100.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Remoção de pintura em alvenaria e concreto – lixa",
+      "unidade": "m²",
+      "quantidade": 1000.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Tinta acrílica - concreto ou reboco sem massa corrida",
+      "unidade": "m²",
+      "quantidade": 1000.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Tinta acrílica cor de concreto com massa textura acrílica",
+      "unidade": "m²",
+      "quantidade": 500.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "FINALIZAÇÃO - LIMPEZA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Limpeza geral da obra",
+      "unidade": "m²",
+      "quantidade": 500.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "FINALIZAÇÃO - LIMPEZA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Limpeza de caixa d'água - acima de 10000 litros",
+      "unidade": "un",
+      "quantidade": 2.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "FINALIZAÇÃO - LIMPEZA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Remoção de entulho com caçamba metálica, inclusive carga manual e descarga em bota-fora.",
+      "unidade": "m²",
+      "quantidade": 169.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "SERVIÇOS TÉCNICOS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Levantamento Planimétrico de perímetro – Até 1.000m",
+      "unidade": "gl",
+      "quantidade": 1.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "SERVIÇOS TÉCNICOS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Engenheiro/ Arquiteto Sênior",
+      "unidade": "h",
+      "quantidade": 30.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "SERVIÇOS TÉCNICOS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Engenheiro/ Arquiteto Junior",
+      "unidade": "h",
+      "quantidade": 30.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "SERVIÇOS TÉCNICOS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Projetista",
+      "unidade": "h",
+      "quantidade": 60.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "SERVIÇOS TÉCNICOS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Caminhão Basculante 4,0m³",
+      "unidade": "h",
+      "quantidade": 30.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "SERVIÇOS TÉCNICOS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Carro popular 50% em operação",
+      "unidade": "h",
+      "quantidade": 30.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "SERVIÇOS TÉCNICOS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Servente",
+      "unidade": "h",
+      "quantidade": 30.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "SERVIÇOS TÉCNICOS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Encarregado",
+      "unidade": "h",
+      "quantidade": 30.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 14
+    }
+  ],
+  "apelido": "SERVIÇO FUNERAL"
+}

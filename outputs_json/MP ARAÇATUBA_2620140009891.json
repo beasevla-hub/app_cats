@@ -1,0 +1,3175 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620140009891",
+    "numero_art": "92221220141275999",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO",
+    "cnpj_contratante": "01.468.760/0001-90",
+    "objeto": "IMPLANTAÇÃO DE COBERTURA ACESSIBILIDADE E MELHORIA DA EDÍCULA, IMPLANTAÇÃO DE SISTEMA DE COMBATE A INCÊNDIO EM IMÓVEL LOCALIZADO NA AV. JOAQUIM POMPEU DE TOLEDO, Nº 1261 BAIRRO SAUDADE - CIDADE DE ARAÇATUBA/SP",
+    "processo_administrativo": "182/2013-DG/MP",
+    "contrato": "002023/2013",
+    "endereco_obra": "AVENIDA JOAQUIM POMPEU DE TOLEDO",
+    "cidade": "Araçatuba",
+    "estado": "SP",
+    "data_inicio": "2013-06-19",
+    "data_fim": "2013-12-14",
+    "area_m2": 1378.74,
+    "valor_contrato": 660492.1
+  },
+  "servicos": [
+    {
+      "grupo": "1 - SERVIÇO TÉCNICO ESPECIALIZADO",
+      "codigo": "011703",
+      "fonte": null,
+      "descricao": "Projeto executivo de arquitetura em formato A1",
+      "unidade": "un",
+      "quantidade": 3.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "1 - SERVIÇO TÉCNICO ESPECIALIZADO",
+      "codigo": "011707",
+      "fonte": null,
+      "descricao": "Projeto executivo de instalações hidráulicas em formato A1",
+      "unidade": "un",
+      "quantidade": 3.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "1 - SERVIÇO TÉCNICO ESPECIALIZADO",
+      "codigo": "011709",
+      "fonte": null,
+      "descricao": "Projeto executivo de instalações elétricas em formato A1",
+      "unidade": "un",
+      "quantidade": 5.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "2 - REMOÇÃO DE ENTULHO",
+      "codigo": "050703",
+      "fonte": null,
+      "descricao": "Remoção de entulho com caçamba metálica, independente da distância do local de despejo, inclusive carga e descarga",
+      "unidade": null,
+      "quantidade": 40.87,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "3- ADEQUAÇÕES DO IMÓVEL E ACESSIBILIDADE",
+      "codigo": "970510",
+      "fonte": null,
+      "descricao": "Sinalização vertical em placa de aço galvanizada com pintura em esmalte sintético",
+      "unidade": "m²",
+      "quantidade": null,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "3- ADEQUAÇÕES DO IMÓVEL E ACESSIBILIDADE",
+      "codigo": "300402",
+      "fonte": null,
+      "descricao": "Revestimento em borracha sintética colorida de 5,0 mm, para sinalização tátil de alerta / direcional - colado",
+      "unidade": "m²",
+      "quantidade": 1.62,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "3- ADEQUAÇÕES DO IMÓVEL E ACESSIBILIDADE",
+      "codigo": "300604",
+      "fonte": null,
+      "descricao": "Sinalização com pictograma para vaga de estacionamento em tinta acrílica fosca, para pessoas com mobilidade reduzida",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "3- ADEQUAÇÕES DO IMÓVEL E ACESSIBILIDADE",
+      "codigo": "212030",
+      "fonte": null,
+      "descricao": "Fita antiderrapante com largura de 5 cm",
+      "unidade": "m",
+      "quantidade": 38.76,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "3- ADEQUAÇÕES DO IMÓVEL E ACESSIBILIDADE",
+      "codigo": "240331",
+      "fonte": null,
+      "descricao": "Corrimão tubular em aço galvanizado, diâmetro 1 1/2'",
+      "unidade": "m",
+      "quantidade": 81.48,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "3- ADEQUAÇÕES DO IMÓVEL E ACESSIBILIDADE",
+      "codigo": "330710",
+      "fonte": null,
+      "descricao": "Esmalte com acabamento acetinado em estrutura metálica",
+      "unidade": "m²",
+      "quantidade": 13.85,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "3- ADEQUAÇÕES DO IMÓVEL E ACESSIBILIDADE",
+      "codigo": "300601",
+      "fonte": null,
+      "descricao": "Placa para sinalização tátil (início ou final) em braille para corrimão",
+      "unidade": "un",
+      "quantidade": 22.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "3- ADEQUAÇÕES DO IMÓVEL E ACESSIBILIDADE",
+      "codigo": "171042",
+      "fonte": null,
+      "descricao": "Soleira em placas pré-moldadas de granilite, acabamento encerado, até 30 cm",
+      "unidade": "m",
+      "quantidade": 3.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "3- ADEQUAÇÕES DO IMÓVEL E ACESSIBILIDADE",
+      "codigo": "170102",
+      "fonte": null,
+      "descricao": "Argamassa de regularização e/ou proteção",
+      "unidade": "m³",
+      "quantidade": 2.87,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "3- ADEQUAÇÕES DO IMÓVEL E ACESSIBILIDADE",
+      "codigo": "321606",
+      "fonte": null,
+      "descricao": "Impermeabilização em membrana à base de polímeros acrílicos, na cor branca e reforço em tela poliéster",
+      "unidade": "m²",
+      "quantidade": 30.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "3- ADEQUAÇÕES DO IMÓVEL E ACESSIBILIDADE",
+      "codigo": "160302",
+      "fonte": null,
+      "descricao": "Telhamento em cimento reforçado com fio sintético CRFS - perfil ondulado de 8 mm",
+      "unidade": "m²",
+      "quantidade": 37.2,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "3- ADEQUAÇÕES DO IMÓVEL E ACESSIBILIDADE",
+      "codigo": "061202",
+      "fonte": null,
+      "descricao": "Aterro manual apiloado de área interna com maço de 30 kg",
+      "unidade": "m³",
+      "quantidade": 13.65,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "3- ADEQUAÇÕES DO IMÓVEL E ACESSIBILIDADE",
+      "codigo": "020308",
+      "fonte": null,
+      "descricao": "Fechamento provisório de vãos em chapa de madeira compensada",
+      "unidade": "m²",
+      "quantidade": 43.34,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "3- ADEQUAÇÕES DO IMÓVEL E ACESSIBILIDADE",
+      "codigo": "071002",
+      "fonte": null,
+      "descricao": "Espalhamento de solo em bota-fora com compactação sem controle",
+      "unidade": "m³",
+      "quantidade": 10.01,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "3- ADEQUAÇÕES DO IMÓVEL E ACESSIBILIDADE",
+      "codigo": "111804",
+      "fonte": null,
+      "descricao": "Lastro de pedra britada",
+      "unidade": "m³",
+      "quantidade": 10.01,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "3- ADEQUAÇÕES DO IMÓVEL E ACESSIBILIDADE",
+      "codigo": "170104",
+      "fonte": null,
+      "descricao": "Lastro de concreto impermeabilizado",
+      "unidade": "m³",
+      "quantidade": 20.28,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "3- ADEQUAÇÕES DO IMÓVEL E ACESSIBILIDADE",
+      "codigo": "342008",
+      "fonte": null,
+      "descricao": "Tela de aço galvanizado fio nº 10 BWG, malha de 2', tipo alambrado de segurança",
+      "unidade": "m²",
+      "quantidade": 460.8,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "3- ADEQUAÇÕES DO IMÓVEL E ACESSIBILIDADE",
+      "codigo": "171002",
+      "fonte": null,
+      "descricao": "Piso em granilite moldado no local",
+      "unidade": "m²",
+      "quantidade": 460.8,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "3- ADEQUAÇÕES DO IMÓVEL E ACESSIBILIDADE",
+      "codigo": "174001",
+      "fonte": null,
+      "descricao": "Reparos em piso de granilite - estucamento e polimento",
+      "unidade": "m²",
+      "quantidade": 45.61,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "3- ADEQUAÇÕES DO IMÓVEL E ACESSIBILIDADE",
+      "codigo": "171020",
+      "fonte": null,
+      "descricao": "Rodapé qualquer em granilite moldado no local até 10 cm",
+      "unidade": "m",
+      "quantidade": 230.3,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "3- ADEQUAÇÕES DO IMÓVEL E ACESSIBILIDADE",
+      "codigo": "300402",
+      "fonte": null,
+      "descricao": "Revestimento em borracha sintética colorida de 5,0 mm, para sinalização tátil de alerta / direcional - colado",
+      "unidade": "m²",
+      "quantidade": 7.65,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "3- ADEQUAÇÕES DO IMÓVEL E ACESSIBILIDADE",
+      "codigo": "040403",
+      "fonte": null,
+      "descricao": "Retirada de soleira ou peitoril em pedra, granito ou mármore",
+      "unidade": "m",
+      "quantidade": 0.9,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "3- ADEQUAÇÕES DO IMÓVEL E ACESSIBILIDADE",
+      "codigo": "440206",
+      "fonte": null,
+      "descricao": "Tampo/bancada em granito espessura de 3 cm",
+      "unidade": "m²",
+      "quantidade": 0.9,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "3- ADEQUAÇÕES DO IMÓVEL E ACESSIBILIDADE",
+      "codigo": "260206",
+      "fonte": null,
+      "descricao": "Vidro temperado incolor de 10 mm",
+      "unidade": "m²",
+      "quantidade": 2.39,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "3- ADEQUAÇÕES DO IMÓVEL E ACESSIBILIDADE",
+      "codigo": null,
+      "fonte": "pesquisa mercado",
+      "descricao": "Prolongador para vidro 30 cm",
+      "unidade": "un",
+      "quantidade": 16.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "3- ADEQUAÇÕES DO IMÓVEL E ACESSIBILIDADE",
+      "codigo": "230808",
+      "fonte": null,
+      "descricao": "Prateleira sob medida em compensado, revestida nas duas faces em lamimado fenólico melamínico",
+      "unidade": "m²",
+      "quantidade": 2.39,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "3- ADEQUAÇÕES DO IMÓVEL E ACESSIBILIDADE",
+      "codigo": "330208",
+      "fonte": null,
+      "descricao": "Massa corrida à base de resina acrílica",
+      "unidade": "m²",
+      "quantidade": 321.9,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": "3- ADEQUAÇÕES DO IMÓVEL E ACESSIBILIDADE",
+      "codigo": "331005",
+      "fonte": null,
+      "descricao": "Tinta 100% acrílica em massa, inclusive preparo",
+      "unidade": "m²",
+      "quantidade": 361.18,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": "3- ADEQUAÇÕES DO IMÓVEL E ACESSIBILIDADE",
+      "codigo": "330371",
+      "fonte": null,
+      "descricao": "Verniz acrílico a base de solvente",
+      "unidade": "m²",
+      "quantidade": 75.36,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 29
+    },
+    {
+      "grupo": "3- ADEQUAÇÕES DO IMÓVEL E ACESSIBILIDADE",
+      "codigo": "300404",
+      "fonte": null,
+      "descricao": "Fita de borracha para sinalização tátil antiderrapante, de fotoluminescente, para degraus, comprimento de 20 cm",
+      "unidade": "un",
+      "quantidade": 52.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 30
+    },
+    {
+      "grupo": "3- ADEQUAÇÕES DO IMÓVEL E ACESSIBILIDADE",
+      "codigo": "030204",
+      "fonte": null,
+      "descricao": "Demolição manual de alvenaria de elevação ou elemento vazado, incluindo revestimento",
+      "unidade": "m³",
+      "quantidade": 7.37,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 31
+    },
+    {
+      "grupo": "3- ADEQUAÇÕES DO IMÓVEL E ACESSIBILIDADE",
+      "codigo": "041103",
+      "fonte": null,
+      "descricao": "Retirada de bancada incluindo pertences",
+      "unidade": "m²",
+      "quantidade": 1.75,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 32
+    },
+    {
+      "grupo": "3- ADEQUAÇÕES DO IMÓVEL E ACESSIBILIDADE",
+      "codigo": "041110",
+      "fonte": null,
+      "descricao": "Retirada de registro ou válvula aparentes",
+      "unidade": "un",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 33
+    },
+    {
+      "grupo": "3- ADEQUAÇÕES DO IMÓVEL E ACESSIBILIDADE",
+      "codigo": "041112",
+      "fonte": null,
+      "descricao": "Retirada de torneira ou chuveiro",
+      "unidade": "un",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 34
+    },
+    {
+      "grupo": "3- ADEQUAÇÕES DO IMÓVEL E ACESSIBILIDADE",
+      "codigo": "041114",
+      "fonte": null,
+      "descricao": "Retirada de sifão ou metais sanitários diversos",
+      "unidade": "un",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 35
+    },
+    {
+      "grupo": "3- ADEQUAÇÕES DO IMÓVEL E ACESSIBILIDADE",
+      "codigo": "030402",
+      "fonte": null,
+      "descricao": "Demolição manual de revestimento cerâmico, incluindo a base",
+      "unidade": "m²",
+      "quantidade": 37.2,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 36
+    },
+    {
+      "grupo": null,
+      "codigo": "174007",
+      "fonte": null,
+      "descricao": "Reparos em rodapé de granilite estucamento e polimento",
+      "unidade": "m",
+      "quantidade": 54.1,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "040804",
+      "fonte": null,
+      "descricao": "Retirada de guarnição, moldura e peças lineares em madeira",
+      "unidade": "m",
+      "quantidade": 5.1,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "232006",
+      "fonte": null,
+      "descricao": "Recolocação de guarnição ou molduras",
+      "unidade": "m",
+      "quantidade": null,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "040902",
+      "fonte": null,
+      "descricao": "Retirada de esquadria metálica em geral",
+      "unidade": "m²",
+      "quantidade": 1.89,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "242002",
+      "fonte": null,
+      "descricao": "Recolocação de esquadrias metálicas",
+      "unidade": "m²",
+      "quantidade": 1.89,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "141012",
+      "fonte": null,
+      "descricao": "Alvenaria de bloco de concreto de vedação, uso revestido, de 19 cm",
+      "unidade": "m²",
+      "quantidade": 2.7,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "141011",
+      "fonte": null,
+      "descricao": "Alvenaria de bloco de concreto de vedação, uso revestido, de 14 cm",
+      "unidade": "m²",
+      "quantidade": 6.6,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "181111",
+      "fonte": null,
+      "descricao": "Revestimento em placa cerâmica esmaltada para paredes de 20 x 20 cm, assentado com argamassa AC-II colante industrializada",
+      "unidade": "m²",
+      "quantidade": 9.3,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "170204",
+      "fonte": null,
+      "descricao": "Chapisco com bianco",
+      "unidade": "m²",
+      "quantidade": 18.6,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "170212",
+      "fonte": null,
+      "descricao": "Emboço comum",
+      "unidade": "m²",
+      "quantidade": 18.6,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "170222",
+      "fonte": null,
+      "descricao": "Reboco",
+      "unidade": "m²",
+      "quantidade": 55.8,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "171010",
+      "fonte": null,
+      "descricao": "Soleira em granilite moldado no local",
+      "unidade": "m",
+      "quantidade": 6.2,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": "250205",
+      "fonte": null,
+      "descricao": "Porta veneziana de abrir em alumínio, linha comercial",
+      "unidade": "m²",
+      "quantidade": 6.51,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": null,
+      "codigo": "05.06.053 FDE",
+      "fonte": null,
+      "descricao": "Chapa de policarbonato alveolar E=6mm",
+      "unidade": "m²",
+      "quantidade": 5.7,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": null,
+      "codigo": "150311",
+      "fonte": null,
+      "descricao": "Fornecimento e montagem de estrutura em aço patinável, sem pintura",
+      "unidade": "kg",
+      "quantidade": 80.12,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": null,
+      "codigo": "290304",
+      "fonte": null,
+      "descricao": "Cabo em aço galvanizado com alma de aço, diâmetro de 3/8' (9,52 mm)",
+      "unidade": "m",
+      "quantidade": 10.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": null,
+      "codigo": "041102",
+      "fonte": null,
+      "descricao": "Retirada de aparelho sanitário incluindo acessórios",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": null,
+      "codigo": "440116",
+      "fonte": null,
+      "descricao": "Lavatório de louça pequeno com coluna suspensa - linha especial",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": null,
+      "codigo": "300801",
+      "fonte": null,
+      "descricao": "Bacia sifonada de louça sem tampa, para pessoas com mobilidade reduzida - 6 litros",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": null,
+      "codigo": "300802",
+      "fonte": null,
+      "descricao": "Assento para bacia sanitária com abertura frontal, para pessoas com mobilidade reduzida",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": null,
+      "codigo": "040802",
+      "fonte": null,
+      "descricao": "Retirada de folha de esquadria em madeira",
+      "unidade": "un",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": null,
+      "codigo": "040806",
+      "fonte": null,
+      "descricao": "Retirada de batente com guarnição e peças lineares em madeira, chumbados",
+      "unidade": "m",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": null,
+      "codigo": "230904",
+      "fonte": null,
+      "descricao": "Porta lisa com batente madeira - 82 x 210 cm",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": null,
+      "codigo": "300406",
+      "fonte": null,
+      "descricao": "Revestimento em chapa de aço inoxidável para proteção de portas, altura de 40 cm",
+      "unidade": "m",
+      "quantidade": 1.6,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": null,
+      "codigo": "300108",
+      "fonte": null,
+      "descricao": "Barra de apoio reta, para pessoas com mobilidade reduzida, em tubo de alumínio, comprimento de 800 mm, acabamento com pintura epóxi",
+      "unidade": "un",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": null,
+      "codigo": "300113",
+      "fonte": null,
+      "descricao": "Barra de proteção para lavatório, para pessoas com mobilidade reduzida, em tubo de alumínio acabamento com pintura epóxi",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": null,
+      "codigo": "300107",
+      "fonte": null,
+      "descricao": "Barra de apoio reta, para pessoas com mobilidade reduzida, em tubo de alumínio, comprimento de 500 mm, acabamento com pintura epóxi",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": null,
+      "codigo": "440330",
+      "fonte": null,
+      "descricao": "Torneira volante tipo alavanca",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": null,
+      "codigo": "230803",
+      "fonte": null,
+      "descricao": "Faixa/batedor de proteção em madeira de 20 x 5 cm, com acabamento em laminado fenólico melamínico",
+      "unidade": "m",
+      "quantidade": 48.9,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 29
+    },
+    {
+      "grupo": "4- AR CONDICIONADO TIPO SPLIT",
+      "codigo": "430710",
+      "fonte": null,
+      "descricao": "Ar condicionado a frio, tipo split parede, capacidade de 12.000 BTU/h",
+      "unidade": "cj",
+      "quantidade": 3.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 30
+    },
+    {
+      "grupo": "4- AR CONDICIONADO TIPO SPLIT",
+      "codigo": "430728",
+      "fonte": null,
+      "descricao": "Ar condicionado a frio, tipo split piso teto, capacidade de 36.000 BTU/h",
+      "unidade": "cj",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 31
+    },
+    {
+      "grupo": "4- AR CONDICIONADO TIPO SPLIT",
+      "codigo": "460102",
+      "fonte": null,
+      "descricao": "Tubo de PVC rígido, DN= 25 mm, (3/4'), inclusive conexões",
+      "unidade": "m",
+      "quantidade": 168.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 32
+    },
+    {
+      "grupo": "4- AR CONDICIONADO TIPO SPLIT",
+      "codigo": "371363",
+      "fonte": null,
+      "descricao": "Disjuntor termomagnético, bipolar 220/380 V, corrente de 10 A até 50 A",
+      "unidade": "un",
+      "quantidade": 5.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 33
+    },
+    {
+      "grupo": "4- AR CONDICIONADO TIPO SPLIT",
+      "codigo": null,
+      "fonte": "pesquisa mercado",
+      "descricao": "Caixa de passagem para ar condicionado SPLIT com tampa",
+      "unidade": "un",
+      "quantidade": 5.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 34
+    },
+    {
+      "grupo": "4- AR CONDICIONADO TIPO SPLIT",
+      "codigo": "390702",
+      "fonte": null,
+      "descricao": "Cabo de cobre de 2,5 mm², isolamento 0,6/1 kV - isolação EPR 90°C",
+      "unidade": "m",
+      "quantidade": 168.9,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 35
+    },
+    {
+      "grupo": "4- AR CONDICIONADO TIPO SPLIT",
+      "codigo": "380404",
+      "fonte": null,
+      "descricao": "Eletroduto de ferro galvanizado, médio de 3/4' - com acessórios",
+      "unidade": "m",
+      "quantidade": 56.3,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 36
+    },
+    {
+      "grupo": "4- AR CONDICIONADO TIPO SPLIT",
+      "codigo": "362006",
+      "fonte": null,
+      "descricao": "Braçadeira para fixação de eletroduto, até 4'",
+      "unidade": "un",
+      "quantidade": 336.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 37
+    },
+    {
+      "grupo": "5-COMBATE A INCÊNDIO",
+      "codigo": "500544",
+      "fonte": null,
+      "descricao": "Painel repetidor de detecção e alarme de incêndio tipo endereçável",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "5-COMBATE A INCÊNDIO",
+      "codigo": "501002",
+      "fonte": null,
+      "descricao": "Extintor manual de gás carbônico - capacidade de 6 kg",
+      "unidade": "un",
+      "quantidade": null,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "5-COMBATE A INCÊNDIO",
+      "codigo": "501010",
+      "fonte": null,
+      "descricao": "Extintor manual de água pressurizada - capacidade de 10 litros",
+      "unidade": "un",
+      "quantidade": 10.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "5-COMBATE A INCÊNDIO",
+      "codigo": "500118",
+      "fonte": null,
+      "descricao": "Hidrante de coluna com duas saídas, 4'x 2 1/2' - simples",
+      "unidade": "un",
+      "quantidade": 5.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "5-COMBATE A INCÊNDIO",
+      "codigo": "500133",
+      "fonte": null,
+      "descricao": "Abrigo de hidrante de 2 1/2' completo - inclusive mangueira de 30 m (2 x 15 m)",
+      "unidade": "un",
+      "quantidade": 5.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "5-COMBATE A INCÊNDIO",
+      "codigo": "500545",
+      "fonte": null,
+      "descricao": "Acionador manual quebra-vidro endereçável",
+      "unidade": "un",
+      "quantidade": 10.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "5-COMBATE A INCÊNDIO",
+      "codigo": "500523",
+      "fonte": null,
+      "descricao": "Sirene audiovisual tipo endereçável",
+      "unidade": "un",
+      "quantidade": 7.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "5-COMBATE A INCÊNDIO",
+      "codigo": "500543",
+      "fonte": null,
+      "descricao": "Detector óptico de fumaça com base - endereçável",
+      "unidade": "un",
+      "quantidade": 80.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "5-COMBATE A INCÊNDIO",
+      "codigo": "500526",
+      "fonte": null,
+      "descricao": "Bloco autônomo de iluminação de emergência com autonomia mínima de 1 hora, equipado com 2 lâmpadas de 11 W",
+      "unidade": "un",
+      "quantidade": 20.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "5-COMBATE A INCÊNDIO",
+      "codigo": "400445",
+      "fonte": null,
+      "descricao": "Tomada 2P+T de 10 A-250 V, completa",
+      "unidade": "cj",
+      "quantidade": 20.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "5-COMBATE A INCÊNDIO",
+      "codigo": "371363",
+      "fonte": null,
+      "descricao": "Disjuntor termomagnético, bipolar 220/380 V, corrente de 10 A até 50 A",
+      "unidade": "un",
+      "quantidade": 2.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "5-COMBATE A INCÊNDIO",
+      "codigo": "390201",
+      "fonte": null,
+      "descricao": "Cabo de cobre de 1,5 mm², isolamento 750 V - isolação em PVC 70°C",
+      "unidade": "m",
+      "quantidade": 800.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "5-COMBATE A INCÊNDIO",
+      "codigo": "060202",
+      "fonte": null,
+      "descricao": "Escavação manual em solo de 1ª e 2ª categoria em vala ou cava até 1,50 m",
+      "unidade": "m³",
+      "quantidade": 9.19,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "5-COMBATE A INCÊNDIO",
+      "codigo": "120501",
+      "fonte": null,
+      "descricao": "Taxa de mobilização para estaca escavada",
+      "unidade": "tx",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "5-COMBATE A INCÊNDIO",
+      "codigo": "120503",
+      "fonte": null,
+      "descricao": "Estaca escavada mecanicamente, diâmetro de 30 cm até 30 t",
+      "unidade": "m",
+      "quantidade": 45.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "5-COMBATE A INCÊNDIO",
+      "codigo": "071002",
+      "fonte": null,
+      "descricao": "Espalhamento de solo em bota-fora com compactação sem controle",
+      "unidade": "m³",
+      "quantidade": 12.37,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "5-COMBATE A INCÊNDIO",
+      "codigo": "111804",
+      "fonte": null,
+      "descricao": "Lastro de pedra britada",
+      "unidade": "m³",
+      "quantidade": 0.57,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "5-COMBATE A INCÊNDIO",
+      "codigo": "100104",
+      "fonte": null,
+      "descricao": "Armadura em barra de aço CA-50 (A ou B) fyk= 500 MPa",
+      "unidade": "kg",
+      "quantidade": 209.74,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "5-COMBATE A INCÊNDIO",
+      "codigo": "100106",
+      "fonte": null,
+      "descricao": "Armadura em barra de aço CA-60 (A ou B) fyk= 600 MPa",
+      "unidade": "kg",
+      "quantidade": 12.48,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "5-COMBATE A INCÊNDIO",
+      "codigo": "110116",
+      "fonte": null,
+      "descricao": "Concreto usinado, fck = 30,0 MPa",
+      "unidade": "m³",
+      "quantidade": 9.19,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "5-COMBATE A INCÊNDIO",
+      "codigo": "460103",
+      "fonte": null,
+      "descricao": "Tubo de PVC rígido, DN= 32 mm, (1'), inclusive conexões",
+      "unidade": "m",
+      "quantidade": 12.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "5-COMBATE A INCÊNDIO",
+      "codigo": "470203",
+      "fonte": null,
+      "descricao": "Registro de gaveta em latão fundido cromado com canopla, DN= 1' - linha especial",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "5-COMBATE A INCÊNDIO",
+      "codigo": "480502",
+      "fonte": null,
+      "descricao": "Torneira de bóia, DN= 1'",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "5-COMBATE A INCÊNDIO",
+      "codigo": "470506",
+      "fonte": null,
+      "descricao": "Válvula de retenção horizontal em bronze, DN= 2 1/2'",
+      "unidade": "un",
+      "quantidade": 2.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "5-COMBATE A INCÊNDIO",
+      "codigo": "470107",
+      "fonte": null,
+      "descricao": "Registro de gaveta em latão fundido sem acabamento, DN= 2 1/2'",
+      "unidade": "un",
+      "quantidade": 3.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "5-COMBATE A INCÊNDIO",
+      "codigo": "08.14.066 FDE",
+      "fonte": null,
+      "descricao": "RA-11 Reservatório met. inferior 13M3 forn/inst",
+      "unidade": "cj",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "5-COMBATE A INCÊNDIO",
+      "codigo": "08.08.077 FDE",
+      "fonte": null,
+      "descricao": "Conj. Motor-bomba (centrífuga) 5 HP (31200 L/H -20 MCA)",
+      "unidade": null,
+      "quantidade": 2.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": "5-COMBATE A INCÊNDIO",
+      "codigo": "370501",
+      "fonte": null,
+      "descricao": "Quadro de comando completo para conjunto motor-bomba submersível de poço profundo até 6HP, 220/380 V",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": "5-COMBATE A INCÊNDIO",
+      "codigo": "09.11.035 FDE",
+      "fonte": null,
+      "descricao": "IL-06 Luz de obstáculo com lâmpada de 60W",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 29
+    },
+    {
+      "grupo": "5-COMBATE A INCÊNDIO",
+      "codigo": "420102",
+      "fonte": null,
+      "descricao": "Captor tipo Franklin, h= 300 mm, 4 pontos, 1 descida, acabamento cromado",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 30
+    },
+    {
+      "grupo": "5-COMBATE A INCÊNDIO",
+      "codigo": "411304",
+      "fonte": null,
+      "descricao": "Luminária blindada de sobrepor ou pendente em calha fechada para 1 lâmpada fluorescente de 32/36/40W",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 31
+    },
+    {
+      "grupo": "5-COMBATE A INCÊNDIO",
+      "codigo": "401101",
+      "fonte": null,
+      "descricao": "Relé fotoelétrico 50/60 Hz 110/220 V - 1200 VA, completo",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 32
+    },
+    {
+      "grupo": "5-COMBATE A INCÊNDIO",
+      "codigo": "410745",
+      "fonte": null,
+      "descricao": "Lâmpada fluorescente compacta eletrônica '3U', base E27 de 25 W-110 ou 220 V",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 33
+    },
+    {
+      "grupo": "5-COMBATE A INCÊNDIO",
+      "codigo": "400502",
+      "fonte": null,
+      "descricao": "Interruptor com 1 tecla simples e placa",
+      "unidade": "cj",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 34
+    },
+    {
+      "grupo": "5-COMBATE A INCÊNDIO",
+      "codigo": "400604",
+      "fonte": null,
+      "descricao": "Condulete metálico de 3/4'",
+      "unidade": "cj",
+      "quantidade": 36.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 35
+    },
+    {
+      "grupo": "5-COMBATE A INCÊNDIO",
+      "codigo": "380504",
+      "fonte": null,
+      "descricao": "Eletroduto de ferro galvanizado, pesado de 3/4' - com acessórios",
+      "unidade": "m",
+      "quantidade": 66.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 36
+    },
+    {
+      "grupo": "5-COMBATE A INCÊNDIO",
+      "codigo": "461304",
+      "fonte": null,
+      "descricao": "Tubo em polietileno de alta densidade corrugado perfurado, DN= 2 1/2', inclusive conexões",
+      "unidade": "m",
+      "quantidade": 8.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 37
+    },
+    {
+      "grupo": "5-COMBATE A INCÊNDIO",
+      "codigo": "390303",
+      "fonte": null,
+      "descricao": "Cabo de cobre de 6 mm², isolamento 0,6/1 kV - isolação em PVC 70°C",
+      "unidade": null,
+      "quantidade": 200.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 38
+    },
+    {
+      "grupo": null,
+      "codigo": "391006",
+      "fonte": null,
+      "descricao": "Terminal de pressão/compressão para cabo de 6 até 10 ma",
+      "unidade": "un",
+      "quantidade": 15.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "390408",
+      "fonte": null,
+      "descricao": "Cabo de cobre nu, têmpera mole, classe 2, de 50 mm²",
+      "unidade": "m",
+      "quantidade": 4.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "391016",
+      "fonte": null,
+      "descricao": "Terminal de pressão/compressão para cabo de 50 mm²",
+      "unidade": "un",
+      "quantidade": null,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "420512",
+      "fonte": null,
+      "descricao": "Conector de emenda em latão para cabo de até 50 mm² com 4 parafusos",
+      "unidade": "un",
+      "quantidade": null,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "460807",
+      "fonte": null,
+      "descricao": "Tubo aço galvanizado sem costura schedule 40, DN= 2 1/2', inclusive conexões",
+      "unidade": "m",
+      "quantidade": 96.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "331102",
+      "fonte": null,
+      "descricao": "Esmalte em superfície metálica, inclusive preparo",
+      "unidade": "m²",
+      "quantidade": 4.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "012320",
+      "fonte": null,
+      "descricao": "Taxa de mobilização para execução de serviço de perfuração em concreto",
+      "unidade": "tx",
+      "quantidade": 1.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "012327",
+      "fonte": null,
+      "descricao": "Furação de 4 em concreto armado",
+      "unidade": "m",
+      "quantidade": 2.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "170204",
+      "fonte": null,
+      "descricao": "Chapisco com bianco",
+      "unidade": "m²",
+      "quantidade": 12.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "170212",
+      "fonte": null,
+      "descricao": "Emboço comum",
+      "unidade": "m²",
+      "quantidade": 12.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "170222",
+      "fonte": null,
+      "descricao": "Reboco",
+      "unidade": "m²",
+      "quantidade": 12.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "330206",
+      "fonte": null,
+      "descricao": "Massa corrida a base de PVA",
+      "unidade": "m²",
+      "quantidade": 12.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": "331002",
+      "fonte": null,
+      "descricao": "Látex PVA em massa, inclusive preparo",
+      "unidade": "m²",
+      "quantidade": 12.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": null,
+      "codigo": "391802",
+      "fonte": null,
+      "descricao": "Cabo para rede 24 AWG com 4 pares, categoria 5",
+      "unidade": "m",
+      "quantidade": 900.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": null,
+      "codigo": "970101",
+      "fonte": null,
+      "descricao": "Adesivo vinílico, padrão regulamentado, para sinalização de incêndio",
+      "unidade": "un",
+      "quantidade": 169.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "6-ELEVADOR / PLATAFORMA PARA PNE",
+      "codigo": "020515",
+      "fonte": null,
+      "descricao": "Andaime torre metálico de 1,5 x 1,5 m",
+      "unidade": "m x mês",
+      "quantidade": 1.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "6-ELEVADOR / PLATAFORMA PARA PNE",
+      "codigo": "020506",
+      "fonte": null,
+      "descricao": "Montagem e desmontagem de andaime torre metálica com altura até 10 m",
+      "unidade": "m",
+      "quantidade": 3.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "6-ELEVADOR / PLATAFORMA PARA PNE",
+      "codigo": "030204",
+      "fonte": null,
+      "descricao": "Demolição manual de alvenaria de elevação ou elemento vazado, incluindo revestimento",
+      "unidade": "m³",
+      "quantidade": 2.26,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "6-ELEVADOR / PLATAFORMA PARA PNE",
+      "codigo": "040902",
+      "fonte": null,
+      "descricao": "Retirada de esquadria metálica em geral",
+      "unidade": "m²",
+      "quantidade": 10.56,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "6-ELEVADOR / PLATAFORMA PARA PNE",
+      "codigo": "141012",
+      "fonte": null,
+      "descricao": "Alvenaria de bloco de concreto de vedação, uso revestido, de 19 cm",
+      "unidade": "m²",
+      "quantidade": 15.78,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "6-ELEVADOR / PLATAFORMA PARA PNE",
+      "codigo": "170204",
+      "fonte": null,
+      "descricao": "Chapisco com bianco",
+      "unidade": "m²",
+      "quantidade": 10.5,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "6-ELEVADOR / PLATAFORMA PARA PNE",
+      "codigo": "170212",
+      "fonte": null,
+      "descricao": "Emboço comum",
+      "unidade": "m²",
+      "quantidade": 10.5,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "6-ELEVADOR / PLATAFORMA PARA PNE",
+      "codigo": "170222",
+      "fonte": null,
+      "descricao": "Reboco",
+      "unidade": "m²",
+      "quantidade": 10.5,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "6-ELEVADOR / PLATAFORMA PARA PNE",
+      "codigo": "240107",
+      "fonte": null,
+      "descricao": "Caixilho em ferro de correr, sob medida",
+      "unidade": "m²",
+      "quantidade": 5.28,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "6-ELEVADOR / PLATAFORMA PARA PNE",
+      "codigo": "030102",
+      "fonte": null,
+      "descricao": "Demolição manual de concreto simples",
+      "unidade": "m³",
+      "quantidade": 0.11,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "6-ELEVADOR / PLATAFORMA PARA PNE",
+      "codigo": "060202",
+      "fonte": null,
+      "descricao": "Escavação manual em solo de 1ª e 2ª categoria em vala ou cava até 1,50 m",
+      "unidade": "m³",
+      "quantidade": 1.13,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "6-ELEVADOR / PLATAFORMA PARA PNE",
+      "codigo": "111804",
+      "fonte": null,
+      "descricao": "Lastro de pedra britada",
+      "unidade": "m³",
+      "quantidade": 0.11,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": "6-ELEVADOR / PLATAFORMA PARA PNE",
+      "codigo": "170104",
+      "fonte": null,
+      "descricao": "Lastro de concreto impermeabilizado",
+      "unidade": "m³",
+      "quantidade": 0.23,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": "6-ELEVADOR / PLATAFORMA PARA PNE",
+      "codigo": "111602",
+      "fonte": null,
+      "descricao": "Lançamento, espalhamento e adensamento de concreto ou massa em lastro e/ou enchimento",
+      "unidade": "m³",
+      "quantidade": 0.23,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 29
+    },
+    {
+      "grupo": "6-ELEVADOR / PLATAFORMA PARA PNE",
+      "codigo": "170102",
+      "fonte": null,
+      "descricao": "Argamassa de regularização e/ou proteção",
+      "unidade": "m³",
+      "quantidade": 0.17,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 30
+    },
+    {
+      "grupo": "6-ELEVADOR / PLATAFORMA PARA PNE",
+      "codigo": "330208",
+      "fonte": null,
+      "descricao": "Massa corrida à base de resina acrílica",
+      "unidade": "m²",
+      "quantidade": 11.7,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 31
+    },
+    {
+      "grupo": "6-ELEVADOR / PLATAFORMA PARA PNE",
+      "codigo": "331005",
+      "fonte": null,
+      "descricao": "Tinta 100% acrílica em massa, inclusive preparo",
+      "unidade": "m²",
+      "quantidade": 52.5,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 32
+    },
+    {
+      "grupo": "6-ELEVADOR / PLATAFORMA PARA PNE",
+      "codigo": "161002",
+      "fonte": null,
+      "descricao": "Telha em fibra vegetal, perfil ondulado com espessura de 3 mm",
+      "unidade": "m²",
+      "quantidade": 4.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 33
+    },
+    {
+      "grupo": "6-ELEVADOR / PLATAFORMA PARA PNE",
+      "codigo": "150111",
+      "fonte": null,
+      "descricao": "Estrutura de madeira tesourada para telha perfil ondulado - vãos até 7,00 m",
+      "unidade": "m²",
+      "quantidade": 4.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 34
+    },
+    {
+      "grupo": "6-ELEVADOR / PLATAFORMA PARA PNE",
+      "codigo": "301401",
+      "fonte": null,
+      "descricao": "Elevador de uso restrito a pessoas com mobilidade reduzida com 02 paradas - uso interno em alvenaria",
+      "unidade": "cj",
+      "quantidade": 1.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 35
+    },
+    {
+      "grupo": "7-PINTURA DAS FACHADAS",
+      "codigo": "020503",
+      "fonte": null,
+      "descricao": "Andaime tubular fachadeiro",
+      "unidade": "m²xmês",
+      "quantidade": 240.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 36
+    },
+    {
+      "grupo": "7-PINTURA DAS FACHADAS",
+      "codigo": "020506",
+      "fonte": null,
+      "descricao": "Montagem e desmontagem de andaime torre metálica com altura até 10 m",
+      "unidade": "m",
+      "quantidade": 112.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 37
+    },
+    {
+      "grupo": "7-PINTURA DAS FACHADAS",
+      "codigo": "330377",
+      "fonte": null,
+      "descricao": "Hidrorrepelente incolor para fachada à base de silano-siloxano oligomérico disperso em solvente",
+      "unidade": "m²",
+      "quantidade": 255.3,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 38
+    },
+    {
+      "grupo": "7-PINTURA DAS FACHADAS",
+      "codigo": "320716",
+      "fonte": null,
+      "descricao": "Junta de dilatação elástica a base de poliuretano",
+      "unidade": "cm³",
+      "quantidade": 4000.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 39
+    },
+    {
+      "grupo": null,
+      "codigo": "331102",
+      "fonte": null,
+      "descricao": "Esmalte em superfície metálica, inclusive preparo",
+      "unidade": "m²",
+      "quantidade": 290.5,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "330128",
+      "fonte": null,
+      "descricao": "Reparo de trincas rasas até 5,0 mm de largura, na massa",
+      "unidade": "m",
+      "quantidade": 182.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "331005",
+      "fonte": null,
+      "descricao": "Tinta 100% acrílica em massa, inclusive preparo",
+      "unidade": "m²",
+      "quantidade": 251.34,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "330378",
+      "fonte": null,
+      "descricao": "Verniz de proteção antipichação",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "8- EDÍCULA",
+      "codigo": "030204",
+      "fonte": null,
+      "descricao": "Demolição manual de alvenaria de elevação ou elemento vazado, incluindo revestimento",
+      "unidade": "m³",
+      "quantidade": 12.02,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "8- EDÍCULA",
+      "codigo": "030102",
+      "fonte": null,
+      "descricao": "Demolição manual de concreto simples",
+      "unidade": "m³",
+      "quantidade": 3.03,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "8- EDÍCULA",
+      "codigo": "043002",
+      "fonte": null,
+      "descricao": "Remoção de calha ou rufo",
+      "unidade": "m",
+      "quantidade": 19.5,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "8- EDÍCULA",
+      "codigo": "043010",
+      "fonte": null,
+      "descricao": "Remoção de reservatório em fibrocimento até 1000 litros",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "8- EDÍCULA",
+      "codigo": "043006",
+      "fonte": null,
+      "descricao": "Remoção de tubulação hidráulica em geral, incluindo conexões, caixas e ralos",
+      "unidade": "m",
+      "quantidade": 28.2,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "8- EDÍCULA",
+      "codigo": "041912",
+      "fonte": null,
+      "descricao": "Remoção de interruptores, tomadas, botão de campainha ou cigarra",
+      "unidade": "un",
+      "quantidade": 6.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "8- EDÍCULA",
+      "codigo": "040302",
+      "fonte": null,
+      "descricao": "Retirada de telhamento em barro",
+      "unidade": "m²",
+      "quantidade": 47.88,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "8- EDÍCULA",
+      "codigo": "040202",
+      "fonte": null,
+      "descricao": "Retirada de peças lineares em madeira com seção até 60 cm²",
+      "unidade": "m",
+      "quantidade": 119.7,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "8- EDÍCULA",
+      "codigo": "040203",
+      "fonte": null,
+      "descricao": "Retirada de peças lineares em madeira com seção superior a 60 cm²",
+      "unidade": "m",
+      "quantidade": 95.76,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "8- EDÍCULA",
+      "codigo": "040209",
+      "fonte": null,
+      "descricao": "Retirada de estrutura em madeira pontaletada - telhas de barro",
+      "unidade": "m²",
+      "quantidade": 47.88,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "8- EDÍCULA",
+      "codigo": "040306",
+      "fonte": null,
+      "descricao": "Retirada de cumeeira ou espigão em barro",
+      "unidade": "m",
+      "quantidade": 19.5,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "8- EDÍCULA",
+      "codigo": "040304",
+      "fonte": null,
+      "descricao": "Retirada de telhamento perfil e material qualquer, exceto barro",
+      "unidade": "m²",
+      "quantidade": 37.2,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "8- EDÍCULA",
+      "codigo": "040702",
+      "fonte": null,
+      "descricao": "Retirada de forro qualquer em placas ou tiras fixadas",
+      "unidade": "m²",
+      "quantidade": 15.5,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "8- EDÍCULA",
+      "codigo": "041112",
+      "fonte": null,
+      "descricao": "Retirada de torneira ou chuveiro",
+      "unidade": "un",
+      "quantidade": 8.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "8- EDÍCULA",
+      "codigo": "041102",
+      "fonte": null,
+      "descricao": "Retirada de aparelho sanitário incluindo acessórios",
+      "unidade": "un",
+      "quantidade": 6.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "8- EDÍCULA",
+      "codigo": "041108",
+      "fonte": null,
+      "descricao": "Retirada de registro ou válvula embutidos",
+      "unidade": "un",
+      "quantidade": 3.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "8- EDÍCULA",
+      "codigo": "041114",
+      "fonte": null,
+      "descricao": "Retirada de sifão ou metais sanitários diversos",
+      "unidade": "un",
+      "quantidade": 9.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "8- EDÍCULA",
+      "codigo": "040802",
+      "fonte": null,
+      "descricao": "Retirada de folha de esquadria em madeira",
+      "unidade": "un",
+      "quantidade": 3.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "8- EDÍCULA",
+      "codigo": "044003",
+      "fonte": null,
+      "descricao": "Retirada manual de guia pré-moldada, inclusive limpeza e empilhamento",
+      "unidade": "m",
+      "quantidade": 3.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "8- EDÍCULA",
+      "codigo": "140421",
+      "fonte": null,
+      "descricao": "Alvenaria de bloco cerâmico de vedação, uso revestido, de 14 cm",
+      "unidade": "m²",
+      "quantidade": 15.9,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "8- EDÍCULA",
+      "codigo": "142001",
+      "fonte": null,
+      "descricao": "Vergas, contravergas e pilaretes de concreto armado",
+      "unidade": "m³",
+      "quantidade": 0.85,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "8- EDÍCULA",
+      "codigo": "170204",
+      "fonte": null,
+      "descricao": "Chapisco com bianco",
+      "unidade": "m²",
+      "quantidade": 46.47,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "8- EDÍCULA",
+      "codigo": "170212",
+      "fonte": null,
+      "descricao": "Emboço comum",
+      "unidade": "m²",
+      "quantidade": 46.47,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": "8- EDÍCULA",
+      "codigo": "170222",
+      "fonte": null,
+      "descricao": "Reboco",
+      "unidade": "m²",
+      "quantidade": 46.47,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": "8- EDÍCULA",
+      "codigo": "181104",
+      "fonte": null,
+      "descricao": "Revestimento em placa cerâmica esmaltada para paredes de 20 x 20 cm, assentado com argamassa AC-I colante industrializada",
+      "unidade": "m²",
+      "quantidade": 79.5,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 29
+    },
+    {
+      "grupo": "8- EDÍCULA",
+      "codigo": "181123",
+      "fonte": null,
+      "descricao": "Rejuntamento de cerâmica esmaltada de 20 x 20 cm com argamassa industrializada para rejunte, juntas até 3 mm",
+      "unidade": "m²",
+      "quantidade": 79.5,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 30
+    },
+    {
+      "grupo": "8- EDÍCULA",
+      "codigo": "230904",
+      "fonte": null,
+      "descricao": "Porta lisa com batente madeira - 82 x 210 cm",
+      "unidade": "un",
+      "quantidade": 3.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 31
+    },
+    {
+      "grupo": "8- EDÍCULA",
+      "codigo": "240107",
+      "fonte": null,
+      "descricao": "Caixilho em ferro de correr, sob medida",
+      "unidade": "m²",
+      "quantidade": 2.6,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 32
+    },
+    {
+      "grupo": "8- EDÍCULA",
+      "codigo": "240103",
+      "fonte": null,
+      "descricao": "Caixilho em ferro basculante, sob medida",
+      "unidade": "m²",
+      "quantidade": 2.6,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 33
+    },
+    {
+      "grupo": "8- EDÍCULA",
+      "codigo": "240245",
+      "fonte": null,
+      "descricao": "Grade de proteção para caixilhos",
+      "unidade": "m²",
+      "quantidade": 2.6,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 34
+    },
+    {
+      "grupo": "8- EDÍCULA",
+      "codigo": "240206",
+      "fonte": null,
+      "descricao": "Porta/portão de abrir em chapa, sob medida",
+      "unidade": "m²",
+      "quantidade": 2.1,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 35
+    },
+    {
+      "grupo": "8- EDÍCULA",
+      "codigo": "061104",
+      "fonte": null,
+      "descricao": "Reaterro manual apiloado sem controle de compactação",
+      "unidade": "m³",
+      "quantidade": 0.36,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 36
+    },
+    {
+      "grupo": "8- EDÍCULA",
+      "codigo": "111804",
+      "fonte": null,
+      "descricao": "Lastro de pedra britada",
+      "unidade": "m³",
+      "quantidade": 0.92,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 37
+    },
+    {
+      "grupo": "8- EDÍCULA",
+      "codigo": "170104",
+      "fonte": null,
+      "descricao": "Lastro de concreto impermeabilizado",
+      "unidade": "m³",
+      "quantidade": 0.56,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 38
+    },
+    {
+      "grupo": "8- EDÍCULA",
+      "codigo": "110402",
+      "fonte": null,
+      "descricao": "Concreto não estrutural executado no local, mínimo 150 kg cimento / m³",
+      "unidade": "m³",
+      "quantidade": 0.36,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 39
+    },
+    {
+      "grupo": "8- EDÍCULA",
+      "codigo": "111602",
+      "fonte": null,
+      "descricao": "Lançamento, espalhamento e adensamento de concreto ou massa em lastro e/ou enchimento",
+      "unidade": "m³",
+      "quantidade": 0.36,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 40
+    },
+    {
+      "grupo": null,
+      "codigo": "170302",
+      "fonte": null,
+      "descricao": "Cimentado desempenado",
+      "unidade": "m²",
+      "quantidade": 0.36,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "111622",
+      "fonte": null,
+      "descricao": "Nivelamento de piso em concreto com acabadora de superficie",
+      "unidade": "m²",
+      "quantidade": null,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "140105",
+      "fonte": null,
+      "descricao": "Alvenaria de embasamento em bloco de concreto com 14 cm",
+      "unidade": "m²",
+      "quantidade": null,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "170102",
+      "fonte": null,
+      "descricao": "Argamassa de regularização e/ou proteção",
+      "unidade": "m³",
+      "quantidade": 0.56,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "180627",
+      "fonte": null,
+      "descricao": "Piso cerâmico esmaltado antiderrapante, PEI-5, resistência química A, assentado com argamassa colante industrializada",
+      "unidade": "m²",
+      "quantidade": 28.17,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "150131",
+      "fonte": null,
+      "descricao": "Estrutura em terças para telhas de barro",
+      "unidade": "m²",
+      "quantidade": 12.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "160203",
+      "fonte": null,
+      "descricao": "Telha de barro tipo romana",
+      "unidade": "m²",
+      "quantidade": 14.36,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "163304",
+      "fonte": null,
+      "descricao": "Calha, rufo, afins em chapa galvanizada nº 24 - corte 0,50 m",
+      "unidade": "m",
+      "quantidade": 33.2,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "160223",
+      "fonte": null,
+      "descricao": "Cumeeira de barro emboçado tipos: plan, romana, italiana, francesa e paulistinha",
+      "unidade": "m",
+      "quantidade": 33.2,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "220203",
+      "fonte": null,
+      "descricao": "Forro em painéis de gesso acartonado, com espessura de 12,5 mm, fixo",
+      "unidade": "m²",
+      "quantidade": 15.5,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "480202",
+      "fonte": null,
+      "descricao": "Reservatório de fibra de vidro - capacidade de 1.000 litros",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "440133",
+      "fonte": null,
+      "descricao": "Tanque de aço inoxidável",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": "440340",
+      "fonte": null,
+      "descricao": "Torneira curta com rosca para uso geral, em latão fundido cromado, DN= 3/4'",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": null,
+      "codigo": "470202",
+      "fonte": null,
+      "descricao": "Registro de gaveta em latão fundido cromado com canopla, DN= 3/4' - linha especial",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": null,
+      "codigo": "460102",
+      "fonte": null,
+      "descricao": "Tubo de PVC rígido, DN= 25 mm, (3/4'), inclusive conexões",
+      "unidade": "m",
+      "quantidade": 12.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": null,
+      "codigo": "460205",
+      "fonte": null,
+      "descricao": "Tubo de PVC rígido, PxB com anel de borracha, DN= 50 mm, inclusive conexões",
+      "unidade": "m",
+      "quantidade": 3.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": null,
+      "codigo": "460207",
+      "fonte": null,
+      "descricao": "Tubo de PVC rígido, PxB com anel de borracha, DN= 100 mm, inclusive conexões",
+      "unidade": "m",
+      "quantidade": 12.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": null,
+      "codigo": "490103",
+      "fonte": null,
+      "descricao": "Caixa sifonada de PVC rígido de 150 x 150 x 50 mm, com grelha",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": null,
+      "codigo": "08.10.038 FDE",
+      "fonte": null,
+      "descricao": "Ci-01 caixa de inspecao 60x60cm para esgoto",
+      "unidade": "un",
+      "quantidade": 3.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": null,
+      "codigo": "330206",
+      "fonte": null,
+      "descricao": "Massa corrida a base de PVA",
+      "unidade": "m²",
+      "quantidade": 125.99,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": null,
+      "codigo": "331002",
+      "fonte": null,
+      "descricao": "Látex PVA em massa, inclusive preparo",
+      "unidade": "m²",
+      "quantidade": 164.99,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": null,
+      "codigo": "331010",
+      "fonte": null,
+      "descricao": "Textura acrílica para uso interno / externo",
+      "unidade": "m²",
+      "quantidade": 39.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": null,
+      "codigo": "330210",
+      "fonte": null,
+      "descricao": "Massa corrida a óleo em esquadrias de madeira",
+      "unidade": "m²",
+      "quantidade": 48.4,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": null,
+      "codigo": "330501",
+      "fonte": null,
+      "descricao": "Verniz fungicida para madeira",
+      "unidade": "m²",
+      "quantidade": 48.4,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": null,
+      "codigo": "330710",
+      "fonte": null,
+      "descricao": "Esmalte com acabamento acetinado em estrutura metálica",
+      "unidade": "m²",
+      "quantidade": 36.34,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "9-ESTACIONAMENTO",
+      "codigo": "01.02.002 FDE",
+      "fonte": null,
+      "descricao": "Corte com retirada por caminhao nos primeiros 100 m",
+      "unidade": "m³",
+      "quantidade": 145.34,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "9-ESTACIONAMENTO",
+      "codigo": "540101",
+      "fonte": null,
+      "descricao": "Regularização e compactação mecanizada de superfície, sem controle do proctor normal",
+      "unidade": "m²",
+      "quantidade": 726.7,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": "9-ESTACIONAMENTO",
+      "codigo": "140105",
+      "fonte": null,
+      "descricao": "Alvenaria de embasamento em bloco de concreto com 14 cm",
+      "unidade": "m²",
+      "quantidade": 45.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": "9-ESTACIONAMENTO",
+      "codigo": "111804",
+      "fonte": null,
+      "descricao": "Lastro de pedra britada",
+      "unidade": "m³",
+      "quantidade": 36.34,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 29
+    },
+    {
+      "grupo": "9-ESTACIONAMENTO",
+      "codigo": "540435",
+      "fonte": null,
+      "descricao": "Pavimentação em lajota de concreto 35 MPa, espessura 8 cm, tipos: raquete, retangular, sextavado e 16 faces, com rejunte em areia",
+      "unidade": "m²",
+      "quantidade": 726.7,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 30
+    },
+    {
+      "grupo": "9-ESTACIONAMENTO",
+      "codigo": "340102",
+      "fonte": null,
+      "descricao": "Limpeza e regularização de áreas para ajardinamento (jardins e canteiros)",
+      "unidade": "m²",
+      "quantidade": 38.2,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 31
+    },
+    {
+      "grupo": "9-ESTACIONAMENTO",
+      "codigo": "340101",
+      "fonte": null,
+      "descricao": "Terra vegetal orgânica comum",
+      "unidade": "m³",
+      "quantidade": 11.46,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 32
+    },
+    {
+      "grupo": "9-ESTACIONAMENTO",
+      "codigo": "340211",
+      "fonte": null,
+      "descricao": "Forração com clorofito, mínimo de 20 mudas / m² - h= 0,15 m",
+      "unidade": "m²",
+      "quantidade": 38.2,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 33
+    },
+    {
+      "grupo": "9-ESTACIONAMENTO",
+      "codigo": "340302",
+      "fonte": null,
+      "descricao": "Arbusto Azaléa - h= 0,60 a 0,80 m",
+      "unidade": "un",
+      "quantidade": 60.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 34
+    },
+    {
+      "grupo": "9-ESTACIONAMENTO",
+      "codigo": "05.06.053 FDE",
+      "fonte": null,
+      "descricao": "Chapa de policarbonato alveolar E=6mm",
+      "unidade": "m²",
+      "quantidade": 258.3,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 35
+    },
+    {
+      "grupo": "9-ESTACIONAMENTO",
+      "codigo": "150311",
+      "fonte": null,
+      "descricao": "Fornecimento e montagem de estrutura em aço patinável, sem pintura",
+      "unidade": "kg",
+      "quantidade": 2325.7,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 36
+    },
+    {
+      "grupo": "9-ESTACIONAMENTO",
+      "codigo": "060102",
+      "fonte": null,
+      "descricao": "Escavação manual em solo de 1ª e 2ª categoria em campo aberto",
+      "unidade": "m³",
+      "quantidade": 3.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 37
+    },
+    {
+      "grupo": "9-ESTACIONAMENTO",
+      "codigo": "110404",
+      "fonte": null,
+      "descricao": "Concreto não estrutural executado no local, mínimo 200 kg cimento / m³",
+      "unidade": "m³",
+      "quantidade": 3.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 38
+    },
+    {
+      "grupo": null,
+      "codigo": "290304",
+      "fonte": null,
+      "descricao": "Cabo em aço galvanizado com alma de aço, diâmetro de 3/8'",
+      "unidade": "m",
+      "quantidade": 6.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "240331",
+      "fonte": null,
+      "descricao": "Corrimão tubular em aço galvanizado, diâmetro 1 1/2'",
+      "unidade": "m",
+      "quantidade": null,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "240304",
+      "fonte": null,
+      "descricao": "Corrimão e guarda-corpo tubular c/tela em aço galvanizado, Ø 1 1/2'",
+      "unidade": "m",
+      "quantidade": 101.37,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "330710",
+      "fonte": null,
+      "descricao": "Esmalte com acabamento acetinado em estrutura metálica",
+      "unidade": "m²",
+      "quantidade": 31.29,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "330128",
+      "fonte": null,
+      "descricao": "Reparo de trincas rasas até 5,0 mm de largura, na massa",
+      "unidade": "m",
+      "quantidade": 533.95,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "330208",
+      "fonte": null,
+      "descricao": "Massa corrida à base de resina acrílica",
+      "unidade": "m²",
+      "quantidade": 533.95,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "331005",
+      "fonte": null,
+      "descricao": "Tinta 100% acrílica em massa, inclusive preparo",
+      "unidade": "m²",
+      "quantidade": null,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "330902",
+      "fonte": null,
+      "descricao": "Borracha clorada para faixas demarcatórias",
+      "unidade": "m",
+      "quantidade": 70.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "10- ELÉTRICA",
+      "codigo": "411407",
+      "fonte": null,
+      "descricao": "Luminária de sobrepor em calha aberta para 2 lâmpadas fluorescentes de 32/40W",
+      "unidade": "un",
+      "quantidade": 6.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "10- ELÉTRICA",
+      "codigo": "411111",
+      "fonte": null,
+      "descricao": "Luminária retangular fechada para iluminação externa em poste, tipo pétala pequena",
+      "unidade": "un",
+      "quantidade": 2.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "10- ELÉTRICA",
+      "codigo": "411456",
+      "fonte": null,
+      "descricao": "Luminária de embutir em calha com aletas parabólicas para 2 lâmpadas fluorescentes de 32/36W",
+      "unidade": "un",
+      "quantidade": 4.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "10- ELÉTRICA",
+      "codigo": "411304",
+      "fonte": null,
+      "descricao": "Luminária blindada de sobrepor ou pendente em calha fechada para 1 lâmpada fluorescente de 32/36/40W",
+      "unidade": "un",
+      "quantidade": 7.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "10- ELÉTRICA",
+      "codigo": "411413",
+      "fonte": null,
+      "descricao": "Luminária de embutir em calha aberta para 2 lâmpadas fluorescentes de 16/18/20W",
+      "unidade": "un",
+      "quantidade": 2.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "10- ELÉTRICA",
+      "codigo": "410975",
+      "fonte": null,
+      "descricao": "Reator eletrônico de alto fator de potência com partida instantânea, para duas lâmpadas fluorescentes tubulares, base bipino bilateral, 32 W - 127 V / 220 V",
+      "unidade": "un",
+      "quantidade": 10.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "10- ELÉTRICA",
+      "codigo": "410845",
+      "fonte": null,
+      "descricao": "Reator eletromagnético de alto fator de potência, para lâmpada vapor metálico 250 W / 220 V",
+      "unidade": "un",
+      "quantidade": 9.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "10- ELÉTRICA",
+      "codigo": "410955",
+      "fonte": null,
+      "descricao": "Reator eletromagnético de baixo fator de potência com partida convencional, para uma lâmpada fluorescente tubular, base bipino bilateral, 20 W - 220 V",
+      "unidade": "un",
+      "quantidade": 4.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "10- ELÉTRICA",
+      "codigo": "410707",
+      "fonte": null,
+      "descricao": "Lâmpada fluorescente tubular, base bipino bilateral de 32 W",
+      "unidade": "un",
+      "quantidade": 20.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "10- ELÉTRICA",
+      "codigo": "410745",
+      "fonte": null,
+      "descricao": "Lâmpada fluorescente compacta eletrônica '3U', base E27 de 25 W-110 ou 220 V",
+      "unidade": "un",
+      "quantidade": 7.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "10- ELÉTRICA",
+      "codigo": "410705",
+      "fonte": null,
+      "descricao": "Lâmpada fluorescente tubular, base bipino bilateral de 20 W",
+      "unidade": "un",
+      "quantidade": 4.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "10- ELÉTRICA",
+      "codigo": "410552",
+      "fonte": null,
+      "descricao": "Lâmpada de vapor metálico elipsoidal, base E40 de 250 W",
+      "unidade": "un",
+      "quantidade": 9.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "10- ELÉTRICA",
+      "codigo": "400502",
+      "fonte": null,
+      "descricao": "Interruptor com 1 tecla simples e placa",
+      "unidade": "cj",
+      "quantidade": 4.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "10- ELÉTRICA",
+      "codigo": "400447",
+      "fonte": null,
+      "descricao": "Conjunto 2 tomadas 2P+T de 10 A, completo",
+      "unidade": "cj",
+      "quantidade": 3.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "10- ELÉTRICA",
+      "codigo": "381920",
+      "fonte": null,
+      "descricao": "Eletroduto de PVC corrugado flexível reforçado, diâmetro externo de 20 mm",
+      "unidade": "m",
+      "quantidade": 180.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "10- ELÉTRICA",
+      "codigo": "400701",
+      "fonte": null,
+      "descricao": "Caixa em PVC de 4' x 2'",
+      "unidade": "un",
+      "quantidade": 7.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "10- ELÉTRICA",
+      "codigo": "411205",
+      "fonte": null,
+      "descricao": "Projetor retangular fechado, com alojamento para reator, para lâmpadas vapor de sódio até 400 W",
+      "unidade": "un",
+      "quantidade": 7.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "10- ELÉTRICA",
+      "codigo": "411040",
+      "fonte": null,
+      "descricao": "Poste telecônico em aço SAE 1010/1020 galvanizado a fogo, com espera para uma luminária, altura de 3,00 m",
+      "unidade": "un",
+      "quantidade": 2.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "10- ELÉTRICA",
+      "codigo": "390317",
+      "fonte": null,
+      "descricao": "Cabo de cobre de 2,5 mm², isolamento 0,6/1 kV - isolação em PVC 70°C",
+      "unidade": "m",
+      "quantidade": 700.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": "10- ELÉTRICA",
+      "codigo": "461304",
+      "fonte": null,
+      "descricao": "Tubo em polietileno de alta densidade corrugado perfurado, DN= 2 1/2', inclusive conexões",
+      "unidade": "m",
+      "quantidade": 160.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": "10- ELÉTRICA",
+      "codigo": "380504",
+      "fonte": null,
+      "descricao": "Eletroduto de ferro galvanizado, pesado de 3/4' - com acessórios",
+      "unidade": "m",
+      "quantidade": 60.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 29
+    },
+    {
+      "grupo": "10- ELÉTRICA",
+      "codigo": "042211",
+      "fonte": null,
+      "descricao": "Remoção de tubulação elétrica aparente diâmetro externo até 50 mm",
+      "unidade": "m",
+      "quantidade": 60.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 30
+    },
+    {
+      "grupo": "10- ELÉTRICA",
+      "codigo": "400604",
+      "fonte": null,
+      "descricao": "Condulete metálico de 3/4'",
+      "unidade": "cj",
+      "quantidade": 20.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 31
+    },
+    {
+      "grupo": "10- ELÉTRICA",
+      "codigo": "401008",
+      "fonte": null,
+      "descricao": "Contator de potência 22 A/25 A - 2na+2nf",
+      "unidade": "un",
+      "quantidade": 4.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 32
+    },
+    {
+      "grupo": "10- ELÉTRICA",
+      "codigo": "400246",
+      "fonte": null,
+      "descricao": "Caixa em alumínio fundido à prova de tempo, umidade, gases, vapores e pó, 240 x 240 x 150 mm",
+      "unidade": "un",
+      "quantidade": 2.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 33
+    },
+    {
+      "grupo": "10- ELÉTRICA",
+      "codigo": "400220",
+      "fonte": null,
+      "descricao": "Caixa de passagem em poliamida, 234 x 174 x 90 mm",
+      "unidade": "un",
+      "quantidade": 2.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 34
+    },
+    {
+      "grupo": "10- ELÉTRICA",
+      "codigo": "401101",
+      "fonte": null,
+      "descricao": "Relé fotoelétrico 50/60 Hz 110/220 V - 1200 VA, completo",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 35
+    },
+    {
+      "grupo": "10- ELÉTRICA",
+      "codigo": "970219",
+      "fonte": null,
+      "descricao": "Placa de identificação em acrílico com texto em vinil",
+      "unidade": "m²",
+      "quantidade": 1.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 36
+    },
+    {
+      "grupo": null,
+      "codigo": "371363",
+      "fonte": null,
+      "descricao": "Disjuntor termomagnético, bipolar 220/380 V, corrente de 10 A",
+      "unidade": "un",
+      "quantidade": 4.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "401202",
+      "fonte": null,
+      "descricao": "Chave comutadora/seletora com 1 pólo e 3 posições para 63 A",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "370425",
+      "fonte": null,
+      "descricao": "Quadro de distribuição universal de sobrepor, para disjuntores 16 DIN / 12 Bolt-on - 150 A - sem componentes",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "381613",
+      "fonte": null,
+      "descricao": "Caixa para tomadas: energia, RJ, sobressalente, interruptor ou espelho, com pintura eletrostática, para rodapé técnico duplo",
+      "unidade": "un",
+      "quantidade": 48.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "381615",
+      "fonte": null,
+      "descricao": "Rodapé técnico duplo, e tampa com pintura eletrostática",
+      "unidade": "m",
+      "quantidade": 40.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "400409",
+      "fonte": null,
+      "descricao": "Tomada RJ 11 para telefone, sem placa",
+      "unidade": "un",
+      "quantidade": 12.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "400435",
+      "fonte": null,
+      "descricao": "Tomada RJ 45 para rede de dados, com placa",
+      "unidade": "un",
+      "quantidade": 12.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "400445",
+      "fonte": null,
+      "descricao": "Tomada 2P+T de 10 A-250 V, completa",
+      "unidade": "cj",
+      "quantidade": 24.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "11-DIVERSOS",
+      "codigo": "420550",
+      "fonte": null,
+      "descricao": "Sinalizador audio-visual para advertência",
+      "unidade": "cj",
+      "quantidade": 1.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "11-DIVERSOS",
+      "codigo": null,
+      "fonte": "pesquisa mercado",
+      "descricao": "Chave micro switch 15A com roldana",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "11-DIVERSOS",
+      "codigo": "040906",
+      "fonte": null,
+      "descricao": "Retirada de batente, corrimão ou peças lineares metálicas, chumbados",
+      "unidade": "m",
+      "quantidade": 3.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "11-DIVERSOS",
+      "codigo": "242014",
+      "fonte": null,
+      "descricao": "Batente em chapa de aço SAE 1010/1020, espessura de 3/16', para obras de segurança",
+      "unidade": "m",
+      "quantidade": 3.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "11-DIVERSOS",
+      "codigo": null,
+      "fonte": "pesquisa mercado",
+      "descricao": "Motor para portão eletrônico basculante 1/2 HP",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "11-DIVERSOS",
+      "codigo": "161618",
+      "fonte": null,
+      "descricao": "Telha de poliéster tipo perfil da trapezoidal 90 de fibrocimento, com espessura de 2,0 mm",
+      "unidade": "m²",
+      "quantidade": 22.5,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "11-DIVERSOS",
+      "codigo": null,
+      "fonte": "pesquisa mercado",
+      "descricao": "Carro coletor, em polietileno, com rodas, 240 litros",
+      "unidade": "un",
+      "quantidade": 10.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "11-DIVERSOS",
+      "codigo": null,
+      "fonte": "pesquisa mercado",
+      "descricao": "Container em polietileno, com rodas, 1000 litros",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "12-LIMPEZA FINAL DA OBRA",
+      "codigo": "550102",
+      "fonte": null,
+      "descricao": "Limpeza final da obra",
+      "unidade": "m²",
+      "quantidade": 265.56,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "12-LIMPEZA FINAL DA OBRA",
+      "codigo": "550108",
+      "fonte": null,
+      "descricao": "Limpeza complementar e especial de peças e aparelhos sanitários",
+      "unidade": "un",
+      "quantidade": 2.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "12-LIMPEZA FINAL DA OBRA",
+      "codigo": "550110",
+      "fonte": null,
+      "descricao": "Limpeza complementar e especial de vidros",
+      "unidade": "m²",
+      "quantidade": 359.5,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "13- TERMO DE ADITAMENTO",
+      "codigo": "143004",
+      "fonte": null,
+      "descricao": "Divisória em placas de ardósia com espessura de 2 cm",
+      "unidade": "m²",
+      "quantidade": 12.3,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "13- TERMO DE ADITAMENTO",
+      "codigo": "250108",
+      "fonte": null,
+      "descricao": "Caixilho em alumínio de correr, sob medida",
+      "unidade": "m²",
+      "quantidade": 4.4,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "13- TERMO DE ADITAMENTO",
+      "codigo": "260204",
+      "fonte": null,
+      "descricao": "Vidro temperado incolor de 8 mm",
+      "unidade": "m²",
+      "quantidade": 6.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "13- TERMO DE ADITAMENTO",
+      "codigo": "282065",
+      "fonte": null,
+      "descricao": "Puxador duplo em aço inoxidável, para porta de madeira, alumínio ou vidro, de 350 mm",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "13- TERMO DE ADITAMENTO",
+      "codigo": null,
+      "fonte": "cotação",
+      "descricao": "Fechadura para porta de correr em vidro temperado",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "13- TERMO DE ADITAMENTO",
+      "codigo": null,
+      "fonte": "cotação",
+      "descricao": "Contra fechadura para porta de vidro",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "13- TERMO DE ADITAMENTO",
+      "codigo": null,
+      "fonte": "cotação",
+      "descricao": "Kit de ferragens aparentes para porta de correr",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "13- TERMO DE ADITAMENTO",
+      "codigo": null,
+      "fonte": "cotação",
+      "descricao": "Fechadura para janela de correr em vidro temperado",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": "13- TERMO DE ADITAMENTO",
+      "codigo": "030204",
+      "fonte": null,
+      "descricao": "Demolição manual de alvenaria de elevação ou elemento vazado, incluindo revestimento",
+      "unidade": "m³",
+      "quantidade": 0.2,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": "13- TERMO DE ADITAMENTO",
+      "codigo": "660213",
+      "fonte": null,
+      "descricao": "Porteiro eletrônico com um interfone",
+      "unidade": "cj",
+      "quantidade": 1.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 29
+    },
+    {
+      "grupo": "13- TERMO DE ADITAMENTO",
+      "codigo": "390201",
+      "fonte": null,
+      "descricao": "Cabo de cobre de 1,5 mm², isolamento 750 V - isolação em PVC 70°C",
+      "unidade": "m",
+      "quantidade": 50.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 30
+    },
+    {
+      "grupo": "13- TERMO DE ADITAMENTO",
+      "codigo": "380402",
+      "fonte": null,
+      "descricao": "Eletroduto de ferro galvanizado, médio de 1/2' - com acessórios",
+      "unidade": "m",
+      "quantidade": 1.5,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 31
+    },
+    {
+      "grupo": "13- TERMO DE ADITAMENTO",
+      "codigo": "381301",
+      "fonte": null,
+      "descricao": "Eletroduto corrugado em polietileno de alta densidade, DN= 30 mm, com acessórios",
+      "unidade": "m",
+      "quantidade": 15.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 32
+    },
+    {
+      "grupo": "13- TERMO DE ADITAMENTO",
+      "codigo": "10115",
+      "fonte": null,
+      "descricao": "Eletricista",
+      "unidade": null,
+      "quantidade": 8.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 33
+    },
+    {
+      "grupo": null,
+      "codigo": "40309",
+      "fonte": null,
+      "descricao": "Retirada de domo de acrílico, inclusive perfis metálicos de fixação",
+      "unidade": "m²",
+      "quantidade": 1.5,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "163002",
+      "fonte": null,
+      "descricao": "Domo de acrílico fixado em perfis de alumínio",
+      "unidade": "m²",
+      "quantidade": 1.5,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "10139",
+      "fonte": null,
+      "descricao": "Pedreiro",
+      "unidade": "h",
+      "quantidade": 40.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "230803",
+      "fonte": null,
+      "descricao": "Faixa/batedor de proteção em madeira de 20 x 5 cm, com acabamento em laminado fenólico melamínico",
+      "unidade": "m",
+      "quantidade": 34.1,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "30304",
+      "fonte": null,
+      "descricao": "Demolição manual de revestimento em massa de parede ou teto",
+      "unidade": "m²",
+      "quantidade": 39.6,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "170204",
+      "fonte": null,
+      "descricao": "Chapisco com bianco",
+      "unidade": "m²",
+      "quantidade": 39.6,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "170212",
+      "fonte": null,
+      "descricao": "Emboço comum",
+      "unidade": "m²",
+      "quantidade": 39.6,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "170222",
+      "fonte": null,
+      "descricao": "Reboco",
+      "unidade": "m²",
+      "quantidade": 39.6,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "331003",
+      "fonte": null,
+      "descricao": "Látex acrílico antimofo em massa, inclusive preparo",
+      "unidade": "m²",
+      "quantidade": 39.6,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "30306",
+      "fonte": null,
+      "descricao": "Demolição manual de revestimento em massa de piso",
+      "unidade": "m²",
+      "quantidade": 40.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "111804",
+      "fonte": null,
+      "descricao": "Lastro de pedra britada",
+      "unidade": "m³",
+      "quantidade": 2.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "170510",
+      "fonte": null,
+      "descricao": "Piso com requadro em concreto simples com controle fck= 25 MPa",
+      "unidade": "m³",
+      "quantidade": 2.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": "020913",
+      "fonte": null,
+      "descricao": "Limpeza mecanizada do terreno, inclusive troncos com diâmetro acima de 15 cm até 50 cm, com caminhão à disposição dentro da obra, até o raio de 1,0 km",
+      "unidade": "m²",
+      "quantidade": 164.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": null,
+      "codigo": "020903",
+      "fonte": null,
+      "descricao": "Limpeza manual do terreno, inclusive troncos até 5 cm de diâmetro, com caminhão à disposição, dentro da obra, até o raio de 1,0 km",
+      "unidade": "m²",
+      "quantidade": 55.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 14
+    }
+  ],
+  "apelido": "MP ARAÇATUBA"
+}

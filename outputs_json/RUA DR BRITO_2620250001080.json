@@ -1,0 +1,315 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620250001080",
+    "numero_art": "2620242227988",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA CASA VERDE/CACHOEIRINHA",
+    "cnpj_contratante": "05.563.306/0001-70",
+    "objeto": "CONTRATAÇÃO DE EMPRESA PARA REVITALIZAÇÃO DE ÁREA MUNICIPAL, LOCALIZADA NA RUA DOUTOR BRITO FRANCO X RUA XIRÓ",
+    "processo_administrativo": "6033.2022/0003558-0",
+    "contrato": "076/SUB-CV/AÍ/2022",
+    "endereco_obra": "PRAÇA BENITO NICOLETTI, RUA DOUTOR BRITO FRANCO X RUA XIRÓ",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2022-12-29",
+    "data_fim": "2023-03-31",
+    "area_m2": 700.0,
+    "valor_contrato": 241537.52
+  },
+  "servicos": [
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "17-30-02",
+      "fonte": null,
+      "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "01-05-40",
+      "fonte": null,
+      "descricao": "TELA PARA PROTEÇÃO DE OBRAS, MALHA 2 MM",
+      "unidade": "M2",
+      "quantidade": 120.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "PASSEIO",
+      "codigo": "02-50-03",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MANUAL DE CONCRETO SIMPLES",
+      "unidade": "M3",
+      "quantidade": 26.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "PASSEIO",
+      "codigo": "17-60-45",
+      "fonte": null,
+      "descricao": "RETIRADA DE GUIAS DE CONCRETO",
+      "unidade": "M",
+      "quantidade": 160.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "PASSEIO",
+      "codigo": "01-01-08",
+      "fonte": null,
+      "descricao": "LIMPEZA MANUAL GERAL INCLUSIVE REMOÇÃO DE COBERTURA VEGETAL - TRONCO ATÉ 10CM - SEM TRANSPORTE",
+      "unidade": "M2",
+      "quantidade": 500.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "PASSEIO",
+      "codigo": "01-01-07",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 105.02,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "PASSEIO",
+      "codigo": "18-10-56",
+      "fonte": null,
+      "descricao": "ORLA DE SEPARAÇÃO EM CONCRETO NC.26",
+      "unidade": "M",
+      "quantidade": 160.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "PASSEIO",
+      "codigo": "17-02-43",
+      "fonte": null,
+      "descricao": "PASSEIO DE CONCRETO ARMADO, FCK=25MPA, INCLUINDO PREPARO DA CAIXA E LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 26.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "PASSEIO",
+      "codigo": "13-02-04",
+      "fonte": null,
+      "descricao": "ACABAMENTO DE PISO DE CONCRETO TIPO BAMBOLÊ",
+      "unidade": "M2",
+      "quantidade": 260.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "PASSEIO",
+      "codigo": "18-12-03",
+      "fonte": null,
+      "descricao": "C.03 - BANCO EM CONCRETO APARENTE - L=40CM",
+      "unidade": "M",
+      "quantidade": 8.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "PASSEIO",
+      "codigo": "15-01-15",
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 52.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "ESCADARIA",
+      "codigo": "05-50-15",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE ARGAMASSA DE REGULARIZAÇÃO - ESPESSURA MÉDIA DE 30MM",
+      "unidade": "M2",
+      "quantidade": 75.2,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "ESCADARIA",
+      "codigo": "01-01-07",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 4.88,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "ESCADARIA",
+      "codigo": "11-80-01",
+      "fonte": null,
+      "descricao": "REPAROS EM TRINCAS E RACHADURAS",
+      "unidade": "M",
+      "quantidade": 100.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "ESCADARIA",
+      "codigo": "05-01-40",
+      "fonte": null,
+      "descricao": "REGULARIZAÇÃO COM ARGAMASSA DE CIMENTO E AREIA - TRAÇO 1:3, ESPESSURA MÉDIA 30MM",
+      "unidade": "M2",
+      "quantidade": 75.2,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "ESCADARIA",
+      "codigo": "02-03-01",
+      "fonte": null,
+      "descricao": "FORMA COMUM DE TÁBUAS DE PINUS",
+      "unidade": "M2",
+      "quantidade": 44.4,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "ESCADARIA",
+      "codigo": "11-03-13",
+      "fonte": null,
+      "descricao": "REBOCO EXTERNO - ARGAMASSA PRÉ-FABRICADA",
+      "unidade": "M2",
+      "quantidade": 29.6,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "ESCADARIA",
+      "codigo": "02-01-01",
+      "fonte": null,
+      "descricao": "BROCA DE CONCRETO - DIAMETRO DE 20CM",
+      "unidade": "M",
+      "quantidade": 40.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "ESCADARIA",
+      "codigo": "17-05-25",
+      "fonte": null,
+      "descricao": "DP.05 - CORRIMÃO EM TUBO GALVANIZADO COM GUARDA CORPO",
+      "unidade": "M",
+      "quantidade": 100.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "ESCADARIA",
+      "codigo": "15-01-15",
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 109.6,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": "18-80-01",
+      "fonte": null,
+      "descricao": "REVOLVIMENTO E AJUSTE DO SOLO",
+      "unidade": "M2",
+      "quantidade": 500.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": "18-80-11",
+      "fonte": null,
+      "descricao": "TERRA PREPARADA PARA PLANTIO",
+      "unidade": "M3",
+      "quantidade": 25.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": "18-03-03",
+      "fonte": null,
+      "descricao": "GRAMA SÃO CARLOS EM PLACAS (ANOXONOPUS OBTUSIFOLIUS)",
+      "unidade": "M2",
+      "quantidade": 500.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": "18-03-77",
+      "fonte": null,
+      "descricao": "DRACENA (DRACAENA FRAGRANS)",
+      "unidade": "UN",
+      "quantidade": 50.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": "18-03-23",
+      "fonte": null,
+      "descricao": "MARIA SEM VERGONHA (IMPATIENS SPP)",
+      "unidade": "DÚZIA",
+      "quantidade": 15.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": "18-03-27",
+      "fonte": null,
+      "descricao": "PILEA (PILEA CADIEREI)",
+      "unidade": "DÚZIA",
+      "quantidade": 15.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": "ATA",
+      "fonte": null,
+      "descricao": "MOREIA",
+      "unidade": "DÚZIA",
+      "quantidade": 80.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "ADM LOCAL",
+      "codigo": "20-03-03",
+      "fonte": null,
+      "descricao": "ENGENHEIRO/ ARQUITETO JUNIOR",
+      "unidade": "H",
+      "quantidade": 30.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "ADM LOCAL",
+      "codigo": "17-04-01",
+      "fonte": null,
+      "descricao": "LIMPEZA GERAL DA OBRA",
+      "unidade": "M2",
+      "quantidade": 700.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 24
+    }
+  ],
+  "apelido": "RUA DR. BRITO"
+}

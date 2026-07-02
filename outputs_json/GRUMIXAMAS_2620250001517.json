@@ -1,0 +1,365 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620250001517",
+    "numero_art": "28027230221550463",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA JABAQUARA",
+    "cnpj_contratante": "05.659.015/0001-80",
+    "objeto": "READEQUAÇÃO DE MURO DE DIVISA E RAMPA EM ÁREA PÚBLICA",
+    "processo_administrativo": "6042.2022/0003066-8",
+    "contrato": "60/SUB-JA/2022",
+    "endereco_obra": "RUA DAS GRUMIXAMAS, 44",
+    "cidade": "SÃO PAULO",
+    "estado": "SP",
+    "data_inicio": "2022-12-05",
+    "data_fim": "2023-03-05",
+    "area_m2": 426.08,
+    "valor_contrato": 390714.87
+  },
+  "servicos": [
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 66.08,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TAPUME CHAPA COMPENSADA RESINADA 10MM",
+      "unidade": "M2",
+      "quantidade": 130.9,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "RAMPA DE ACESSIBILIDADE, MURO DIVISA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL, PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 51.16,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "RAMPA DE ACESSIBILIDADE, MURO DIVISA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 190.45,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "RAMPA DE ACESSIBILIDADE, MURO DIVISA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "BROCA DE CONCRETO - DIÂMETRO DE 30CM",
+      "unidade": "M",
+      "quantidade": 303.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "RAMPA DE ACESSIBILIDADE, MURO DIVISA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "FORMA COMUM DE TÁBUAS DE PINUS - NÃO RECUPERÁVEL",
+      "unidade": "M2",
+      "quantidade": 120.45,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "RAMPA DE ACESSIBILIDADE, MURO DIVISA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-50",
+      "unidade": "KG",
+      "quantidade": 1338.52,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "RAMPA DE ACESSIBILIDADE, MURO DIVISA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-60",
+      "unidade": "KG",
+      "quantidade": 673.62,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "RAMPA DE ACESSIBILIDADE, MURO DIVISA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-60 - TELA",
+      "unidade": "KG",
+      "quantidade": 92.83,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "RAMPA DE ACESSIBILIDADE, MURO DIVISA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "IMPERMEABILIZAÇÃO DO RESPALDO DA FUNDAÇÃO - ARGAMASSA IMPERMEÁVEL",
+      "unidade": "M2",
+      "quantidade": 160.6,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "RAMPA DE ACESSIBILIDADE, MURO DIVISA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "REATERRO DE VALAS, INCLUSIVE APILOAMENTO",
+      "unidade": "M3",
+      "quantidade": 36.13,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "RAMPA DE ACESSIBILIDADE, MURO DIVISA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CONCRETΟ FCK=30MPA - USINADO",
+      "unidade": "M3",
+      "quantidade": 15.03,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "RAMPA DE ACESSIBILIDADE, MURO DIVISA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "BOMBEAMENTO DE CONCRETO",
+      "unidade": "M3",
+      "quantidade": 50.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "RAMPA DE ACESSIBILIDADE, MURO DIVISA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ACABAMENTO DE PISO DE CONCRETO TIPO BAMBOLÊ",
+      "unidade": "M2",
+      "quantidade": 29.85,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "RAMPA DE ACESSIBILIDADE, MURO DIVISA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "LONA PLASTICA PESADA PRETA, E=150 MICRA",
+      "unidade": "M2",
+      "quantidade": 29.85,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "RAMPA DE ACESSIBILIDADE, MURO DIVISA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "BLOCOS VAZADOS DE CONCRETO ESTRUTURAL - 14CM - ATÉ 6MPA",
+      "unidade": "M2",
+      "quantidade": 426.08,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "RAMPA DE ACESSIBILIDADE, MURO DIVISA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "VERGAS, CINTAS E PILARETES DE CONCRETO",
+      "unidade": "M3",
+      "quantidade": 19.07,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "RAMPA DE ACESSIBILIDADE, MURO DIVISA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE ALVENARIA ESTRUTURAL DE BLOCOS VAZADOS DE CONCRETO",
+      "unidade": "M3",
+      "quantidade": 1.8,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "RAMPA DE ACESSIBILIDADE, MURO DIVISA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ENTRADA AÉREA DE ENERGIA E TELEFONE - 17 À 20KVA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "RAMPA DE ACESSIBILIDADE, MURO DIVISA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CAVALETE DE ENTRADA - 3/4\"",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "RAMPA DE ACESSIBILIDADE, MURO DIVISA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "HV.09 ABRIGO PARA CAVALETE ENTRADA, D=3/4\" OU 1\" EM ALVENARIA REVESTIDA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "RAMPA DE ACESSIBILIDADE, MURO DIVISA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CHAPISCO COMUM - ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 812.36,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "RAMPA DE ACESSIBILIDADE, MURO DIVISA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "EMBOÇO EXTERNO - ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 812.36,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "RAMPA DE ACESSIBILIDADE, MURO DIVISA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "REBOCO EXTERNO - ARGAMASSA PRÉ-FABRICADA",
+      "unidade": "M2",
+      "quantidade": 812.36,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "RAMPA DE ACESSIBILIDADE, MURO DIVISA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PISO PODOTÁTIL, ALERTA OU DIRECIONAL, EM LADRILHO HIDRÁULICO",
+      "unidade": "M2",
+      "quantidade": 0.96,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "RAMPA DE ACESSIBILIDADE, MURO DIVISA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PP.30/34 - PORTÃO EM FERRO PERFILADO COM TELA, 2 FOLHAS",
+      "unidade": "M2",
+      "quantidade": 8.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "RAMPA DE ACESSIBILIDADE, MURO DIVISA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "DP.05 CORRIMÃO EM TUBO GALVANIZADO COM GUARDA CORPO",
+      "unidade": "M",
+      "quantidade": 39.8,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "RAMPA DE ACESSIBILIDADE, MURO DIVISA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MANUAL DE CONCRETO ARMADO",
+      "unidade": "M3",
+      "quantidade": 5.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "RAMPA DE ACESSIBILIDADE, MURO DIVISA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CORRIMAO DUPLO AÇO GALVANIZADO COM PINTURA ESMALTE",
+      "unidade": "M",
+      "quantidade": 39.8,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "SERVIÇOS TÉCNICOS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ESTAÇÃO TOTAL PRECISÃO 3\", TIPO \"LEICA\" TC-1103 OU SIMILAR, INCLUSIVE ACESSÓRIOS",
+      "unidade": "H",
+      "quantidade": 21.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "SERVIÇOS TÉCNICOS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TOPÓGRAFO",
+      "unidade": "H",
+      "quantidade": 21.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "SERVIÇOS TÉCNICOS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PROJETO BÁSICO (PRANCHA A1)",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "SERVIÇOS TÉCNICOS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ENGENHEIRO/ARQUITETO PLENO",
+      "unidade": "H",
+      "quantidade": 64.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 13
+    }
+  ],
+  "apelido": "GRUMIXAMAS"
+}

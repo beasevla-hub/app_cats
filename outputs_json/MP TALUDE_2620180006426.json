@@ -1,0 +1,305 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620180006426",
+    "numero_art": "28027230180973131",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO",
+    "cnpj_contratante": "01.468.760/0001-90",
+    "objeto": "Contenção Parcial de Talude através de solo grampeado do Edifício Sede com fornecimento de material e mão-de-obra, em prédio do Ministério Público do Estado de São Paulo, localizado na Rua Riachuelo, 115 - Centro / SP totalizando uma área de 240 m².",
+    "processo_administrativo": "111/216 DG/MP",
+    "contrato": "ATA 001/2016",
+    "endereco_obra": "RUA RIACHUELO No.: 115",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2017-02-01",
+    "data_fim": "2017-05-31",
+    "area_m2": 240.0,
+    "valor_contrato": 410777.37
+  },
+  "servicos": [
+    {
+      "grupo": null,
+      "codigo": "050704",
+      "fonte": null,
+      "descricao": "Remoção de entulho separado de obra com caçamba metálica - terra, alvenaria, concreto, argamassa, madeira, papel, plástico ou metal",
+      "unidade": "m³",
+      "quantidade": 72.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "020903",
+      "fonte": null,
+      "descricao": "Limpeza manual do terreno, inclusive troncos até 5 cm de diâmetro, com caminhão à disposição, dentro da obra, até o raio de 1,0 km",
+      "unidade": "m²",
+      "quantidade": 240.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "100104",
+      "fonte": null,
+      "descricao": "Armadura em barra de aço CA-50 (A ou B) fyk= 500 MPa",
+      "unidade": "kg",
+      "quantidade": 3587.58,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "100106",
+      "fonte": null,
+      "descricao": "Armadura em barra de aço CA-60 (A ou B) fyk= 600 MPa",
+      "unidade": "kg",
+      "quantidade": 69.89,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "320902",
+      "fonte": null,
+      "descricao": "Chapa de aço em bitolas medias",
+      "unidade": "kg",
+      "quantidade": 332.8,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "080522",
+      "fonte": null,
+      "descricao": "Manta geotêxtil com resistência à tração longitudinal de 31kN/m e transversal de 27kN/m",
+      "unidade": "m²",
+      "quantidade": 48.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "461301",
+      "fonte": null,
+      "descricao": "Tubo em polietileno de alta densidade corrugado perfurado, DN= 3', inclusive conexões",
+      "unidade": "m",
+      "quantidade": 48.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "121401",
+      "fonte": null,
+      "descricao": "Taxa de mobilização e desmobilização de equipamento para execução de estacas escavadas com injeção ou microestaca",
+      "unidade": "tx",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "121404",
+      "fonte": null,
+      "descricao": "Estaca escavada com injeção ou microestaca, diâmetro de 16 cm",
+      "unidade": "m",
+      "quantidade": 1560.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "350107",
+      "fonte": null,
+      "descricao": "Tela de arame galvanizado fio nº 12 BWG, malha de 2'",
+      "unidade": "m²",
+      "quantidade": 240.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "340210",
+      "fonte": null,
+      "descricao": "Plantio de grama esmeralda em placas (jardins e canteiros)",
+      "unidade": "m²",
+      "quantidade": 240.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "060202",
+      "fonte": null,
+      "descricao": "Escavação manual em solo de 1ª e 2ª categoria em vala ou cava até 1,50 m",
+      "unidade": "m³",
+      "quantidade": 30.8,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": "061104",
+      "fonte": null,
+      "descricao": "Reaterro manual apiloado sem controle de compactação",
+      "unidade": "m³",
+      "quantidade": 17.6,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": null,
+      "codigo": "120106",
+      "fonte": null,
+      "descricao": "Broca em concreto armado diâmetro de 30 cm - completa",
+      "unidade": "m",
+      "quantidade": 15.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": null,
+      "codigo": "090103",
+      "fonte": null,
+      "descricao": "Forma em madeira comum para estrutura",
+      "unidade": "m²",
+      "quantidade": 12.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": null,
+      "codigo": "111804",
+      "fonte": null,
+      "descricao": "Lastro de pedra britada",
+      "unidade": "m³",
+      "quantidade": 2.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": null,
+      "codigo": "100104",
+      "fonte": null,
+      "descricao": "Armadura em barra de aço CA-50 (A ou B) fyk= 500 MPa",
+      "unidade": "kg",
+      "quantidade": 54.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": null,
+      "codigo": "110113",
+      "fonte": null,
+      "descricao": "Concreto usinado, fck = 25,0 MPa",
+      "unidade": "m³",
+      "quantidade": 3.8,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": null,
+      "codigo": "461222",
+      "fonte": null,
+      "descricao": "Meio tubo de concreto, DN= 400mm",
+      "unidade": "m",
+      "quantidade": 95.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": null,
+      "codigo": "460305",
+      "fonte": null,
+      "descricao": "Tubo de PVC rígido PxB com virola e anel de borracha, linha esgoto série reforçada 'R', DN= 100 mm, inclusive conexões",
+      "unidade": null,
+      "quantidade": 80.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Caixa coletora em concreto armado 0,30 x 0,70 x 1,00 m",
+      "unidade": "un",
+      "quantidade": 4.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "142001",
+      "fonte": null,
+      "descricao": "Vergas, contravergas e pilaretes de concreto armado",
+      "unidade": "m³",
+      "quantidade": 1.55,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "141014",
+      "fonte": null,
+      "descricao": "Alvenaria de bloco de concreto de vedação, uso aparente, de 14 cm",
+      "unidade": "m²",
+      "quantidade": 32.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "012109",
+      "fonte": null,
+      "descricao": "Instalação e transporte de equipamentos de sondagem rotativa",
+      "unidade": "tx",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "012111",
+      "fonte": null,
+      "descricao": "Sondagem do terreno à percussão (mínimo de 30 m)",
+      "unidade": "m",
+      "quantidade": 60.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "011705",
+      "fonte": null,
+      "descricao": "Projeto executivo de estrutura em formato A1",
+      "unidade": "un",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "020604",
+      "fonte": null,
+      "descricao": "Locação de plataforma elevatória articulada, com altura aproximada de 20,00m e capacidade para 227kg, diesel",
+      "unidade": "unxmês",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "550102",
+      "fonte": null,
+      "descricao": "Limpeza final da obra",
+      "unidade": "m²",
+      "quantidade": 240.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    }
+  ],
+  "apelido": "MP TALUDE"
+}

@@ -1,0 +1,545 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620230014616",
+    "numero_art": "28027230231477716",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "PMSP - SUBPREFEITURA ARICANDUVA/FORMOSA/CARRAO",
+    "cnpj_contratante": "05.587.519/0001-31",
+    "objeto": "CONTRATAÇÃO DE EMPRESA PARA REFORMA, MANUTENÇÃO E ADEQUAÇÃO DA AREA MUNICIPAL LOCALIZADA NA RUA DR. MARIANO CURSINO DE MOURA.",
+    "processo_administrativo": "6030.2022/0004847-2",
+    "contrato": "016/SUB-AF/2022",
+    "endereco_obra": "RUA DOUTOR MARIANO CURSINO DE MOURA",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2022-12-29",
+    "data_fim": "2023-01-27",
+    "area_m2": null,
+    "valor_contrato": 195536.89
+  },
+  "servicos": [
+    {
+      "grupo": "SERVIÇOS PRELIMINARES E MURETA NA TESTADA",
+      "codigo": "17-30-02",
+      "fonte": null,
+      "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "ALVENARIA E REVESTIMENTO",
+      "codigo": "04-01-41",
+      "fonte": null,
+      "descricao": "BLOCOS VAZADOS DE CONCRETO 14CM",
+      "unidade": "M2",
+      "quantidade": 40.32,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "ALVENARIA E REVESTIMENTO",
+      "codigo": "17-60-96",
+      "fonte": null,
+      "descricao": "RETIRADA DE CERCA DE TELA GALVANIZADA E RESPECTIVOS MOURÕES (FC 04/05)",
+      "unidade": "M",
+      "quantidade": 14.4,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "ALVENARIA E REVESTIMENTO",
+      "codigo": "17-70-96",
+      "fonte": null,
+      "descricao": "RECOLOCAÇÃO DE CERCA DE TELA GALVANIZADA E RESPECTIVOS MOURÕES (FC 04/05)",
+      "unidade": "M",
+      "quantidade": 14.4,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "ALVENARIA E REVESTIMENTO",
+      "codigo": "11-03-13",
+      "fonte": null,
+      "descricao": "REBOCO EXTERNO - ARGAMASSA PRÉ-FABRICADA",
+      "unidade": "M2",
+      "quantidade": 69.62,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "ALVENARIA E REVESTIMENTO",
+      "codigo": "11-03-08",
+      "fonte": null,
+      "descricao": "EMBOÇO EXTERNO - ARGAMASSA MISTA DE CIMENTO, CAL E AREIA 1:4/12",
+      "unidade": "M2",
+      "quantidade": 69.62,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "ALVENARIA E REVESTIMENTO",
+      "codigo": "11-01-01",
+      "fonte": null,
+      "descricao": "CHAPSCO COMUM - ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 69.62,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "ALVENARIA E REVESTIMENTO",
+      "codigo": "11-02-08",
+      "fonte": null,
+      "descricao": "EMBOÇO INTERNO - ARGAMASSA MISTA DE CIMENTO, CAL E AREIA 1:4/12",
+      "unidade": "M2",
+      "quantidade": 259.66,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "ALVENARIA E REVESTIMENTO",
+      "codigo": "11-01-13",
+      "fonte": null,
+      "descricao": "REBOCO INTERNO - ARGAMASSA PRÉ-FABRICADA",
+      "unidade": "M2",
+      "quantidade": 259.66,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "ALVENARIA E REVESTIMENTO",
+      "codigo": "03-50-03",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MANUAL DE CONCRETO SIMPLES",
+      "unidade": "M3",
+      "quantidade": 2.64,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "13-02-01",
+      "fonte": null,
+      "descricao": "CIMENTADO COMUM, DESEMPENADO - ESPESSURA 20MM",
+      "unidade": "M2",
+      "quantidade": 26.46,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "13-02-40",
+      "fonte": null,
+      "descricao": "PISO CERÂMICO ESMALTADO (PEI-5) - ASSENTADO COM ARGAMASSA COMUM",
+      "unidade": "M2",
+      "quantidade": 123.1,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "PINTURA GERAL",
+      "codigo": "15-01-15",
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 455.76,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "PINTURA GERAL",
+      "codigo": "15-80-34",
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO - REPINTURA DE ESQUADRIAS METÁLICAS",
+      "unidade": "M2",
+      "quantidade": 35.06,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "PINTURA GERAL",
+      "codigo": "15-80-30",
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO - REPINTURA DE ESQUADRIAS DE MADEIRA",
+      "unidade": "M2",
+      "quantidade": 21.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "COBERTURAS",
+      "codigo": "12-01-45",
+      "fonte": null,
+      "descricao": "FORRO EM RÉGUA DE PVC 200MM - INCLUSIVE PERFIS DE FIXAÇÃO E ACABAMENTO",
+      "unidade": "M2",
+      "quantidade": 123.1,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "COBERTURAS",
+      "codigo": "12-60-30",
+      "fonte": null,
+      "descricao": "RETIRADA DE FORRO EM RÉGUAS DE PVC, INCLUSIVE PERFIS",
+      "unidade": "M2",
+      "quantidade": 12.24,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "ESQUADRIAS",
+      "codigo": "07-01-12",
+      "fonte": null,
+      "descricao": "PM.12 - PORTA LISA COMUM/ ENCABEÇADA - 82X210CM",
+      "unidade": "UN",
+      "quantidade": 5.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "ESQUADRIAS",
+      "codigo": "08-80-50",
+      "fonte": null,
+      "descricao": "FERRO TRABALHADO -CAIXILHOS E PEQUENAS PEÇAS DE SERRALHERIA",
+      "unidade": "UN",
+      "quantidade": 156.21,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "INSTALAÇÕES ELETRICAS",
+      "codigo": "09-01-59",
+      "fonte": null,
+      "descricao": "ENTRADA AÉREA DE ENERGIA E TELEFONE - 48 À 54KVA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "INSTALAÇÕES ELETRICAS",
+      "codigo": "09-07-35",
+      "fonte": null,
+      "descricao": "PONTO COM INTERRUPTOR SIMPLES - 1 TECLA, EM CONDULETE 3/4\"",
+      "unidade": "UN",
+      "quantidade": 8.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "INSTALAÇÕES ELETRICAS",
+      "codigo": "09-07-61",
+      "fonte": null,
+      "descricao": "PONTO COM TOMADA SIMPLES 110/220V - EM CONDULETE 3/4\"",
+      "unidade": "UN",
+      "quantidade": 17.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "INSTALAÇÕES ELETRICAS",
+      "codigo": "09-08-12",
+      "fonte": null,
+      "descricao": "MINI DISJUNTOR - TIPO EUROPEU (IEC) - BIPOLAR 6/25A",
+      "unidade": "UN",
+      "quantidade": 12.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "INSTALAÇÕES ELETRICAS",
+      "codigo": "09-08-13",
+      "fonte": null,
+      "descricao": "MINI DISJUNTOR - TIPO EUROPEU (IEC) - BIPOLAR 32/50A",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "INSTALAÇÕES ELETRICAS",
+      "codigo": "09-02-07",
+      "fonte": null,
+      "descricao": "ELETRODUTO DE PVC RÍGIDO, ROSCÁVEL - 75MM (2 1/2\")",
+      "unidade": "M",
+      "quantidade": 158.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "INSTALAÇÕES ELETRICAS",
+      "codigo": "09-03-06",
+      "fonte": null,
+      "descricao": "CABO 4,00MM2 - ISOLAMENTO PARA 0,7KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 240.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "INSTALAÇÕES ELETRICAS",
+      "codigo": "09-03-33",
+      "fonte": null,
+      "descricao": "CABO 16,00MM2 - ISOLAMENTO PARA 1,0KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 10.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "INSTALAÇÕES ELETRICAS",
+      "codigo": "09-03-34",
+      "fonte": null,
+      "descricao": "CABO 25,00MM2 - ISOLAMENTO PARA 1,0KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 10.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "INSTALAÇÕES ELETRICAS",
+      "codigo": "09-05-19",
+      "fonte": null,
+      "descricao": "QUADRO DE DISTRIBUIÇÃO EM CHAPA METÁLICA - PARA ATÉ 70 DISJUNTORES",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "INSTALAÇÕES ELETRICAS",
+      "codigo": "09-05-34",
+      "fonte": null,
+      "descricao": "CAIXA DE PASSAGEM TIPO CONDULETE - 2 1/2\"",
+      "unidade": "UN",
+      "quantidade": 12.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "INSTALAÇÕES ELETRICAS",
+      "codigo": "09-09-51",
+      "fonte": null,
+      "descricao": "LUMINÁRIA COMERCIAL DE SOBREPOR COM DIFUSOR TRANSPARENTE OU FOSCO PARA 2 LÂMPADAS TUBULARES DE LED 18/20W - COMPLETA",
+      "unidade": "UN",
+      "quantidade": 16.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "INSTALAÇÕES ELETRICAS",
+      "codigo": "09-09-79",
+      "fonte": null,
+      "descricao": "LUMINÁRIA INDUSTRIAL CORPO EM CHAPA DE AÇO TRATADA, PINTADA E REFLETOR EM ALUMÍNIO ANODIZADO DE ALTO BRILHO - 2XT 28W",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "INSTALAÇOES HIDRO-SANITARIAS",
+      "codigo": "10-01-01",
+      "fonte": null,
+      "descricao": "CAVALETE DE ENTRADA - 3/4\"",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "INSTALAÇOES HIDRO-SANITARIAS",
+      "codigo": "10-02-41",
+      "fonte": null,
+      "descricao": "LAJE PRÉ-MOLDADA D=2,50M E=15CM PARA RESERVATÓRIO",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "INSTALAÇOES HIDRO-SANITARIAS",
+      "codigo": "10-02-81",
+      "fonte": null,
+      "descricao": "REGISTRO DE GAVETA, METAL AMARELO - 3/4\"",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "INSTALAÇOES HIDRO-SANITARIAS",
+      "codigo": "10-02-09",
+      "fonte": null,
+      "descricao": "RESERVATÓRIO DE FIBRA DE VIDRO - CAPACIDADE 1000L",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "INSTALAÇOES HIDRO-SANITARIAS",
+      "codigo": "10-02-61",
+      "fonte": null,
+      "descricao": "TUBO DE PVC RÍGIDO, SOLDÁVEL (LINHA ÁGUA) - 25MM (3/4\")",
+      "unidade": "M",
+      "quantidade": 34.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": null,
+      "codigo": "10-02-91",
+      "fonte": null,
+      "descricao": "TORNEIRA DE BÓIA, DE LATÃO - 3/4\"",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "10-10-01",
+      "fonte": null,
+      "descricao": "RALO SECO DE PVC RÍGIDO, COM SAÍDA SOLDADA DE 40MM - DIÂMETRO 100MM",
+      "unidade": "UN",
+      "quantidade": 5.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "10-13-16",
+      "fonte": null,
+      "descricao": "LAVATÓRIO OVAL DE EMBUTIR, LOUÇA BRANCA - EXCLUSIVE TORNEIRA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "10-14-89",
+      "fonte": null,
+      "descricao": "TAMPO PARA BANCADA ÚMIDA - CONCRETO POLIDO E=50MM COM BORDAS ARREDONDADAS E ENVERNIZADAS",
+      "unidade": "M2",
+      "quantidade": 6.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "10-13-36",
+      "fonte": null,
+      "descricao": "MICTÓRIO INDIVIDUAL DE LOUÇA, PARA DEFICIENTE",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "10-13-03",
+      "fonte": null,
+      "descricao": "BACIA SANITÁRIA COM CAIXA ACOPLADA DE LOUÇA BRANCA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "10-13-05",
+      "fonte": null,
+      "descricao": "BACIA SANITÁRIA ALTEADA PARA PORTADORES DE DEFICIÊNCIA FÍSICA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "10-13-14",
+      "fonte": null,
+      "descricao": "LAVATÓRIO DE LOUÇA INDIVIDUAL PARA PORTADORES DE DEFICIÊNCIA FÍSICA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "17-05-27",
+      "fonte": null,
+      "descricao": "BARRA DE APOIO PARA LAVATÓRIO EM \"L\" - PPDF",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "17-05-21",
+      "fonte": null,
+      "descricao": "BARRA DE APOIO PARA DEFICIENTES L=80 CM (BARRAS COM DIÂMETRO ENTRE 3,0 E 4,5CM)",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "17-05-22",
+      "fonte": null,
+      "descricao": "BARRA DE APOIO PARA DEFICIENTES L=90 CM (BARRAS COM DIÂMETRO ENTRE 3,0 E 4,5CM)",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "10-14-12",
+      "fonte": null,
+      "descricao": "BICA ALTA ARTICULÁVEL DE MESA - 1/2\"",
+      "unidade": "UN",
+      "quantidade": 9.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "ADMINISTRAÇÃO LOCAL E ELABORAÇÃO DE PROJETO BÁSICO DE ARQUITETURA E URBANISMO",
+      "codigo": "20-03-60",
+      "fonte": null,
+      "descricao": "PROJETO BÁSICO (PRANCHA A1)",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "ADMINISTRAÇÃO LOCAL E ELABORAÇÃO DE PROJETO BÁSICO DE ARQUITETURA E URBANISMO",
+      "codigo": "12-12-00",
+      "fonte": null,
+      "descricao": "ENCARREGADO",
+      "unidade": "H",
+      "quantidade": 180.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "ADMINISTRAÇÃO LOCAL E ELABORAÇÃO DE PROJETO BÁSICO DE ARQUITETURA E URBANISMO",
+      "codigo": "20-03-03",
+      "fonte": null,
+      "descricao": "ENGENHEIRO/ ARQUITETO JUNIOR",
+      "unidade": "H",
+      "quantidade": 50.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 15
+    }
+  ],
+  "apelido": "RUA DR MARIANO CURSINO DE MOURA - ARICANDUVA"
+}

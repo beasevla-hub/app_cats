@@ -1,0 +1,185 @@
+{
+  "tipo_documento": "ATESTADO",
+  "cat": {
+    "numero_cat": "2620170002067",
+    "numero_art": "92221220141689371",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA CAPELA DO SOCORRO",
+    "cnpj_contratante": "05.658.440/0001-54",
+    "objeto": "Execução de cobertura de quadra esportiva da Praça Luís Rattis",
+    "processo_administrativo": "2014-0.179.964-3",
+    "contrato": "043/SPCS/2014",
+    "endereco_obra": "AVENIDA MANUEL DA MAIA, 131",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2014-10-27",
+    "data_fim": "2014-12-25",
+    "area_m2": 600.0,
+    "valor_contrato": 197798.89
+  },
+  "servicos": [
+    {
+      "grupo": null,
+      "codigo": "01.01.06",
+      "fonte": null,
+      "descricao": "CARGA MANUAL E REMOÇÃO DE ENTULHO, INCLUSIVE TRANSPORTE ATÉ 1 KM",
+      "unidade": "M³",
+      "quantidade": 48.35,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "02.01.02",
+      "fonte": null,
+      "descricao": "BROCA DE CONCRETO - DIAMETRO DE 25CM",
+      "unidade": "M",
+      "quantidade": 120.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "02.02.01",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL COM PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 33.36,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "02.02.10",
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 21.72,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "02.02.15",
+      "fonte": null,
+      "descricao": "LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 2.6,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "02.03.04",
+      "fonte": null,
+      "descricao": "FORMA COMUM DE TÁBUAS DE PINUS - NÃO RECUPERÁVEL",
+      "unidade": "M2",
+      "quantidade": 72.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "02.04.04",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-50",
+      "unidade": "KG",
+      "quantidade": 1485.02,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "02.05.10",
+      "fonte": null,
+      "descricao": "CONCRETO FCK=25MPA - USINADO",
+      "unidade": "M3",
+      "quantidade": 21.28,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "06.01.30",
+      "fonte": null,
+      "descricao": "FORNECIMENTO DE ESTRUTURA METÁLICA PARA COBERTURA",
+      "unidade": "KG",
+      "quantidade": 10800.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "06.01.31",
+      "fonte": null,
+      "descricao": "MONTAGEM DE ESTRUTURA METÁLICA PARA COBERTURA",
+      "unidade": "KG",
+      "quantidade": 10800.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "06.02.44",
+      "fonte": null,
+      "descricao": "TELHA TRAPEZOIDAL EM AÇO GALVANIZADO ESPESSURA DE 0,50MM, REVESTIMENTO B, H=40MM",
+      "unidade": "M2",
+      "quantidade": 712.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "06.02.56",
+      "fonte": null,
+      "descricao": "CUMEEIRA NORMAL PARA TELHA TECNOLOGIA CRFS, ESTRUTURAL TRAPEZOIDAL 44CM",
+      "unidade": "M",
+      "quantidade": 30.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "13.02.02",
+      "fonte": null,
+      "descricao": "CIMENTADO COMUM, DESEMPENADO E ALISADO - ESPESSURA 20MM",
+      "unidade": "M2",
+      "quantidade": 31.68,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "13.50.01",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE CONCRETO SIMPLES",
+      "unidade": "M3",
+      "quantidade": 4.23,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "15.03.12",
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO - ESTRUTURAS METÁLICAS",
+      "unidade": "M2",
+      "quantidade": 710.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "17.04.01",
+      "fonte": null,
+      "descricao": "LIMPEZA GERAL DA OBRA",
+      "unidade": "M2",
+      "quantidade": 600.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    }
+  ],
+  "apelido": "CAPELA SOCORRO - AV MANUEL MAIA"
+}

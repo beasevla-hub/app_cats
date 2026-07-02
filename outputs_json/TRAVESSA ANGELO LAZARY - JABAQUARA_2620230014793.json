@@ -1,0 +1,295 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620230014793",
+    "numero_art": "28027230231578037",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA JABAQUARA",
+    "cnpj_contratante": "05.659.015/0001-80",
+    "objeto": "REVITALIZAÇÃO DE ÁREA PÚBLICA",
+    "processo_administrativo": "6042.2023/0002552-6",
+    "contrato": "67/SUB-JA/2022",
+    "endereco_obra": "TRAVESSA ÂNGELO LAZARY",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2022-12-05",
+    "data_fim": "2023-02-03",
+    "area_m2": 540.0,
+    "valor_contrato": 311014.58
+  },
+  "servicos": [
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "17-30-02",
+      "fonte": null,
+      "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "01-05-40",
+      "fonte": null,
+      "descricao": "TELA PARA PROTEÇÃO DE OBRAS, MALHA 2 MM",
+      "unidade": "M2",
+      "quantidade": 81.83,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SERVIÇOS TÉCNICOS",
+      "codigo": "20-03-59",
+      "fonte": null,
+      "descricao": "ENGENHEIRO DA OBRA",
+      "unidade": "H",
+      "quantidade": 96.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS TÉCNICOS",
+      "codigo": "20-01-01",
+      "fonte": null,
+      "descricao": "LEVANTAMENTO PLANIMÉTRICO DE PERÍMETRO - ATÉ 1.000M",
+      "unidade": "GL",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SERVIÇOS TÉCNICOS",
+      "codigo": "03-53-17",
+      "fonte": null,
+      "descricao": "PROJETO BÁSICO (PRANCHA A1)",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "SERVIÇOS TÉCNICOS",
+      "codigo": "03-24-00",
+      "fonte": null,
+      "descricao": "CONSULTOR",
+      "unidade": "H",
+      "quantidade": 12.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "PAVIMENTO",
+      "codigo": "05-05-00",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE CAPA ASFÁLTICA, INCLUI CARGA NO CAMINHÃO",
+      "unidade": "M2",
+      "quantidade": 540.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "PAVIMENTO",
+      "codigo": "01-01-10",
+      "fonte": null,
+      "descricao": "TRANSPORTE DE ENTULHO POR CAMINHÃO BASCULANTE, A PARTIR DE 1KM",
+      "unidade": "M3XKM",
+      "quantidade": 6142.5,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "PAVIMENTO",
+      "codigo": "05-11-00",
+      "fonte": null,
+      "descricao": "ABERTURA DE CAIXA ATÉ 25CM, INCLUI ESCAVAÇÃO, COMPACTAÇÃO, TRANSPORTE E PREPARO DO SUB-LEITO",
+      "unidade": "M2",
+      "quantidade": 540.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "PAVIMENTO",
+      "codigo": "04-60-00",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE TERRA ALÉM DO PRIMEIRO KM",
+      "unidade": "M3XKM",
+      "quantidade": 4725.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "PAVIMENTO",
+      "codigo": "05-08-00",
+      "fonte": null,
+      "descricao": "REMANEJAMENTO DE RAMAL DOMICILIAR DE ÁGUA, INCLUSIVE ABERTURA E FECHAMENTO DE VALA",
+      "unidade": "M",
+      "quantidade": 13.5,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "PAVIMENTO",
+      "codigo": "06-21-00",
+      "fonte": null,
+      "descricao": "LEVANTAMENTO OU REBAIXAMENTO DE TAMPÃO DE POÇO DE VISITA",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "PAVIMENTO",
+      "codigo": "10-09-33",
+      "fonte": null,
+      "descricao": "TUBO DE PVC RÍGIDO, PONTA E BOLSA (LINHA ESGOTO) - 100MM (4\")",
+      "unidade": "M",
+      "quantidade": 90.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "PAVIMENTO",
+      "codigo": "05-47-00",
+      "fonte": null,
+      "descricao": "BASE DE BICA CORRIDA",
+      "unidade": "M3",
+      "quantidade": 54.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "PAVIMENTO",
+      "codigo": "05-48-00",
+      "fonte": null,
+      "descricao": "BASE DE BRITA GRADUADA",
+      "unidade": "M3",
+      "quantidade": 81.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "PAVIMENTO",
+      "codigo": "05-20-00",
+      "fonte": null,
+      "descricao": "FUNDAÇÃO DE RACHÃO",
+      "unidade": "M3",
+      "quantidade": 129.6,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "PAVIMENTO",
+      "codigo": "05-26-00",
+      "fonte": null,
+      "descricao": "IMPRIMAÇÃO BETUMINOSA LIGANTE",
+      "unidade": "M2",
+      "quantidade": 540.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "PAVIMENTO",
+      "codigo": "05-27-00",
+      "fonte": null,
+      "descricao": "IMPRIMAÇÃO BETUMINOSA IMPERMEABILIZANTE",
+      "unidade": "M2",
+      "quantidade": 540.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "PAVIMENTO",
+      "codigo": "05-25-01",
+      "fonte": null,
+      "descricao": "BASE DE BINDER ABERTO (SEM TRANSPORTE)",
+      "unidade": "M3",
+      "quantidade": 27.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "PAVIMENTO",
+      "codigo": "05-28-00",
+      "fonte": null,
+      "descricao": "REVESTIMENTO DE CONCRETO ASFÁLTICO (SEM TRANSPORTE)",
+      "unidade": "M3",
+      "quantidade": 27.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "PAVIMENTO",
+      "codigo": "05-78-01",
+      "fonte": null,
+      "descricao": "CARGA, DESCARGA E TRANSPORTE DE CONCRETO ASFÁLTICO ATÉ A DISTÂNCIA MÉDIA DE IDA E VOLTA DE 1KM",
+      "unidade": "M3",
+      "quantidade": 27.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "PAVIMENTO",
+      "codigo": "05-78-07",
+      "fonte": null,
+      "descricao": "TRANSPORTE DE CONCRETO ASFALTICO ALÉM DO PRIMEIRO KM",
+      "unidade": "M3XKM",
+      "quantidade": 945.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "PAVIMENTO",
+      "codigo": "17-02-50",
+      "fonte": null,
+      "descricao": "GUIA DE CONCRETO RETA OU CURVA, TIPO PMSP",
+      "unidade": "M",
+      "quantidade": 110.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "PAVIMENTO",
+      "codigo": "17-02-52",
+      "fonte": null,
+      "descricao": "SARJETA DE CONCRETO, INCLUSIVE PREPARO DE CAIXA",
+      "unidade": "M3",
+      "quantidade": 8.25,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "PAVIMENTO",
+      "codigo": "17-02-54",
+      "fonte": null,
+      "descricao": "REBAIXAMENTO DE GUIA",
+      "unidade": "M",
+      "quantidade": 60.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "PAVIMENTO",
+      "codigo": "17-50-45",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE GUIAS DE CONCRETO",
+      "unidade": "M",
+      "quantidade": 8.4,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "PAVIMENTO",
+      "codigo": "17-50-48",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE SARJETAS DE CONCRETO",
+      "unidade": "M",
+      "quantidade": 8.4,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 5
+    }
+  ],
+  "apelido": "TRAVESSA ANGELO LAZARY - JABAQUARA"
+}

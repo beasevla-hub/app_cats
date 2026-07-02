@@ -1,0 +1,2425 @@
+{
+  "tipo_documento": "ATESTADO",
+  "cat": {
+    "numero_cat": "2620250001438",
+    "numero_art": "2620242228561",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA ERMELINO MATARAZZO",
+    "cnpj_contratante": "05.612.822/0001-47",
+    "objeto": "Contratação de empresa especializada para prestação de serviços de Revitalização da Quadra, Área Social e Vestiário - CDC Cotinha PROCESSO Nº 6036.2022/0001401-5 CONTRATO º 34/SUB-EM/2022.",
+    "processo_administrativo": "6036.2022/0001401-5",
+    "contrato": "34/SUB-EM/2022",
+    "endereco_obra": "AVENIDA SÃO MIGUEL",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2022-10-13",
+    "data_fim": "2022-11-30",
+    "area_m2": null,
+    "valor_contrato": 470283.07
+  },
+  "servicos": [
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CARGA MANUAL E REMOÇÃO DE ENTULHO, INCLUSIVE TRANSPORTE ATÉ 1 KM",
+      "unidade": "M3",
+      "quantidade": 208.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 270.4,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TELA PARA PROTEÇÃO DE OBRAS, MALHA 2 MM",
+      "unidade": "M2",
+      "quantidade": 24.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ENGENHEIRO DA OBRA",
+      "unidade": "H",
+      "quantidade": 44.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PROJETO EXECUTIVO (PRANCHA A1)",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ENCARREGADO",
+      "unidade": "H",
+      "quantidade": 352.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TOPÓGRAFO",
+      "unidade": "H",
+      "quantidade": 8.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL, PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 22.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 21.85,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "REATERRO DE VALAS, INCLUSIVE COMPACTAÇÃO",
+      "unidade": "M3",
+      "quantidade": 4.4,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "FP.03 - ALAMBRADO PARA QUADRAS DE ESPORTE - GP.6/EDIF - TG/4,5M",
+      "unidade": "M",
+      "quantidade": 215.4,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "LASTRO DE CONCRETO, 150KG CIM/M3",
+      "unidade": "M3",
+      "quantidade": 2.2,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "FV.08 - MURETA DE BLOCOS DE CONCRETO",
+      "unidade": "M",
+      "quantidade": 220.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 352.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PP.39/PP.40 - PORTÃO DE FERRO PERFILADO TIPO PARQUE (GP.5/GPM1) 3,0M, 1 OU 2 FOLHAS",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PP.20/24 - PORTÃO EM FERRO PERFILADO COM TELA, 1 FOLHA",
+      "unidade": "M2",
+      "quantidade": 4.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TELHA ONDULADA CRFS 8MM",
+      "unidade": "M2",
+      "quantidade": 108.16,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ESTRUTURA DE MADEIRA, EM TERÇAS, PARA TELHAS ONDULADAS CA/AL/PL/AG",
+      "unidade": "M2",
+      "quantidade": 108.16,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CALHA EM CHAPA DE AÇO GALVANIZADO N.24 - DESENVOLVIMENTO 50CM",
+      "unidade": "M",
+      "quantidade": 20.8,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CONDUTOR EM TUBO DE PVC RÍGIDO, PONTA E BOLSA - 75MM (3\")",
+      "unidade": "M",
+      "quantidade": 8.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TINTA BETUMINOSA - INTERIOR DE CALHAS, RUFOS E RINCÕES METÁLICOS",
+      "unidade": "M",
+      "quantidade": 20.8,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO - EXTERIOR DE CALHAS, RUFOS E CONDUTORES",
+      "unidade": "M",
+      "quantidade": 20.8,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "FORMA PARA SAPATAS E BALDRAMES",
+      "unidade": "M2",
+      "quantidade": 2.16,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "FORMA COMUM, INCLUSIVE CIMBRAMENTO",
+      "unidade": "M2",
+      "quantidade": 28.8,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CONCRETO FCK = 20,0MPA - USINADO",
+      "unidade": "M3",
+      "quantidade": 8.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ALVENARIA EM BLOCOS DE CONCRETO 19 X 19 X 39CM",
+      "unidade": "M2",
+      "quantidade": 51.6,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CONCRETO FCK = 25,0MPA - USINADO",
+      "unidade": "M3",
+      "quantidade": 2.11,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "IC.03 - BANCO EM CONCRETO APARENTE - L=40CM",
+      "unidade": "M",
+      "quantidade": 13.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CHAPISCO COMUM - ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 20.16,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "REBOCO INTERNO - ARGAMASSA PRÉ-FABRICADA",
+      "unidade": "M2",
+      "quantidade": 40.32,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CIMENTADO COMUM, DESEMPENADO E ALISADO - ESPESSURA 20MM",
+      "unidade": "M2",
+      "quantidade": 12.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "REPAROS EM REBOCO - ARGAMASSA DE CAL E AREIA 1:2",
+      "unidade": "M2",
+      "quantidade": 129.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TINTA PVA (LÁTEX) - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 129.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "BACIA SANITÁRIA COM CAIXA ACOPLADA DE LOUÇA BRANCA",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ELETRODUTO DE PVC CORRUGADO REFORÇADO, ANTICHAMA - 25MM (3/4\")",
+      "unidade": "M",
+      "quantidade": 10.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CAIXA DE PASSAGEM TIPO CONDULETE - 3/4\"",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO - ESQUADRIAS E PEÇAS DE SERRALHERIA",
+      "unidade": "M2",
+      "quantidade": 2.4,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PM.05 - PORTA LISA ESPECIAL/ SÓLIDA - 62X210CM",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ALVENARIA EM BLOCOS DE CONCRETO 19 X 19 X 39CM",
+      "unidade": "M2",
+      "quantidade": 2.16,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "FECHADURA TIPO TRANQUETA E TRINCO (55MM) - TRÁFEGO INTENSO, MAÇANETA EM ZAMAC, GUARNIÇÕES EM AÇO, ACABAMENTO CROMADO BRILHANTE - PORTA DE SANITÁRIO",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "AZULEJOS, JUNTAS AMARRAÇÃO OU A PRUMO - ASSENTES COM ARGAMASSA COMUM",
+      "unidade": "M2",
+      "quantidade": 40.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PISO CERÂMICO NÃO ESMALTADO ANTIDERRAPANTE - ASSENTADO COM ARGAMASSA COLANTE (PARA COZINHAS E REFEITÓRIOS)",
+      "unidade": "M2",
+      "quantidade": 12.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TUBO DE PVC RÍGIDO, SOLDÁVEL (LINHA ÁGUA) - 25MM (3/4\")",
+      "unidade": "M2",
+      "quantidade": 8.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TUBO DE LIGAÇÃO FLEXÍVEL, PVC - 1/2\"X30/40CM",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "SIFÃO COM COPO, TIPO REFORÇADO, PVC RÍGIDO - 1 1/2\"X2\"",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TORNEIRA DE PRESSÃO PARA PIA, COM CORPO LONGO E AERADOR - 3/4\"",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "LAVATÓRIO DE LOUÇA BRANCA, SEM COLUNA, CAPACIDADE MÍNIMA 5L, EXCLUSIVE TORNEIRA",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": null,
+      "codigo": "01-01-06",
+      "fonte": null,
+      "descricao": "CARGA MANUAL E REMOÇÃO DE ENTULHO, INCLUSIVE TRANSPORTE ATÉ 1 KM",
+      "unidade": "M3",
+      "quantidade": 208.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "01-01-07",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 270.4,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "01-05-40",
+      "fonte": null,
+      "descricao": "TELA PARA PROTEÇÃO DE OBRAS, MALHA 2 MM",
+      "unidade": "M2",
+      "quantidade": 24.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "17-30-02",
+      "fonte": null,
+      "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "20-03-59",
+      "fonte": null,
+      "descricao": "ENGENHEIRO DA OBRA",
+      "unidade": "H",
+      "quantidade": 44.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "20-03-61",
+      "fonte": null,
+      "descricao": "PROJETO EXECUTIVO (PRANCHA A1)",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "12-12-00",
+      "fonte": null,
+      "descricao": "ENCARREGADO",
+      "unidade": "H",
+      "quantidade": 352.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "03-40-00",
+      "fonte": null,
+      "descricao": "TOPÓGRAFO",
+      "unidade": "H",
+      "quantidade": 8.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": "01-04-01",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL, PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 22.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": "01-04-10",
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 21.85,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": "01-04-80",
+      "fonte": null,
+      "descricao": "REATERRO DE VALAS, INCLUSIVE COMPACTAÇÃO",
+      "unidade": "M3",
+      "quantidade": 4.4,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": "17-01-29",
+      "fonte": null,
+      "descricao": "FP.03 - ALAMBRADO PARA QUADRAS DE ESPORTE - GP.6/EDIF - TG/4,5M",
+      "unidade": "M",
+      "quantidade": 215.4,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": "01-04-16",
+      "fonte": null,
+      "descricao": "LASTRO DE CONCRETO, 150KG CIM/M3",
+      "unidade": "M3",
+      "quantidade": 2.2,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": "17-01-76",
+      "fonte": null,
+      "descricao": "FV.08 - MURETA DE BLOCOS DE CONCRETO",
+      "unidade": "M",
+      "quantidade": 220.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": "15-01-15",
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 352.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": "17-01-36",
+      "fonte": null,
+      "descricao": "PP.39/PP.40 - PORTÃO DE FERRO PERFILADO TIPO PARQUE (GP.5/GPM1) 3,0M, 1 OU 2 FOLHAS",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": "17-01-41",
+      "fonte": null,
+      "descricao": "PP.20/24 - PORTÃO EM FERRO PERFILADO COM TELA, 1 FOLHA",
+      "unidade": "M2",
+      "quantidade": 4.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": "06-02-22",
+      "fonte": null,
+      "descricao": "TELHA ONDULADA CRFS 8MM",
+      "unidade": "M2",
+      "quantidade": 108.16,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": "06-01-10",
+      "fonte": null,
+      "descricao": "ESTRUTURA DE MADEIRA, EM TERÇAS, PARA TELHAS ONDULADAS CA/AL/PL/AG",
+      "unidade": "M2",
+      "quantidade": 108.16,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": "10-11-02",
+      "fonte": null,
+      "descricao": "CALHA EM CHAPA DE AÇO GALVANIZADO N.24 - DESENVOLVIMENTO 50CM",
+      "unidade": "M",
+      "quantidade": 20.8,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": "10-12-15",
+      "fonte": null,
+      "descricao": "CONDUTOR EM TUBO DE PVC RÍGIDO, PONTA E BOLSA - 75MM (3\")",
+      "unidade": "M",
+      "quantidade": 8.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": "15-03-04",
+      "fonte": null,
+      "descricao": "TINTA BETUMINOSA - INTERIOR DE CALHAS, RUFOS E RINCÕES METÁLICOS",
+      "unidade": "M",
+      "quantidade": 20.8,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": "15-03-14",
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO - EXTERIOR DE CALHAS, RUFOS E CONDUTORES",
+      "unidade": "M",
+      "quantidade": 20.8,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": "08-13-00",
+      "fonte": null,
+      "descricao": "FORMA PARA SAPATAS E BALDRAMES",
+      "unidade": "M2",
+      "quantidade": 2.16,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": "08-14-01",
+      "fonte": null,
+      "descricao": "FORMA COMUM, INCLUSIVE CIMBRAMENTO",
+      "unidade": "M2",
+      "quantidade": 28.8,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": "03-03-15",
+      "fonte": null,
+      "descricao": "CONCRETO FCK = 20,0MPA - USINADO",
+      "unidade": "M3",
+      "quantidade": 8.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": "08-34-00",
+      "fonte": null,
+      "descricao": "ALVENARIA EM BLOCOS DE CONCRETO 19 X 19 X 39CM",
+      "unidade": "M2",
+      "quantidade": 51.6,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": "03-03-17",
+      "fonte": null,
+      "descricao": "CONCRETO FCK = 25,0MPA - USINADO",
+      "unidade": "M3",
+      "quantidade": 2.11,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": "18-12-03",
+      "fonte": null,
+      "descricao": "IC.03 - BANCO EM CONCRETO APARENTE - L=40CM",
+      "unidade": "M",
+      "quantidade": 13.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "11-01-01",
+      "fonte": null,
+      "descricao": "CHAPISCO COMUM - ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 20.16,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "11-01-13",
+      "fonte": null,
+      "descricao": "REBOCO INTERNO - ARGAMASSA PRÉ-FABRICADA",
+      "unidade": "M2",
+      "quantidade": 40.32,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "13-02-02",
+      "fonte": null,
+      "descricao": "CIMENTADO COMUM, DESEMPENADO E ALISADO - ESPESSURA 20MM",
+      "unidade": "M2",
+      "quantidade": 12.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "11-80-06",
+      "fonte": null,
+      "descricao": "REPAROS EM REBOCO - ARGAMASSA DE CAL E AREIA 1:2",
+      "unidade": "M2",
+      "quantidade": 129.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "15-01-10",
+      "fonte": null,
+      "descricao": "TINTA PVA (LÁTEX) - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 129.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "10-13-03",
+      "fonte": null,
+      "descricao": "BACIA SANITÁRIA COM CAIXA ACOPLADA DE LOUÇA BRANCA",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "09-02-55",
+      "fonte": null,
+      "descricao": "ELETRODUTO DE PVC CORRUGADO REFORÇADO, ANTICHAMA - 25MM (3/4\")",
+      "unidade": "M",
+      "quantidade": 10.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "09-05-29",
+      "fonte": null,
+      "descricao": "CAIXA DE PASSAGEM TIPO CONDULETE - 3/4\"",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "15-03-10",
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO - ESQUADRIAS E PEÇAS DE SERRALHERIA",
+      "unidade": "M2",
+      "quantidade": 2.4,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "07-01-05",
+      "fonte": null,
+      "descricao": "PM.05 - PORTA LISA ESPECIAL/SÓLIDA - 62X210CM",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "08-34-00",
+      "fonte": null,
+      "descricao": "ALVENARIA EM BLOCOS DE CONCRETO 19 X 19 X 39CM",
+      "unidade": "M2",
+      "quantidade": 2.16,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "07-02-31",
+      "fonte": null,
+      "descricao": "FECHADURA TIPO TRANQUETA E TRINCO (55MM) - TRÁFEGO INTENSO, MAÇANETA EM ZAMAC, GUARNIÇÕES EM AÇO, ACABAMENTO CROMADO BRILHANTE - PORTA DE SANITÁRIO",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "11-02-25",
+      "fonte": null,
+      "descricao": "AZULEJOS, JUNTAS AMARRAÇÃO OU A PRUMO - ASSENTES COM ARGAMASSA COMUM",
+      "unidade": "M2",
+      "quantidade": 40.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "13-02-39",
+      "fonte": null,
+      "descricao": "PISO CERÂMICO NÃO ESMALTADO ANTIDERRAPANTE - ASSENTADO COM ARGAMASSA COLANTE (PARA COZINHAS E REFEITÓRIOS)",
+      "unidade": "M2",
+      "quantidade": 12.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "10-02-61",
+      "fonte": null,
+      "descricao": "TUBO DE PVC RÍGIDO, SOLDÁVEL (LINHA ÁGUA) - 25MM (3/4\")",
+      "unidade": "M2",
+      "quantidade": 8.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "10-80-76",
+      "fonte": null,
+      "descricao": "TUBO DE LIGAÇÃO FLEXÍVEL, PVC - 1/2\"X30/40CM",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "10-80-70",
+      "fonte": null,
+      "descricao": "SIFÃO COM COPO, TIPO REFORÇADO, PVC RÍGIDO - 1 1/2\"X2\"",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "10-14-08",
+      "fonte": null,
+      "descricao": "TORNEIRA DE PRESSÃO PARA PIA, COM CORPO LONGO E AERADOR - 3/4\"",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "10-13-08",
+      "fonte": null,
+      "descricao": "LAVATÓRIO DE LOUÇA BRANCA, SEM COLUNA, CAPACIDADE MÍNIMA 5L, EXCLUSIVE TORNEIRA",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "01-01-06",
+      "fonte": null,
+      "descricao": "CARGA MANUAL E REMOÇÃO DE ENTULHO, INCLUSIVE TRANSPORTE ATÉ 1 KM",
+      "unidade": "M3",
+      "quantidade": 208.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "01-01-07",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 270.4,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "01-05-40",
+      "fonte": null,
+      "descricao": "TELA PARA PROTEÇÃO DE OBRAS, MALHA 2 MM",
+      "unidade": "M2",
+      "quantidade": 24.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "17-30-02",
+      "fonte": null,
+      "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "20-03-59",
+      "fonte": null,
+      "descricao": "ENGENHEIRO DA OBRA",
+      "unidade": "H",
+      "quantidade": 44.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "20-03-61",
+      "fonte": null,
+      "descricao": "PROJETO EXECUTIVO (PRANCHA A1)",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "12-12-00",
+      "fonte": null,
+      "descricao": "ENCARREGADO",
+      "unidade": "H",
+      "quantidade": 352.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "03-40-00",
+      "fonte": null,
+      "descricao": "TOPÓGRAFO",
+      "unidade": "H",
+      "quantidade": 8.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": "01-04-01",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL, PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 22.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": "01-04-10",
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 21.85,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": "01-04-80",
+      "fonte": null,
+      "descricao": "REATERRO DE VALAS, INCLUSIVE COMPACTAÇÃO",
+      "unidade": "M3",
+      "quantidade": 4.4,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": "17-01-29",
+      "fonte": null,
+      "descricao": "FP.03 - ALAMBRADO PARA QUADRAS DE ESPORTE - GP.6/EDIF - TG/4,5M",
+      "unidade": "M",
+      "quantidade": 215.4,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": "01-04-16",
+      "fonte": null,
+      "descricao": "LASTRO DE CONCRETO, 150KG CIM/M3",
+      "unidade": "M3",
+      "quantidade": 2.2,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": "17-01-76",
+      "fonte": null,
+      "descricao": "FV.08 - MURETA DE BLOCOS DE CONCRETO",
+      "unidade": "M",
+      "quantidade": 220.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": "15-01-15",
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 352.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": "17-01-36",
+      "fonte": null,
+      "descricao": "PP.39/PP.40 - PORTÃO DE FERRO PERFILADO TIPO PARQUE (GP.5/GPM1) 3,0M, 1 OU 2 FOLHAS",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": "17-01-41",
+      "fonte": null,
+      "descricao": "PP.20/24 - PORTÃO EM FERRO PERFILADO COM TELA, 1 FOLHA",
+      "unidade": "M2",
+      "quantidade": 4.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": "06-02-22",
+      "fonte": null,
+      "descricao": "TELHA ONDULADA CRFS 8MM",
+      "unidade": "M2",
+      "quantidade": 108.16,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": "06-01-10",
+      "fonte": null,
+      "descricao": "ESTRUTURA DE MADEIRA, EM TERÇAS, PARA TELHAS ONDULADAS CA/AL/PL/AG",
+      "unidade": "M2",
+      "quantidade": 108.16,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": "10-11-02",
+      "fonte": null,
+      "descricao": "CALHA EM CHAPA DE AÇO GALVANIZADO N.24 - DESENVOLVIMENTO 50CM",
+      "unidade": "M",
+      "quantidade": 20.8,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": "10-12-15",
+      "fonte": null,
+      "descricao": "CONDUTOR EM TUBO DE PVC RÍGIDO, PONTA E BOLSA - 75MM (3\")",
+      "unidade": "M",
+      "quantidade": 8.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": "15-03-04",
+      "fonte": null,
+      "descricao": "TINTA BETUMINOSA - INTERIOR DE CALHAS, RUFOS E RINCÕES METÁLICOS",
+      "unidade": "M",
+      "quantidade": 20.8,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": "15-03-14",
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO - EXTERIOR DE CALHAS, RUFOS E CONDUTORES",
+      "unidade": "M",
+      "quantidade": 20.8,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": "08-13-00",
+      "fonte": null,
+      "descricao": "FORMA PARA SAPATAS E BALDRAMES",
+      "unidade": "M2",
+      "quantidade": 2.16,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": "08-14-01",
+      "fonte": null,
+      "descricao": "FORMA COMUM, INCLUSIVE CIMBRAMENTO",
+      "unidade": "M2",
+      "quantidade": 28.8,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": "03-03-15",
+      "fonte": null,
+      "descricao": "CONCRETO FCK = 20,0MPA - USINADO",
+      "unidade": "M3",
+      "quantidade": 8.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": "08-34-00",
+      "fonte": null,
+      "descricao": "ALVENARIA EM BLOCOS DE CONCRETO 19 X 19 X 39CM",
+      "unidade": "M2",
+      "quantidade": 51.6,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": "03-03-17",
+      "fonte": null,
+      "descricao": "CONCRETO FCK = 25,0MPA - USINADO",
+      "unidade": "M3",
+      "quantidade": 2.11,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": "18-12-03",
+      "fonte": null,
+      "descricao": "IC.03 - BANCO EM CONCRETO APARENTE - L=40CM",
+      "unidade": "M",
+      "quantidade": 13.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "11-01-01",
+      "fonte": null,
+      "descricao": "CHAPISCO COMUM - ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 20.16,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "11-01-13",
+      "fonte": null,
+      "descricao": "REBOCO INTERNO - ARGAMASSA PRÉ-FABRICADA",
+      "unidade": "M2",
+      "quantidade": 40.32,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "13-02-02",
+      "fonte": null,
+      "descricao": "CIMENTADO COMUM, DESEMPENADO E ALISADO - ESPESSURA 20MM",
+      "unidade": "M2",
+      "quantidade": 12.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "11-80-06",
+      "fonte": null,
+      "descricao": "REPAROS EM REBOCO - ARGAMASSA DE CAL E AREIA 1:2",
+      "unidade": "M2",
+      "quantidade": 129.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "15-01-10",
+      "fonte": null,
+      "descricao": "TINTA PVA (LÁTEX) - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 129.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "10-13-03",
+      "fonte": null,
+      "descricao": "BACIA SANITÁRIA COM CAIXA ACOPLADA DE LOUÇA BRANCA",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "09-02-55",
+      "fonte": null,
+      "descricao": "ELETRODUTO DE PVC CORRUGADO REFORÇADO, ANTICHAMA - 25MM (3/4\")",
+      "unidade": "M",
+      "quantidade": 10.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "09-05-29",
+      "fonte": null,
+      "descricao": "CAIXA DE PASSAGEM TIPO CONDULETE - 3/4\"",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "15-03-10",
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO - ESQUADRIAS E PEÇAS DE SERRALHERIA",
+      "unidade": "M2",
+      "quantidade": 2.4,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "07-01-05",
+      "fonte": null,
+      "descricao": "PM.05 - PORTA LISA ESPECIAL/ SÓLIDA - 62X210CM",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "08-34-00",
+      "fonte": null,
+      "descricao": "ALVENARIA EM BLOCOS DE CONCRETO 19 X 19 X 39CM",
+      "unidade": "M2",
+      "quantidade": 2.16,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "07-02-31",
+      "fonte": null,
+      "descricao": "FECHADURA TIPO TRANQUETA E TRINCO (55MM) - TRÁFEGO INTENSO, MAÇANETA EM ZAMAC, GUARNIÇÕES EM AÇO, ACABAMENTO CROMADO BRILHANTE - PORTA DE SANITÁRIO",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "11-02-25",
+      "fonte": null,
+      "descricao": "AZULEJOS, JUNTAS AMARRAÇÃO OU A PRUMO - ASSENTES COM ARGAMASSA COMUM",
+      "unidade": "M2",
+      "quantidade": 40.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "13-02-39",
+      "fonte": null,
+      "descricao": "PISO CERÂMICO NÃO ESMALTADO ANTIDERRAPANTE - ASSENTADO COM ARGAMASSA COLANTE (PARA COZINHAS E REFEITÓRIOS)",
+      "unidade": "M2",
+      "quantidade": 12.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "10-02-61",
+      "fonte": null,
+      "descricao": "TUBO DE PVC RÍGIDO, SOLDÁVEL (LINHA ÁGUA) - 25MM (3/4\")",
+      "unidade": "M2",
+      "quantidade": 8.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "10-80-76",
+      "fonte": null,
+      "descricao": "TUBO DE LIGAÇÃO FLEXÍVEL, PVC - 1/2\"X30/40CM",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "10-80-70",
+      "fonte": null,
+      "descricao": "SIFÃO COM COPO, TIPO REFORÇADO, PVC RÍGIDO - 1 1/2\"X2\"",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "10-14-08",
+      "fonte": null,
+      "descricao": "TORNEIRA DE PRESSÃO PARA PIA, COM CORPO LONGO E AERADOR - 3/4\"",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "10-13-08",
+      "fonte": null,
+      "descricao": "LAVATÓRIO DE LOUÇA BRANCA, SEM COLUNA, CAPACIDADE MÍNIMA 5L, EXCLUSIVE TORNEIRA",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CARGA MANUAL E REMOÇÃO DE ENTULHO, INCLUSIVE TRANSPORTE ATÉ 1 KM",
+      "unidade": "M3",
+      "quantidade": 208.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 270.4,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TELA PARA PROTEÇÃO DE OBRAS, MALHA 2 MM",
+      "unidade": "M2",
+      "quantidade": 24.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ENGENHEIRO DA OBRA",
+      "unidade": "H",
+      "quantidade": 44.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PROJETO EXECUTIVO (PRANCHA A1)",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ENCARREGADO",
+      "unidade": "H",
+      "quantidade": 352.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TOPÓGRAFO",
+      "unidade": "H",
+      "quantidade": 8.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL, PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 22.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 21.85,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "REATERRO DE VALAS, INCLUSIVE COMPACTAÇÃO",
+      "unidade": "M3",
+      "quantidade": 4.4,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "FP.03 - ALAMBRADO PARA QUADRAS DE ESPORTE - GP.6/EDIF - TG/4,5M",
+      "unidade": "M",
+      "quantidade": 215.4,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "LASTRO DE CONCRETO, 150KG CIM/M3",
+      "unidade": "M3",
+      "quantidade": 2.2,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "FV.08 - MURETA DE BLOCOS DE CONCRETO",
+      "unidade": "M",
+      "quantidade": 220.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 352.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PP.39/PP.40 - PORTÃO DE FERRO PERFILADO TIPO PARQUE (GP.5/GPM1) 3,0M, 1 OU 2 FOLHAS",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PP.20/24 - PORTÃO EM FERRO PERFILADO COM TELA, 1 FOLHA",
+      "unidade": "M2",
+      "quantidade": 4.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TELHA ONDULADA CRFS 8MM",
+      "unidade": "M2",
+      "quantidade": 108.16,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ESTRUTURA DE MADEIRA, EM TERÇAS, PARA TELHAS ONDULADAS CA/AL/PL/AG",
+      "unidade": "M2",
+      "quantidade": 108.16,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CALHA EM CHAPA DE AÇO GALVANIZADO N.24 - DESENVOLVIMENTO 50CM",
+      "unidade": "M",
+      "quantidade": 20.8,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CONDUTOR EM TUBO DE PVC RÍGIDO, PONTA E BOLSA - 75MM (3\")",
+      "unidade": "M",
+      "quantidade": 8.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TINTA BETUMINOSA - INTERIOR DE CALHAS, RUFOS E RINCÕES METÁLICOS",
+      "unidade": "M",
+      "quantidade": 20.8,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO - EXTERIOR DE CALHAS, RUFOS E CONDUTORES",
+      "unidade": "M",
+      "quantidade": 20.8,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "FORMA PARA SAPATAS E BALDRAMES",
+      "unidade": "M2",
+      "quantidade": 2.16,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "FORMA COMUM, INCLUSIVE CIMBRAMENTO",
+      "unidade": "M2",
+      "quantidade": 28.8,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CONCRETO FCK = 20,0MPA - USINADO",
+      "unidade": "M3",
+      "quantidade": 8.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ALVENARIA EM BLOCOS DE CONCRETO 19 X 19 X 39CM",
+      "unidade": "M2",
+      "quantidade": 51.6,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CONCRETO FCK = 25,0MPA - USINADO",
+      "unidade": "M3",
+      "quantidade": 2.11,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "IC.03 - BANCO EM CONCRETO APARENTE - L=40CM",
+      "unidade": "M",
+      "quantidade": 13.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CHAPISCO COMUM - ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 20.16,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "REBOCO INTERNO - ARGAMASSA PRÉ-FABRICADA",
+      "unidade": "M2",
+      "quantidade": 40.32,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CIMENTADO COMUM, DESEMPENADO E ALISADO - ESPESSURA 20MM",
+      "unidade": "M2",
+      "quantidade": 12.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "REPAROS EM REBOCO - ARGAMASSA DE CAL E AREIA 1:2",
+      "unidade": "M2",
+      "quantidade": 129.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TINTA PVA (LÁTEX) - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 129.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "BACIA SANITÁRIA COM CAIXA ACOPLADA DE LOUÇA BRANCA",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ELETRODUTO DE PVC CORRUGADO REFORÇADO, ANTICHAMA - 25MM (3/4\")",
+      "unidade": "M",
+      "quantidade": 10.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CAIXA DE PASSAGEM TIPO CONDULETE - 3/4\"",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO - ESQUADRIAS E PEÇAS DE SERRALHERIA",
+      "unidade": "M2",
+      "quantidade": 2.4,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PM.05 - PORTA LISA ESPECIAL/ SÓLIDA - 62X210CM",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ALVENARIA EM BLOCOS DE CONCRETO 19 X 19 X 39CM",
+      "unidade": "M2",
+      "quantidade": 2.16,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "FECHADURA TIPO TRANQUETA E TRINCO (55MM) - TRÁFEGO INTENSO, MAÇANETA EM ZAMAC, GUARNIÇÕES EM AÇO, ACABAMENTO CROMADO BRILHANTE - PORTA DE SANITÁRIO",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "AZULEJOS, JUNTAS AMARRAÇÃO OU A PRUMO - ASSENTES COM ARGAMASSA COMUM",
+      "unidade": "M2",
+      "quantidade": 40.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PISO CERÂMICO NÃO ESMALTADO ANTIDERRAPANTE - ASSENTADO COM ARGAMASSA COLANTE (PARA COZINHAS E REFEITÓRIOS)",
+      "unidade": "M2",
+      "quantidade": 12.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TUBO DE PVC RÍGIDO, SOLDÁVEL (LINHA ÁGUA) - 25MM (3/4\")",
+      "unidade": "M2",
+      "quantidade": 8.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TUBO DE LIGAÇÃO FLEXÍVEL, PVC - 1/2\"X30/40CM",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "SIFÃO COM COPO, TIPO REFORÇADO, PVC RÍGIDO - 1 1/2\"X2\"",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TORNEIRA DE PRESSÃO PARA PIA, COM CORPO LONGO E AERADOR - 3/4\"",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "LAVATÓRIO DE LOUÇA BRANCA, SEM COLUNA, CAPACIDADE MÍNIMA 5L, EXCLUSIVE TORNEIRA",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "01-01-06",
+      "fonte": null,
+      "descricao": "CARGA MANUAL E REMOÇÃO DE ENTULHO, INCLUSIVE TRANSPORTE ATÉ 1 KM",
+      "unidade": "M3",
+      "quantidade": 208.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "01-01-07",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 270.4,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "01-05-40",
+      "fonte": null,
+      "descricao": "TELA PARA PROTEÇÃO DE OBRAS, MALHA 2 MM",
+      "unidade": "M2",
+      "quantidade": 24.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "17-30-02",
+      "fonte": null,
+      "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "20-03-59",
+      "fonte": null,
+      "descricao": "ENGENHEIRO DA OBRA",
+      "unidade": "H",
+      "quantidade": 44.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "20-03-61",
+      "fonte": null,
+      "descricao": "PROJETO EXECUTIVO (PRANCHA A1)",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "12-12-00",
+      "fonte": null,
+      "descricao": "ENCARREGADO",
+      "unidade": "H",
+      "quantidade": 352.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "03-40-00",
+      "fonte": null,
+      "descricao": "TOPÓGRAFO",
+      "unidade": "H",
+      "quantidade": 8.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": "01-04-01",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL, PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 22.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": "01-04-10",
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 21.85,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": "01-04-80",
+      "fonte": null,
+      "descricao": "REATERRO DE VALAS, INCLUSIVE COMPACTAÇÃO",
+      "unidade": "M3",
+      "quantidade": 4.4,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": "17-01-29",
+      "fonte": null,
+      "descricao": "FP.03 - ALAMBRADO PARA QUADRAS DE ESPORTE - GP.6/EDIF - TG/4,5M",
+      "unidade": "M",
+      "quantidade": 215.4,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": "01-04-16",
+      "fonte": null,
+      "descricao": "LASTRO DE CONCRETO, 150KG CIM/M3",
+      "unidade": "M3",
+      "quantidade": 2.2,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": "17-01-76",
+      "fonte": null,
+      "descricao": "FV.08 - MURETA DE BLOCOS DE CONCRETO",
+      "unidade": "M",
+      "quantidade": 220.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": "15-01-15",
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 352.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": "17-01-36",
+      "fonte": null,
+      "descricao": "PP.39/PP.40 - PORTÃO DE FERRO PERFILADO TIPO PARQUE (GP.5/GPM1) 3,0M, 1 OU 2 FOLHAS",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "ALAMBRADO",
+      "codigo": "17-01-41",
+      "fonte": null,
+      "descricao": "PP.20/24 - PORTÃO EM FERRO PERFILADO COM TELA, 1 FOLHA",
+      "unidade": "M2",
+      "quantidade": 4.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": "06-02-22",
+      "fonte": null,
+      "descricao": "TELHA ONDULADA CRFS 8MM",
+      "unidade": "M2",
+      "quantidade": 108.16,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": "06-01-10",
+      "fonte": null,
+      "descricao": "ESTRUTURA DE MADEIRA, EM TERÇAS, PARA TELHAS ONDULADAS CA/AL/PL/AG",
+      "unidade": "M2",
+      "quantidade": 108.16,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": "10-11-02",
+      "fonte": null,
+      "descricao": "CALHA EM CHAPA DE AÇO GALVANIZADO N.24 - DESENVOLVIMENTO 50CM",
+      "unidade": "M",
+      "quantidade": 20.8,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": "10-12-15",
+      "fonte": null,
+      "descricao": "CONDUTOR EM TUBO DE PVC RÍGIDO, PONTA E BOLSA - 75MM (3\")",
+      "unidade": "M",
+      "quantidade": 8.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": "15-03-04",
+      "fonte": null,
+      "descricao": "TINTA BETUMINOSA - INTERIOR DE CALHAS, RUFOS E RINCÕES METÁLICOS",
+      "unidade": "M",
+      "quantidade": 20.8,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": "15-03-14",
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO - EXTERIOR DE CALHAS, RUFOS E CONDUTORES",
+      "unidade": "M",
+      "quantidade": 20.8,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": "08-13-00",
+      "fonte": null,
+      "descricao": "FORMA PARA SAPATAS E BALDRAMES",
+      "unidade": "M2",
+      "quantidade": 2.16,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": "08-14-01",
+      "fonte": null,
+      "descricao": "FORMA COMUM, INCLUSIVE CIMBRAMENTO",
+      "unidade": "M2",
+      "quantidade": 28.8,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": "03-03-15",
+      "fonte": null,
+      "descricao": "CONCRETO FCK = 20,0MPA - USINADO",
+      "unidade": "M3",
+      "quantidade": 8.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": "08-34-00",
+      "fonte": null,
+      "descricao": "ALVENARIA EM BLOCOS DE CONCRETO 19 X 19 X 39CM",
+      "unidade": "M2",
+      "quantidade": 51.6,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": "03-03-17",
+      "fonte": null,
+      "descricao": "CONCRETO FCK = 25,0MPA - USINADO",
+      "unidade": "M3",
+      "quantidade": 2.11,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "AREA SOCIAL, BAANCOS RESERVAS E ARBITROS",
+      "codigo": "18-12-03",
+      "fonte": null,
+      "descricao": "IC.03 - BANCO EM CONCRETO APARENTE - L=40CM",
+      "unidade": "M",
+      "quantidade": 13.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "11-01-01",
+      "fonte": null,
+      "descricao": "CHAPISCO COMUM - ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 20.16,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "11-01-13",
+      "fonte": null,
+      "descricao": "REBOCO INTERNO - ARGAMASSA PRÉ-FABRICADA",
+      "unidade": "M2",
+      "quantidade": 40.32,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "13-02-02",
+      "fonte": null,
+      "descricao": "CIMENTADO COMUM, DESEMPENADO E ALISADO - ESPESSURA 20MM",
+      "unidade": "M2",
+      "quantidade": 12.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "11-80-06",
+      "fonte": null,
+      "descricao": "REPAROS EM REBOCO - ARGAMASSA DE CAL E AREIA 1:2",
+      "unidade": "M2",
+      "quantidade": 129.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "15-01-10",
+      "fonte": null,
+      "descricao": "TINTA PVA (LÁTEX) - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 129.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "10-13-03",
+      "fonte": null,
+      "descricao": "BACIA SANITÁRIA COM CAIXA ACOPLADA DE LOUÇA BRANCA",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "09-02-55",
+      "fonte": null,
+      "descricao": "ELETRODUTO DE PVC CORRUGADO REFORÇADO, ANTICHAMA - 25MM (3/4\")",
+      "unidade": "M",
+      "quantidade": 10.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "09-05-29",
+      "fonte": null,
+      "descricao": "CAIXA DE PASSAGEM TIPO CONDULETE - 3/4\"",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "15-03-10",
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO - ESQUADRIAS E PEÇAS DE SERRALHERIA",
+      "unidade": "M2",
+      "quantidade": 2.4,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "07-01-05",
+      "fonte": null,
+      "descricao": "PM.05 - PORTA LISA ESPECIAL/ SÓLIDA - 62X210CM",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "08-34-00",
+      "fonte": null,
+      "descricao": "ALVENARIA EM BLOCOS DE CONCRETO 19 X 19 X 39CM",
+      "unidade": "M2",
+      "quantidade": 2.16,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "07-02-31",
+      "fonte": null,
+      "descricao": "FECHADURA TIPO TRANQUETA E TRINCO (55MM) - TRÁFEGO INTENSO, MAÇANETA EM ZAMAC, GUARNIÇÕES EM AÇO, ACABAMENTO CROMADO BRILHANTE - PORTA DE SANITÁRIO",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "11-02-25",
+      "fonte": null,
+      "descricao": "AZULEJOS, JUNTAS AMARRAÇÃO OU A PRUMO - ASSENTES COM ARGAMASSA COMUM",
+      "unidade": "M2",
+      "quantidade": 40.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "13-02-39",
+      "fonte": null,
+      "descricao": "PISO CERÂMICO NÃO ESMALTADO ANTIDERRAPANTE - ASSENTADO COM ARGAMASSA COLANTE (PARA COZINHAS E REFEITÓRIOS)",
+      "unidade": "M2",
+      "quantidade": 12.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "10-02-61",
+      "fonte": null,
+      "descricao": "TUBO DE PVC RÍGIDO, SOLDÁVEL (LINHA ÁGUA) - 25MM (3/4\")",
+      "unidade": "M2",
+      "quantidade": 8.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "10-80-76",
+      "fonte": null,
+      "descricao": "TUBO DE LIGAÇÃO FLEXÍVEL, PVC - 1/2\"X30/40CM",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "10-80-70",
+      "fonte": null,
+      "descricao": "SIFÃO COM COPO, TIPO REFORÇADO, PVC RÍGIDO - 1 1/2\"X2\"",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "10-14-08",
+      "fonte": null,
+      "descricao": "TORNEIRA DE PRESSÃO PARA PIA, COM CORPO LONGO E AERADOR - 3/4\"",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "VESTIARIO",
+      "codigo": "10-13-08",
+      "fonte": null,
+      "descricao": "LAVATÓRIO DE LOUÇA BRANCA, SEM COLUNA, CAPACIDADE MÍNIMA 5L, EXCLUSIVE TORNEIRA",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 15
+    }
+  ],
+  "apelido": "CDC COTINHA"
+}

@@ -1,0 +1,375 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620250001127",
+    "numero_art": "28027230231486979",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUB PREFEITURA DE PARELHEIROS",
+    "cnpj_contratante": "05.494.401/0001-69",
+    "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA DE ENGENHARIA OU ARQUITETURA PARA REVITALIZAÇÃO E REURBANIZAÇÃO DE ÁREA PÚBLICA.",
+    "processo_administrativo": "6047.2023/0001364-9",
+    "contrato": "018/SUB-PA/2023",
+    "endereco_obra": "ESTRADA ENGENHEIRO MARSILAC, ALT 1011 - PARELHEIROS",
+    "cidade": "SÃO PAULO",
+    "estado": "SP",
+    "data_inicio": "2023-09-11",
+    "data_fim": "2023-11-09",
+    "area_m2": 1512.0,
+    "valor_contrato": 602143.25
+  },
+  "servicos": [
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "03-53-18",
+      "fonte": "INFRA",
+      "descricao": "PROJETO EXECUTIVO (PRANCHA A1)",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "10-16-03",
+      "fonte": "INFRA",
+      "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "DEMOLIÇÃO E RETIRADA",
+      "codigo": "05-04-00",
+      "fonte": "INFRA",
+      "descricao": "DEMOLIÇÃO DE PAVIMENTO ASFÁLTICO, INCLUSIVE CAPA, INCLUI CARGA NO CAMINHÃO",
+      "unidade": "M2",
+      "quantidade": 183.84,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "DEMOLIÇÃO E RETIRADA",
+      "codigo": "08-86-00",
+      "fonte": "INFRA",
+      "descricao": "REMOÇÃO DE ENTULHO ALÉM DO PRIMEIRO KM",
+      "unidade": "M3XKM",
+      "quantidade": 1433.95,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "DRENAGEM",
+      "codigo": "05-13-00",
+      "fonte": "INFRA",
+      "descricao": "BASE DE CONCRETO FCK=15,00MPA PARA GUIAS, SARJETAS OU SARJETÕES",
+      "unidade": "M3",
+      "quantidade": 6.66,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "DRENAGEM",
+      "codigo": "05-14-02",
+      "fonte": "INFRA",
+      "descricao": "FORNECIMENTO E ASSENTAMENTO DE GUIAS TIPO PMSP 100, INCLUSIVE ENCOSTAMENTO DE TERRA - FCK=25,0MPA",
+      "unidade": "M",
+      "quantidade": 386.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "DRENAGEM",
+      "codigo": "05-19-02",
+      "fonte": "INFRA",
+      "descricao": "CONSTRUÇÃO DE SARJETA OU SARJETÃO DE CONCRETO - FCK= 20,0MPA",
+      "unidade": "M3",
+      "quantidade": 27.97,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "DRENAGEM",
+      "codigo": "06-22-04",
+      "fonte": "INFRA",
+      "descricao": "BOCA DE LOBO DUPLA",
+      "unidade": "UN",
+      "quantidade": 4.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "DRENAGEM",
+      "codigo": "06-18-01",
+      "fonte": "INFRA",
+      "descricao": "POÇO DE VISITA TIPO 1 - 1,40 X 1,40 X 1,40M",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "DRENAGEM",
+      "codigo": "06-19-00",
+      "fonte": "INFRA",
+      "descricao": "CHAMINÉ DE POÇO DE VISITA COM ALVENARIA DE UM TIJOLO COMUM",
+      "unidade": "M",
+      "quantidade": 3.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "DRENAGEM",
+      "codigo": "06-20-03",
+      "fonte": "INFRA",
+      "descricao": "INSTALAÇÃO DE TAMPÃO PARA GALERIA DE ÁGUAS PLUVIAIS - ARTICULADO, EXCETO FORNECIMENTO DE TAMPÃO",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "DRENAGEM",
+      "codigo": "06-20-23",
+      "fonte": "INFRA",
+      "descricao": "FORNECIMENTO DE TAMPÃO - GRELHA DE FERRO FUNDIDO DÚCTIL CLASSE MÍNIMA 400 (40T) D=600MM - NBR 10160 ARTICULADO - P/ GAL. ÁGUAS PLUV.",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "DRENAGEM",
+      "codigo": "04-04-00",
+      "fonte": "INFRA",
+      "descricao": "ESCAVAÇÃO MECÂNICA PARA FUNDAÇÕES E VALAS COM PROFUNDIDADE MENOR OU IGUAL À 4,0M",
+      "unidade": "M3",
+      "quantidade": 520.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "DRENAGEM",
+      "codigo": "05-20-00",
+      "fonte": "INFRA",
+      "descricao": "FUNDAÇÃO DE RACHÃO",
+      "unidade": "M3",
+      "quantidade": 334.83,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "DRENAGEM",
+      "codigo": "06-08-00",
+      "fonte": "INFRA",
+      "descricao": "FORNECIMENTO E ASSENTAMENTO DE TUBOS DE CONCRETO SIMPLES - DIAMETRO 40CM",
+      "unidade": "M",
+      "quantidade": 20.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "DRENAGEM",
+      "codigo": "06-10-01",
+      "fonte": "INFRA",
+      "descricao": "FORNECIMENTO E ASSENTAMENTO DE TUBOS DE CONCRETO ARMADO, DIAMETRO 60CM - TIPO PA-2",
+      "unidade": "M",
+      "quantidade": 110.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "DRENAGEM",
+      "codigo": "04-09-00",
+      "fonte": "INFRA",
+      "descricao": "REENCHIMENTO DE VALA COM COMPACTAÇÃO, SEM FORNECIMENTO DE TERRA",
+      "unidade": "M3",
+      "quantidade": 473.75,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "DRENAGEM",
+      "codigo": "04-35-00",
+      "fonte": "INFRA",
+      "descricao": "APILOAMENTO MANUAL DE CAVA DE FUNDAÇÃO",
+      "unidade": "M2",
+      "quantidade": 260.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "DRENAGEM",
+      "codigo": "06-04-00",
+      "fonte": "INFRA",
+      "descricao": "ESCORAMENTO CONTÍNUO DE MADEIRA PARA CANALIZAÇÃO DE TUBOS",
+      "unidade": "M2",
+      "quantidade": 260.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "05-10-00",
+      "fonte": "INFRA",
+      "descricao": "ABERTURA DE CAIXA ATÉ 40CM, INCLUI ESCAVAÇÃO, COMPACTAÇÃO, TRANSPORTE E PREPARO DO SUB-LEITO",
+      "unidade": "M2",
+      "quantidade": 856.1,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "05-11-00",
+      "fonte": "INFRA",
+      "descricao": "ABERTURA DE CAIXA ATÉ 25CM, INCLUI ESCAVAÇÃO, COMPACTAÇÃO, TRANSPORTE E PREPARO DO SUB-LEITO",
+      "unidade": "M2",
+      "quantidade": null,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "04-15-00",
+      "fonte": "INFRA",
+      "descricao": "CARGA E REMOÇÃO DE TERRA ATÉ A DISTÂNCIA MÉDIA DE 1,0KM",
+      "unidade": "M3",
+      "quantidade": 60.11,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "04-60-00",
+      "fonte": "INFRA",
+      "descricao": "REMOÇÃO DE TERRA ALÉM DO PRIMEIRO KM, COM CAMINHÃO DE 14M3",
+      "unidade": "M3XKM",
+      "quantidade": 13377.7,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "05-56-00",
+      "fonte": "INFRA",
+      "descricao": "REMANEJAMENTO DE RAMAL DOMICILIAR DE ÁGUA, INCLUSIVE ABERTURA E FECHAMENTO DE VALA",
+      "unidade": "M",
+      "quantidade": 170.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "05-48-00",
+      "fonte": "INFRA",
+      "descricao": "BASE DE BRITA GRADUADA",
+      "unidade": "M3",
+      "quantidade": 111.05,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "05-47-00",
+      "fonte": "INFRA",
+      "descricao": "BASE DE BICA CORRIDA",
+      "unidade": "M3",
+      "quantidade": 171.22,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "05-26-00",
+      "fonte": "INFRA",
+      "descricao": "IMPRIMAÇÃO BETUMINOSA LIGANTE",
+      "unidade": "M2",
+      "quantidade": 740.3,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "05-27-00",
+      "fonte": "INFRA",
+      "descricao": "IMPRIMAÇÃO BETUMINOSA IMPERMEABILIZANTE",
+      "unidade": "M2",
+      "quantidade": 740.3,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "05-25-02",
+      "fonte": "INFRA",
+      "descricao": "BASE DE BINDER DENSO (SEM TRANSPORTE)",
+      "unidade": "M3",
+      "quantidade": 29.61,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "05-28-00",
+      "fonte": "INFRA",
+      "descricao": "REVESTIMENTO DE CONCRETO ASFÁLTICO (SEM TRANSPORTE)",
+      "unidade": "M3",
+      "quantidade": 37.02,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "05-78-01",
+      "fonte": "INFRA",
+      "descricao": "CARGA, DESCARGA E TRANSPORTE DE CONCRETO ASFÁLTICO ATÉ A DISTÂNCIA MÉDIA DE IDA E VOLTA DE 1KM",
+      "unidade": "M3",
+      "quantidade": 44.42,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "05-78-07",
+      "fonte": "INFRA",
+      "descricao": "TRANSPORTE DE CONCRETO ASFALTICO ALÉM DO PRIMEIRO KM",
+      "unidade": "M3XKM",
+      "quantidade": 1732.3,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "05-79-01",
+      "fonte": "INFRA",
+      "descricao": "CARGA, DESCARGA E TRANSPORTE DE BINDER ATÉ A DISTÂNCIA MÉDIA DE IDA E VOLTA DE 1KM",
+      "unidade": "M3",
+      "quantidade": 1154.87,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 29
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "12-12-00",
+      "fonte": "INFRA",
+      "descricao": "ENCARREGADO",
+      "unidade": "H",
+      "quantidade": 120.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 30
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "12-13-00",
+      "fonte": "INFRA",
+      "descricao": "ENGENHEIRO DA OBRA",
+      "unidade": "H",
+      "quantidade": 72.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 31
+    }
+  ],
+  "apelido": "VIELA DO SARNEY"
+}

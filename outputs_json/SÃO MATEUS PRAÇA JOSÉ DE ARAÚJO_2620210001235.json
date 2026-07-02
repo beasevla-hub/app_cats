@@ -1,0 +1,385 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620210001235",
+    "numero_art": "28027230210144305",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA SÃO MATEUS - PRAÇA JOSÉ DE ARAÚJO",
+    "cnpj_contratante": "05.639.268/0001-91",
+    "objeto": "CONTRATAÇÃO DE SERVIÇOS PARA FORNECIMENTO E INSTALAÇÃO DE ATI, PLAYGROUND E REVITALIZAÇÃO DE PRAÇA RUA JOSÉ DE ARAÚJO, JARDIM RODOLFO PIRANI, PROCESSO 6045.2016/0000136-0.",
+    "processo_administrativo": "6045.2016/0000136-0",
+    "contrato": "014/SP-SM/2016",
+    "endereco_obra": "RUA JOSÉ DE ARAÚJO VIEIRA",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2016-10-20",
+    "data_fim": "2016-11-21",
+    "area_m2": 670.0,
+    "valor_contrato": 142557.44
+  },
+  "servicos": [
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CARGA MANUAL E REMOÇÃO DE ENTULHO, INCLUSIVE TRANSPORTE ATÉ 1 KM",
+      "unidade": "M3",
+      "quantidade": 66.95,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "LIMPEZA MANUAL GERAL INCLUSIVE REMOÇÃO DE COBERTURA VEGETAL - TRONCO ATÉ 10CM - SEM TRANSPORTE",
+      "unidade": "M2",
+      "quantidade": 670.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TRANSPORTE DE ENTULHO POR CAMINHÃO BASCULANTE, A PARTIR DE 1KM",
+      "unidade": "M3XKM",
+      "quantidade": 1653.67,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PISO ESTRUTURAL EM CONCRETO ARMADO - 7CM",
+      "unidade": "M2",
+      "quantidade": 269.96,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PASSEIO DE CONCRETO ARMADO, FCK=25MPA, INCLUINDO PREPARO DA CAIXA E LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 15.98,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "IC.02 CONJUNTO MESA E BANCOS EM CONCRETO",
+      "unidade": "CJ",
+      "quantidade": 2.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "IC.03 - BANCO EM CONCRETO APARENTE - L=40CM",
+      "unidade": "M",
+      "quantidade": 12.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "LIMPEZA GERAL DA OBRA",
+      "unidade": "M2",
+      "quantidade": 670.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "PLAYGROUND",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "GAIOLA LABIRINTO (1,5X1,5X2,0)M - ESTRUTURA METÁLICA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "PLAYGROUND",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PLACAS DE E.V.A. ESP.30MM PARA USO INTERNO, TIPO TATAMI, COLOCADAS",
+      "unidade": "M2",
+      "quantidade": 120.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "PLAYGROUND",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PLAYGROUND BRINQUEDOS DE MADEIRA - CASA TARZAN COM RAMPA ESCALADA, ESCORREGADOR E ESCADA MARINHEIRO",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "PLAYGROUND",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PLAYGROUND BRINQUEDOS DE MADEIRA - ESCORREGADOR ( ALT. 1,80M COMP.=3,00M)",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "PLAYGROUND",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PLAYGROUND BRINQUEDOS DE MADEIRA - GANGORRA DUPLA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "PLAYGROUND",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PLAYGROUND BRINQUEDOS DE MADEIRA - BALANÇA DUPLA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "REVOLVIMENTO E AJUSTE DO SOLO",
+      "unidade": "M2",
+      "quantidade": 440.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TERRA PREPARADA PARA PLANTIO",
+      "unidade": "M3",
+      "quantidade": 44.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CALCAREO DOLOMITICO",
+      "unidade": "KG",
+      "quantidade": 220.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ADUBO QUÍMICO NPK, 10:10:10",
+      "unidade": "KG",
+      "quantidade": 220.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "IPÊ ROSA (TABEBUIA AVELLANEDAE)",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CABREÚVA PARDA (MYROCARPUS FRONDOSUS)",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "QUARESMEIRA (TIBOUCHINA GRANULOSA)",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "GRAMA ESMERALDA",
+      "unidade": "M2",
+      "quantidade": 440.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CINERARIA (SENECIO CINERARIA)",
+      "unidade": "DÚZIA",
+      "quantidade": 36.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CLOROFITO (CLOROPHYTUM CROMOSSUM)",
+      "unidade": "DÚZIA",
+      "quantidade": 36.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "AZALÉA (RHODODENDRON INDICUM)",
+      "unidade": "UN",
+      "quantidade": 56.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CAMARÃO (BELOPERONE GUTATA)",
+      "unidade": "UN",
+      "quantidade": 56.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ORLA DE SEPARAÇÃO EM CONCRETO NC.26",
+      "unidade": "M",
+      "quantidade": 140.8,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "SERVIÇOS TÉCNICOS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "LEVANTAMENTO PLANIMÉTRICO DE PERÍMETRO - ATÉ 1.000M",
+      "unidade": "GL",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "SERVIÇOS TÉCNICOS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "AS BUILT FORMATO AO",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "SERVIÇOS TÉCNICOS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "DESENVOLVIMENTO DE PRANCHA TÉCNICA EM FORMATO AO",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "SERVIÇOS TÉCNICOS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TABELA DE COMPOSIÇÃO DE PREÇOS UNITÁRIOS - P2",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "FORNECIMENTO E INSTALAÇÃO DE ATI",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ESTACAO ERGOMETRIA (MULTIEXERCITADOR)",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "FORNECIMENTO E INSTALAÇÃO DE ATI",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "REMADA SENTADA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "FORNECIMENTO E INSTALAÇÃO DE ATI",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "SIMULADOR DE CAMINHADA TRIPLO CONJUGADO",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "FORNECIMENTO E INSTALAÇÃO DE ATI",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ESQUI TRIPLO CONJUGADO",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "FORNECIMENTO E INSTALAÇÃO DE ATI",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TOTEM DE ORIENTAÇÃO",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 22
+    }
+  ],
+  "apelido": "SÃO MATEUS, PRAÇA JOSÉ DE ARAÚJO"
+}

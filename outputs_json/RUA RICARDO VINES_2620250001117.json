@@ -1,0 +1,225 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620250001117",
+    "numero_art": "2620242228060",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA PARELHEIROS",
+    "cnpj_contratante": "05.494.401/0001-69",
+    "objeto": "Execução, Execução de obra, de pavimentação, asfáltica para vias urbanas. 1020,00000 metro quadrado.",
+    "processo_administrativo": "6047.2023/0001440-8",
+    "contrato": "024/SUB-PA/2023",
+    "endereco_obra": "RUA RICARDO VINES",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2023-10-09",
+    "data_fim": "2023-12-07",
+    "area_m2": null,
+    "valor_contrato": 380237.4
+  },
+  "servicos": [
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "03-53-18",
+      "fonte": "INFRA",
+      "descricao": "PROJETO EXECUTIVO (PRANCHA A1)",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "10-16-03",
+      "fonte": "INFRA",
+      "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "DEMOLIÇÃO E RETIRADA",
+      "codigo": "05-04-00",
+      "fonte": "INFRA",
+      "descricao": "DEMOLIÇÃO DE PAVIMENTO ASFÁLTICO, INCLUSIVE CAPA, INCLUI CARGA NO CAMINHÃO",
+      "unidade": "M2",
+      "quantidade": 764.4,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "DEMOLIÇÃO E RETIRADA",
+      "codigo": "08-86-00",
+      "fonte": "INFRA",
+      "descricao": "REMOÇÃO DE ENTULHO ALÉM DO PRIMEIRO KM",
+      "unidade": "M3XKM",
+      "quantidade": 5962.32,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "DRENAGEM",
+      "codigo": "05-13-00",
+      "fonte": "INFRA",
+      "descricao": "BASE DE CONCRETO FCK=15,00MPA PARA GUIAS, SARJETAS OU SARJETÕES",
+      "unidade": "M3",
+      "quantidade": 17.64,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "DRENAGEM",
+      "codigo": "05-14-02",
+      "fonte": "INFRA",
+      "descricao": "FORNECIMENTO E ASSENTAMENTO DE GUIAS TIPO PMSP 100, INCLUSIVE ENCOSTAMENTO DE TERRA - FCK=25,0MPA",
+      "unidade": "M",
+      "quantidade": 294.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "DRENAGEM",
+      "codigo": "05-19-02",
+      "fonte": "INFRA",
+      "descricao": "CONSTRUÇÃO DE SARJETA OU SARJETÃO DE CONCRETO - FCK=20,0MPA",
+      "unidade": "M3",
+      "quantidade": 2.16,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "05-11-00",
+      "fonte": "INFRA",
+      "descricao": "ABERTURA DE CAIXA ATÉ 25CM, INCLUI ESCAVAÇÃO, COMPACTAÇÃO, TRANSPORTE E PREPARO DO SUB-LEITO",
+      "unidade": "M2",
+      "quantidade": 764.4,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "04-60-00",
+      "fonte": "INFRA",
+      "descricao": "REMOÇÃO DE TERRA ALÉM DO PRIMEIRO KM, COM CAMINHÃO DE 14M3",
+      "unidade": "M3XKM",
+      "quantidade": 7433.36,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "05-08-00",
+      "fonte": "INFRA",
+      "descricao": "REMANEJAMENTO DE RAMAL DOMICILIAR DE ÁGUA, INCLUSIVE ABERTURA E FECHAMENTO DE VALA",
+      "unidade": "M",
+      "quantidade": 118.49,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "05-20-00",
+      "fonte": "INFRA",
+      "descricao": "FUNDAÇÃO DE RACHÃO",
+      "unidade": "M3",
+      "quantidade": 328.69,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "05-48-00",
+      "fonte": "INFRA",
+      "descricao": "BASE DE BRITA GRADUADA",
+      "unidade": "M3",
+      "quantidade": 91.72,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "05-47-00",
+      "fonte": "INFRA",
+      "descricao": "BASE DE BICA CORRIDA",
+      "unidade": "M3",
+      "quantidade": 129.94,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "05-26-00",
+      "fonte": "INFRA",
+      "descricao": "IMPRIMAÇÃO BETUMINOSA LIGANTE",
+      "unidade": "M2",
+      "quantidade": 764.4,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "05-27-00",
+      "fonte": "INFRA",
+      "descricao": "IMPRIMAÇÃO BETUMINOSA IMPERMEABILIZANTE",
+      "unidade": "M2",
+      "quantidade": 764.4,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "05-28-00",
+      "fonte": "INFRA",
+      "descricao": "REVESTIMENTO DE CONCRETO ASFÁLTICO (SEM TRANSPORTE)",
+      "unidade": "M3",
+      "quantidade": 30.57,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "05-78-01",
+      "fonte": "INFRA",
+      "descricao": "CARGA, DESCARGA E TRANSPORTE DE CONCRETO ASFÁLTICO ATÉ A DISTÂNCIA MÉDIA DE IDA E VOLTA DE 1KM",
+      "unidade": "M3",
+      "quantidade": 30.57,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "05-78-07",
+      "fonte": "INFRA",
+      "descricao": "TRANSPORTE DE CONCRETO ASFALTICO ALÉM DO PRIMEIRO KM",
+      "unidade": "M3XKM",
+      "quantidade": 1184.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "12-12-00",
+      "fonte": "INFRA",
+      "descricao": "ENCARREGADO",
+      "unidade": "H",
+      "quantidade": 240.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "12-13-00",
+      "fonte": "INFRA",
+      "descricao": "ENGENHEIRO DA OBRA",
+      "unidade": "H",
+      "quantidade": 90.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    }
+  ],
+  "apelido": "RUA RICARDO VINES"
+}

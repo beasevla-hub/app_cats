@@ -1,0 +1,285 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620230005357",
+    "numero_art": "28027230230695756",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA DA FREGUESIA DO Ó / BRASILÂNDIA",
+    "cnpj_contratante": "06.108.854/0001-72",
+    "objeto": "REVITALIZAÇÃO DE PRAÇAS",
+    "processo_administrativo": "6037.2022/0001647-1",
+    "contrato": "15/SUB-FB/2022",
+    "endereco_obra": "RUA FIRMINÓPOLIS",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2022-09-12",
+    "data_fim": "2022-10-31",
+    "area_m2": 437.05,
+    "valor_contrato": 305733.25
+  },
+  "servicos": [
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "01-01-07",
+      "fonte": "EDIF",
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 86.72,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "01-05-40",
+      "fonte": "EDIF",
+      "descricao": "TELA PARA PROTEÇÃO DE OBRAS, MALHA 2 MM",
+      "unidade": "M2",
+      "quantidade": 207.24,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "17-30-02",
+      "fonte": "EDIF",
+      "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
+      "unidade": "M2",
+      "quantidade": 4.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "QUADRA POLIESPORTIVA",
+      "codigo": "03-40-24",
+      "fonte": "EDIF",
+      "descricao": "LIXAMENTO MECÂNICO EM SUPERFÍCIES DE CONCRETO",
+      "unidade": "M2",
+      "quantidade": 299.68,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "QUADRA POLIESPORTIVA",
+      "codigo": "15-01-15",
+      "fonte": "EDIF",
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 199.36,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "QUADRA POLIESPORTIVA",
+      "codigo": "15-50-03",
+      "fonte": "EDIF",
+      "descricao": "REMOÇÃO DE PINTURA EM ALVENARIA E CONCRETO - LIXA",
+      "unidade": "M2",
+      "quantidade": 191.04,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "QUADRA POLIESPORTIVA",
+      "codigo": "17-01-29",
+      "fonte": "EDIF",
+      "descricao": "FP.03 - ALAMBRADO PARA QUADRAS DE ESPORTE - GP.6/EDIF - TG/4,5M",
+      "unidade": "M",
+      "quantidade": 73.2,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "QUADRA POLIESPORTIVA",
+      "codigo": "03-03-30",
+      "fonte": "EDIF",
+      "descricao": "BOMBEAMENTO DE CONCRETO",
+      "unidade": "M3",
+      "quantidade": 9.83,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "QUADRA POLIESPORTIVA",
+      "codigo": "17-01-41",
+      "fonte": "EDIF",
+      "descricao": "PP.20/24 - PORTÃO EM FERRO PERFILADO COM TELA, 1 FOLHA",
+      "unidade": "M2",
+      "quantidade": 3.36,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "QUADRA POLIESPORTIVA",
+      "codigo": "17-03-55",
+      "fonte": "EDIF",
+      "descricao": "QD.01 - DEMARCAÇÃO DE QUADRA COM TINTA A BASE DE BORRACHA CLORADA VOLEIBOL",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "QUADRA POLIESPORTIVA",
+      "codigo": "17-03-60",
+      "fonte": "EDIF",
+      "descricao": "POSTES PARA VOLEIBOL, INCLUSIVE PINTURA E REDE",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "QUADRA POLIESPORTIVA",
+      "codigo": "17-03-61",
+      "fonte": "EDIF",
+      "descricao": "TRAVE PARA FUTEBOL DE SALÃO, INCLUSIVE PINTURA E REDE",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "QUADRA POLIESPORTIVA",
+      "codigo": "17-03-71",
+      "fonte": "EDIF",
+      "descricao": "DEMARCAÇÃO E PINTURA DE SUPERFÍCIES - EPÓXI",
+      "unidade": "M2",
+      "quantidade": 297.68,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "QUADRA POLIESPORTIVA",
+      "codigo": "17-60-95",
+      "fonte": "EDIF",
+      "descricao": "RETIRADA DE ALAMBRADO EM TELA INCLUSIVE ESTRUTURA DE SUSTENTAÇÃO (FP.04)",
+      "unidade": "M",
+      "quantidade": 73.2,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "PLAYGROUND",
+      "codigo": "01-01-08",
+      "fonte": "EDIF",
+      "descricao": "LIMPEZA MANUAL GERAL INCLUSIVE REMOÇÃO DE COBERTURA VEGETAL - TRONCO ATÉ 10CM - SEM TRANSPORTE",
+      "unidade": "M2",
+      "quantidade": 437.05,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "PLAYGROUND",
+      "codigo": "01-04-10",
+      "fonte": "EDIF",
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 189.75,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "PLAYGROUND",
+      "codigo": "01-04-15",
+      "fonte": "EDIF",
+      "descricao": "LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 18.98,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "PLAYGROUND",
+      "codigo": "02-03-04",
+      "fonte": "EDIF",
+      "descricao": "FORMA COMUM DE TÁBUAS DE PINUS - NÃO RECUPERÁVEL",
+      "unidade": "M2",
+      "quantidade": 22.41,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "PLAYGROUND",
+      "codigo": "02-04-09",
+      "fonte": "EDIF",
+      "descricao": "ARMADURA EM AÇO CA-60 - TELA",
+      "unidade": "KG",
+      "quantidade": 473.41,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "PLAYGROUND",
+      "codigo": "02-05-11",
+      "fonte": "EDIF",
+      "descricao": "CONCRETO FCK=30MPA - USINADO",
+      "unidade": "M3",
+      "quantidade": 22.14,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "PLAYGROUND",
+      "codigo": "13-02-04",
+      "fonte": "EDIF",
+      "descricao": "ACABAMENTO DE PISO DE CONCRETO ΤΙΡΟ ΒΑΜΒOLÊ",
+      "unidade": "M2",
+      "quantidade": 199.75,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "PLAYGROUND",
+      "codigo": "13-02-92",
+      "fonte": "EDIF",
+      "descricao": "CHAPAS DE BORRACHA SINTÉTICA ASSENTES COM ARGAMASSA, E=8 A 10MM - LISAS",
+      "unidade": "M2",
+      "quantidade": 199.75,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "PLAYGROUND",
+      "codigo": "17-50-21",
+      "fonte": "EDIF",
+      "descricao": "DEMOLIÇÃO MANUAL DE CONCRETO ARMADO",
+      "unidade": "M3",
+      "quantidade": 11.96,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "PLAYGROUND",
+      "codigo": "18-03-05",
+      "fonte": "EDIF",
+      "descricao": "GRAMA ESMERALDA",
+      "unidade": "M2",
+      "quantidade": 146.1,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "PLAYGROUND",
+      "codigo": "18-10-56",
+      "fonte": "EDIF",
+      "descricao": "ORLA DE SEPARAÇÃO EM CONCRETO NC.26",
+      "unidade": "M",
+      "quantidade": 91.6,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "MERCADO PLAYGROUND INFANTIL",
+      "codigo": null,
+      "fonte": null,
+      "descricao": null,
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 22
+    }
+  ],
+  "apelido": "FREGUESIA DO Ó, PRAÇA LAZARO MIGUEL DOS SANTOS"
+}

@@ -1,0 +1,765 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620220003944",
+    "numero_art": "28027230181429534",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA M BOI MIRIM - PASSARELA METÁLICA",
+    "cnpj_contratante": "05.510.098/0001-40",
+    "objeto": "Serviços de Requalificação de Área Pública Municipal - Passarela Metálica",
+    "processo_administrativo": "6045.2018/0001202-2",
+    "contrato": "39/SUB-MB/2018",
+    "endereco_obra": "RUA DAMASCO EM FRENTE AO Nº 03 - JARDIM SAGRADO CORAÇÃO DE JESUS",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2018-11-21",
+    "data_fim": "2019-12-21",
+    "area_m2": 32.0,
+    "valor_contrato": 32458.08
+  },
+  "servicos": [
+    {
+      "grupo": "SERVICOS PRELIMINARES",
+      "codigo": "01-00-00",
+      "fonte": "TABELA EDIF",
+      "descricao": "SERVICOS PRELIMINARES",
+      "unidade": null,
+      "quantidade": 0.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "06-60-08",
+      "fonte": null,
+      "descricao": "RETIRADA DE ESTRUTURA METÁLICA INCLUSIVE PERFIS DE FIXAÇÃO",
+      "unidade": "KG",
+      "quantidade": 384.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "13-50-14",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE SOALHO DE MADEIRA, INCLUSIVE VIGAMENTO",
+      "unidade": "M2",
+      "quantidade": 19.2,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "01-01-07",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 15.97,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "01-05-40",
+      "fonte": null,
+      "descricao": "TELA PARA PROTEÇÃO DE OBRAS, MALHA 2 MM",
+      "unidade": "M2",
+      "quantidade": 39.6,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "ESTRUTURA",
+      "codigo": "03-60-01",
+      "fonte": null,
+      "descricao": "FORNECIMENTO E MONTAGEM DE ESTRUTURA METÁLICA VERTICAL - NÃO PATINÁVEL",
+      "unidade": "KG",
+      "quantidade": 480.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "PISO",
+      "codigo": "17-02-42",
+      "fonte": null,
+      "descricao": "PASSEIO DE CONCRETO, FCK=25MPA, INCLUINDO PREPARO DA CAIXA E LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 0.46,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "13-80-18",
+      "fonte": null,
+      "descricao": "TABUAS DE MADEIRA MACIÇA PARA ASSOALHO - CUMARU",
+      "unidade": "M2",
+      "quantidade": 19.2,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": "15-02-10",
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO - ESQUADRIAS E PEÇAS DE MARCENARIA, SEM EMASSAMENTO",
+      "unidade": "M2",
+      "quantidade": 38.4,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "15-03-10",
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO - ESQUADRIAS E PEÇAS DE SERRALHERIA",
+      "unidade": "M2",
+      "quantidade": 57.6,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "17-05-25",
+      "fonte": null,
+      "descricao": "DP.05 - CORRIMÃO EM TUBO GALVANIZADO COM GUARDA CORPO",
+      "unidade": "M",
+      "quantidade": 32.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "01-00-00",
+      "fonte": null,
+      "descricao": "SERVICOS PRELIMINARES",
+      "unidade": null,
+      "quantidade": 0.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "06-60-08",
+      "fonte": null,
+      "descricao": "RETIRADA DE ESTRUTURA METÁLICA INCLUSIVE PERFIS DE FIXAÇÃO",
+      "unidade": "KG",
+      "quantidade": 384.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "13-50-14",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE SOALHO DE MADEIRA, INCLUSIVE VIGAMENTO",
+      "unidade": "M2",
+      "quantidade": 19.2,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "01-01-07",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA- FORA",
+      "unidade": "M3",
+      "quantidade": 15.97,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "01-05-40",
+      "fonte": null,
+      "descricao": "TELA PARA PROTEÇÃO DE OBRAS, MALHA 2 MM",
+      "unidade": "M2",
+      "quantidade": 39.6,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ESTRUTURA",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "03-60-01",
+      "fonte": null,
+      "descricao": "FORNECIMENTO E MONTAGEM DE ESTRUTURA METÁLICA VERTICAL - NÃO PATINÁVEL",
+      "unidade": "KG",
+      "quantidade": 480.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PISO",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "17-02-42",
+      "fonte": null,
+      "descricao": "PASSEIO DE CONCRETO, FCK=25MPA, INCLUINDO PREPARO DA CAIXA E LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 0.46,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "13-80-18",
+      "fonte": null,
+      "descricao": "TABUAS DE MADEIRA MACIÇA PARA ASSOALHO - CUMARU",
+      "unidade": "M2",
+      "quantidade": 19.2,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PINTURA",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "15-02-10",
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO - ESQUADRIAS E PEÇAS DE MARCENARIA, SEM EMASSAMENTO",
+      "unidade": "M2",
+      "quantidade": 38.4,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": "15-03-10",
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO - ESQUADRIAS E PEÇAS DE SERRALHERIA",
+      "unidade": "M2",
+      "quantidade": 57.6,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "SERVIÇOS COMPLEMENTARES",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": null,
+      "codigo": "17-05-25",
+      "fonte": null,
+      "descricao": "DP.05 - CORRIMÃO EM TUBO GALVANIZADO COM GUARDA CORPO",
+      "unidade": "M",
+      "quantidade": 32.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": null,
+      "codigo": "01-00-00",
+      "fonte": null,
+      "descricao": "SERVICOS PRELIMINARES",
+      "unidade": null,
+      "quantidade": 0.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "06-60-08",
+      "fonte": null,
+      "descricao": "RETIRADA DE ESTRUTURA METÁLICA INCLUSIVE PERFIS DE FIXAÇÃO",
+      "unidade": "KG",
+      "quantidade": 384.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "13-50-14",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE SOALHO DE MADEIRA, INCLUSIVE VIGAMENTO",
+      "unidade": "M2",
+      "quantidade": 19.2,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "01-01-07",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 15.97,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "01-05-40",
+      "fonte": null,
+      "descricao": "TELA PARA PROTEÇÃO DE OBRAS, MALHA 2 MM",
+      "unidade": "M2",
+      "quantidade": 39.6,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "03-60-01",
+      "fonte": null,
+      "descricao": "FORNECIMENTO E MONTAGEM DE ESTRUTURA METÁLICA VERTICAL - NÃO PATINÁVEL",
+      "unidade": "KG",
+      "quantidade": 480.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "17-02-42",
+      "fonte": null,
+      "descricao": "PASSEIO DE CONCRETO, FCK=25MPA, INCLUINDO PREPARO DA CAIXA E LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 0.46,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "13-80-18",
+      "fonte": null,
+      "descricao": "TABUAS DE MADEIRA MACIÇA PARA ASSOALHO - CUMARU",
+      "unidade": "M2",
+      "quantidade": 19.2,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "15-02-10",
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO - ESQUADRIAS E PEÇAS DE MARCENARIA, SEM EMASSAMENTO",
+      "unidade": "M2",
+      "quantidade": 38.4,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "15-03-10",
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO - ESQUADRIAS E PEÇAS DE SERRALHERIA",
+      "unidade": "M2",
+      "quantidade": 57.6,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "17-05-25",
+      "fonte": null,
+      "descricao": "DP.05 - CORRIMÃO EM TUBO GALVANIZADO COM GUARDA CORPO",
+      "unidade": "M",
+      "quantidade": 32.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "01-00-00",
+      "fonte": "TABELA EDIF",
+      "descricao": "SERVICOS PRELIMINARES",
+      "unidade": "0",
+      "quantidade": null,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "06-60-08",
+      "fonte": null,
+      "descricao": "RETIRADA DE ESTRUTURA METÁLICA INCLUSIVE PERFIS DE FIXAÇÃO",
+      "unidade": "KG",
+      "quantidade": 384.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "13-50-14",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE SOALHO DE MADEIRA, INCLUSIVE VIGAMENTO",
+      "unidade": "M2",
+      "quantidade": 19.2,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "01-01-07",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 15.97,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "01-05-40",
+      "fonte": null,
+      "descricao": "TELA PARA PROTEÇÃO DE OBRAS, MALHA 2 MM",
+      "unidade": "M2",
+      "quantidade": 39.6,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "00-00-00",
+      "fonte": null,
+      "descricao": "ESTRUTURA",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "03-60-01",
+      "fonte": null,
+      "descricao": "FORNECIMENTO E MONTAGEM DE ESTRUTURA METÁLICA VERTICAL - NÃO PATINÁVEL",
+      "unidade": "KG",
+      "quantidade": 480.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "00-00-00",
+      "fonte": null,
+      "descricao": "PISO",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "17-02-42",
+      "fonte": null,
+      "descricao": "PASSEIO DE CONCRETO, FCK=25MPA, INCLUINDO PREPARO DA CAIXA E LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 0.46,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "13-80-18",
+      "fonte": null,
+      "descricao": "TABUAS DE MADEIRA MACIÇA PARA ASSOALHO - CUMARU",
+      "unidade": "M2",
+      "quantidade": 19.2,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "00-00-00",
+      "fonte": null,
+      "descricao": "PINTURA",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "15-02-10",
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO - ESQUADRIAS E PEÇAS DE MARCENARIA, SEM EMASSAMENTO",
+      "unidade": "M2",
+      "quantidade": 38.4,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": "15-03-10",
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO - ESQUADRIAS E PEÇAS DE SERRALHERIA",
+      "unidade": "M2",
+      "quantidade": 57.6,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": null,
+      "codigo": "00-00-00",
+      "fonte": null,
+      "descricao": "SERVIÇOS COMPLEMENTARES",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": null,
+      "codigo": "17-05-25",
+      "fonte": null,
+      "descricao": "DP.05 - CORRIMÃO EM TUBO GALVANIZADO COM GUARDA CORPO",
+      "unidade": "M",
+      "quantidade": 32.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": null,
+      "codigo": "01-00-00",
+      "fonte": "TABELA EDIF",
+      "descricao": "SERVICOS PRELIMINARES",
+      "unidade": "0",
+      "quantidade": 0.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "06-60-08",
+      "fonte": null,
+      "descricao": "RETIRADA DE ESTRUTURA METÁLICA INCLUSIVE PERFIS DE FIXAÇÃO",
+      "unidade": "KG",
+      "quantidade": 384.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "13-50-14",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE SOALHO DE MADEIRA, INCLUSIVE VIGAMENTO",
+      "unidade": "M2",
+      "quantidade": 19.2,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "01-01-07",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 15.97,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "01-05-40",
+      "fonte": null,
+      "descricao": "TELA PARA PROTEÇÃO DE OBRAS, MALHA 2 MM",
+      "unidade": "M2",
+      "quantidade": 39.6,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "03-60-01",
+      "fonte": "ESTRUTURA",
+      "descricao": "FORNECIMENTO E MONTAGEM DE ESTRUTURA METÁLICA VERTICAL - NÃO PATINÁVEL",
+      "unidade": "KG",
+      "quantidade": 480.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "17-02-42",
+      "fonte": "PISO",
+      "descricao": "PASSEIO DE CONCRETO, FCK=25MPA, INCLUINDO PREPARO DA CAIXA E LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 0.46,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "13-80-18",
+      "fonte": null,
+      "descricao": "TABUAS DE MADEIRA MACIÇA PARA ASSOALHO - CUMARU",
+      "unidade": "M2",
+      "quantidade": 19.2,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "15-02-10",
+      "fonte": "PINTURA",
+      "descricao": "ESMALTE SINTÉTICO - ESQUADRIAS E PEÇAS DE MARCENARIA, SEM EMASSAMENTO",
+      "unidade": "M2",
+      "quantidade": 38.4,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "15-03-10",
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO - ESQUADRIAS E PEÇAS DE SERRALHERIA",
+      "unidade": "M2",
+      "quantidade": 57.6,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "17-05-25",
+      "fonte": "SERVIÇOS COMPLEMENTARES",
+      "descricao": "DP.05 - CORRIMÃO EM TUBO GALVANIZADO COM GUARDA CORPO",
+      "unidade": "M",
+      "quantidade": 32.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "01-00-00",
+      "fonte": "TABELA EDIF",
+      "descricao": "SERVICOS PRELIMINARES",
+      "unidade": "0",
+      "quantidade": 0.0,
+      "pagina_pdf": 26,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "06-60-08",
+      "fonte": null,
+      "descricao": "RETIRADA DE ESTRUTURA METÁLICA INCLUSIVE PERFIS DE FIXAÇÃO",
+      "unidade": "KG",
+      "quantidade": 384.0,
+      "pagina_pdf": 26,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "13-50-14",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE SOALHO DE MADEIRA, INCLUSIVE VIGAMENTO",
+      "unidade": "M2",
+      "quantidade": 19.2,
+      "pagina_pdf": 26,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "01-01-07",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 15.97,
+      "pagina_pdf": 26,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "01-05-40",
+      "fonte": null,
+      "descricao": "TELA PARA PROTEÇÃO DE OBRAS, MALHA 2 MM",
+      "unidade": "M2",
+      "quantidade": 39.6,
+      "pagina_pdf": 26,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "ESTRUTURA",
+      "codigo": "03-60-01",
+      "fonte": null,
+      "descricao": "FORNECIMENTO E MONTAGEM DE ESTRUTURA METÁLICA VERTICAL - NÃO PATINÁVEL",
+      "unidade": "KG",
+      "quantidade": 480.0,
+      "pagina_pdf": 26,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "PISO",
+      "codigo": "17-02-42",
+      "fonte": null,
+      "descricao": "PASSEIO DE CONCRETO, FCK=25MPA, INCLUINDO PREPARO DA CAIXA E LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 0.46,
+      "pagina_pdf": 26,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "13-80-18",
+      "fonte": null,
+      "descricao": "TABUAS DE MADEIRA MACIÇA PARA ASSOALHO - CUMARU",
+      "unidade": "M2",
+      "quantidade": 19.2,
+      "pagina_pdf": 26,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": "15-02-10",
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO - ESQUADRIAS E PEÇAS DE MARCENARIA, SEM EMASSAMENTO",
+      "unidade": "M2",
+      "quantidade": 38.4,
+      "pagina_pdf": 26,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "15-03-10",
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO - ESQUADRIAS E PEÇAS DE SERRALHERIA",
+      "unidade": "M2",
+      "quantidade": 57.6,
+      "pagina_pdf": 26,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "17-05-25",
+      "fonte": null,
+      "descricao": "DP.05 - CORRIMÃO EM TUBO GALVANIZADO COM GUARDA CORPO",
+      "unidade": "M",
+      "quantidade": 32.0,
+      "pagina_pdf": 26,
+      "ordem_na_pagina": 11
+    }
+  ],
+  "apelido": "M'BOI MIRIM, PASSARELA RUA DAMASCO"
+}

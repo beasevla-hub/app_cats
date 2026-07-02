@@ -1,0 +1,335 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620230012419",
+    "numero_art": "28027230231268668",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA JABAQUARA",
+    "cnpj_contratante": "05.659.015/0001-80",
+    "objeto": "EXECUÇÃO DE OBRAS DE REVITALIZAÇÃO NA ESCADARIA NA RUA MONTE REAL, Nº 113 - AMERICANOPOLIS - SÃO PAULO",
+    "processo_administrativo": "6042.2022/0002037-9",
+    "contrato": "12/SUB-JA/2022",
+    "endereco_obra": "AMERICANÓPOLIS, No.: 113",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2022-09-26",
+    "data_fim": "2022-10-20",
+    "area_m2": 168.67,
+    "valor_contrato": 216736.27
+  },
+  "servicos": [
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "01-01-07",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 127.2,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "17-30-02",
+      "fonte": null,
+      "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "01-05-40",
+      "fonte": null,
+      "descricao": "TELA PARA PROTEÇÃO DE OBRAS, MALHA 2 MM",
+      "unidade": "M2",
+      "quantidade": 68.52,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "17-45-01",
+      "fonte": null,
+      "descricao": "ANDAIMES METÁLICOS - FORNECIMENTO",
+      "unidade": "M3×MÊS",
+      "quantidade": 40.5,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "17-45-02",
+      "fonte": null,
+      "descricao": "ANDAIMES METÁLICOS - MONTAGEM E DESMONTAGEM",
+      "unidade": "M3",
+      "quantidade": 40.5,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DA ESCADARIA",
+      "codigo": "02-50-04",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MANUAL DE CONCRETO ARMADO",
+      "unidade": "M3",
+      "quantidade": 67.09,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DA ESCADARIA",
+      "codigo": "01-04-01",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL, PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 26.84,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DA ESCADARIA",
+      "codigo": "01-04-10",
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 268.37,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DA ESCADARIA",
+      "codigo": "02-03-04",
+      "fonte": null,
+      "descricao": "FORMA COMUM DE TÁBUAS DE PINUS - NÃO RECUPERÁVEL",
+      "unidade": "M2",
+      "quantidade": 195.8,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DA ESCADARIA",
+      "codigo": "13-01-10",
+      "fonte": null,
+      "descricao": "LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 13.42,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DA ESCADARIA",
+      "codigo": "03-02-09",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-60 - TELA",
+      "unidade": "KG",
+      "quantidade": 1610.22,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DA ESCADARIA",
+      "codigo": "17-02-01",
+      "fonte": null,
+      "descricao": "CONCRETO SIMPLES DESEMPENADO E RIPADO, 200KG CIM/M3",
+      "unidade": "M3",
+      "quantidade": 32.2,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DA ESCADARIA",
+      "codigo": "10-11-77",
+      "fonte": null,
+      "descricao": "CANALETA MEIA CANA EM CONCRETO D=40CM",
+      "unidade": "M",
+      "quantidade": 30.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DA ESCADARIA",
+      "codigo": "01-04-49",
+      "fonte": null,
+      "descricao": "CAIXA DE LIGAÇÃO OU INSPEÇÃO - LASTRO DE CONCRETO (FUNDO)",
+      "unidade": "M3",
+      "quantidade": 0.1,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DA ESCADARIA",
+      "codigo": "01-04-52",
+      "fonte": null,
+      "descricao": "CAIXA DE LIGAÇÃO OU INSPEÇÃO - TAMPA DE CONCRETO",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DA ESCADARIA",
+      "codigo": "11-01-01",
+      "fonte": null,
+      "descricao": "CHAPISCO COMUM - ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 2.4,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DA ESCADARIA",
+      "codigo": "110310",
+      "fonte": null,
+      "descricao": "EMBOÇO EXTERNO - ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 2.4,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DA ESCADARIA",
+      "codigo": "11-03-13",
+      "fonte": null,
+      "descricao": "REBOCO EXTERNO - ARGAMASSA PRÉ-FABRICADA",
+      "unidade": "M2",
+      "quantidade": 2.4,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DA ESCADARIA",
+      "codigo": "10-09-33",
+      "fonte": null,
+      "descricao": "TUBO DE PVC RÍGIDO, PONTA E BOLSA (LINHA ESGOTO) - 100MM (4\")",
+      "unidade": "M",
+      "quantidade": 18.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "PINTURA E REVESTIMENTO",
+      "codigo": "03-40-05",
+      "fonte": null,
+      "descricao": "LIMPEZA DE SUPERFÍCIES COM HIDROJATEAMENTO",
+      "unidade": "M2",
+      "quantidade": 622.39,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "PINTURA E REVESTIMENTO",
+      "codigo": "15-50-03",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE PINTURA EM ALVENARIA E CONCRETO - LIXA",
+      "unidade": "M2",
+      "quantidade": 354.02,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "PINTURA E REVESTIMENTO",
+      "codigo": "15-01-15",
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 354.02,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "SERRALHERIA",
+      "codigo": "15-03-10",
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO - ESQUADRIAS E PEÇAS DE SERRALHERIA",
+      "unidade": "M2",
+      "quantidade": 68.52,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERRALHERIA",
+      "codigo": "17-05-25",
+      "fonte": null,
+      "descricao": "DP.05 - CORRIMÃO EM TUBO GALVANIZADO COM GUARDA CORPO",
+      "unidade": "M",
+      "quantidade": 57.1,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": "04-01-50",
+      "fonte": null,
+      "descricao": "BLOCOS VAZADOS DE CONCRETO APARENTE - 09CM",
+      "unidade": "M2",
+      "quantidade": 6.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": "18-80-11",
+      "fonte": null,
+      "descricao": "TERRA PREPARADA PARA PLANTIO",
+      "unidade": "M3",
+      "quantidade": 1.2,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": "18-03-15",
+      "fonte": null,
+      "descricao": "CLOROFITO (CLOROPHYTUM CROMOSSUM)",
+      "unidade": "DÚZIA",
+      "quantidade": 60.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": "18-03-07",
+      "fonte": null,
+      "descricao": "GRAMA PRETA (OPHIOPOGUM JAPONICUS) - 36 MUDAS POR M2",
+      "unidade": "M2",
+      "quantidade": 6.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "SERVIÇOS TÉCNICOS",
+      "codigo": "17-04-01",
+      "fonte": null,
+      "descricao": "LIMPEZA GERAL DA OBRA",
+      "unidade": "M2",
+      "quantidade": 168.67,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "SERVIÇOS TÉCNICOS",
+      "codigo": "20-03-04",
+      "fonte": null,
+      "descricao": "ENGENHEIRO/ ARQUITETO PLENO",
+      "unidade": "H",
+      "quantidade": 90.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "SERVIÇOS TÉCNICOS",
+      "codigo": "20-03-60",
+      "fonte": null,
+      "descricao": "PROJETO BÁSICO (PRANCHA A1)",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 9
+    }
+  ],
+  "apelido": "RUA MONTE REAL - JABAQUARA"
+}

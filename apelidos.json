@@ -1,0 +1,838 @@
+[
+  {
+    "cat": "2620230014076",
+    "apelido": "ARENAS INTER LTDA"
+  },
+  {
+    "cat": "2620110006536",
+    "apelido": "WECHSEL SOLUCOES INTEGRADAS LTDA"
+  },
+  {
+    "cat": "SZC-20231",
+    "apelido": "KARPA"
+  },
+  {
+    "cat": "2620110007189",
+    "apelido": "AVENIDA OSAKA"
+  },
+  {
+    "cat": "2620150008134",
+    "apelido": "CREA AVARÉ"
+  },
+  {
+    "cat": "2620150006208",
+    "apelido": "CREA BARRA BONITA"
+  },
+  {
+    "cat": "2620150008150",
+    "apelido": "CREA BOTUCATU"
+  },
+  {
+    "cat": "2620150008225",
+    "apelido": "CREA IBITINGA"
+  },
+  {
+    "cat": "2620150008088",
+    "apelido": "CREA OURINHOS"
+  },
+  {
+    "cat": "2620150008221",
+    "apelido": "CREA SÃO MANUEL"
+  },
+  {
+    "cat": "2620230009730",
+    "apelido": "CREA VALINHO NOVO"
+  },
+  {
+    "cat": "2620150011587",
+    "apelido": "DETRAN ARARAS"
+  },
+  {
+    "cat": "2620160006639",
+    "apelido": "DETRAN FRANCA"
+  },
+  {
+    "cat": "2620150012003",
+    "apelido": "DETRAN MIRASSOL"
+  },
+  {
+    "cat": "2620210009769",
+    "apelido": "DETRAN VOTUPORANGA (CAT - Demolição)"
+  },
+  {
+    "cat": "2620110008772",
+    "apelido": "EMEF JACKSON"
+  },
+  {
+    "cat": "2620110008774",
+    "apelido": "EMEF JENNY"
+  },
+  {
+    "cat": "2620110009379",
+    "apelido": "DRE PENHA - CEI VILA SÃO FRANCISCO"
+  },
+  {
+    "cat": "2620110008771",
+    "apelido": "DRE PENHA - CEI MANOEL DA NOBREGA"
+  },
+  {
+    "cat": "2620110006534",
+    "apelido": "EDUARDO ROGATO"
+  },
+  {
+    "cat": "SZC-21804",
+    "apelido": "FDE"
+  },
+  {
+    "cat": "2620140009891",
+    "apelido": "MP ARAÇATUBA"
+  },
+  {
+    "cat": "2620120009556",
+    "apelido": "MP BIRIGUI"
+  },
+  {
+    "cat": "2620160009646",
+    "apelido": "MP IGARAPAVA"
+  },
+  {
+    "cat": "2620140010993",
+    "apelido": "MP MANOEL DA NOBREGA"
+  },
+  {
+    "cat": "2620140010910",
+    "apelido": "MP MANOEL DA NOBREGA NOVO"
+  },
+  {
+    "cat": "2620130006507",
+    "apelido": "MP MIRASSOL"
+  },
+  {
+    "cat": "2620220002358",
+    "apelido": "MP MORRO AGUDO"
+  },
+  {
+    "cat": "2620110001640",
+    "apelido": "MP PRESIDENTE PRUDENTE"
+  },
+  {
+    "cat": "SZC-21927",
+    "apelido": "MP RESERVATÓRIO"
+  },
+  {
+    "cat": "2620110001204",
+    "apelido": "MP SÃO JOSÉ DOS CAMPOS"
+  },
+  {
+    "cat": "2620180006426",
+    "apelido": "MP TALUDE"
+  },
+  {
+    "cat": "2620120009557",
+    "apelido": "MP VOTUPORANGA"
+  },
+  {
+    "cat": "SZC-21926",
+    "apelido": "RESERVATORIO INFERIOR 2"
+  },
+  {
+    "cat": "SZC-21927",
+    "apelido": "RESERVATORIO INFERIOR 2"
+  },
+  {
+    "cat": "2620260003885",
+    "apelido": "MPSP - TAUBATÉ"
+  },
+  {
+    "cat": "2620240009581",
+    "apelido": "ITAPEVI - UBS SANTA RITA"
+  },
+  {
+    "cat": "2620220002215",
+    "apelido": "JANDIRA 3 GINÁSIOS"
+  },
+  {
+    "cat": "2620230009607",
+    "apelido": "AV ALBERTO RUFFOLO - PREFEITURA DE JANDIRA"
+  },
+  {
+    "cat": "2620230011373",
+    "apelido": "PREFEITURA DO MUNICÍPIO DE JANDIRA - UBS JD. GABRIELA"
+  },
+  {
+    "cat": "2620220005110",
+    "apelido": "VILA MARCELO, RUA ANA ROSA"
+  },
+  {
+    "cat": "SZC-21758",
+    "apelido": "SAMU"
+  },
+  {
+    "cat": "2620250003729",
+    "apelido": "PARQUE LINEAR INVERNADA"
+  },
+  {
+    "cat": "2620230006421",
+    "apelido": "VIADUTO DONA PAULINA"
+  },
+  {
+    "cat": "2620230006452",
+    "apelido": "SERVIÇO FUNERAL"
+  },
+  {
+    "cat": "SZC-19636",
+    "apelido": "CONDOMÍNIO COLUMBIA, EDIFICIO"
+  },
+  {
+    "cat": "SZC-19666",
+    "apelido": "CONDOMÍNIO EDIFÍCIO ATLANTA OFFICE CENTER"
+  },
+  {
+    "cat": "2620250001120",
+    "apelido": "RUA DENNIS CHAUDET"
+  },
+  {
+    "cat": "2620250001080",
+    "apelido": "RUA DR. BRITO"
+  },
+  {
+    "cat": "2620250000724",
+    "apelido": "CIDADE ADEMAR - RUA ANTONIO GIL"
+  },
+  {
+    "cat": "2620250000800",
+    "apelido": "CIDADE ADEMAR - RUA DOS ROBALOS"
+  },
+  {
+    "cat": "2620250000781",
+    "apelido": "ERMELINO MATARAZZO - ESCADARIA PADRE CÍCERO"
+  },
+  {
+    "cat": "2620230015182",
+    "apelido": "GUAIANASES, PÇA CAFEEIRO"
+  },
+  {
+    "cat": "2620250001123",
+    "apelido": "ESCADARIA DR. ALCIDES DE CAMPOS"
+  },
+  {
+    "cat": "2620240002449",
+    "apelido": "JAÇANÃ-TREMEMBÉ - PRAÇA RUA DOS PASSÁROS"
+  },
+  {
+    "cat": "2620250000779",
+    "apelido": "PENHA - PRAÇA HIDEO TAKEMURA"
+  },
+  {
+    "cat": "2620240024234",
+    "apelido": "SÃO MATEUS - PISTA DE SKATE (PRAÇA DO VINHO)"
+  },
+  {
+    "cat": "2620240011366",
+    "apelido": "VILA MARIANA - CACHORRÓDROMO PÇ DAVID NASSER"
+  },
+  {
+    "cat": "2620240020444",
+    "apelido": "VILA MARIANA - JARDINS DE CHUVA - UVAIAS E RUA MAURO"
+  },
+  {
+    "cat": "2620240016240",
+    "apelido": "VILA PRUDENTE, TOKUCHIKA MIKI - 1° PARTE"
+  },
+  {
+    "cat": "2620150005641",
+    "apelido": "PROJETO DE GALERIA RUA PARICÁ X CORREGO ORATÓRIO"
+  },
+  {
+    "cat": "2620240024634",
+    "apelido": "VILA PRUDENTE, AV. THOMAZ DE MAGALHAES"
+  },
+  {
+    "cat": "2620230012723",
+    "apelido": "PÇA ABEL FERREIRA - ARICANDUVA-CARRÃO-VILA FORMOSA"
+  },
+  {
+    "cat": "2620230014616",
+    "apelido": "RUA DR MARIANO CURSINO DE MOURA - ARICANDUVA"
+  },
+  {
+    "cat": "2620230014273",
+    "apelido": "VIELA RUA LUIZ ANTONIO DE ABREU - BUTANTA"
+  },
+  {
+    "cat": "2620110009378",
+    "apelido": "BRINQUEDOTECA BUTANTÃ"
+  },
+  {
+    "cat": "2620110010371",
+    "apelido": "EQUIPTOS. 3ª IDADE"
+  },
+  {
+    "cat": "2620250002352",
+    "apelido": "AV. JOSÉ JOAQUIM SEABRA"
+  },
+  {
+    "cat": "2620250004846",
+    "apelido": "PRAÇA RUA SEBASTIÃO GONÇALVES"
+  },
+  {
+    "cat": "2620250012064",
+    "apelido": "RUA SYLVIO LAGRECA"
+  },
+  {
+    "cat": "2620170002067",
+    "apelido": "CAPELA SOCORRO - AV MANUEL MAIA"
+  },
+  {
+    "cat": "2620180006048",
+    "apelido": "PQ SHANGRILA"
+  },
+  {
+    "cat": "2620260003226",
+    "apelido": "PRAÇA TRÊS CORAÇÕES"
+  },
+  {
+    "cat": "2620250002109",
+    "apelido": "PRAÇA SANTISSIMA TRINDADE"
+  },
+  {
+    "cat": "2620160000593",
+    "apelido": "BRINQUEDOS, AV. BATISTA MACIEL - CID. ADEMAR"
+  },
+  {
+    "cat": "2620210009765",
+    "apelido": "CIDADE ADEMAR, RUA RODRIGUES DE MEDEIROS"
+  },
+  {
+    "cat": "2620210001768",
+    "apelido": "CIDADE ADEMAR, VIELAS TIMOTEO, CONCEIÇÃO"
+  },
+  {
+    "cat": "2620160004906",
+    "apelido": "EQUIPAMENTO 3ª IDADE PÇA. PROF. JOSÉ B. MEDINA"
+  },
+  {
+    "cat": "2620160002122",
+    "apelido": "ESCADÃO TV. RUA ANGELO REMAZOTI"
+  },
+  {
+    "cat": "2620150011958",
+    "apelido": "ESCADARIA NORMAN CORDON - CID. ADEMAR"
+  },
+  {
+    "cat": "2620160002696",
+    "apelido": "VESTIÁRIO RUA SEBASTIÃO AFONSO, CIDADE ADEMAR"
+  },
+  {
+    "cat": "2620160005851",
+    "apelido": "VIELA MARIO ANGELO CAPOCHI"
+  },
+  {
+    "cat": "2620230013351",
+    "apelido": "ASSOCIAÇÃO ESPORTIVA SANTA AMÉLIA - CIDADE ADEMAR"
+  },
+  {
+    "cat": "2620250004843",
+    "apelido": "JAMIL JORGE"
+  },
+  {
+    "cat": "2620250010159",
+    "apelido": "RUA DOS APIARIS"
+  },
+  {
+    "cat": "2620250010233",
+    "apelido": "TRAVESSA MUITA MANGUEIRA"
+  },
+  {
+    "cat": "2620250010144",
+    "apelido": "TRAVESSA AFONSO LEROY"
+  },
+  {
+    "cat": "2620220006551",
+    "apelido": "RUA LADAINHA DO MAR"
+  },
+  {
+    "cat": "2620120003043",
+    "apelido": "II VESTIÁRIO CIDADE TIRADENTES"
+  },
+  {
+    "cat": "2620230005357",
+    "apelido": "FREGUESIA DO Ó, PRAÇA LAZARO MIGUEL DOS SANTOS"
+  },
+  {
+    "cat": "2620230012720",
+    "apelido": "IPE CACUANHA X WILSON ACKEL - GUAIANASES"
+  },
+  {
+    "cat": "2620200007446",
+    "apelido": "PARELHEIROS, RUA ISABELA CANALE"
+  },
+  {
+    "cat": "2620250003199",
+    "apelido": "TV. JOSÉ ALVES DO ROSÁRIO"
+  },
+  {
+    "cat": "2620250003257",
+    "apelido": "PAVIMENTAÇÃO DES MANOEL"
+  },
+  {
+    "cat": "2620230009547",
+    "apelido": "AV DAS NAÇÕES UNIDAS - PINHEIROS"
+  },
+  {
+    "cat": "2620160003598",
+    "apelido": "MURO SÃO MATEUS"
+  },
+  {
+    "cat": "2620250001438",
+    "apelido": "CDC COTINHA"
+  },
+  {
+    "cat": "2620250002116",
+    "apelido": "SALÃO MULTIUSO MANUEL LEIROZ"
+  },
+  {
+    "cat": "2620250004317",
+    "apelido": "PRAÇA COSME E DAMIÃO"
+  },
+  {
+    "cat": "2620250010465",
+    "apelido": "GRAMA SINTETICA - PRACA LAZARO MIGUAL"
+  },
+  {
+    "cat": "2620250005747",
+    "apelido": "RUA FREI JOSÉ DA NATIVIDADE"
+  },
+  {
+    "cat": "2620250005749",
+    "apelido": "SALÃO MULTIUSO UTARO KANAI"
+  },
+  {
+    "cat": "2620250005746",
+    "apelido": "PAVIMENTAÇÃO TV. RUA UM"
+  },
+  {
+    "cat": "2620160005083",
+    "apelido": "CDHU IPIRANGA"
+  },
+  {
+    "cat": "2620210004788",
+    "apelido": "IPIRANGA, CALÇADA HOSPITAL HELIOPOLIS"
+  },
+  {
+    "cat": "2620210004787",
+    "apelido": "IPIRANGA, CAPEAMENTO ASFÁLTICO"
+  },
+  {
+    "cat": "2620160006743",
+    "apelido": "PISTA DE SKATE CINGAPURA IMIGRANTES"
+  },
+  {
+    "cat": "2620160005267",
+    "apelido": "PISTA DE SKATE DOM VILARES"
+  },
+  {
+    "cat": "2620160006528",
+    "apelido": "PRAÇA BELMIRO VAMPEL"
+  },
+  {
+    "cat": "2620230008697",
+    "apelido": "PRAÇA NAMI JAFET"
+  },
+  {
+    "cat": "2620230008694",
+    "apelido": "RUA CORONEL SILVA CASTRO - IPIRANGA"
+  },
+  {
+    "cat": "2620250002599",
+    "apelido": "QUADRA ABAGIBA"
+  },
+  {
+    "cat": "2620250001439",
+    "apelido": "QUADRA SIMÃO LOPES"
+  },
+  {
+    "cat": "2620250010799",
+    "apelido": "QUADRA JOSE BONIFACIO"
+  },
+  {
+    "cat": "2620260002291",
+    "apelido": "RUA PIERRE LESCOT"
+  },
+  {
+    "cat": "2620230012419",
+    "apelido": "RUA MONTE REAL - JABAQUARA"
+  },
+  {
+    "cat": "2620230012417",
+    "apelido": "PÇA ANTIBES - JABAQUARA"
+  },
+  {
+    "cat": "2620230012427",
+    "apelido": "PÇA HASHIRO MIYASAKI - JABAQUARA"
+  },
+  {
+    "cat": "2620230012432",
+    "apelido": "RUA TIMBORÉ - JABAQUARA"
+  },
+  {
+    "cat": "2620230014805",
+    "apelido": "RUA DAS VITACEAS - JABAQUARA"
+  },
+  {
+    "cat": "2620230014793",
+    "apelido": "TRAVESSA ANGELO LAZARY - JABAQUARA"
+  },
+  {
+    "cat": "2620250001517",
+    "apelido": "GRUMIXAMAS"
+  },
+  {
+    "cat": "2620250001514",
+    "apelido": "QUADRA DOS CISNES"
+  },
+  {
+    "cat": "2620250011924",
+    "apelido": "PRAÇA TEOTÔNIO ALVES DA SILVA"
+  },
+  {
+    "cat": "2620260002564",
+    "apelido": "RUA DOS CISNES"
+  },
+  {
+    "cat": "2620230014266",
+    "apelido": "PRAÇA DR. JOAO PEREIRA MONTEIRO JUNIOR - LAPA"
+  },
+  {
+    "cat": "2620220003944",
+    "apelido": "M'BOI MIRIM, PASSARELA RUA DAMASCO"
+  },
+  {
+    "cat": "2620210009561",
+    "apelido": "PARELHEIROS, ALAMEDA DOS JURITIS"
+  },
+  {
+    "cat": "2620210009294",
+    "apelido": "PARELHEIROS, AV PAIOL, R HESSEL, R JACEGUAVA"
+  },
+  {
+    "cat": "2620210009295",
+    "apelido": "PARELHEIROS, R AMELIA CASAL (TRECHO I)"
+  },
+  {
+    "cat": "2620210009296",
+    "apelido": "PARELHEIROS, R CONDE GALVEIAS, R B MARAIRES"
+  },
+  {
+    "cat": "2620210009297",
+    "apelido": "PARELHEIROS, R MARCÍLIA ZILLIG DE ARAÚJO"
+  },
+  {
+    "cat": "2620200007447",
+    "apelido": "PARELHEIROS, RUA GABRIEL BARCO"
+  },
+  {
+    "cat": "2620200007446",
+    "apelido": "PARELHEIROS, RUA ISABELA CANALE"
+  },
+  {
+    "cat": "2620200007448",
+    "apelido": "PARELHEIROS, RUA WILLIAN NAPIER"
+  },
+  {
+    "cat": "2620210009562",
+    "apelido": "PARELHEIROS, TRAVESSA RECREIO ALEGRE"
+  },
+  {
+    "cat": "2620250001119",
+    "apelido": "ALAMBRADO CAMPO EST DA COLONIA"
+  },
+  {
+    "cat": "2620250001112",
+    "apelido": "AV PROF HERMOGENES"
+  },
+  {
+    "cat": "2620250001211",
+    "apelido": "RUA DR JOAO BATISTA"
+  },
+  {
+    "cat": "2620250001117",
+    "apelido": "RUA RICARDO VINES"
+  },
+  {
+    "cat": "2620250001127",
+    "apelido": "VIELA DO SARNEY"
+  },
+  {
+    "cat": "2620250001433",
+    "apelido": "RUA DOS JOGRAIS"
+  },
+  {
+    "cat": "2620250004978",
+    "apelido": "PAVIMENTAÇÃO 3 ENDEREÇOS"
+  },
+  {
+    "cat": "2620250003230",
+    "apelido": "QUADRA AV. DALILA"
+  },
+  {
+    "cat": "2620250003208",
+    "apelido": "PRAÇA VILA SANTA CRUZ"
+  },
+  {
+    "cat": "2620230012294",
+    "apelido": "PRAÇA COMENDADOR MANUEL DE MELO PIMENTA - PINHEIROS"
+  },
+  {
+    "cat": "2620250005221",
+    "apelido": "PRAÇA PROVINCIA SAITAMA"
+  },
+  {
+    "cat": "2620250005288",
+    "apelido": "REFORMA DA SUBPREFEITURA DE PINHEIROS"
+  },
+  {
+    "cat": "2620110002347",
+    "apelido": "AVENIDA IMIRIM"
+  },
+  {
+    "cat": "2620260001552",
+    "apelido": "ESCADARIA MARIA LUIZA"
+  },
+  {
+    "cat": "2620210001235",
+    "apelido": "SÃO MATEUS, PRAÇA JOSÉ DE ARAÚJO"
+  },
+  {
+    "cat": "2620230008979",
+    "apelido": "RUA BANDEIRA DO SUL - SÃO MATEUS"
+  },
+  {
+    "cat": "2620250010678",
+    "apelido": "SALAO MULTIUSO RUA JULIO CESAR MOREIRA"
+  },
+  {
+    "cat": "2620250010925",
+    "apelido": "RUA CARMEM TORTOLA"
+  },
+  {
+    "cat": "2620250010924",
+    "apelido": "RUA CANIL POLAR"
+  },
+  {
+    "cat": "2620170004312",
+    "apelido": "PRAÇA ANTONIO BORGES DE ALMEIDA"
+  },
+  {
+    "cat": "2620230011463",
+    "apelido": "SEDE VILA MARIANA ( RUA JOSE DE MAGALHAES )"
+  },
+  {
+    "cat": "2620230011380",
+    "apelido": "CALÇADA SANTA CRUZ - VILA MARIANA"
+  },
+  {
+    "cat": "2620230011381",
+    "apelido": "JARDIM DE CHUVA - VILA MARIANA"
+  },
+  {
+    "cat": "2620230011378",
+    "apelido": "PRAÇA GUTI - VILA MARIANA"
+  },
+  {
+    "cat": "2620250003108",
+    "apelido": "AVENIDA JURANDIR"
+  },
+  {
+    "cat": "2620250003129",
+    "apelido": "CACHORRODROMO RAUL ABERLE"
+  },
+  {
+    "cat": "2620250003172",
+    "apelido": "PRAÇA RAFAEL SANZIO"
+  },
+  {
+    "cat": "2620230004558",
+    "apelido": "PRAÇA MARIA DA PENHA NASCIMENTO SILVA"
+  },
+  {
+    "cat": "2620230004555",
+    "apelido": "PASSARELA ANTÔNIO FABIANO"
+  },
+  {
+    "cat": "2620250006712",
+    "apelido": "PRAÇA MAIRARA"
+  },
+  {
+    "cat": "2620250017221",
+    "apelido": "PRAÇA MAIRARA PLAYGROUND LÚDICO"
+  },
+  {
+    "cat": "SZC-19637",
+    "apelido": "AVENIDA ADUTORA RIO CLARO"
+  },
+  {
+    "cat": "SZC-19096",
+    "apelido": "AVENIDA ZELINA"
+  },
+  {
+    "cat": "SZC-21516",
+    "apelido": "CALÇADA ANTONIO MARQUES JULIÃO"
+  },
+  {
+    "cat": "2620120003045",
+    "apelido": "CALÇADA RUA DOS NAVEGADORES"
+  },
+  {
+    "cat": "SZC-21589",
+    "apelido": "CAPITÃO LOPES DORNELES"
+  },
+  {
+    "cat": "SZC-19095",
+    "apelido": "CUSTÓDIO DE SÁ"
+  },
+  {
+    "cat": "SZC-19096",
+    "apelido": "CUSTÓDIO DE SÁ"
+  },
+  {
+    "cat": "SZC-19638",
+    "apelido": "EMEI SÃO LUCAS CALÇADA"
+  },
+  {
+    "cat": "2620150005647",
+    "apelido": "EQUIPAMENTOS PRAÇA JOÃO GARCIA GIMENEZ"
+  },
+  {
+    "cat": "SZC-21520",
+    "apelido": "ESCADARIA MASCARENHA DE MORAES"
+  },
+  {
+    "cat": "SZC-19091",
+    "apelido": "FRANCISCO FALCONI"
+  },
+  {
+    "cat": "2620150005663",
+    "apelido": "GALERIA SOLDADO CÂNDIDO"
+  },
+  {
+    "cat": "SZC-21590",
+    "apelido": "HERMITA CALVO"
+  },
+  {
+    "cat": "SZC - 21229",
+    "apelido": "HUMBERTO REIS COSTA"
+  },
+  {
+    "cat": "SZC-19419",
+    "apelido": "JOÃO LOPES LIMA ACESSIBILIDADE - 19419"
+  },
+  {
+    "cat": "SZC-19639",
+    "apelido": "MERCADO DE FLORES VILA ALPINA - 19639"
+  },
+  {
+    "cat": "SZC-21588",
+    "apelido": "PAISAGISMO AVENIDA DO ORATORIO"
+  },
+  {
+    "cat": "SZC-21231",
+    "apelido": "PAISAGISMO SETE CIDADES"
+  },
+  {
+    "cat": "SZC-19216",
+    "apelido": "PARQUE SÃO LUCAS - 19216"
+  },
+  {
+    "cat": "SZC-21521",
+    "apelido": "PISTA DE SKATE"
+  },
+  {
+    "cat": "SZC-15872",
+    "apelido": "PRAÇA ALBERTO AUGUSTO LAVOURA"
+  },
+  {
+    "cat": "SZC-15871",
+    "apelido": "PRAÇA ARLETE ALVES DA SILVA FRAGA"
+  },
+  {
+    "cat": "SZC-19040",
+    "apelido": "PRAÇA DO RETORNO 2"
+  },
+  {
+    "cat": "2620150005658",
+    "apelido": "PRAÇA E QUADRA MARIA FARDO COLACCIOPO"
+  },
+  {
+    "cat": "SZC-19039",
+    "apelido": "PRAÇA PAULINO MENDO"
+  },
+  {
+    "cat": "SZC-19092",
+    "apelido": "PRAÇA SANTA HELENA"
+  },
+  {
+    "cat": "2620110006680",
+    "apelido": "PROJETO GALERIA SALVADOR MOTA"
+  },
+  {
+    "cat": "2620150005618",
+    "apelido": "PROJETO GALERIA SANTA MARIA DO CAMBUCA"
+  },
+  {
+    "cat": "SZC-19094",
+    "apelido": "PROJETO PAULINO MENDO"
+  },
+  {
+    "cat": "2620110005171",
+    "apelido": "QUADRA DO VORAS"
+  },
+  {
+    "cat": "SZC-15870",
+    "apelido": "REPÚBLICA LITUANA"
+  },
+  {
+    "cat": "SZC-21522",
+    "apelido": "RUA PADRE BRUNO RICCO"
+  },
+  {
+    "cat": "SZC-19093",
+    "apelido": "SAPOPEMBA ECOPONTO"
+  },
+  {
+    "cat": "SZC-21230",
+    "apelido": "SARGENTO EDESIO"
+  },
+  {
+    "cat": "2620250006726",
+    "apelido": "CDC ROMERA VAL"
+  },
+  {
+    "cat": "2620250006735",
+    "apelido": "GALERIA RUA MARCELO MULLER"
+  },
+  {
+    "cat": "2620230014271",
+    "apelido": "ELETRICA TJ CASA BRANCA - TJ"
+  },
+  {
+    "cat": "2620250017814",
+    "apelido": "TJSP - CASA BRANCA - REFORÇO ESTRUTURAL"
+  },
+  {
+    "cat": "SZC-19240",
+    "apelido": "ESCRITÓRIO JHSF - 19240"
+  },
+  {
+    "cat": "SZC-19242",
+    "apelido": "ESCRITÓRIO SHOPPING CIDADE JARDIM"
+  },
+  {
+    "cat": "SZC-19241",
+    "apelido": "FACHADA SHOPPING CIDADE JARDIM"
+  },
+  {
+    "cat": "SZC-19596",
+    "apelido": "ESCRITÓRIO WESCHEL - 19596"
+  }
+]

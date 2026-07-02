@@ -1,0 +1,555 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620160005083",
+    "numero_art": "92221220160506013",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA DO IPIRANGA",
+    "cnpj_contratante": "05.636.771/0001-93",
+    "objeto": "Direção, Execução, Urbanização. 1319,26000 metro quadrado. 2) Direção, Execução, Requalificação. 1319,26000 metro quadrado. 3) Direção, Execução, Construção de Praça. 1319,26000 metro quadrado.",
+    "processo_administrativo": null,
+    "contrato": "034/SP-IP/2014",
+    "endereco_obra": "RUA GIÁCOMO COZZARELLI",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2014-12-01",
+    "data_fim": "2015-09-28",
+    "area_m2": 1319.26,
+    "valor_contrato": 186300.08
+  },
+  "servicos": [
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "01-01-07",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 115.57,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "01-01-08",
+      "fonte": null,
+      "descricao": "LIMPEZA MANUAL GERAL INCLUSIVE REMOÇÃO DE COBERTURA VEGETAL-TRONCO ATÉ 10CM - SEM TRANSPORTE",
+      "unidade": "M2",
+      "quantidade": 47.34,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "01-04-48",
+      "fonte": null,
+      "descricao": "CAIXA DE LIGAÇÃO OU INSPEÇÃO - ESCAVAÇÃO E APILOAMENTO",
+      "unidade": "M3",
+      "quantidade": 2.3,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "01-04-49",
+      "fonte": null,
+      "descricao": "CAIXA DE LIGAÇÃO OU INSPEÇÃO - LASTRO DE CONCRETO (FUNDO)",
+      "unidade": "M3",
+      "quantidade": 0.19,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "01-04-50",
+      "fonte": null,
+      "descricao": "CAIXA DE LIGAÇÃO OU INSPEÇÃO - ALVENARIA DE 1/2 TIJOLO, REVESTIDA",
+      "unidade": "M2",
+      "quantidade": 8.4,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "01-04-52",
+      "fonte": null,
+      "descricao": "CAIXA DE LIGAÇÃO OU INSPEÇÃO - TAMPA DE CONCRETO",
+      "unidade": "M2",
+      "quantidade": 0.1,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "FUNDACOES",
+      "codigo": "02-02-01",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL COM PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 19.02,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "FUNDACOES",
+      "codigo": "02-50-05",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MECANIZADA DE CONCRETO SIMPLES",
+      "unidade": "M3",
+      "quantidade": 4.5,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "FUNDACOES",
+      "codigo": "02-50-06",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MECANIZADA DE CONCRETO ARMADO",
+      "unidade": "M3",
+      "quantidade": 2.4,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "VEDOS",
+      "codigo": "04-01-41",
+      "fonte": null,
+      "descricao": "BLOCOS VAZADOS DE CONCRETO - 14CM",
+      "unidade": "M2",
+      "quantidade": 10.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "VEDOS",
+      "codigo": "04-01-62",
+      "fonte": null,
+      "descricao": "BLOCOS VAZADOS DE CONCRETO ESTRUTURAL APARENTE - 14CM - ATÉ 6MPA",
+      "unidade": "M2",
+      "quantidade": 72.15,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "VEDOS",
+      "codigo": "04-01-95",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-50 PARA BLOCOS VAZADOS DE CONCRETO ESTRUTURAL",
+      "unidade": "KG",
+      "quantidade": 60.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "VEDOS",
+      "codigo": "04-01-97",
+      "fonte": null,
+      "descricao": "CONCRETO \"GROUT\"",
+      "unidade": "M3",
+      "quantidade": 1.5,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "INSTALACOES ELETRICAS",
+      "codigo": "09-02-53",
+      "fonte": null,
+      "descricao": "ELETRODUTO DE POLIETILENO FLEXÍVEL, ALTA RESISTÊNCIA - 2\"",
+      "unidade": "M",
+      "quantidade": 80.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "INSTALACOES ELETRICAS",
+      "codigo": "09-02-98",
+      "fonte": null,
+      "descricao": "ENVELOPAMENTO DE ELETRODUTO ENTERRADO, COM CONCRETO",
+      "unidade": "M",
+      "quantidade": 80.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "INSTALACOES ELETRICAS",
+      "codigo": "09-03-32",
+      "fonte": null,
+      "descricao": "CABO 10,00MM2 - ISOLAMENTO PARA 1,0KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 160.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "INSTALACOES ELETRICAS",
+      "codigo": "09-20-33",
+      "fonte": null,
+      "descricao": "POSTE DE AÇO GALVANIZADO TIPO RETO, FLANGEADO H=5M COM LUMINÁRIA HERMÉTICA EM ALUMÍNIO FUNDIDO PARA LÂMPADA DE VAPOR DE MERCURIO DE 250W - COM APROVAÇÃO DE ILUME/PMSP",
+      "unidade": "UN",
+      "quantidade": 5.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "INSTALACOES ELETRICAS",
+      "codigo": "09-83-51",
+      "fonte": null,
+      "descricao": "FOTOCELULA SOLAR-RELÊ FOTOELÉTRICO CAPACIDADE-1000W",
+      "unidade": "UN",
+      "quantidade": 5.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "REVESTIMENTOS",
+      "codigo": "11-80-01",
+      "fonte": null,
+      "descricao": "REPAROS EM TRINCAS E RACHADURAS",
+      "unidade": "M",
+      "quantidade": 50.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "PISOS",
+      "codigo": "13-03-65",
+      "fonte": null,
+      "descricao": "DEGRAUS DE ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M",
+      "quantidade": 40.85,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": "15-01-02",
+      "fonte": null,
+      "descricao": "AGUADA DE CAL - CONCRETO OU REBOCO SEM MASSA CORRIDA, EXTERIOR",
+      "unidade": "M2",
+      "quantidade": 1265.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SERV.COMPLEMENTARES",
+      "codigo": "17-01-18",
+      "fonte": null,
+      "descricao": "FC.03 - CERCA DE TELA GALVANIZADA, MOURÃO EM \"T\" DE CONCRETO COM MURETA",
+      "unidade": "M",
+      "quantidade": 42.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "SERV.COMPLEMENTARES",
+      "codigo": "17-01-29",
+      "fonte": null,
+      "descricao": "FF.03 - ALAMBRADO PARA QUADRAS DE ESPORTE - GP.6/EDIF - TG/4,5M",
+      "unidade": "M",
+      "quantidade": 50.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "SERV.COMPLEMENTARES",
+      "codigo": "17-02-65",
+      "fonte": null,
+      "descricao": "PAVIMENTOS PERMEÁVEIS - PERFIL PARA CALÇADAS E PASSEIOS COM PISO DE CONCRETO PRÉ-MOLDADO INTERTRAVADO DRENANTE COM INFILTRAÇÃO TOTAL",
+      "unidade": "M2",
+      "quantidade": 157.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "SERV.COMPLEMENTARES",
+      "codigo": "17-03-61",
+      "fonte": null,
+      "descricao": "TRAVE PARA FUTEBOL DE SALÃO, INCLUSIVE PINTURA E REDE",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "SERV.COMPLEMENTARES",
+      "codigo": "17-03-63",
+      "fonte": null,
+      "descricao": "TABELA PARA BASQUETE, ENGLOBANDO DESDE FUNDAÇÃO ATÉ A CESTA DE NYLON",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "SERV.COMPLEMENTARES",
+      "codigo": "17-03-70",
+      "fonte": null,
+      "descricao": "DEMARCAÇÃO E PINTURA DE SUPERFÍCIES - BORRACHA CLORADA",
+      "unidade": "M2",
+      "quantidade": 425.5,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "SERV.COMPLEMENTARES",
+      "codigo": "17-04-01",
+      "fonte": null,
+      "descricao": "LIMPEZA GERAL DA OBRA",
+      "unidade": "M2",
+      "quantidade": 1319.26,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "SERV.COMPLEMENTARES",
+      "codigo": "17-50-15",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE ALAMBRADO DE TELA GALVANIZADA",
+      "unidade": "M2",
+      "quantidade": 50.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "SERV.COMPLEMENTARES",
+      "codigo": "17-60-50",
+      "fonte": null,
+      "descricao": "RETIRADA DE BRINQUEDOS",
+      "unidade": "UN",
+      "quantidade": 9.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "SERV.COMPLEMENTARES",
+      "codigo": "17-60-96",
+      "fonte": null,
+      "descricao": "RETIRADA DE CERCA DE TELA GALVANIZADA E RESPECTIVOS MOURÕES (FC 04/05)",
+      "unidade": "M",
+      "quantidade": 42.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": "18-02-00",
+      "fonte": null,
+      "descricao": "ÁRVORES E PALMEIRAS - FORNECIMENTO E PLANTIO",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": "18-02-25",
+      "fonte": null,
+      "descricao": "IPÉ AMARELO (TABEBUIA CHRYSOTRICHA)",
+      "unidade": "UN",
+      "quantidade": 8.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": "18-02-26",
+      "fonte": null,
+      "descricao": "IPÊ ROSA (TABEBUIA AVELLANEDAE)",
+      "unidade": "UN",
+      "quantidade": 5.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": "18-02-27",
+      "fonte": null,
+      "descricao": "IPÊ ROXO (TABEBUIA IMPETIGINOSA)",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": "18-03-00",
+      "fonte": null,
+      "descricao": "ARBUSTOS, FORRAÇÕES E TREPADEIRAS - FORNECIMENTO E PLANTIO",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": "18-03-05",
+      "fonte": null,
+      "descricao": "GRAMA ESMERALDA",
+      "unidade": "M2",
+      "quantidade": 173.7,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "MOBILIÁRIO EXTERNO",
+      "codigo": "18-12-06",
+      "fonte": null,
+      "descricao": "IC.06-BANCO EM CONCRETO APARENTE, TIPO PMSP",
+      "unidade": "M",
+      "quantidade": 13.5,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "BRINQUEDOS INDUSTRIALIZADOS",
+      "codigo": "18-14-05",
+      "fonte": null,
+      "descricao": "CARROSSEL PARA 20 LUGARES, DIÂMETRO 2,20M, FORNECIMENTO E INSTALAÇÃO",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "BRINQUEDOS DE MADEIRA",
+      "codigo": "18-14-45",
+      "fonte": null,
+      "descricao": "PLAYGROUND BRINQUEDOS DE MADEIRA - ESCORREGADOR ( ALT. 1,80M COMP.=3,00M)",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "BRINQUEDOS DE MADEIRA",
+      "codigo": "18-14-46",
+      "fonte": null,
+      "descricao": "PLAYGROUND BRINQUEDOS DE MADEIRA - GANGORRA DUPLA",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "BRINQUEDOS DE MADEIRA",
+      "codigo": "18-14-46",
+      "fonte": null,
+      "descricao": "PLAYGROUND BRINQUEDOS DE MADEIRA - GANGORRA DUPLA",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "BRINQUEDOS DE MADEIRA",
+      "codigo": "18-14-41",
+      "fonte": null,
+      "descricao": "PLAYGROUND BRINQUEDOS DE MADEIRA - CASA TARZAN COM RAMPA ESCALADA, ESCORREGADOR, PONTE E ESCADA MARINHEIRO",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "ACADEMIA DA TERCEIRA IDADE",
+      "codigo": "ATI 01",
+      "fonte": null,
+      "descricao": "MULTI-EXERCITADOR CONJUGADO COM 6 (SEIS) FUNÇÕES DISTINTAS, SENDO: 1°) Flexor de Fernas; 2°) Extensor de Pernas; 3°) Supino Reto Sentado; 4°) Supino Inclinado Sentado; 5°) Rotação Vertical Individual; 6°) Puxada Alta.",
+      "unidade": "Equipamento",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "ACADEMIA DA TERCEIRA IDADE",
+      "codigo": "ATI 03",
+      "fonte": null,
+      "descricao": "SIMULADOR DE CAVALGADA TRIPLO CONJUGADO.",
+      "unidade": "Equipamento",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "ACADEMIA DA TERCEIRA IDADE",
+      "codigo": "ATI 03",
+      "fonte": null,
+      "descricao": "SIMULADOR DE CAVALGADA TRIPLO CONJUGADO.",
+      "unidade": "Equipamento",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": "ACADEMIA DA TERCEIRA IDADE",
+      "codigo": "ATI 07",
+      "fonte": null,
+      "descricao": "SIMULADOR DE CAMINHADA TRIPLO CONJUGADO",
+      "unidade": "Equipamento",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": "ACADEMIA DA TERCEIRA IDADE",
+      "codigo": "ATI 09",
+      "fonte": null,
+      "descricao": "ESQUI TRIPLO CONJUGADO",
+      "unidade": "Equipamento",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 29
+    },
+    {
+      "grupo": "ACADEMIA DA TERCEIRA IDADE",
+      "codigo": "ATI 11",
+      "fonte": null,
+      "descricao": "ROTAÇÃO VERTICAL - APARELHO TRIPLO CONJUGADO",
+      "unidade": "Equipamento",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 30
+    },
+    {
+      "grupo": "ACADEMIA DA TERCEIRA IDADE",
+      "codigo": "ATI 13",
+      "fonte": null,
+      "descricao": "ROTAÇÃO DIAGONAL DUPLA - APARELHO TRIPLO CONJUGADO",
+      "unidade": "Equipamento",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 31
+    },
+    {
+      "grupo": "ACADEMIA DA TERCEIRA IDADE",
+      "codigo": "ATI 16",
+      "fonte": null,
+      "descricao": "SIMULADOR DE REMO",
+      "unidade": "Equipamento",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "ACADEMIA DA TERCEIRA IDADE",
+      "codigo": "ATI 17",
+      "fonte": null,
+      "descricao": "PLACA ORIENTATIVA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "ACADEMIA DA TERCEIRA IDADE",
+      "codigo": "ATI 18",
+      "fonte": null,
+      "descricao": "LIXEIRA COM TUBOS E CESTA PERFURADA EM AÇO - 435 X 365 MM (CAPACIDADE 50 LITROS)",
+      "unidade": "UN",
+      "quantidade": 10.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 3
+    }
+  ],
+  "apelido": "CDHU IPIRANGA"
+}

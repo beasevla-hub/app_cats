@@ -1,0 +1,225 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620250010144",
+    "numero_art": "28027230231458106",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "PHAS ENGENHARIA, CONSTRUÇÕES E SERVIÇOS LTDA",
+    "contratante": "SUBPREFEITURA CIDADE ADEMAR",
+    "cnpj_contratante": "05.587.823/0001-89",
+    "objeto": "CONTRATAÇÃO DE EMPRESA DE ENGENHARIA OU ARQUITETURA PARA EXECUÇÃO DE OBRAS PARA READEQUAÇÃO DE ÁREA PÚBLICA MUNICIPAL LOCALIZADA NA TRAVESSA AFONSO LEROY E RUA PROFESSOR AZAMBUJA SUZANO, ALTURA DO Nº 159 SÃO PAULO SP.",
+    "processo_administrativo": "6034.2023/0001515-2",
+    "contrato": "013/SUB-AD/2023",
+    "endereco_obra": "TRAVESSA AFONSO LEROY",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2023-09-05",
+    "data_fim": "2023-11-03",
+    "area_m2": 517.5,
+    "valor_contrato": 214435.54
+  },
+  "servicos": [
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TELA PARA PROTEÇÃO DE OBRAS, MALHA 2 MM",
+      "unidade": "M2",
+      "quantidade": 54.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TAPUME CHAPA COMPENSADA 6MM",
+      "unidade": "M2",
+      "quantidade": 46.2,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "REMOÇÃO DE PINTURA EM ESQUADRIAS E PEÇAS DE SERRALHERIA - LIXA",
+      "unidade": "M2",
+      "quantidade": 86.4,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "SERRALHERIA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "DP.05 CORRIMÃO EM TUBO GALVANIZADO COM GUARDA CORPO",
+      "unidade": "M",
+      "quantidade": 22.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": null,
+      "fonte": "DEGRAUS",
+      "descricao": "DEGRAUS DE ARGAMASSA DE ALTA RESISTÊNCIA",
+      "unidade": "M",
+      "quantidade": 52.8,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "POSTE GALVANIZADO, RETO, FLANGEADO, H=5M COM LUMINÁRIA HERMÉTICA TIPO LED DE 150W COM APROVAÇÃO DE ILUME/PMSP, INCLUSIVE CAIXA DE INSPEÇÃO DE ALVENARIA 40X40X40CM DE 1 TIJOLO COM TAMPA DE CONCRETO",
+      "unidade": "UN",
+      "quantidade": 4.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CABO DE MÉDIA TENSÃO PARA 12/20KV - 1 X 35MM2 UNIPOLAR",
+      "unidade": "M",
+      "quantidade": 270.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 900.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO - ESQUADRIAS E PEÇAS DE SERRALHERIA",
+      "unidade": "M2",
+      "quantidade": 900.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "LIMPEZA E LAVAGEM DE PISO POR HIDROJATEAMENTO",
+      "unidade": "M2",
+      "quantidade": 429.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TELA PARA PROTEÇÃO DE OBRAS, MALHA 2 MM",
+      "unidade": "M2",
+      "quantidade": 36.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TAPUME CHAPA COMPENSADA 6MM",
+      "unidade": "M2",
+      "quantidade": 44.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "REMOÇÃO DE PINTURA EM ESQUADRIAS E PEÇAS DE SERRALHERIA - LIXA",
+      "unidade": "M2",
+      "quantidade": 47.07,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "SERRALHERIA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "DP.05- CORRIMÃO EM TUBO GALVANIZADO COM GUARDA CORPO",
+      "unidade": "M",
+      "quantidade": 32.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "POSTE GALVANIZADO, RETO, FLANGEADO, H=5M COM LUMINÁRIA HERMÉTICA TIPO LED DE 150W COM APROVAÇÃO DE ILUME/PMSP, INCLUSIVE CAIXA DE INSPEÇÃO DE ALVENARIA 40X40X40CM DE 1 TIJOLO COM TAMPA DE CONCRETO",
+      "unidade": "UN",
+      "quantidade": 4.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CABO DE MÉDIA TENSÃO PARA 12/20KV - 1 X 35MM2 UNIPOLAR",
+      "unidade": "M",
+      "quantidade": 210.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 517.5,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO - ESQUADRIAS E PEÇAS DE SERRALHERIA",
+      "unidade": "M2",
+      "quantidade": 517.5,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "LIMPEZA E LAVAGEM DE PISO POR HIDROJATEAMENTO",
+      "unidade": "M2",
+      "quantidade": 217.5,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 20
+    }
+  ],
+  "apelido": "TRAVESSA AFONSO LEROY"
+}

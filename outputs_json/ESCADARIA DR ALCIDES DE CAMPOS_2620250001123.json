@@ -1,0 +1,425 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620250001123",
+    "numero_art": "2620242228242",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "Subprefeitura Jabaquara",
+    "cnpj_contratante": "05.659.015/0001-80",
+    "objeto": "CONTRATAÇÃO DE EMPRESA DE ENGENHARIA OU ARQUITETURA PARA EXECUÇÃO DE SERVIÇOS DE REVITALIZAÇÃO EM ESCADARIA PÚBLICA",
+    "processo_administrativo": "6042.2023/0002675-1",
+    "contrato": "61/SUB-JA/2023",
+    "endereco_obra": "RUA DOUTOR ALCIDES DE CAMPOS",
+    "cidade": "SÃO PAULO",
+    "estado": "SP",
+    "data_inicio": "2023-12-29",
+    "data_fim": "2024-03-15",
+    "area_m2": 286.79,
+    "valor_contrato": 288769.51
+  },
+  "servicos": [
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "01-01-07",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 8.08,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "10-18-00",
+      "fonte": null,
+      "descricao": "PROTEÇÃO PARA TERCEIROS COM TELA DE NYLON",
+      "unidade": "M2",
+      "quantidade": 115.2,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "17-30-02",
+      "fonte": null,
+      "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "ESCADARIA",
+      "codigo": "01-01-05",
+      "fonte": null,
+      "descricao": "CARGA MECANIZADA E REMOÇÃO DE ENTULHO, INCLUSIVE TRANSPORTE ATÉ 1KM",
+      "unidade": "M3",
+      "quantidade": 34.41,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "ESCADARIA",
+      "codigo": "01-01-10",
+      "fonte": null,
+      "descricao": "TRANSPORTE DE ENTULHO POR CAMINHÃO BASCULANTE, A PARTIR DE 1KM",
+      "unidade": "M3XKM",
+      "quantidade": 275.32,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "ESCADARIA",
+      "codigo": "01-04-01",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL, PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 28.67,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "ESCADARIA",
+      "codigo": "01-04-10",
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 286.79,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "ESCADARIA",
+      "codigo": "01-04-15",
+      "fonte": null,
+      "descricao": "LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 28.67,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "ESCADARIA",
+      "codigo": "02-03-04",
+      "fonte": null,
+      "descricao": "FORMA COMUM DE TÁBUAS DE PINUS - NÃO RECUPERÁVEL",
+      "unidade": "M2",
+      "quantidade": 107.13,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "ESCADARIA",
+      "codigo": "02-04-09",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-60 - TELA",
+      "unidade": "KG",
+      "quantidade": 2096.65,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "ESCADARIA",
+      "codigo": "02-05-10",
+      "fonte": null,
+      "descricao": "CONCRETO FCK=25MPA - USINADO",
+      "unidade": "M3",
+      "quantidade": 45.01,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "ESCADARIA",
+      "codigo": "03-03-30",
+      "fonte": null,
+      "descricao": "BOMBEAMENTO DE CONCRETO",
+      "unidade": "M3",
+      "quantidade": 50.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "ESCADARIA",
+      "codigo": "08-60-01",
+      "fonte": null,
+      "descricao": "RETIRADA DE ESQUADRIAS METÁLICAS EM GERAL, PORTAS OU CAIXILHOS",
+      "unidade": "M2",
+      "quantidade": 108.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "ESCADARIA",
+      "codigo": "13-02-47",
+      "fonte": null,
+      "descricao": "PISO PODOTÁTIL, ALERTA OU DIRECIONAL, EM LADRILHO HIDRÁULICO",
+      "unidade": "M2",
+      "quantidade": 9.2,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "ESCADARIA",
+      "codigo": "17-50-23",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MECANIZADA DE CONCRETO ARMADO",
+      "unidade": "M3",
+      "quantidade": 34.41,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "ESCADARIA",
+      "codigo": "17B465",
+      "fonte": null,
+      "descricao": "CO-35 CORRIMÃO DUPLO C/MONTANTE VERTICAL AÇO GALVANIZADO C/PINT ESMALTE",
+      "unidade": "M",
+      "quantidade": 72.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": "09-03-08",
+      "fonte": null,
+      "descricao": "CABO 10,00MM2 - ISOLAMENTO PARA 0,7KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 0.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": "09-83-51",
+      "fonte": null,
+      "descricao": "FOTOCELULA SOLAR-RELÊ FOTOELÉTRICO CAPACIDADE - 1000W",
+      "unidade": "UN",
+      "quantidade": 0.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": "09-11-14",
+      "fonte": null,
+      "descricao": "CAIXA DE INSPEÇÃO DE ATERRAMENTO TIPO EMBUTIR COM TAMPA E ALÇA",
+      "unidade": "UN",
+      "quantidade": 0.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": "09-20-35",
+      "fonte": null,
+      "descricao": "POSTE GALVANIZADO, RETO, FLANGEADO, H=5M COM LUMINÁRIA HERMÉTICA TIPO LED DE 150W COM APROVAÇÃO DE ILUME/PMSP, INCLUSIVE CAIXA DE INSPEÇÃO DE ALVENARIA",
+      "unidade": "UN",
+      "quantidade": 0.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": "09-01-54",
+      "fonte": null,
+      "descricao": "ENTRADA AÉREA DE ENERGIA E TELEFONE - 17 À 20KVA",
+      "unidade": "UN",
+      "quantidade": 0.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "JARDINAGEM - BANCOS",
+      "codigo": "01-03-05",
+      "fonte": null,
+      "descricao": "FORNECIMENTO DE TERRA, INCLUSIVE CORTE, CARGA, DESCARGA E TRANSPORTE ATÉ 1KM",
+      "unidade": "M3",
+      "quantidade": 83.58,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "JARDINAGEM - BANCOS",
+      "codigo": "01-03-10",
+      "fonte": null,
+      "descricao": "TRANSPORTE DE TERRA POR CAMINHÃO BASCULANTE, A PARTIR DE 1KM",
+      "unidade": "M3XKM",
+      "quantidade": 266.61,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "JARDINAGEM - BANCOS",
+      "codigo": "01-04-01",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL, PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 33.6,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "JARDINAGEM - BANCOS",
+      "codigo": "01-04-10",
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 74.22,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "JARDINAGEM - BANCOS",
+      "codigo": "01-04-15",
+      "fonte": null,
+      "descricao": "LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 7.42,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "JARDINAGEM - BANCOS",
+      "codigo": "02-04-04",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-50",
+      "unidade": "KG",
+      "quantidade": 1278.96,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "JARDINAGEM - BANCOS",
+      "codigo": "02-04-07",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-60",
+      "unidade": "KG",
+      "quantidade": 835.4,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "JARDINAGEM - BANCOS",
+      "codigo": "02-05-11",
+      "fonte": null,
+      "descricao": "CONCRETO FCK=30MPA - USINADO",
+      "unidade": "M3",
+      "quantidade": 3.87,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "JARDINAGEM - BANCOS",
+      "codigo": "03-01-14",
+      "fonte": null,
+      "descricao": "FORMA ESPECIAL DE CHAPAS RESINADAS (10MM) - PLANA",
+      "unidade": "M2",
+      "quantidade": 68.04,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "JARDINAGEM - BANCOS",
+      "codigo": "04-01-41",
+      "fonte": null,
+      "descricao": "BLOCOS VAZADOS DE CONCRETO - 14CM",
+      "unidade": "M2",
+      "quantidade": 44.16,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "JARDINAGEM - BANCOS",
+      "codigo": "04-01-60",
+      "fonte": null,
+      "descricao": "BLOCOS VAZADOS DE CONCRETO ESTRUTURAL - 14CM - ATÉ 6MPA",
+      "unidade": "M2",
+      "quantidade": 38.64,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "JARDINAGEM - BANCOS",
+      "codigo": "11-03-01",
+      "fonte": null,
+      "descricao": "CHAPISCO COMUM - ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 165.6,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "JARDINAGEM - BANCOS",
+      "codigo": "11-03-10",
+      "fonte": null,
+      "descricao": "EMBOÇO EXTERNO - ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 165.6,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "JARDINAGEM - BANCOS",
+      "codigo": "11-03-13",
+      "fonte": null,
+      "descricao": "REBOCO EXTERNO - ARGAMASSA PRÉ-FABRICADA",
+      "unidade": "M2",
+      "quantidade": 165.6,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "JARDINAGEM - BANCOS",
+      "codigo": "15-01-15",
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 850.08,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "JARDINAGEM - BANCOS",
+      "codigo": "18-03-21",
+      "fonte": null,
+      "descricao": "LÍRIO (HEMEROCALLIS FLAVA)",
+      "unidade": "DÚZIA",
+      "quantidade": 30.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "JARDINAGEM - BANCOS",
+      "codigo": "18-80-11",
+      "fonte": null,
+      "descricao": "TERRA PREPARADA PARA PLANTIO",
+      "unidade": "M3",
+      "quantidade": 25.39,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "20-03-02",
+      "fonte": null,
+      "descricao": "ENGENHEIRO/ARQUITETO SÊNIOR",
+      "unidade": "H",
+      "quantidade": 64.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "20-03-60",
+      "fonte": null,
+      "descricao": "PROJETO BÁSICO (PRANCHA A1)",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 20
+    }
+  ],
+  "apelido": "ESCADARIA DR. ALCIDES DE CAMPOS"
+}

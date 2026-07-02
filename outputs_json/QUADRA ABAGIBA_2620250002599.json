@@ -1,0 +1,665 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620250002599",
+    "numero_art": "2620250135124",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA IPIRANGA",
+    "cnpj_contratante": "05.636.771/0001-93",
+    "objeto": "REQUALIFICAÇÃO DA QUADRA DE BASQUETE SITUADA ENTRE A RUA ABAGIBA E AVENIDA PRESIDENTE TANCREDO NEVES - DISTRITO SACOMÃ, ÁREAS SOB JURISDIÇÃO DA SUBPREFEITURA IPIRANGA.",
+    "processo_administrativo": "6039.2022/0001563-8",
+    "contrato": "037/SUB-IP/2022",
+    "endereco_obra": "AVENIDA PRESIDENTE TANCREDO NEVES",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2022-12-01",
+    "data_fim": "2023-05-10",
+    "area_m2": 628.51,
+    "valor_contrato": 616524.53
+  },
+  "servicos": [
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "LIMPEZA MANUAL GERAL INCLUSIVE REMOÇÃO DE COBERTURA - VEGETAL - TRONCO ATÉ 10CM -SEM TRANSFORTE",
+      "unidade": "M2",
+      "quantidade": 995.2,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 284.8664,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TELA PARA PROTEÇÃO DE OBRAS, MALHA 2MM",
+      "unidade": "M2",
+      "quantidade": 124.53,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "BROCA DE CONCRETO - DIAMETRO DE 25CM",
+      "unidade": "M",
+      "quantidade": 164.5,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL COM PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 149.81,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 914.9,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 6.603,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "LASTRO DE CONCRETO - 150KG CIM/M3",
+      "unidade": "M3",
+      "quantidade": 1.08,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "FORMA COMUM DE TÁBUAS DE PINUS - NÃO RECUPERÁVEL",
+      "unidade": "M2",
+      "quantidade": 75.6,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-60-TELA",
+      "unidade": "KG",
+      "quantidade": 867.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CONCRETO FCK-30MPA - USINADO",
+      "unidade": "M3",
+      "quantidade": 18.51,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "IMPERMEABILIZAÇÃO DE RESPALDO DA FUNDAÇÃO - ARGAMASSA IMPERMEÁVEL",
+      "unidade": "M2",
+      "quantidade": 88.2,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "REATERRO DE VALAS, INCLUSIVE APILOAMENTO",
+      "unidade": "M3",
+      "quantidade": 17.68,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MANUAL DE CONCRETO ARMADO",
+      "unidade": "M3",
+      "quantidade": 8.96,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "BOMBEAMENTO DE CONCRETO",
+      "unidade": "M3",
+      "quantidade": 71.31,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "BLOCO VAZADO DE CONCRETO ESTRUTURAL 14CM - 12CM",
+      "unidade": "M2",
+      "quantidade": 78.4,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "VERGAS CINTAS E PILARETES DE CONCRETO",
+      "unidade": "M3",
+      "quantidade": 6.7032,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ELETRODUTO DE PVC RÍGIDO, ROSCÁVEL - 40MM (1 1/4\")",
+      "unidade": "M",
+      "quantidade": 194.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CABO 16.00MM2 - ISOLAMENTO PARA 0,7KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 90.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CABO 10,00MM2 - ISOLAMENTO PARA 0,7KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 582.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CAIXA DE PASSAGEM EM ALVENARIA - ESCAVAÇÃO E APILOAMENTO",
+      "unidade": "M3",
+      "quantidade": 2.16,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CAIXA DE PASSAGEM EM ALVENARIA - LASTRO DE BRITA (FUNDO)",
+      "unidade": "M3",
+      "quantidade": 0.36,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CAIXA DE PASSAGEM EM ALVENARIA - LASTRO DE CONCRETO (FUNDO)",
+      "unidade": "M3",
+      "quantidade": 0.18,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CAIXA DE PASSAGEM EM ALVENARIA - PAREDE DE 1 TIJOLO, REVESTIDA",
+      "unidade": "M2",
+      "quantidade": 14.4,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CAIXA DE PASSAGEM EM ALVENARIA - TAMPA DE CONCRETO",
+      "unidade": "M2",
+      "quantidade": 3.6,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "POSTE DE AÇO GALVANIZADO TIPO RETO, FLANGEADO H=7M COM LUMINÁRIA HERMÉTICA EM ALUMÍNIO FUNDIDO PARA LÂMPADA DE VAPOR DE MERCÚRIO DE 250W - COM APROVAÇÃO DE ILUME/PMSP",
+      "unidade": "UNIDADE",
+      "quantidade": 6.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "LUMINÁRIA HERMÉTICA EM ALUMÍNIO FUNDIDO PARA LÂMPADA ATÉ 250W - COM APROVAÇÃO DE ILUME/PMSP",
+      "unidade": "UNIDADE",
+      "quantidade": 12.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "RETIRADA DE LUMINÁRIA EXTERNA INSTALADA EM POSTE",
+      "unidade": "UNIDADE",
+      "quantidade": 16.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "RETIRADA DE POSTE DE CONCRETO EM REDE DE ENERGIA",
+      "unidade": "UNIDADE",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "HV.22 - CANALETA DE ALVENARIA PARA GRELHA OU TAMPA DE CONCRETO L=30CM",
+      "unidade": "M",
+      "quantidade": 32.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "HC.05 - GRELHA DE CONCRETA PARA CANALETA - L=30CM - SEM ÁSSAGEM DE VEÍCULOS",
+      "unidade": "M",
+      "quantidade": 32.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TUBO DE PVC RÍGIDO, PONTA E BOLSA (LINHA ESGOTO) - 150MM (6\")",
+      "unidade": "M",
+      "quantidade": 24.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CAIXA DE LIGAÇÃO OU INSPEÇÃO - ESCAVAÇÃO E APILOAMENTO",
+      "unidade": "M3",
+      "quantidade": 0.432,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CAIXA DE LIGAÇÃO OU INSPEÇÃO - LASTRO DE CONCRETO (FUNDO)",
+      "unidade": "M3",
+      "quantidade": 0.036,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CAIXA DE LIGAÇÃO OU INSPEÇÃO - ALVENARIA DE 1 TIJOLO, REVESTIDA",
+      "unidade": "M2",
+      "quantidade": 2.88,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CAIXA DE LIGAÇÃO OU INSPEÇÃO - TAMPA DE CONCRETO",
+      "unidade": "M2",
+      "quantidade": 0.72,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ACABAMENTO DE PISO DE CONCRETO TIPO BAMBOLÊ",
+      "unidade": "M2",
+      "quantidade": 528.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CURA QUÍMICA",
+      "unidade": "UNIDADE",
+      "quantidade": 528.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CORTE SUPERFICIAL DE CONCRETO ATÉ 3CM DE PROFUNDIDADE",
+      "unidade": "M2",
+      "quantidade": 15.57,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 228.3,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "FP.03 - ALAMBRADO PARA QUADRAS DE ESPORTE - GP. 6/EDIF - TG/4,5M",
+      "unidade": "M",
+      "quantidade": 98.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "QC. 02 - QUADRA POLIESPORTIVA - PISO ARMADO",
+      "unidade": "M2",
+      "quantidade": 528.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "QD. 03 - DEMARCAÇÃO DE QUADRA COM TINTA A BASE DE BORRACHA CLORADA - BASQUETE",
+      "unidade": "UNIDADE",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TABELA PARA BASQUETE, ENGLOBANDO DESDE FUNDAÇÃO ATÉ A CESTA DE NYLON",
+      "unidade": "UNIDADE",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "DEMARCAÇÃO E PINTURA DE SUPERFÍCIES - BORRACHA CLORADA",
+      "unidade": "M2",
+      "quantidade": 528.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "LIMPEZA E LAVAGEM DE PISO POR HIDROJATEAMENTO",
+      "unidade": "M2",
+      "quantidade": 528.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE ALAMBRADO DE TELA GALVANIZADA",
+      "unidade": "M2",
+      "quantidade": 198.9,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE ALVENARIA EM GERAL (TIJOLOS OU BLOCOS)",
+      "unidade": "M3",
+      "quantidade": 3.094,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MANUAL DE CONCRETO ARMADO",
+      "unidade": "M3",
+      "quantidade": 35.136,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "RETIRADA DE ALAMBRADO EM TELA INCLUSIVE ESTRUTURA DE SUSTENTAÇÃO (FP.04)",
+      "unidade": "M",
+      "quantidade": 44.2,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "FERRO TRABALHADO - CAIXILHOS E PEQUENAS PEÇAS DE SERRALHERIA",
+      "unidade": "KG",
+      "quantidade": 265.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "GRAMA ESMERALDA",
+      "unidade": "M2",
+      "quantidade": 172.02,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "REVOLVIMENTO E AJUSTE DO SOLO",
+      "unidade": "M2",
+      "quantidade": 172.02,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TERRA PREPARADA PARA PLANTIO",
+      "unidade": "M3",
+      "quantidade": 8.601,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 29
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ADUBO QUÍMICO NPK, 10: 10: 10",
+      "unidade": "KG",
+      "quantidade": 60.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 30
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "IC.06BANCO EM CONCRETO APARENTE, TIPO PMSP",
+      "unidade": "M",
+      "quantidade": 65.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 31
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "MOTONIVELADORA",
+      "unidade": "H",
+      "quantidade": 96.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 32
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "RETROESCAVADEIRA CAP CAÇAMBA FRONTAL 0,76M3",
+      "unidade": "H",
+      "quantidade": 96.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 33
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ESTAÇÃO TOTAL PRECISÃO 3\", TIPO \"LEICA \" TC-1103 OU SIMILAR, INCLUSIVE ACESSÓRIOS",
+      "unidade": "H",
+      "quantidade": 60.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 34
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TOPÓGRAFO",
+      "unidade": "H",
+      "quantidade": 45.68,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 35
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 36
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ENGENHEIRO DA OBRA",
+      "unidade": "H",
+      "quantidade": 60.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 37
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "AJUDANTE GERAL",
+      "unidade": "H",
+      "quantidade": 180.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 38
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TÉCNICO - NIVEL MÉDIO",
+      "unidade": "H",
+      "quantidade": 120.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 39
+    }
+  ],
+  "apelido": "QUADRA ABAGIBA"
+}

@@ -1,0 +1,195 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620230014805",
+    "numero_art": "28027230231577982",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA JABAQUARA",
+    "cnpj_contratante": "05.659.015/0001-80",
+    "objeto": "REVITALIZAÇÃO DE ÁREA PÚBLICA - VIELA",
+    "processo_administrativo": "6042.2023/0002545-3",
+    "contrato": "21/SUB-JA/2022",
+    "endereco_obra": "AVENIDA ENGENHEIRO ARMANDO DE ARRUDA PEREIRA",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2021-12-23",
+    "data_fim": "2022-01-31",
+    "area_m2": 108.5,
+    "valor_contrato": 119599.16
+  },
+  "servicos": [
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "01-01-07",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 39.91,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "01-05-40",
+      "fonte": null,
+      "descricao": "TELA PARA PROTEÇÃO DE OBRAS, MALHA 2 MM",
+      "unidade": "M2",
+      "quantidade": 127.03,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "17-30-02",
+      "fonte": null,
+      "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "REVITALIZAÇÃO",
+      "codigo": "01-04-01",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL, PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 8.65,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "REVITALIZAÇÃO",
+      "codigo": "01-04-10",
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 173.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "REVITALIZAÇÃO",
+      "codigo": "02-03-04",
+      "fonte": null,
+      "descricao": "FORMA COMUM DE TÁBUAS DE PINUS - NÃO RECUPERÁVEL",
+      "unidade": "M2",
+      "quantidade": 31.5,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "REVITALIZAÇÃO",
+      "codigo": "02-05-11",
+      "fonte": null,
+      "descricao": "CONCRETO FCK=30MPA - USINADO",
+      "unidade": "M3",
+      "quantidade": 30.47,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "REVITALIZAÇÃO",
+      "codigo": "03-03-30",
+      "fonte": null,
+      "descricao": "BOMBEAMENTO DE CONCRETO",
+      "unidade": "M3",
+      "quantidade": 50.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "REVITALIZAÇÃO",
+      "codigo": "10-11-76",
+      "fonte": null,
+      "descricao": "CANALETA MEIA CANA EM CONCRETO D=30CM",
+      "unidade": "M",
+      "quantidade": 36.8,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "REVITALIZAÇÃO",
+      "codigo": "13-02-04",
+      "fonte": null,
+      "descricao": "ACABAMENTO DE PISO DE CONCRETO TIPO MAMBOLÊ",
+      "unidade": "M2",
+      "quantidade": 108.5,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "REVITALIZAÇÃO",
+      "codigo": "15-01-15",
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 395.44,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "REVITALIZAÇÃO",
+      "codigo": "17-02-47",
+      "fonte": null,
+      "descricao": "PISO/PASSEIO DECONCRETO ARMADO, INCLUINDO PREPARO DA CAIXA, LASTRO DE BRITA, TELA METÁLICA E A MÃO DE OBRA REFERENTE AOS SEVIÇOS NO CONCRETO: ANLAMENTO E ACABAMENTO (RIPADO E DESEMPENADO), EXCLUSIVE O FORNECIMENTO DO CONCRETO",
+      "unidade": "M3",
+      "quantidade": 30.47,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "REVITALIZAÇÃO",
+      "codigo": "17-50-21",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MANUAL DE CONCRETO ARMADO",
+      "unidade": "M3",
+      "quantidade": 30.47,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "SERRALHEIRA",
+      "codigo": "17B465",
+      "fonte": null,
+      "descricao": "CO-35 CORRIMÃO DUPLO C/ MONTANTE VERTICAL AÇO GALVANIZADO C/PINT ESMALTE",
+      "unidade": "M",
+      "quantidade": 36.8,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERRALHEIRA",
+      "codigo": "17B466",
+      "fonte": null,
+      "descricao": "CO-36 CORRIMÃO DUPLO C/ MONTANTE VERTICAL AÇO GALVANIZADO C/PINT ESMALTE",
+      "unidade": "M",
+      "quantidade": 18.4,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "20-03-04",
+      "fonte": null,
+      "descricao": "ENGENHEIRO/ARQUITETO PLENO",
+      "unidade": "H",
+      "quantidade": 50.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "20-03-60",
+      "fonte": null,
+      "descricao": "PROJETO BÁSICO (PRANCHA A1)",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 1
+    }
+  ],
+  "apelido": "RUA DAS VITACEAS - JABAQUARA"
+}

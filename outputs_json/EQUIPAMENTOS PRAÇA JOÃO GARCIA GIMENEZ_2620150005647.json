@@ -1,0 +1,255 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620150005647",
+    "numero_art": "92221220120883373",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA.",
+    "contratante": "SUBPREFEITURA DE VILA PRUDENTE/SAPOPEMBA",
+    "cnpj_contratante": "05.969.123/0001-59",
+    "objeto": "REFORMA E INSTALAÇÃO DE EQUIPAMENTOS NA PRAÇA JOÃO GARCIA GIMENEZ, ILUMINAÇÃO PADRÃO ILUME, CALÇADA EM CONCRETO MOLDADO, PAISAGISMO, COM FORNECIMENTO DE MATERIAIS E MÃO DE OBRA – AV. JOÃO RODRIGUES RUIZ.",
+    "processo_administrativo": "2014-0.279.498-0",
+    "contrato": "26/SP-VP/SB/12",
+    "endereco_obra": "AVENIDA JOAO RODRIGUES RUIZ",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2012-08-07",
+    "data_fim": "2012-10-05",
+    "area_m2": null,
+    "valor_contrato": 99838.71
+  },
+  "servicos": [
+    {
+      "grupo": null,
+      "codigo": "01-01-07",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 40.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "03-01-01",
+      "fonte": null,
+      "descricao": "FORMA COMUM DE TÁBUAS DE PINUS - PLANA",
+      "unidade": "M2",
+      "quantidade": 8.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "04-01-41",
+      "fonte": null,
+      "descricao": "BLOCOS VAZADOS DE CONCRETO - 14CM",
+      "unidade": "M2",
+      "quantidade": 35.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "09-02-05",
+      "fonte": null,
+      "descricao": "ELETRODUTO DE PVC RÍGIDO, ROSCÁVEL - 50MM (1 1/2\")",
+      "unidade": "M",
+      "quantidade": 150.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "09-03-32",
+      "fonte": null,
+      "descricao": "CABO 10,00MM2 - ISOLAMENTO PARA 1,0KV",
+      "unidade": "M",
+      "quantidade": 250.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "09-03-33",
+      "fonte": null,
+      "descricao": "CABO 16,00MM2 - ISOLAMENTO PARA 1,0KV",
+      "unidade": "M",
+      "quantidade": 500.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "09-06-91",
+      "fonte": null,
+      "descricao": "CABO DE COBRE NÚ, PARA ATERRAMENTO - 10,00MM2",
+      "unidade": "M",
+      "quantidade": 250.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "09-20-33",
+      "fonte": null,
+      "descricao": "POSTE DE AÇO GALVANIZADO TIPO RETO, FLANGEADO H=5M COM LUMINÁRIA HERMÉTICA EM ALUMÍNIO FUNDIDO PARA LÂMPADA DE VAPOR DE MERCÚRIO DE 250W",
+      "unidade": "UN",
+      "quantidade": 7.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "09-82-63",
+      "fonte": null,
+      "descricao": "LÂMPADA VAPOR DE MERCÚRIO - 220V/250W",
+      "unidade": "UN",
+      "quantidade": 10.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "AGUADA DE CAL - CONCRETO OU REBOCO SEM PREPARO OU CHAPISCO NA SUPERFÍCIE PARA LAVORRIDA, INTERIOR",
+      "unidade": "M2",
+      "quantidade": 448.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "17-02-42",
+      "fonte": null,
+      "descricao": "PASSEIO DE CONCRETO, FCK=25MPA, INCLUINDO PREPARO DA CAIXA E LASTRO DE BRITA",
+      "unidade": "M2",
+      "quantidade": 15.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "17-50-20",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MANUAL DE CONCRETO SIMPLES",
+      "unidade": "M3",
+      "quantidade": 30.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "18-03-05",
+      "fonte": null,
+      "descricao": "GRAMA ESMERALDA",
+      "unidade": "M2",
+      "quantidade": 917.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "18-03-21",
+      "fonte": null,
+      "descricao": "LÍRIO (HEMEROCALLIS FLAVA)",
+      "unidade": "DZ",
+      "quantidade": 60.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "18-03-27",
+      "fonte": null,
+      "descricao": "PILEA (PILEA CADIEREI)",
+      "unidade": "DZ",
+      "quantidade": 60.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "18-03-73",
+      "fonte": null,
+      "descricao": "CAMARÃO (BELOPERONE GUTATA)",
+      "unidade": "UN",
+      "quantidade": 100.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "18-03-83",
+      "fonte": null,
+      "descricao": "HIBISCO (HIBISCUS ROSA SINENSIS)",
+      "unidade": "UN",
+      "quantidade": 118.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "18-03-85",
+      "fonte": null,
+      "descricao": "MALVAVISCO (MALVAVISCUS MOLLIS)",
+      "unidade": "UN",
+      "quantidade": 150.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "18-12-02",
+      "fonte": null,
+      "descricao": "IC.02 CONJUNTO MESA E BANCOS EM CONCRETO",
+      "unidade": "CJ",
+      "quantidade": 7.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "18-12-04",
+      "fonte": null,
+      "descricao": "IC.04 - BANCO EM CONCRETO APARENTE - L=50CM",
+      "unidade": "M",
+      "quantidade": 15.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "18-80-01",
+      "fonte": null,
+      "descricao": "REVOLVIMENTO E AJUSTE DO SOLO",
+      "unidade": "M2",
+      "quantidade": 980.16,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "18-80-11",
+      "fonte": null,
+      "descricao": "TERRA PREPARADA PARA PLANTIO",
+      "unidade": "M3",
+      "quantidade": 25.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": "20-03-19",
+      "fonte": null,
+      "descricao": "DESENVOLVIMENTO DE PROJETO EXECUTIVO FORMATO A1",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    }
+  ],
+  "apelido": "EQUIPAMENTOS PRAÇA JOÃO GARCIA GIMENEZ"
+}

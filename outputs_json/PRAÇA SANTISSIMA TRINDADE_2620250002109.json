@@ -1,0 +1,445 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620250002109",
+    "numero_art": "2620250053197",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA CASA VERDE / CACHOEIRINHA -SUB-CV",
+    "cnpj_contratante": "05.563.306/0001-70",
+    "objeto": "Execução, Execução de obra, de requalificação, de área metropolitana.",
+    "processo_administrativo": "6033.2021/0003133-7",
+    "contrato": "020/SUB-CV/AJ/2022",
+    "endereco_obra": "RUA ABURÁ",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2022-09-09",
+    "data_fim": "2023-01-10",
+    "area_m2": 1800.0,
+    "valor_contrato": 271141.67
+  },
+  "servicos": [
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TELA PARA PROTEÇÃO DE OBRAS, MALHA 2 MM",
+      "unidade": "M2",
+      "quantidade": 120.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "QUADRA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE ALAMBRADO DE TELA GALVANIZADA",
+      "unidade": "M2",
+      "quantidade": 315.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "QUADRA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MANUAL DE CONCRETO SIMPLES",
+      "unidade": "M3",
+      "quantidade": 28.13,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "REMOÇÃO DE PINTURA EM ESQUADRIAS E PEÇAS DE SERRALHERIA - LIXA",
+      "unidade": "M2",
+      "quantidade": 126.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 57.04,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "FERRO TRABALHADO - CAIXILHOS E PEQUENAS PEÇAS DE SERRALHERIA",
+      "unidade": "KG",
+      "quantidade": 309.61,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO - ESQUADRIAS E PEÇAS DE SERRALHERIA",
+      "unidade": "M2",
+      "quantidade": 126.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TELA GALVANIZADA PARA ALAMBRADO - MALHA 2\" FIO 10",
+      "unidade": "M2",
+      "quantidade": 315.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PP.20/24 - PORTÃO EM FERRO PERFILADO COM TELA, 1 FOLHA",
+      "unidade": "M2",
+      "quantidade": 2.64,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PASSEIO DE CONCRETO ARMADO, FCK=25MPA, INCLUINDO PREPARO DA CAIXA E LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 28.13,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 281.25,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "DEMARCAÇÃO E PINTURA DE SUPERFÍCIES - BORRACHA CLORADA",
+      "unidade": "M2",
+      "quantidade": 14.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TRAVE PARA FUTEBOL DE SALÃO, INCLUSIVE PINTURA E REDE",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TABELA PARA BASQUETE, ENGLOBANDO DESDE FUNDAÇÃO ATÉ A CESTA DE NYLON",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "PISTA DE SKATE",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE ARGAMASSA DE REGULARIZAÇÃO - ESPESSURA MÉDIA DE 30MM",
+      "unidade": "M2",
+      "quantidade": 107.98,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "PISTA DE SKATE",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "RETIRADA DE CERCA DE TELA GALVANIZADA E RESPECTIVOS MOURÕES (FC 04/05)",
+      "unidade": "M",
+      "quantidade": 11.2,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "PISTA DE SKATE",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 4.22,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "PISTA DE SKATE",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "REGULARIZAÇÃO COM ARGAMASSA DE CIMENTO E AREIA TRAÇO 1:3, ESPESSURA MÉDIA 30MM",
+      "unidade": "M2",
+      "quantidade": 107.98,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "PISTA DE SKATE",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "RETIRADA DE ESTRUTURA METÁLICA INCLUSIVE PERFIS DE FIXAÇÃO",
+      "unidade": "KG",
+      "quantidade": 11.2,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "PISTA DE SKATE",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "FERRO TRABALHADO - CAIXILHOS E PEQUENAS PEÇAS DE SERRALHERIA",
+      "unidade": "KG",
+      "quantidade": 86.85,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "PISTA DE SKATE",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "REMOÇÃO DE PINTURA EM ESQUADRIAS E PEÇAS DE SERRALHERIA – LIXA",
+      "unidade": "M2",
+      "quantidade": 7.8,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "PISTA DE SKATE",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO - ESQUADRIAS E PEÇAS DE SERRALHERIA",
+      "unidade": "M2",
+      "quantidade": 15.6,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "PISTA DE SKATE",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 23.98,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "PISTA DE SKATE",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "FP.04 - ALAMBRADO EM TUBO GALVANIZADO E TELA GALVANIZADA H=2,00M",
+      "unidade": "M",
+      "quantidade": 11.2,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "PASSEIO, MOBILIÁRIOS E PLAYGROUND",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "LIMPEZA MANUAL GERAL INCLUSIVE REMOÇÃO DE COBERTURA VEGETAL TRONCO ATÉ 10CM SEM TRANSPORTE",
+      "unidade": "M2",
+      "quantidade": 1800.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "PASSEIO, MOBILIÁRIOS E PLAYGROUND",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MANUAL DE CONCRETO SIMPLES",
+      "unidade": "M3",
+      "quantidade": 34.25,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "PASSEIO, MOBILIÁRIOS E PLAYGROUND",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 114.73,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "PASSEIO, MOBILIÁRIOS E PLAYGROUND",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "REGULARIZAÇÃO COM ARGAMASSA DE CIMENTO E AREIA - TRAÇO 1:3, ESPESSURA MÉDIA 30MM",
+      "unidade": "M2",
+      "quantidade": 100.4,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "PASSEIO, MOBILIÁRIOS E PLAYGROUND",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "REPAROS EM TRINCAS E RACHADURAS",
+      "unidade": "M2",
+      "quantidade": 24.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "PASSEIO, MOBILIÁRIOS E PLAYGROUND",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PASSEIO DE CONCRETO ARMADO, FCK=25MPA, INCLUINDO PREPARO DA CAIXA E LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 28.64,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "PASSEIO, MOBILIÁRIOS E PLAYGROUND",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "GRAMA PRETA (OPHIOPOGUM JAPONICUS) 36 MUDAS POR M2",
+      "unidade": "M2",
+      "quantidade": 66.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "PASSEIO, MOBILIÁRIOS E PLAYGROUND",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TERRA PREPARADA PARA PLANTIO",
+      "unidade": "M3",
+      "quantidade": 3.3,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "PASSEIO, MOBILIÁRIOS E PLAYGROUND",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "REVOLVIMENTO E AJUSTE DO SOLO",
+      "unidade": "M2",
+      "quantidade": 6.6,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "PASSEIO, MOBILIÁRIOS E PLAYGROUND",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ADUBO QUÍMICO NPK, 10:10:10",
+      "unidade": "KG",
+      "quantidade": 66.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "PASSEIO, MOBILIÁRIOS E PLAYGROUND",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MANUAL DE CONCRETO ARMADO",
+      "unidade": "M3",
+      "quantidade": 3.95,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "PASSEIO, MOBILIÁRIOS E PLAYGROUND",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "FERRO TRABALHADO CAIXILHOS E PEQUENAS PEÇAS DE SERRALHERIA",
+      "unidade": "KG",
+      "quantidade": 45.2,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "PASSEIO, MOBILIÁRIOS E PLAYGROUND",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "IC.02-CONJUNTO MESA E BANCOS EM CONCRETO",
+      "unidade": "CJ",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "PASSEIO, MOBILIÁRIOS E PLAYGROUND",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO ESQUADRIAS E PEÇAS DE MARSENARIA, SEM EMASSAMENTO",
+      "unidade": "M2",
+      "quantidade": 120.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "PASSEIO, MOBILIÁRIOS E PLAYGROUND",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 198.1,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ENGENHEIRO/ARQUITETO PLENO",
+      "unidade": "H",
+      "quantidade": 24.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PROJETO BÁSICO (PRANCHA A1)",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 16
+    }
+  ],
+  "apelido": "PRAÇA SANTISSIMA TRINDADE"
+}

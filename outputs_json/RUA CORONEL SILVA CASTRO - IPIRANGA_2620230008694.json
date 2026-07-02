@@ -1,0 +1,545 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620230008694",
+    "numero_art": "28027230230749323",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA IPIRANGA",
+    "cnpj_contratante": "05.636.771/0001-93",
+    "objeto": "Execução, Execução de obra, de edificação. 422,00000 metro quadrado.",
+    "processo_administrativo": "6039.2020/0002034-4",
+    "contrato": "053/SUB-IP/2020",
+    "endereco_obra": "RUA CORONEL SILVA CASTRO No.: 58 Complemento: Bairro: CIDADE NOVA HELIÓPOLIS Cidade: São Paulo UF: SP CEP: 04231015 PAIS: BRASIL",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2021-12-06",
+    "data_fim": "2022-01-10",
+    "area_m2": 422.0,
+    "valor_contrato": 144389.99
+  },
+  "servicos": [
+    {
+      "grupo": null,
+      "codigo": "01-05-40",
+      "fonte": null,
+      "descricao": "TELA PARA PROTEÇÃO DE OBRAS, MALHA 2MM",
+      "unidade": "M2",
+      "quantidade": 66.9,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "02-05-04",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE CONCRETO ARMADO",
+      "unidade": "M3",
+      "quantidade": 9.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "10-14-04",
+      "fonte": null,
+      "descricao": "TORNEIRA DE PRESSÃO PARA USO GERAL, METAL CROMADO - 3/4\"",
+      "unidade": "UNID",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "10-13-08",
+      "fonte": null,
+      "descricao": "LAVATÓRIO DE LOUÇA BRANCA, SEM COLUNA, CAPACIDADE MÍNIMA, 5L, EXCLUSIVE TORNEIRA",
+      "unidade": "UNID",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "10-13-03",
+      "fonte": null,
+      "descricao": "BACIA SANITÁRIA COM CAIXA ACOPLADA DE LOUÇA BRANCA",
+      "unidade": "UNID",
+      "quantidade": 2.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "10-09-33",
+      "fonte": null,
+      "descricao": "TUBO DE PVC RÍGIDO, PONTA E BOLSA (LINHA ESGOTO) - 100MM (4\")",
+      "unidade": "M",
+      "quantidade": 113.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "13-02-42",
+      "fonte": null,
+      "descricao": "PISO CERÂMICO ESMALTADO (PEI-5) - ASSENTADO COM ARGAMASSA COLANTE",
+      "unidade": "M3",
+      "quantidade": 33.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "09-09-51",
+      "fonte": null,
+      "descricao": "LUMINÁRIA COMERCIAL DE SOBREPOR COM DIFUSORTRANSPARENTE OU FOSCO PARA 2 LÂMPADAS TUBULARES DE LED 18/20W - COMPLETA",
+      "unidade": "M3",
+      "quantidade": 2.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "09-82-81",
+      "fonte": null,
+      "descricao": "LÂMPADA DE LED TUBULAR T8 - 18/20W",
+      "unidade": "M3",
+      "quantidade": 4.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "01-04-52",
+      "fonte": null,
+      "descricao": "CAIXA DE LIGAÇÃO OU INSPEÇÃO - TAMPA DE CONCRETO",
+      "unidade": "M2",
+      "quantidade": 2.94,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "08-80-50",
+      "fonte": null,
+      "descricao": "FERRO TRABALHO - CAIXILHOS E PEQUENAS PEÇAS DE SERRALHERIA",
+      "unidade": "KG",
+      "quantidade": 50.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "05-03-40",
+      "fonte": null,
+      "descricao": "REGULARIZAÇÃO COM ARGAMASSA DE CIMENTO E AREIA - TRAÇO 1:3, ESPESSURA MÉDIA 30MM",
+      "unidade": "M2",
+      "quantidade": 142.5,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": "03-40-24",
+      "fonte": null,
+      "descricao": "LIXAMENTO MECÂNICO EM SUPERFÍCIEA DE CONCRETO",
+      "unidade": "M2",
+      "quantidade": 350.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": null,
+      "codigo": "03-40-05",
+      "fonte": null,
+      "descricao": "LIMPEZA DE SUPERFÍCIES COM HIDROJATEAMENTO",
+      "unidade": "M2",
+      "quantidade": 848.72,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": null,
+      "codigo": "17-03-71",
+      "fonte": null,
+      "descricao": "DEMARCAÇÃO E PINTURA DE SUPERFÍCIES - EPÓXI",
+      "unidade": "M2",
+      "quantidade": 422.5,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": null,
+      "codigo": "17-03-55",
+      "fonte": null,
+      "descricao": "QD.01 - DEMARCAÇÃO DE QUADRA COM TINTA A BASE DE BORRACHA CLORADA - VOLEIBOL",
+      "unidade": "UNID",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": null,
+      "codigo": "17-03-56",
+      "fonte": null,
+      "descricao": "QD.02 - DEMARCAÇÃO DE QUADRA COM TINTA A BASE DE BORRACHA CLORADA - FUTEBOL DE SALÃO",
+      "unidade": "UNID",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": null,
+      "codigo": "17-03-57",
+      "fonte": null,
+      "descricao": "QD.03 - DEMARCAÇÃO DE QUADRA COM TINTA A BASE DE BORRACHA CLORADA - BASQUETE",
+      "unidade": "UNID",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": null,
+      "codigo": "15-01-15",
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "UNID",
+      "quantidade": 598.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": null,
+      "codigo": "15-50-03",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE PINTURA EM ALVENARIJA E CONCRETO - LIXA",
+      "unidade": "UNID",
+      "quantidade": 598.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": null,
+      "codigo": "15-03-10",
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO - ESQUADRIAS E PEÇAS DE SERRALHERIA",
+      "unidade": "UNID",
+      "quantidade": 59.64,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": null,
+      "codigo": "17-60-50",
+      "fonte": null,
+      "descricao": "RETIRADA DE BRINQUEDOS",
+      "unidade": "UNID",
+      "quantidade": 4.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": null,
+      "codigo": "17-03-61",
+      "fonte": null,
+      "descricao": "TRAVE PARA FUTEBOL DE SALÃO, INCLUSIVE PINTURA E REDE",
+      "unidade": "UNID",
+      "quantidade": 2.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": null,
+      "codigo": "17-03-63",
+      "fonte": null,
+      "descricao": "TABELA PARA BASQUETE, ENGLOBANDO DESDE FUNDAÇÃO ATÉ A CESTA DE NYLON",
+      "unidade": "UNID",
+      "quantidade": 2.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": null,
+      "codigo": "17-03-60",
+      "fonte": null,
+      "descricao": "POSTES PARA VOLEIBOL, INCLUSIVE PINTURA E REDE",
+      "unidade": "UNID",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": null,
+      "codigo": "10-60-32",
+      "fonte": null,
+      "descricao": "RETIRADA DE CALHAS, RUFOS OU RINCÕES EM CHAPA METÁLICA",
+      "unidade": "M",
+      "quantidade": 60.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": null,
+      "codigo": "10-11-06",
+      "fonte": null,
+      "descricao": "CALHA EM ALUMÍNIO ESP. 1,00MM - DESENVOLVIMENTO 50CM",
+      "unidade": "M",
+      "quantidade": 60.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": null,
+      "codigo": "66-02-05",
+      "fonte": null,
+      "descricao": "RETIRADA DE TELHAS EM GERAL, EXCLUSIVE TELHAS DE BARROS COZIDO, VIDRO E ESTRUTURA DE CRFS",
+      "unidade": "M2",
+      "quantidade": 224.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": null,
+      "codigo": "06-70-25",
+      "fonte": null,
+      "descricao": "RECOLOCAÇÃO DE TELHAS DE CRF, CIMENTO AMIANTO, ALUMÍNIO OU PLASTICO - ONDULADA COMUM",
+      "unidade": "M2",
+      "quantidade": 224.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 29
+    },
+    {
+      "grupo": null,
+      "codigo": "06-80-03",
+      "fonte": null,
+      "descricao": "REVISÃO, ESCOVAÇÃO, INCLUSIVE TOMADA DE GOTEIRAS DE TELHADOS EM GERAL, EXCLUSIVE PARA TELHAS DE BARRO COZIDO OU VIDRO",
+      "unidade": "M2",
+      "quantidade": 432.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 30
+    },
+    {
+      "grupo": null,
+      "codigo": "17-03-65",
+      "fonte": null,
+      "descricao": "TELA DE NYLON PARA COBERTURA DE QUEDA",
+      "unidade": "M2",
+      "quantidade": 178.2,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 31
+    },
+    {
+      "grupo": null,
+      "codigo": "08-80-50",
+      "fonte": null,
+      "descricao": "FERRO TRABALHADO - CAIXILHOSE PEQUENAS PEÇAS DE SERRALHERIA",
+      "unidade": "KG",
+      "quantidade": 400.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 32
+    },
+    {
+      "grupo": null,
+      "codigo": "17-05-25",
+      "fonte": null,
+      "descricao": "DP.05 CORRIMÃO EM TUBO GALVANIZADO COM GUARDA CORPO",
+      "unidade": "M",
+      "quantidade": 39.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "17-45-01",
+      "fonte": null,
+      "descricao": "ANDAIMES METÁLICOS - FORNECIMENTO",
+      "unidade": "M3",
+      "quantidade": 189.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "17-45-02",
+      "fonte": null,
+      "descricao": "ANDAIMES METÁLICOS - MONTAGEM E DESMONTAGEM",
+      "unidade": "M3",
+      "quantidade": 94.5,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "04-50-01",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE ALVENARIA ESTRUTURAL DE BLOCOS VAZADOS DE CONCRETO",
+      "unidade": "M3",
+      "quantidade": 21.66,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "02-50-04",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MANUAL DE CONCRETO ARMADO",
+      "unidade": "M3",
+      "quantidade": 3.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "01-04-01",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL, PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 9.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "02-03-04",
+      "fonte": null,
+      "descricao": "FORMA COMUM DE TÁBUAS DE PINUS - NÃO RECUPERÁVEL",
+      "unidade": "M2",
+      "quantidade": 12.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "17-02-45",
+      "fonte": null,
+      "descricao": "PASSEIO DE CONCRETO ARMADO, FCK=30MPA, INCLUINDO PREPARO DE CAIXA E LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 6.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "17-05-24",
+      "fonte": null,
+      "descricao": "DP.04 - CORRIMÃO EM TUBO GALVANIZADO",
+      "unidade": "M",
+      "quantidade": 17.6,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "09-50-15",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE CABO EMBUTIDO - ACIMA DE 16MM2",
+      "unidade": "M",
+      "quantidade": 720.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "09-03-07",
+      "fonte": null,
+      "descricao": "CABO 6,00MM2 - ISOLAMENTO PARA 0,7KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 720.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "09-62-11",
+      "fonte": null,
+      "descricao": "RETIRADA DE LUMINÁRIA INTERNA PARA LÂMPADA FLUORESCENTE",
+      "unidade": "UNID",
+      "quantidade": 10.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": "09-09-39",
+      "fonte": null,
+      "descricao": "PROJETOR PARA USO EXTERNO COM LÂMPADA LED DEW 15W - COMPLETA",
+      "unidade": "UNID",
+      "quantidade": 10.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": null,
+      "codigo": "09-02-12",
+      "fonte": null,
+      "descricao": "ELETRODUTO DE AÇO GALVANIZADO ELETROLÍTICO, TIPO LEVE I - 1\"",
+      "unidade": "M",
+      "quantidade": 120.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": null,
+      "codigo": "09-07-60",
+      "fonte": null,
+      "descricao": "PONTO DE TOMADA SIMPLES DE EMBUTIR - 110/220V CAIXA 4\"X2\"",
+      "unidade": "UNID",
+      "quantidade": 10.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": null,
+      "codigo": "01-01-07",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBAMETÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 107.46,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": null,
+      "codigo": "20-03-03",
+      "fonte": null,
+      "descricao": "ENGENHEIRO/ARQUITETO JÚNIOR",
+      "unidade": "H",
+      "quantidade": 17.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": null,
+      "codigo": "20-03-05",
+      "fonte": null,
+      "descricao": "PROJETISTA",
+      "unidade": "H",
+      "quantidade": 4.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": null,
+      "codigo": "20-03-50",
+      "fonte": null,
+      "descricao": "SERVIÇO DE PLOTAGEM EM PAPEL SULFITE, TAMANHO A1, PRETO E BRANCO",
+      "unidade": "UNID",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": null,
+      "codigo": "17-04-01",
+      "fonte": null,
+      "descricao": "LIMPEZA GERAL DA OBRA",
+      "unidade": "M2",
+      "quantidade": 350.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 20
+    }
+  ],
+  "apelido": "RUA CORONEL SILVA CASTRO - IPIRANGA"
+}

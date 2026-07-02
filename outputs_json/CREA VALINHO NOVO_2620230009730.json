@@ -1,0 +1,2545 @@
+{
+  "tipo_documento": "ATESTADO",
+  "cat": {
+    "numero_cat": "2620230009730",
+    "numero_art": "92221220151059483",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DO ESTADO DE SÃO PAULO",
+    "cnpj_contratante": "60.985.017/0001-77",
+    "objeto": "Execução dos serviços e obras de engenharia para conclusão da obra da Unidade de Atendimento Operacional do Conselho Regional de Engenharia e Agronomia do Estado de São Paulo - CREA-SP, localizado na Avenida Joaquim Alves Correa, 3819 - Valinhos / SP, conforme projeto básico, totalizando uma área de 223,58 m².",
+    "processo_administrativo": "L - 086/2014",
+    "contrato": "043/2014-SUPJUR",
+    "endereco_obra": "AVENIDA JOAQUIM ALVES CORRÊA",
+    "cidade": "Valinhos",
+    "estado": "SP",
+    "data_inicio": "2014-07-01",
+    "data_fim": "2014-12-31",
+    "area_m2": 223.58,
+    "valor_contrato": 799900.0
+  },
+  "servicos": [
+    {
+      "grupo": "SERVIÇOS INICIAIS, SERVIÇOS GERAIS DE CANTEIRO E SUPERVISÃO E CONTROLE",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "SERVIÇOS INICIAIS, SERVIÇOS GERAIS DE CANTEIRO E SUPERVISÃO E CONTROLE (demais serviços necessários a execução das obras deverão ser inclusos nas Despesas Indiretas)",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Serviços Iniciais",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "1.1.1",
+      "fonte": "72213-SINAPI",
+      "descricao": "Limpeza Manual Geral Com Remoção de Cobertura Vegetal",
+      "unidade": "m²",
+      "quantidade": 130.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "1.1.3",
+      "fonte": "01.01.07-SIURB",
+      "descricao": "Remoção De Entulho Com Caçamba Metálica, Inclusive Carga Manual E Descarga Em Bota-Fora",
+      "unidade": "m³",
+      "quantidade": 15.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "1.1.4",
+      "fonte": "73960/001 SINAPI",
+      "descricao": "Instalação/Ligação provisória elétrica de baixa tensão para canteiro de obras",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "1.1.5",
+      "fonte": "PINI",
+      "descricao": "Ligação provisória de água para obra e instalação sanitária provisória, pequenas obras - instalação mínima",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "1.1.6",
+      "fonte": "74209/001 SINAPI",
+      "descricao": "Placa De Obra Em Chapa De Aço Galvanizado",
+      "unidade": "m²",
+      "quantidade": 3.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Pessoal",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "1.4.1",
+      "fonte": "DATA FOLHA* LS 80%",
+      "descricao": "Engenheiro de campo civil, padrão pleno, com experiência mínima de 5 anos exercendo a função, dedicação parcial",
+      "unidade": "mês",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "1.4.2",
+      "fonte": "DATA FOLHA* LS 80%",
+      "descricao": "Técnico de segurança, com experiência mínima de 5 anos exercendo a função e dedicação em tempo integral a obra.",
+      "unidade": "mês",
+      "quantidade": 4.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "1.4.3",
+      "fonte": "DATA FOLHA* LS 80%",
+      "descricao": "Mestre de Obras, com experiência mínima de 5 anos exercendo a função e dedicação em tempo integral a obra.",
+      "unidade": "mês",
+      "quantidade": 4.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "1.4.4",
+      "fonte": "DATA FOLHA* LS 80%",
+      "descricao": "Almoxarife, com experiência mínima de 02 anos, exercendo a função e dedicação em tempo integral a obra.",
+      "unidade": "mës",
+      "quantidade": 4.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "INFRAESTRUTURA E SUPERESTRUTURA, conforme projeto",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "INFRAESTRUTURA E SUPERESTRUTURA, conforme projeto",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "INFRAESTRUTURA DE CONCRETO ARMADO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "INFRAESTRUTURA DE CONCRETO ARMADO (movimento de terra e fundações incluindo escoramentos, travamentos, bota-fora, transporte do material, licenças e taxas do bota-fora e outros necessários para execução dos serviços.",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "2.1.1",
+      "fonte": "73481-SINApi",
+      "descricao": "Escavação Manual De Valas Em Terra Compacta, Prof. De 0 MH <= 1 M",
+      "unidade": "m³",
+      "quantidade": 3.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "2.1.2",
+      "fonte": "73964/006 SINAPI",
+      "descricao": "Reaterro De Vala Com Compactação Manual",
+      "unidade": "m³",
+      "quantidade": 2.15,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "2.1.3",
+      "fonte": "79483-SINAPI",
+      "descricao": "Apiloamento Com Maço De 30Kg",
+      "unidade": "m²",
+      "quantidade": 3.5,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "Fundações Profundas E Superficiais, Blocos, Baldrames, Proteções",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Fundações Profundas E Superficiais, Blocos, Baldrames, Proteções",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "2.2.1",
+      "fonte": "120602 CPOS",
+      "descricao": "Estaca tipo strauss- diâmetro de 25cm até 20t",
+      "unidade": "m",
+      "quantidade": 28.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "2.2.2",
+      "fonte": "83532-SINAPI",
+      "descricao": "Lastro De Concreto, Preparo Mecânico",
+      "unidade": "m³",
+      "quantidade": 0.15,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "2.2.3",
+      "fonte": "74074/004 SINAPI",
+      "descricao": "Forma Tábua Para Concreto Em Fundação Sem Reaproveitamento",
+      "unidade": "m²",
+      "quantidade": 3.5,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "2.2.4",
+      "fonte": "74254/001- SINAPI",
+      "descricao": "Armação Aço Ca-50 Diam. 16,0 (5/8) À 25,0Mm (1) Fornecimento/ Corte (P Kg Perda De 10%) / Dobra / Colocação.",
+      "unidade": "kg",
+      "quantidade": 40.7,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": "2.2.5",
+      "fonte": "73972/001- SINAPI",
+      "descricao": "Concreto Fck=25Mpa, Virado Em Betoneira, Sem Lançamento",
+      "unidade": "m³",
+      "quantidade": 0.7,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": null,
+      "codigo": "2.2.6",
+      "fonte": "74157/004- SINAPI",
+      "descricao": "Lançamento/Aplicação Manual De Concreto Em Fundações",
+      "unidade": "m³",
+      "quantidade": 0.7,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "Estrutura Metálica",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Estrutura Metálica",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": null,
+      "codigo": "2.3.1",
+      "fonte": "03.60.02 SIURB",
+      "descricao": "Fornecimento E Montagem De Estrutura Metálica Vertical - Patinável",
+      "unidade": "kg",
+      "quantidade": 730.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "ALVENARIA, VEDAÇÕES, DIVISÓRIAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ALVENARIA, VEDAÇÕES, DIVISÓRIAS, (inclusive juntas de dilatação, encunhamento, vergas, contra-vergas, amarrações, armações, andaimes, cantoneiras de alumínio e demais acessórios para a perfeita execução dos serviços)",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": null,
+      "codigo": "3.1",
+      "fonte": "73998/001 SINAPI",
+      "descricao": "Alvenaria De Blocos De Concreto Vedação 9X19X39Cm, Espessura 9Cm, Assentados Com Argamassa Traço 1:0, 5:11 (Cimento, Cal E Areia)",
+      "unidade": "m²",
+      "quantidade": 9.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "Divisória inclusive cantoneiras e batentes para fixação, parafusos, buchas, suportes e demais acessórios para perfeito funcionamento do sistema.",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Divisória inclusive cantoneiras e batentes para fixação, parafusos, buchas, suportes e demais acessórios para perfeito funcionamento do sistema.",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": null,
+      "codigo": "3.2.1",
+      "fonte": "79627 SINAPI",
+      "descricao": "Divisória Em Granito Branco Polido, Esp = 3Cm, Assentado Com Argamassa Traço 1:4, Arremate Em Cimento Branco, Exclusive Ferragens",
+      "unidade": "m²",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "COBERTURA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "COBERTURA, (incluindo fornecimento, montagem e desmontagem de andaimes, balancim, fachadeiros, furações, encaixes, suportes, estruturas auxiliares de fixação, arremates e demais elementos necessários a perfeita execução dos serviços)",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "4.1",
+      "fonte": "06.02.50 SIURB",
+      "descricao": "Telhas Em Policarbonato Alveolar 6Mm Com Estrutura Metálica Galvanizada Instalada",
+      "unidade": "m²",
+      "quantidade": 15.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "4.2",
+      "fonte": "72107-SINAPI",
+      "descricao": "Rufo Em Chapa De Aço Galvanizado Número 24, Desenvolvimento De 25Cm",
+      "unidade": "m",
+      "quantidade": 60.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "4.3",
+      "fonte": "73868/001 SINAPI",
+      "descricao": "Rufo Em Fibrocimento, Incluso Acessórios De Fixação E Vedação",
+      "unidade": "m",
+      "quantidade": 20.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "4.4",
+      "fonte": "84047-SINAPI",
+      "descricao": "Cobertura Em Telha De Vidro Tipo Francesa",
+      "unidade": "m2",
+      "quantidade": 1.5,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "ESQUADRIAS DE MADEIRA/ VIDRO/ METÁLICA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ESQUADRIAS DE MADEIRA/ VIDRO/ METÁLICA",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "Madeira",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Madeira",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "5.1.1",
+      "fonte": "07.01.04 SIURB",
+      "descricao": "Pm.04 - Porta Lisa Especial/ Sólida Para Portadores De Deficiência Física - 100X210Cm",
+      "unidade": "un",
+      "quantidade": 3.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "5.1.2",
+      "fonte": "07.01.16 SIURB",
+      "descricao": "Pm.16 - Porta Lisa Comum/ Encabeçada Revestida Com Laminado Melamínico - 72X210Cm",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "5.1.3",
+      "fonte": "07.01.17 SIURB",
+      "descricao": "Pm.17 - Porta Lisa Comum/ Encabeçada Revestida Com Laminado Melamínico - 82X210Cm",
+      "unidade": "un",
+      "quantidade": 4.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "5.1.4",
+      "fonte": "07.01.39-SIURB",
+      "descricao": "Pm.39 - Porta De Madeira Lisa Comum/ Encabeçada De Correr, 1 Folhas, Trilho De Alumínio",
+      "unidade": "m2",
+      "quantidade": 1.8,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "5.1.5",
+      "fonte": "74068/003- SINAPI",
+      "descricao": "Fechadura De Embutir Completa, Para Portas Externas, Padrão De Acabamento Superior",
+      "unidade": "un",
+      "quantidade": 8.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": "5.1.6",
+      "fonte": "07.02.12 SIURB",
+      "descricao": "Conjunto De Fechadura De Cilindro, Bico De Papagaio (22Mm) Porta De Correr",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "Esquadrias Metálicas",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Esquadrias Metálicas",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "Esquadrias metálicas, incluindo fixações, e demais acessórios e elementos necessários para o perfeito funcionamento das peças e total atendimento as Normas Técnicas aplicáveis concernentes à fabricação, montagem, fixação, dimensionamento e resistência dos elementos",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Esquadrias metálicas, incluindo fixações, e demais acessórios e elementos necessários para o perfeito funcionamento das peças e total atendimento as Normas Técnicas aplicáveis concernentes à fabricação, montagem, fixação, dimensionamento e resistência dos elementos",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": null,
+      "codigo": "5.2.1.1",
+      "fonte": "PINI",
+      "descricao": "Porta De Correr Em Vidro Temperado 1 Folhas - Laterais Fixas",
+      "unidade": "m²",
+      "quantidade": 5.3,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": null,
+      "codigo": "5.2.1.2",
+      "fonte": "PINI",
+      "descricao": "Porta De Correr Em Vidro Temperado 2 Folhas - Laterais Fixas",
+      "unidade": "m²",
+      "quantidade": 8.6,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": null,
+      "codigo": "5.2.1.3",
+      "fonte": "PINI",
+      "descricao": "Porta De Vidro Temperado Laminado 10Mm - 2 Folhas",
+      "unidade": "m2",
+      "quantidade": 4.35,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": null,
+      "codigo": "5.2.1.4",
+      "fonte": "PINI",
+      "descricao": "Porta De Vidro Temperado Laminado 10Mm - 1 Folhas",
+      "unidade": "m2",
+      "quantidade": 3.9,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": null,
+      "codigo": "5.2.1.5",
+      "fonte": "08.02.43 SIURB",
+      "descricao": "Cf.19- Caixilho Em Perfil De Chapa Dobrada, Veneziana, Fixo Com Ventilação Permanente",
+      "unidade": "m²",
+      "quantidade": 0.15,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": null,
+      "codigo": "5.2.1.6",
+      "fonte": "08.02.51 SIURB",
+      "descricao": "Ca.02 - Caixilho Em Alumínio Anodizado, Fixo, Sem Ventilação Permanente",
+      "unidade": "m²",
+      "quantidade": 13.5,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": null,
+      "codigo": "5.2.1.7",
+      "fonte": "08.02.58-SIURB",
+      "descricao": "Ca.09 Caixilho Em Alumínio Anodizado - Maximar",
+      "unidade": "m2",
+      "quantidade": 58.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "5.2.1.8",
+      "fonte": "08.02.66-SIURB",
+      "descricao": "Ca.17 Caixilho Em Alumínio Anodizado - De Correr",
+      "unidade": "m²",
+      "quantidade": 9.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "5.2.1.9",
+      "fonte": "COTAÇÃO",
+      "descricao": "Caixilho em chapa perfurada",
+      "unidade": "m²",
+      "quantidade": 3.7,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "5.2.1.10",
+      "fonte": "COTAÇÃO",
+      "descricao": "Película Da Marca Suntek, Modelo Ultravision 70\"",
+      "unidade": "m2",
+      "quantidade": 22.15,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "5.2.1.11",
+      "fonte": "240397 CPOS",
+      "descricao": "Corrimão Duplo Em Tubo De Aço Inoxidável Escovado,",
+      "unidade": "m",
+      "quantidade": 17.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "5.2.1.12",
+      "fonte": "06.03.062 FDE",
+      "descricao": "Guarda Corpo Em Aço Inox - H=1,30 M",
+      "unidade": "m",
+      "quantidade": 29.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "5.2.1.13",
+      "fonte": "240355 CPOS",
+      "descricao": "Corrimão Em Tubo De Aço Inoxidável Escovado,",
+      "unidade": "m",
+      "quantidade": 24.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "5.2.1.14",
+      "fonte": "22608 CPOS",
+      "descricao": "Brise metálico, espessura 0,5 mm em chapa microperfurada aluzinc, fixado sobre estrutura auxiliar",
+      "unidade": "m²",
+      "quantidade": 43.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "5.2.1.15",
+      "fonte": "72117-SINAPI",
+      "descricao": "Vidro Liso Comum Transparente, Espessura 4Mm",
+      "unidade": "m²",
+      "quantidade": 105.5,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "REVESTIMENTOS DE PAREDES INTERNOS/EXTERNOS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "REVESTIMENTOS DE PAREDES INTERNOS/EXTERNOS (inclusive fornecimento, montagem e desmontagem de andaimes, limpeza e demais acessórios necessários para a perfeita execução dos serviços)",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "Revestimentos cerâmicos e em vidro, inclusive argamassa para assentamento, rejuntes, espaçadores, chumbadores, juntas de dilatação, construção, juntas metálicas, cortes, furos, cantoneiras e demais insumos necessários a perfeita execução dos serviços.",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Revestimentos cerâmicos e em vidro, inclusive argamassa para assentamento, rejuntes, espaçadores, chumbadores, juntas de dilatação, construção, juntas metálicas, cortes, furos, cantoneiras e demais insumos necessários a perfeita execução dos serviços.",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "6.1.1",
+      "fonte": "5975 SINAPI",
+      "descricao": "Chapisco Traço 1:3 (Cimento E Areia Media), Espessura 0,5Cm, Preparo Mecânico Da Argamassa",
+      "unidade": "m²",
+      "quantidade": 640.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": "6.1.2",
+      "fonte": "5976-SINAPI",
+      "descricao": "Emboco Traço 1:4, 5 (Cal E Areia Media), Espessura 1,5 Cm, Prepara Manual Da Argamassa",
+      "unidade": "m²",
+      "quantidade": 640.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": null,
+      "codigo": "6.1.3",
+      "fonte": "74001/001- SINAPI",
+      "descricao": "Reboco Com Argamassa Pré-Fabricada, Espessura 0,5Cm, Preparo Mecânico Da Argamassa",
+      "unidade": "m²",
+      "quantidade": 516.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": null,
+      "codigo": "6.1.4",
+      "fonte": "11.02.29 SIURB",
+      "descricao": "Azulejos, Junta Amarração Ou A Prumo - Assentes Com Argamassa Colante",
+      "unidade": "m²",
+      "quantidade": 124.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": null,
+      "codigo": "6.1.5",
+      "fonte": "5974-SINAPI",
+      "descricao": "Chapisco Traço 1:4 (Cimento E Areia Grossa), Espessura 0,5Cm, Preparo Mecânico Da Argamassa",
+      "unidade": "m2",
+      "quantidade": 280.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": null,
+      "codigo": "6.1.6",
+      "fonte": "5982 SINAPI",
+      "descricao": "Emboco Paulista (Massa Única) Traço 1:2:8 (Cimento, Cal E Areia Media), Espessura 1,5 Cm, Preparo Mecânico Da Argamassa",
+      "unidade": "m²",
+      "quantidade": 280.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": null,
+      "codigo": "6.1.7",
+      "fonte": "COTAÇÃO",
+      "descricao": "Placa cimenticia, incluindo todos os materiais e acessórios necessários para a execução dos serviços.",
+      "unidade": "m2",
+      "quantidade": 23.5,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "REVESTIMENTOS DE TETOS E FORROS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "REVESTIMENTOS DE TETOS E FORROS (incluindo fornecimento, montagem e desmontagem de andaimes, balancim, fachadeiros, aberturas para luminárias, furações, dutos para grelha, encaixes, suportes, difusores entre outros, estruturas auxiliares de fixação, tabicas metálicas, arremates e demais elementos necessários a perfeita execução dos serviços)",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": null,
+      "codigo": "7.1",
+      "fonte": "12.01.43SIURB",
+      "descricao": "Forro de gesso acartonado tipo FGE Fornecimento e instalação",
+      "unidade": "m²",
+      "quantidade": 176.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "CONTRAPISOS, PISOS, DEGRAUS, RODAPÉS E SOLEIRAS INTERNOS/EXTERNOS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CONTRAPISOS, PISOS, DEGRAUS, RODAPÉS E SOLEIRAS INTERNOS/EXTERNOS, inclusive preparação de base, regularizações, juntas de dilatação e movimentação e demais serviços para a perfeita colocação dos revestimentos",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "Contrapisos",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Contrapisos",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "8.1.1",
+      "fonte": "73919/009-SINAPI",
+      "descricao": "Contrapiso Em Argamassa Traço 1:4 (Cimento E Areia), Interno Sobre Laje, Não Aderido, Espessura 3,5Cm, Preparo Mecânico",
+      "unidade": "m2",
+      "quantidade": 230.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "8.1.2",
+      "fonte": "73907/006 SINAPI",
+      "descricao": "Lastro De Concreto, Espessura 3Cm, Preparo Mecânico",
+      "unidade": "m²",
+      "quantidade": 64.5,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "Pisos",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Pisos",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "8.2.1",
+      "fonte": "84190-SINAPI",
+      "descricao": "Piso em granito assentado sobre argamassa de cimento, cal, areia traço 1:0, 25:3, inclusive rejunte",
+      "unidade": "m2",
+      "quantidade": 230.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "8.2.2",
+      "fonte": "13.02.44 SIURB",
+      "descricao": "Piso Podotátil, Alerta Ou Direcional, Em Borracha Sintética Assentes Com Argamassa",
+      "unidade": "m²",
+      "quantidade": 1.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "8.2.3",
+      "fonte": "13.02.47 SIURB",
+      "descricao": "Piso Podotátil, Alerta Ou Direcional, Em Ladrilho Hidráulico",
+      "unidade": "m²",
+      "quantidade": 3.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "8.2.4",
+      "fonte": "190132 CPOS",
+      "descricao": "Rodapé em granito com altura de 7,1 a 10 cm",
+      "unidade": "m",
+      "quantidade": 196.5,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "8.2.5",
+      "fonte": "SIURB",
+      "descricao": "Degrau Em Granito",
+      "unidade": "m",
+      "quantidade": 22.5,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "8.2.6",
+      "fonte": "17.02.11 SIURB",
+      "descricao": "Piso De Concreto Intertravado, Espessura 8cm",
+      "unidade": "m²",
+      "quantidade": 64.5,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "8.2.7",
+      "fonte": "13.03.65 SIURB",
+      "descricao": "Degraus De Argamassa De Cimento E Areia 1:3",
+      "unidade": "m",
+      "quantidade": 16.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "Peitoril",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Peitoril",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": null,
+      "codigo": "8.3.1",
+      "fonte": "11.04.58 SIURB",
+      "descricao": "Peitoril De Granito Polido - Esp=2Cm",
+      "unidade": "m",
+      "quantidade": 36.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "PINTURA E TRATAMENTO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PINTURA E TRATAMENTO incluindo montagem e desmontagem de andaimes, preparo de base, lixamento, tratamentos, limpeza e demais serviços necessários a perfeita execução dos serviços",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": null,
+      "codigo": "9.1",
+      "fonte": "73954/001-SINAPI",
+      "descricao": "Pintura Látex Acrílica - Três Demãos",
+      "unidade": "m2",
+      "quantidade": 850.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": null,
+      "codigo": "9.2",
+      "fonte": "73954/002 - SINAPI",
+      "descricao": "Pintura Látex Acrílica - Duas Demãos",
+      "unidade": "m²",
+      "quantidade": 280.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": null,
+      "codigo": "9.3",
+      "fonte": "73955/002 - SINAPI",
+      "descricao": "Emassamento Com Massa Pva, Duas Demãos",
+      "unidade": "m²",
+      "quantidade": 850.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": null,
+      "codigo": "9.4",
+      "fonte": "73865/001 SINAPI",
+      "descricao": "Fundo Preparador Primer A Base De Epoxi, Para Estrutura Metálica, Uma Demão, Espessura De 25 Micra.",
+      "unidade": "m²",
+      "quantidade": 22.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": null,
+      "codigo": "9.5",
+      "fonte": "74065/001-SINAPI",
+      "descricao": "Pintura Esmalte Fosco Para Madeira, Duas Demãos, Sobre Fundo Nivelador",
+      "unidade": "m²",
+      "quantidade": 74.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": null,
+      "codigo": "9.6",
+      "fonte": "73924/003",
+      "descricao": "Pintura Esmalte Fosco, Duas Demãos, Sobre Superfície Metálica",
+      "unidade": "m²",
+      "quantidade": 68.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "LOUÇAS, METAIS E ACESSÓRIOS - SANITÁRIOS e COZINHA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "LOUÇAS, METAIS E ACESSÓRIOS - SANITÁRIOS e COZINHA, incluindo execução e adequação de pontos de alimentação e descarga para água e esgoto, interligação e alimentação de energia onde necessário, quebra e reconstituição do piso, contrapiso, revestimentos e parede, interligação nos ramais de água e esgoto existentes, fixações, conexões, flexíveis, assento, parafusos, arruelas, rejuntamento e demais acessórios e materiais, instrumentos e mão de obra necessários para o perfeito funcionamento do sistema.",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "Louças e metais",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Louças e metais",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "10.1.1",
+      "fonte": "10.13.05-SIURB",
+      "descricao": "Bacia Sanitária Alteada Para Portadores De Deficiência Física",
+      "unidade": "un",
+      "quantidade": 3.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "10.1.2",
+      "fonte": "10.13.14SIURB",
+      "descricao": "Lavatório De Louça Individual Para Portadores De Deficiência Física",
+      "unidade": "un",
+      "quantidade": 3.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "10.1.3",
+      "fonte": "10.13.36-SIURB",
+      "descricao": "Mictório Individual De Louça, Para Deficiente",
+      "unidade": "un",
+      "quantidade": 3.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "10.1.4",
+      "fonte": "10.14.74-SIURB",
+      "descricao": "Frontão Ou Testeira De Granito Cinza Maua - H Até 10Cm",
+      "unidade": "m",
+      "quantidade": 6.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "10.1.5",
+      "fonte": "10.14.76-SIURB",
+      "descricao": "Tampo Para Bancada Úmida - Granito Cinza Maua Polido - Espessura 2Cm",
+      "unidade": "m2",
+      "quantidade": 2.1,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "10.1.6",
+      "fonte": "86900-SINAPI",
+      "descricao": "Cuba De Embutir De Aço Inoxidável Média - Fornecimento E Instalação. A F_12/2013",
+      "unidade": "un",
+      "quantidade": 2.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "10.1.7",
+      "fonte": "86874-SINAPI",
+      "descricao": "Tanque De Louça Branca Suspenso, 18L Ou Equivalente Fornecimento E Instalação. Af_12/2013_P",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "Metais sanitários e de cozinha",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Metais sanitários e de cozinha",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "10.2.1",
+      "fonte": "86909-SINAPI",
+      "descricao": "Torneira Cromada Tubo Móvel, De Mesa, 1/2\" Ou 3/4\", Para Pia De Cozinha, Padrão Alto Fornecimento E Instalação. Af_12/2013",
+      "unidade": "un",
+      "quantidade": 2.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "10.2.2",
+      "fonte": "86914-SINAPI",
+      "descricao": "Torneira Cromada 1/2\" Ou 3/4\" Para Tanque, Padrão Médio Fornecimento E Instalação. Af_12/2013",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": "10.2.3",
+      "fonte": "10.14.10-SIURB",
+      "descricao": "Torneira De Mesa Com Acionamento Manual E Fechamento Automático",
+      "unidade": "un",
+      "quantidade": 3.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": null,
+      "codigo": "10.2.3",
+      "fonte": "10.14.24SIURB",
+      "descricao": "Válvula De Descarga Com Duplo Acionamento",
+      "unidade": "un",
+      "quantidade": 3.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": null,
+      "codigo": "10.2.4",
+      "fonte": "10.14.33 SIURB",
+      "descricao": "Válvula Fluxível Para Mictório Com Acionamento Manual E Fechamento Automático",
+      "unidade": "un",
+      "quantidade": 3.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "Acessórios sanitários e de cozinha",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Acessórios sanitários e de cozinha",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": null,
+      "codigo": "10.3.1",
+      "fonte": "440309 CPOS",
+      "descricao": "Cabide cromado para banheiro",
+      "unidade": "un",
+      "quantidade": 3.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": null,
+      "codigo": "10.3.2",
+      "fonte": "440305 CPOS",
+      "descricao": "Dispenser papel higiênico em ABS para rolão 300/600m, com visor",
+      "unidade": "un",
+      "quantidade": 3.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": null,
+      "codigo": "10.3.3",
+      "fonte": "440318 CPOS",
+      "descricao": "Dispenser toalheiro em ABS, para folhas",
+      "unidade": "un",
+      "quantidade": 3.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": null,
+      "codigo": "10.3.5",
+      "fonte": "74125/002 SINAPI",
+      "descricao": "Espelho cristal espessura de 4mm com moldura em alumínio e compensado 6mm plastificado e colado ( 0,60X0,90M)",
+      "unidade": "m²",
+      "quantidade": 2.5,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": null,
+      "codigo": "10.3.6",
+      "fonte": "300606 CPOS",
+      "descricao": "Dispositivo de sinalização de emergência, visual e sonora",
+      "unidade": "Pç",
+      "quantidade": 3.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "Barra de apoio, corrimãos e guarda-corpos em aço inox",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Barra de apoio, corrimãos e guarda-corpos em aço inox incluindo fixações e demais acessórios e elementos necessários para o perfeito funcionamento das peças e total atendimento as Normas Técnicas aplicáveis concernentes à fabricação, montagem, fixação, dimensionamento e resistência dos elementos e conjuntos relativos à impacto, apoio, fixação e durabilidade.",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "10.4.1",
+      "fonte": "17.05.19-SIURB",
+      "descricao": "Barra De Apoio Para Lavatório - Em \"U\" (Barras Com Diâmetro Entre 3,0 E 4,5Cm)",
+      "unidade": "un",
+      "quantidade": 3.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "10.4.2",
+      "fonte": "17.05.21 SIURB",
+      "descricao": "Barra De Apoio Para Deficientes L=80 Cm (Barras Com Diâmetro Entre 3,0 E 4,5Cm)",
+      "unidade": "un",
+      "quantidade": 6.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "INSTALAÇÕES ELÉTRICAS, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra especializada, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas e de Segurança vigentes)",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "11.1",
+      "fonte": "01.04.01 SIURB",
+      "descricao": "Escavação Manual, Profundidade Igual Ou Inferior A 1,50M",
+      "unidade": "m³",
+      "quantidade": 7.5,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "11.2",
+      "fonte": "01.04.80 SIURB",
+      "descricao": "Reaterro De Valas, Inclusive Compactação",
+      "unidade": "m³",
+      "quantidade": 7.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "11.3",
+      "fonte": "09.01.55SIURB",
+      "descricao": "Entrada Aérea De Energia E Telefone - 21 À 23Kva",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "11.4",
+      "fonte": "74252/001- SINAPI",
+      "descricao": "Eletroduto De Pvc Rígido Roscável Dn 20Mm (3/4\") Incl Conexões, Fornecimento E Instalação",
+      "unidade": "m",
+      "quantidade": 300.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "11.5",
+      "fonte": "09.02.03 SIURB",
+      "descricao": "Eletroduto De Pvc Rigido Roscável Dn 25Mm (1\") Incl Conexões, Fornecimento E Instalação",
+      "unidade": "m",
+      "quantidade": 180.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "11.6",
+      "fonte": "55865-SINAPI",
+      "descricao": "Eletroduto De Pvc Rígido Roscável Dn 40Mm (1 1/2\") Incl Conexões, Fornecimento E Instalação",
+      "unidade": "m",
+      "quantidade": 16.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "11.7",
+      "fonte": "72308-SINAPI",
+      "descricao": "Eletroduto De Aço Galvanizado Eletrolítico Dn 20Mm (3/4\"), Tipo Leve, Inclusive Conexões - Fornecimento E Instalação",
+      "unidade": "m",
+      "quantidade": 34.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "11.8",
+      "fonte": "72309-SIURB",
+      "descricao": "Eletroduto De Aço Galvanizado Eletrolítico Dn 25Mm (1\"), Tipo Leve, Inclusive Conexões - Fornecimento E Instalação",
+      "unidade": "m",
+      "quantidade": 35.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": "11.9",
+      "fonte": "72252-SINAPI",
+      "descricao": "Cabo De Cobre Nu 25Mm2 - Fornecimento E Instalação",
+      "unidade": "m",
+      "quantidade": 1250.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": null,
+      "codigo": "11.10",
+      "fonte": "09.03.08 SIURB",
+      "descricao": "Cabo 10,00Mm2 Isolamento Para 0,7Kv Classe 4 - Flexível",
+      "unidade": "m",
+      "quantidade": 20.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": null,
+      "codigo": "11.11",
+      "fonte": "09.03.32 SIURB",
+      "descricao": "Cabo 10,00Mm2 Isolamento Para 1,0Kv Classe 4 - Flexível",
+      "unidade": "m",
+      "quantidade": 200.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": null,
+      "codigo": "11.12",
+      "fonte": "09.03.33SIURB",
+      "descricao": "Cabo 16,00Mm2 Isolamento Para 1,0Kv Classe 4 - Flexível",
+      "unidade": "m",
+      "quantidade": 20.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": null,
+      "codigo": "11.13",
+      "fonte": "09.03.34 SIURB",
+      "descricao": "Cabo 25,00Mm2 Isolamento Para 1,0Kv Classe 4 - Flexível",
+      "unidade": "m",
+      "quantidade": 50.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": null,
+      "codigo": "11.14",
+      "fonte": "73768/001- SINAPI",
+      "descricao": "Fio Telefônico Fi 0,6Mm, 2 Condutores (Uso Interno)- Fornecimento E Instalação",
+      "unidade": "m",
+      "quantidade": 60.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": null,
+      "codigo": "11.15",
+      "fonte": "09.04.02 SIURB",
+      "descricao": "Sinalizador Luminoso Diâmetro 22Mm, Com Lâmpada",
+      "unidade": "un",
+      "quantidade": 4.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": null,
+      "codigo": "11.16",
+      "fonte": "09.04.72 SIURB",
+      "descricao": "Interruptor Diferencial Tetrapolar - 40A - Sensibilidade 30Ma - 380V",
+      "unidade": "un",
+      "quantidade": 3.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": null,
+      "codigo": "11.17",
+      "fonte": "74131/005-SINAPI",
+      "descricao": "Quadro De Distribuição De Energia De Embutir, Em Chapa Metálica, Para 24 Disjuntores Termomagnéticos Monopolares. Com Barramento Trifásico E Neutro, Fornecimento E Instalação",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "11.18",
+      "fonte": "09.05.12 SIURB",
+      "descricao": "Quadro De Distribuição Em Chapa Metálica Para Até 28 Disjuntores",
+      "unidade": "un",
+      "quantidade": 2.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "11.19",
+      "fonte": "83440-SINAPI",
+      "descricao": "Caixa De Passagem 4X2\" Em Ferro Galvanizado",
+      "unidade": "un",
+      "quantidade": 123.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "11.20",
+      "fonte": "83442-SINAPI",
+      "descricao": "Caixa De Passagem 4X4\" Em Ferro Galvanizado",
+      "unidade": "un",
+      "quantidade": 9.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "11.21",
+      "fonte": "72335-SINAPI",
+      "descricao": "Espelho Plástico 4X2\" - Fornecimento E Instalação",
+      "unidade": "un",
+      "quantidade": 123.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "11.22",
+      "fonte": "72336-SINAPI",
+      "descricao": "Espelho Plástico 4X4\" - Fornecimento E Instalação",
+      "unidade": "un",
+      "quantidade": 9.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "11.23",
+      "fonte": "09.05.27 SIURB",
+      "descricao": "Caixa De Passagem Em Ferro Estampado Com Fundo Móvel",
+      "unidade": "un",
+      "quantidade": 26.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "11.24",
+      "fonte": "09.05.29 SIURB",
+      "descricao": "Caixa De Passagem Tipo Condulete - 3/4\"",
+      "unidade": "un",
+      "quantidade": 28.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "11.25",
+      "fonte": "09.05.30 SIURB",
+      "descricao": "Caixa De Passagem Tipo Condulete - 1\"",
+      "unidade": "un",
+      "quantidade": 12.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "11.26",
+      "fonte": "09.05.40-SIURB",
+      "descricao": "Caixa De Passagem Em Chapa Metálica Com Tampa Parafusada 20X20X10Cm",
+      "unidade": "un",
+      "quantidade": 3.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "11.27",
+      "fonte": "09.05.50 SIURB",
+      "descricao": "Caixa De Passagem Em Chapa Metálica Com Porta E Fechadura 40X40X15Cm - Uso Para Telefonia",
+      "unidade": "un",
+      "quantidade": 6.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "11.28",
+      "fonte": "09.05.98-SIURB",
+      "descricao": "Quadro Geral Ou De Distribuição, Em Chapa Metálica N.14 Esmaltada",
+      "unidade": "m2",
+      "quantidade": 0.5,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": "11.29",
+      "fonte": "72327-SINAPI",
+      "descricao": "Fusível Tipo \"Diazed\", Tipo Rápido Ou Retardado - 2/25A - Fornecimento E Instalação",
+      "unidade": "un",
+      "quantidade": 8.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": null,
+      "codigo": "11.30",
+      "fonte": "83487-SINAPI",
+      "descricao": "Base Para Fusível (Porta-Fusível) Nh 01 250A",
+      "unidade": "un",
+      "quantidade": 8.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": null,
+      "codigo": "11.31",
+      "fonte": "09.06.69-SIURB",
+      "descricao": "Isolador De Poliéster Tipo Tonel B.T. Uso Interno - 15X20Mm",
+      "unidade": "un",
+      "quantidade": 8.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": null,
+      "codigo": "11.32",
+      "fonte": "09.06.70 SIURB",
+      "descricao": "Isolador De Poliéster Tipo Tonel B.T. Uso Interno - 40X50Mm",
+      "unidade": "un",
+      "quantidade": 6.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": null,
+      "codigo": "11.33",
+      "fonte": "09.06.74 SIURB",
+      "descricao": "Barramento De Cobre Para 60A - 9,52X2,38Mm",
+      "unidade": "m",
+      "quantidade": 2.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": null,
+      "codigo": "11.34",
+      "fonte": "09.06.75-SIURB",
+      "descricao": "Barramento De Cobre Para 100A 15X3Mm",
+      "unidade": "m",
+      "quantidade": 1.5,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": null,
+      "codigo": "11.35",
+      "fonte": "72251-SINAPI",
+      "descricao": "Cabo De Cobre Nu 16Mm2 - Fornecimento E Instalação",
+      "unidade": "m",
+      "quantidade": 16.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": null,
+      "codigo": "11.36",
+      "fonte": "72252-SINAPI",
+      "descricao": "Cabo De Cobre Nu 25Mm2 - Fornecimento E Instalação",
+      "unidade": "m",
+      "quantidade": 15.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": null,
+      "codigo": "11.37",
+      "fonte": "72254-SINAPI",
+      "descricao": "Cabo De Cobre Nu 50Mm2 - Fornecimento E Instalação",
+      "unidade": "m",
+      "quantidade": 60.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": null,
+      "codigo": "11.38",
+      "fonte": "09.06.99 SIURB",
+      "descricao": "Aterramento De Quadros, Exclusive Cabo",
+      "unidade": "un",
+      "quantidade": 4.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": null,
+      "codigo": "11.39",
+      "fonte": "09.08.10 SIURB",
+      "descricao": "Mini Disjuntor - Tipo Europeu (lec) - Unipolar 6/25A",
+      "unidade": "un",
+      "quantidade": 31.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": null,
+      "codigo": "11.40",
+      "fonte": "09.08.12 SIURB",
+      "descricao": "Mini Disjuntor - Tipo Europeu (lec) - Bipolar 6/25A",
+      "unidade": "un",
+      "quantidade": 8.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": null,
+      "codigo": "11.41",
+      "fonte": "09.08.13 SIURB",
+      "descricao": "Mini Disjuntor - Tipo Europeu (lec) - Bipolar 32/50A",
+      "unidade": "un",
+      "quantidade": 7.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": null,
+      "codigo": "11.42",
+      "fonte": "09.08.20 SIURB",
+      "descricao": "Mini Disjuntor - Tipo Europeu (lec) - Bipolar 80A",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": null,
+      "codigo": "11.43",
+      "fonte": "09.09.78-SIURB",
+      "descricao": "Luminária Industrial Corpo Em Chapa De Aço Tratada, Pintada E Refletor Em Alumínio Anodizado De Alto Brilho - 1Xt 28W",
+      "unidade": "un",
+      "quantidade": 28.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": null,
+      "codigo": "11.44",
+      "fonte": "09.10.27 SIURB",
+      "descricao": "Luminária De Emergência Autônoma Com Lâmpada Fluorescente 9W",
+      "unidade": "un",
+      "quantidade": 14.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": null,
+      "codigo": "11.45",
+      "fonte": "09.10.63 SIURB",
+      "descricao": "Sirene Eletrônica Bitonal 24V-100 À 120Db, Com Flash",
+      "unidade": "un",
+      "quantidade": 3.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 29
+    },
+    {
+      "grupo": null,
+      "codigo": "11.46",
+      "fonte": "09.10.71-SIURB",
+      "descricao": "Detector De Presença Tipo Infravermelho Passivo - 110Vca",
+      "unidade": "un",
+      "quantidade": 5.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 30
+    },
+    {
+      "grupo": null,
+      "codigo": "11.47",
+      "fonte": "09.11.14SIURB",
+      "descricao": "Caixa De Inspeção De Aterramento Tipo Embutir Com Tampa E Alça",
+      "unidade": "un",
+      "quantidade": 90.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 31
+    },
+    {
+      "grupo": null,
+      "codigo": "11.48",
+      "fonte": "09.13.13 SIURB",
+      "descricao": "Perfilado Perfurado Chapa 14-Ge-Med. 38X38Mm Com Tampa E Instalação",
+      "unidade": "m",
+      "quantidade": 4.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "11.49",
+      "fonte": "09.17.28 SIURB",
+      "descricao": "Cartucho Para Conexão Exotérmica Estrutura Metálica",
+      "unidade": "un",
+      "quantidade": 4.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "11.50",
+      "fonte": "72331 SINAPI",
+      "descricao": "Interruptor Simples De Embutir 10A/250V 1 Tecla, Sem Placa - Fornecimento E Instalação",
+      "unidade": "un",
+      "quantidade": 7.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "11.51",
+      "fonte": "09.82.04 SIURB",
+      "descricao": "Interruptor Simples Bipolar - 1 Tecla",
+      "unidade": "un",
+      "quantidade": 11.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "11.52",
+      "fonte": "72334-SINAPI",
+      "descricao": "Interruptor Paralelo De Embutir 10A/250V 1 Tecla, Sem Placa - Fornecimento E Instalação",
+      "unidade": "un",
+      "quantidade": 2.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "11.53",
+      "fonte": "09.82.10-SIURB",
+      "descricao": "Tomada Simples De Embutir - 110/220V",
+      "unidade": "un",
+      "quantidade": 57.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "11.54",
+      "fonte": "09.82.15SIURB",
+      "descricao": "Tomada 3P+T 63A - 600/690V Tipo Industrial",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "11.55",
+      "fonte": "83403-SINAPI",
+      "descricao": "Interruptor Pulsador De Campainha Ou Minuteria 2A/250V C/ Caixa - Fornecimento E Instalação",
+      "unidade": "un",
+      "quantidade": 3.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "11.56",
+      "fonte": "68069-SINAPI",
+      "descricao": "Haste Copperweld 5/8 X 3,0M Com Conector",
+      "unidade": "un",
+      "quantidade": 5.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "11.57",
+      "fonte": "09.84.45-SIURB",
+      "descricao": "Caixa Em Alumínio P/ Tomada Fixação Em Perfilado",
+      "unidade": "un",
+      "quantidade": 43.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "11.58",
+      "fonte": "09.86.10-SIURB",
+      "descricao": "Tomada Rj 45 Para Informática Com Placa",
+      "unidade": "un",
+      "quantidade": 13.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "11.59",
+      "fonte": "09.86.11-SIURB",
+      "descricao": "Tomada Para Telefone Padrão Rj11 Com Placa/ Espelho",
+      "unidade": "un",
+      "quantidade": 10.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": "11.60",
+      "fonte": "09.90.02 SIURB",
+      "descricao": "Certificação De Rede Lógica - Até 50 Pontos",
+      "unidade": "gl",
+      "quantidade": 1.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": null,
+      "codigo": "11.61",
+      "fonte": "09.90.11-SIURB",
+      "descricao": "Rack 8U'S Com Ventilação, Bandeja Fixa E Régua De Tomadas - Instalado",
+      "unidade": "un",
+      "quantidade": 2.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": null,
+      "codigo": "11.62",
+      "fonte": "09.90.38 SIURB",
+      "descricao": "Cabo Utp - Categoria 4 E 5 Pares",
+      "unidade": "m",
+      "quantidade": 55.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": null,
+      "codigo": "11.63",
+      "fonte": "cotação",
+      "descricao": "Câmera Dome Uso Interno",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": null,
+      "codigo": "11.64",
+      "fonte": "cotação",
+      "descricao": "Sensor Magnético Para Portas E Janelas",
+      "unidade": "un",
+      "quantidade": 6.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": null,
+      "codigo": "11.65",
+      "fonte": "cotação",
+      "descricao": "Câmera Ir - Uso Externo",
+      "unidade": "un",
+      "quantidade": 3.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": null,
+      "codigo": "11.66",
+      "fonte": "cotação",
+      "descricao": "Luminária Fluorescente Quadrada De Embutir Com Aletas, Pintura Branca, Com 4 Lâmp. 16W - Completa",
+      "unidade": "un",
+      "quantidade": 43.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": null,
+      "codigo": "11.67",
+      "fonte": "cotação",
+      "descricao": "Canaleta Multiway, Tipo Rodapé Com 3 Vias, Para Energia, Lógica E Telefone",
+      "unidade": "m",
+      "quantidade": 24.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": null,
+      "codigo": "11.68",
+      "fonte": "cotação",
+      "descricao": "Caixa De Equipotencialização Dos Aterramentos",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": null,
+      "codigo": "11.69",
+      "fonte": "cotação",
+      "descricao": "Central Para Cftv E Alarme",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": null,
+      "codigo": "11.70",
+      "fonte": "cotação",
+      "descricao": "Poste Metálico Reto H=2,5M Fora Do Solo, Com 02 Lâmpadas \"Pl\" 45W",
+      "unidade": "un",
+      "quantidade": 3.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": null,
+      "codigo": "11.71",
+      "fonte": "cotação",
+      "descricao": "Barra Chata Em Cobre 3/4\" X 3/16\" X 3M",
+      "unidade": "pç",
+      "quantidade": 16.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "Instalações hidráulicas, esgoto e pluviais",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Instalações hidráulicas, esgoto e pluviais, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas vigentes e da segurança, que deverão ter seus custos incluídos nos itens apontados nesta planilha)",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "Alimentação Predial De Água E Gás",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Alimentação Predial De Água E Gás",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "12.1.1",
+      "fonte": "100101-SIURB",
+      "descricao": "Cavalete De Entrada - 3/4\"",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "12.1.2",
+      "fonte": "100119-SIURB",
+      "descricao": "Hv.09 - Abrigo Para Cavalete Entrada, D=3/4\" Ou 1\" Em Alvenaria Revestida",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "12.1.3",
+      "fonte": "73976/003 - SINAPI",
+      "descricao": "Tubo De Aço Galvanizado Com Costura 3/4\" (20Mm), Inclusive Conexões - Fornecimento E Instalação",
+      "unidade": "m",
+      "quantidade": 50.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "12.1.4",
+      "fonte": "100195-SIURB",
+      "descricao": "Proteção Anticorrosiva Para Tubulação Enterrada",
+      "unidade": "m",
+      "quantidade": 50.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "12.1.5",
+      "fonte": "100198 SIURB",
+      "descricao": "Envelopamento De Tubulação Enterrada, Com Concreto",
+      "unidade": "m",
+      "quantidade": 50.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "Reservação De Água",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Reservação De Água",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "12.2.1",
+      "fonte": "100213 SIURB",
+      "descricao": "Caixa D'Água De Polietileno 1000 Litros",
+      "unidade": "un",
+      "quantidade": 2.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "12.2.2",
+      "fonte": "100261 SIURB",
+      "descricao": "Tubo De Pvc Rígido, Soldável (Linha Água) - 25Mm (3/4\")",
+      "unidade": "m",
+      "quantidade": 7.5,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "12.2.3",
+      "fonte": "74058/001- SINAPI",
+      "descricao": "Torneira De Boia Vazão Total 3/4 Com Balão Plástico - Fornecimento E Instalação",
+      "unidade": "un",
+      "quantidade": 2.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "Rede De Água Fria - Tubulação",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Rede De Água Fria - Tubulação",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "12.3.1",
+      "fonte": "100462 SIURB",
+      "descricao": "Tubo De Pvc Rígido, Soldável (Linha Água) - 25Mm (3/4\")",
+      "unidade": "m",
+      "quantidade": 40.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": "12.3.2",
+      "fonte": "75030/002 - SINAPI",
+      "descricao": "Tubo Pvc Soldável Agua Fria Dn 32Mm, Inclusive Conexões Fornecimento E Instalação",
+      "unidade": "m",
+      "quantidade": 6.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": null,
+      "codigo": "12.3.3",
+      "fonte": "75030/005 - SINAPI",
+      "descricao": "Tubo Pvc Soldável Agua Fria Dn 60Mm, Inclusive Conexões - Fornecimento E Instalação",
+      "unidade": "m",
+      "quantidade": 18.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": null,
+      "codigo": "12.3.4",
+      "fonte": "75030/006 - SINAPI",
+      "descricao": "Tubo Pvc Soldável Agua Fria Dn 75Mm, Inclusive Conexões - Fornecimento E Instalação",
+      "unidade": "m",
+      "quantidade": 24.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "Rede De Água Fria - Acessórios",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Rede De Água Fria - Acessórios",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": null,
+      "codigo": "12.4.1",
+      "fonte": "100502-SIURB",
+      "descricao": "Registro De Gaveta, Metal Amarelo -3/4\"",
+      "unidade": "un",
+      "quantidade": 4.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": null,
+      "codigo": "12.4.2",
+      "fonte": "100506SIURB",
+      "descricao": "Registro De Gaveta, Metal Amarelo - 2\"",
+      "unidade": "un",
+      "quantidade": 2.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": null,
+      "codigo": "12.4.3",
+      "fonte": "74176/001-SINAPI",
+      "descricao": "Registro Gaveta 3/4\" Com Canopla Acabamento Cromado Simples - Fornecimento E Instalação",
+      "unidade": "un",
+      "quantidade": 2.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": null,
+      "codigo": "12.4.4",
+      "fonte": "74174/001-SINAPI",
+      "descricao": "Registro Gaveta 1.1/2\" Com Canopla Acabamento Cromado Simples - Fornecimento E Instalação",
+      "unidade": "un",
+      "quantidade": 3.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "Rede De Prevenção E Combate A Incêndios",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Rede De Prevenção E Combate A Incêndios",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": null,
+      "codigo": "12.5.1",
+      "fonte": "73775/002-SINAPI",
+      "descricao": "Extintor Incêndio Agua-Pressurizada 10L Incl Suporte Parede Carga Completa Fornecimento E Colocação",
+      "unidade": "un",
+      "quantidade": 3.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": null,
+      "codigo": "12.5.2",
+      "fonte": "100892 SIURB",
+      "descricao": "Extintor De Incêndio Com Carga De Pó Químico Seco - 8Kg",
+      "unidade": "un",
+      "quantidade": 3.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": null,
+      "codigo": "12.5.3",
+      "fonte": "100895 SIURB",
+      "descricao": "Seta Para Hidrante/Extintor De Incêndio",
+      "unidade": "un",
+      "quantidade": 6.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "Rede De Esgoto Sanitário - Tubulação",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Rede De Esgoto Sanitário - Tubulação",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": null,
+      "codigo": "12.6.1",
+      "fonte": "74165/001-SINAPI",
+      "descricao": "Tubo Pvc Esgoto Js Predial Dn 40Mm, Inclusive Conexões - Fornecimento E Instalação",
+      "unidade": "m",
+      "quantidade": 6.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": null,
+      "codigo": "12.6.2",
+      "fonte": "74165/002 - SINAPI",
+      "descricao": "Tubo Pvc Esgoto Predial Dn 50Mm, Inclusive Conexões - Fornecimento E Instalação",
+      "unidade": "m",
+      "quantidade": 24.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": null,
+      "codigo": "12.6.3",
+      "fonte": "74165/004-SINAPI",
+      "descricao": "Tubo Pvc Esgoto Predial Dn 75Mm, Inclusive Conexões - Fornecimento E Instalação",
+      "unidade": "m",
+      "quantidade": 6.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": null,
+      "codigo": "12.6.4",
+      "fonte": "74165/003 - SINAPI",
+      "descricao": "Tubo Pvc Esgoto Predial Dn 100Mm, Inclusive Conexões - Fornecimento E Instalação",
+      "unidade": "m",
+      "quantidade": 30.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 29
+    },
+    {
+      "grupo": "Rede De Esgoto Sanitário - Acessórios",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Rede De Esgoto Sanitário - Acessórios",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 30
+    },
+    {
+      "grupo": null,
+      "codigo": "12.7.1",
+      "fonte": "40777 SINAPI",
+      "descricao": "Caixa Sifonada Pvc 150X150X50Mm Com Grelha Redonda Branca - Fornecimento E Instalação",
+      "unidade": "un",
+      "quantidade": 5.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 31
+    },
+    {
+      "grupo": null,
+      "codigo": "12.7.2",
+      "fonte": "74051/001- SINAPI",
+      "descricao": "Caixa De Gordura Dupla Em Concreto Pré-moldado Dn 60Mm Com Tampa - Fornecimento E Instalação",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 32
+    },
+    {
+      "grupo": null,
+      "codigo": "12.7.3",
+      "fonte": "101094-SIURB",
+      "descricao": "Caixa De Ligação Ou Inspeção - Escavação E Apiloamento",
+      "unidade": "m³",
+      "quantidade": 4.0,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "12.7.4",
+      "fonte": "101095-SIURB",
+      "descricao": "Caixa De Ligação Ou Inspeção - Lastro De Concreto (Fundo)",
+      "unidade": "m3",
+      "quantidade": 0.2,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "12.7.5",
+      "fonte": "101096-SIURB",
+      "descricao": "Caixa De Ligação Ou Inspeção - Alvenaria De 1/2 Tijolo, Revestida",
+      "unidade": "m²",
+      "quantidade": 9.6,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "12.7.6",
+      "fonte": "101098SIURB",
+      "descricao": "Caixa De Ligação Ou Inspeção - Tampa De Concreto",
+      "unidade": "m2",
+      "quantidade": 1.5,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "Rede De Águas Pluviais - Tubulação",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Rede De Águas Pluviais - Tubulação",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "12.8.1",
+      "fonte": "101212-SIURB",
+      "descricao": "Condutor Em Tubo De Ferro Fundido Para Esgoto, Linha Smu - 100Mm",
+      "unidade": "m",
+      "quantidade": 31.2,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "12.8.2",
+      "fonte": "101216-SIURB",
+      "descricao": "Condutor Em Tubo De Pvc Rígido, Ponta E Bolsa - 100Mm (4\")",
+      "unidade": "m",
+      "quantidade": 26.0,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "12.8.3",
+      "fonte": "101234SIURB",
+      "descricao": "Ligação Para Despejo Livre Em Sarjetas, Com Tubo De Ferro Fundido Smu - 100Mm",
+      "unidade": "m",
+      "quantidade": 15.0,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "12.8.4",
+      "fonte": "101290-SIURB",
+      "descricao": "Caixa De Ligação Ou Inspeção - Escavação E Apiloamento",
+      "unidade": "m³",
+      "quantidade": 6.0,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "12.8.5",
+      "fonte": "101291SIURB",
+      "descricao": "Caixa De Ligação Ou Inspeção - Lastro De Concreto (Fundo)",
+      "unidade": "m³",
+      "quantidade": 0.3,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "12.8.6",
+      "fonte": "101292-SIURB",
+      "descricao": "Caixa De Ligação Ou Inspeção - Alvenaria De 1/2 Tijolo, Revestida",
+      "unidade": "m2",
+      "quantidade": 14.4,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "12.8.7",
+      "fonte": "101294SIURB",
+      "descricao": "Caixa De Ligação Ou Inspeção - Tampa De Concreto",
+      "unidade": "m2",
+      "quantidade": 2.5,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "SERVIÇOS FINAIS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "SERVIÇOS FINAIS",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "Paisagismo",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Paisagismo",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": null,
+      "codigo": "13.1.1",
+      "fonte": "85179-SINAPI",
+      "descricao": "Plantio De Grama São Carlos Em Leivas",
+      "unidade": "m²",
+      "quantidade": 106.0,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": null,
+      "codigo": "13.1.2",
+      "fonte": "16.03.096-FDE",
+      "descricao": "Forração - Agapanto",
+      "unidade": "m²",
+      "quantidade": 5.1,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": null,
+      "codigo": "13.1.3",
+      "fonte": "85181 SINAPI",
+      "descricao": "Passeio Em Concreto Desempenado, Traço 1:2,5:3,5 E Espessura 5Cm",
+      "unidade": "m²",
+      "quantidade": 29.5,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": null,
+      "codigo": "13.1.4",
+      "fonte": "18.10.90SIURB",
+      "descricao": "Torneira de Jardim",
+      "unidade": "un",
+      "quantidade": 2.0,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": null,
+      "codigo": "13.1.5",
+      "fonte": "74223/001-SINAPI",
+      "descricao": "Meio-Fio (Guia) De Concreto Pré-moldado, Dimensões 12X15X30X100Cm (Face Superior x face Inferior x altura x comprimento), Rejuntado C/Argamassa 1:4 E Superior x face inferior x altura X comprimento), Rejuntado C/Argamassa 1:4 Cimento: Areia, Incluindo Escavação E Reaterro.",
+      "unidade": "m",
+      "quantidade": 8.0,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "Limpeza Final da Obra",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Limpeza Final da Obra",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": null,
+      "codigo": "13.2.1",
+      "fonte": "9537-SINAPI",
+      "descricao": "Limpeza final da obra",
+      "unidade": "m2",
+      "quantidade": 225.0,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "Demais serviços",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Demais serviços",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": null,
+      "codigo": "13.3.1",
+      "fonte": "17.05.93 SIURB",
+      "descricao": "Placa De Identificação Com Número Pavimento Em Braile",
+      "unidade": "un",
+      "quantidade": 6.0,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": null,
+      "codigo": "13.3.2",
+      "fonte": "17.05.94SIURB",
+      "descricao": "Placa De Identificação De Wc Em Braile Fem./ Masc.",
+      "unidade": "un",
+      "quantidade": 3.0,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": null,
+      "codigo": "13.3.3",
+      "fonte": "17.05.95-SIURB",
+      "descricao": "Placa De Identificação Em Braile \"Início E Final\" P/ Corrimão",
+      "unidade": "un",
+      "quantidade": 5.0,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": null,
+      "codigo": "13.3.4",
+      "fonte": "17.05.96 SIURB",
+      "descricao": "Placa De Identificação Em Braile De Pavimento P/ Corrimão",
+      "unidade": "un",
+      "quantidade": 3.0,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": null,
+      "codigo": "13.3.5",
+      "fonte": "17.05.97-SIURB",
+      "descricao": "Placa Para Porta Wc C/ Desenho Universal Acessibilidade",
+      "unidade": "un",
+      "quantidade": 3.0,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": null,
+      "codigo": "13.3.6",
+      "fonte": "17.05.98-SIURB",
+      "descricao": "Sinalização Visual De Degraus Para Deficiente Visual",
+      "unidade": "un",
+      "quantidade": 92.0,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": null,
+      "codigo": "13.3.7",
+      "fonte": "17.10.02 SIURB",
+      "descricao": "Elevador Elétrico Sem Casa De Máquinas - 3 Paradas",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 13,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "13.3.8",
+      "fonte": "17.03.59 SIURB",
+      "descricao": "Demarcação De Vaga De Estacionamento Para Portadores De Deficiência Física",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 13,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "13.3.9",
+      "fonte": "COTAÇÃO",
+      "descricao": "Totem em aço carbono",
+      "unidade": "Pç",
+      "quantidade": 1.0,
+      "pagina_pdf": 13,
+      "ordem_na_pagina": 3
+    }
+  ],
+  "apelido": "CREA VALINHO NOVO"
+}

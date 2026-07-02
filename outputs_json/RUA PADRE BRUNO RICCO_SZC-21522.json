@@ -1,0 +1,165 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "SZC-21522",
+    "numero_art": "92221220101513220",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893",
+    "empresa_contratada": "Thi Engenharia e Arquitetura Ltda",
+    "contratante": "Prefeitura do Município de São Paulo - Subprefeitura de Vila Prudente / Sapopemba",
+    "cnpj_contratante": null,
+    "objeto": "Execução de obra na área da Engenharia Civil - Execução de reforma de área pública na Rua Padre Bruno Ricco X Avenida São Lucas.",
+    "processo_administrativo": null,
+    "contrato": null,
+    "endereco_obra": "Rua Padre Bruno Ricco e outros",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2009-12-17",
+    "data_fim": "2009-12-31",
+    "area_m2": 278.62,
+    "valor_contrato": 14860.58
+  },
+  "servicos": [
+    {
+      "grupo": null,
+      "codigo": "01-01-01",
+      "fonte": null,
+      "descricao": "LIMPEZA GERAL, INCLUSIVE REMOÇÃO DA COBERTURA VEGETAL - TRONCOS COM DIAMETRO ATÉ 10CM",
+      "unidade": "M2",
+      "quantidade": 279.62,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "01-01-05",
+      "fonte": null,
+      "descricao": "CARGA MECANIZADA E REMOÇÃO DE ENTULHO, INCLUSIVE TRANSPORTE ATÉ 1KM",
+      "unidade": "M3",
+      "quantidade": 8.38,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "01-01-09",
+      "fonte": null,
+      "descricao": "DESTOCAMENTO MANUAL, INCLUSIVE REMOÇÃO DE RAÍZES - DIÂMETRO 10,01 À 30 CM",
+      "unidade": "UN",
+      "quantidade": 4.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "01-01-10",
+      "fonte": null,
+      "descricao": "TRANSPORTE POR CAMINHÃO BASCULANTE, A PARTIR DE 1KM",
+      "unidade": "M3XKM",
+      "quantidade": 251.4,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "13-01-10",
+      "fonte": null,
+      "descricao": "LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 3.08,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "15-01-02",
+      "fonte": null,
+      "descricao": "AGUADA DE CAL - CONCRETO OU REBOCO SEM MASSA CORRIDA, EXTERIOR",
+      "unidade": "M2",
+      "quantidade": 20.6,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "17-04-01",
+      "fonte": null,
+      "descricao": "LIMPEZA GERAL DA OBRA",
+      "unidade": "M2",
+      "quantidade": 279.62,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "18-03-03",
+      "fonte": null,
+      "descricao": "GRAMA SÃO CARLOS EM PLACAS (ANOXONOPUS OBTUSIFOLIUS)",
+      "unidade": "M2",
+      "quantidade": 28.5,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "18-03-05",
+      "fonte": null,
+      "descricao": "GRAMA ESMERALDA",
+      "unidade": "M2",
+      "quantidade": 173.39,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "18-03-07",
+      "fonte": null,
+      "descricao": "GRAMA PRETA (OPHIOPOGUM JAPONICUS) - 36 MUDAS POR M2",
+      "unidade": "M2",
+      "quantidade": 124.16,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "18-12-02",
+      "fonte": null,
+      "descricao": "IC.02 - CONJUNTO MESA E BANCOS EM CONCRETO",
+      "unidade": "CJ",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "18-70-40",
+      "fonte": null,
+      "descricao": "TRANSPLANTE DE ÁRVORES COM DIAMETRO ATÉ 30CM",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "18-80-01",
+      "fonte": null,
+      "descricao": "REVOLVIMENTO E AJUSTE DO SOLO",
+      "unidade": "M2",
+      "quantidade": 279.62,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "18-80-11",
+      "fonte": null,
+      "descricao": "TERRA PREPARADA PARA PLANTIO",
+      "unidade": "M3",
+      "quantidade": 13.98,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    }
+  ],
+  "apelido": "RUA PADRE BRUNO RICCO"
+}

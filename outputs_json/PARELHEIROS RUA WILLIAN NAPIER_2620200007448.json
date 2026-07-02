@@ -1,0 +1,255 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620200007448",
+    "numero_art": "28027230181099472",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "PREFEITURA REGIONAL DE PARELHEIROS",
+    "cnpj_contratante": "05.494.401/0001-69",
+    "objeto": "Pavimentação Asfáltica com Sistema de Drenagem.",
+    "processo_administrativo": "6047.2018/0000294-0",
+    "contrato": "028/PR-PA/2018",
+    "endereco_obra": "RUA WILLIAM NAPIER",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2018-09-06",
+    "data_fim": "2018-10-05",
+    "area_m2": null,
+    "valor_contrato": 296073.94
+  },
+  "servicos": [
+    {
+      "grupo": null,
+      "codigo": "01-01-07",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 60.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "04-04-00",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MECÂNICA PARA FUNDAÇÕES E VALAS COM PROFUNDIDADE MENOR OU IGUAL À 4,0M",
+      "unidade": "M3",
+      "quantidade": 348.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "04-09-00",
+      "fonte": null,
+      "descricao": "REENCHIMENTO DE VALA COM COMPACTAÇÃO, SEM FORNECIMENTO DE TERRA",
+      "unidade": "M3",
+      "quantidade": 12.75,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "04-11-00",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MECÂNICA, CARGA E REMOÇÃO DE TERRA ATÉ A DISTÂNCIA MÉDIA DE 1,0KM",
+      "unidade": "M3",
+      "quantidade": 174.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "04-15-00",
+      "fonte": null,
+      "descricao": "CARGA E REMOÇÃO DE TERRA ATÉ A DISTÂNCIA MÉDIA DE 1,0KM",
+      "unidade": "M3",
+      "quantidade": 12.75,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "04-31-00",
+      "fonte": null,
+      "descricao": "FORNECIMENTO DE TERRA, INCLUINDO ESCAVAÇÃO, CARGA E TRANSPORTE ATÉ A DISTÂNCIA MÉDIA DE 1,0KM, MEDIDO NO ATERRO COMPACTADO",
+      "unidade": "M3",
+      "quantidade": 186.75,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "04-33-00",
+      "fonte": null,
+      "descricao": "LIMPEZA MECANIZADA DE TERRENO, INCLUSIVE DE CAMADA VEGETAL ATÉ 30CM DE PROFUNDIDADE, SEM TRANSPORTE",
+      "unidade": "M2",
+      "quantidade": 2773.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "05-10-00",
+      "fonte": null,
+      "descricao": "ABERTURA DE CAIXA ATÉ 40CM, INCLUI ESCAVAÇÃO, COMPACTAÇÃO, TRANSPORTE E PREPARO DO SUB-LEITO",
+      "unidade": "M2",
+      "quantidade": 2410.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "05-14-01",
+      "fonte": null,
+      "descricao": "FORNECIMENTO E ASSENTAMENTO DE GUIAS TIPO PMSP 100, INCLUSIVE ENCOSTAMENTO DE TERRA - FCK=20,0MPA",
+      "unidade": "M",
+      "quantidade": 560.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "05-19-02",
+      "fonte": null,
+      "descricao": "CONSTRUÇÃO DE SARJETA OU SARJETÃO DE CONCRETO - FCK= 20,0MPA",
+      "unidade": "M3",
+      "quantidade": 39.35,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "05-26-00",
+      "fonte": null,
+      "descricao": "IMPRIMAÇÃO BETUMINOSA LIGANTE",
+      "unidade": "M2",
+      "quantidade": 2410.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "05-28-00",
+      "fonte": null,
+      "descricao": "REVESTIMENTO DE CONCRETO ASFÁLTICO (SEM TRANSPORTE)",
+      "unidade": "M3",
+      "quantidade": 96.4,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": "05-48-00",
+      "fonte": null,
+      "descricao": "BASE DE BRITA GRADUADA",
+      "unidade": "M3",
+      "quantidade": 313.3,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": null,
+      "codigo": "05-78-01",
+      "fonte": null,
+      "descricao": "CARGA, DESCARGA E TRANSPORTE DE CONCRETO ASFÁLTICO ATÉ A DISTÂNCIA MÉDIA DE IDA E VOLTA DE 1KM",
+      "unidade": "M3",
+      "quantidade": 96.4,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": null,
+      "codigo": "05-78-07",
+      "fonte": null,
+      "descricao": "TRANSPORTE DE CONCRETO ASFÁLTICO ALÉM DO PRIMEIRO KM",
+      "unidade": "M3XKM",
+      "quantidade": 4820.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": null,
+      "codigo": "06-05-00",
+      "fonte": null,
+      "descricao": "LASTRO DE BRITA E PÓ DE PEDRA",
+      "unidade": "M3",
+      "quantidade": 120.5,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": null,
+      "codigo": "06-12-01",
+      "fonte": null,
+      "descricao": "FORNECIMENTO E ASSENTAMENTO DE TUBOS DE CONCRETO ARMADO, DIAMETRO 80CM - TIPO PA-2",
+      "unidade": "M",
+      "quantidade": 10.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": null,
+      "codigo": "06-23-01",
+      "fonte": null,
+      "descricao": "REFORMA DE BOCA DE LOBO SIMPLES",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "06-23-02",
+      "fonte": null,
+      "descricao": "REFORMA DE BOCA DE LOBO DUPLA",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "06-68-03",
+      "fonte": null,
+      "descricao": "FORNECIMENTO E ASSENTAMENTO DE TUBO DE PVC RÍGIDO, COR BRANCA, PARA ESGOTO, PONTA E BOLSA - DIAMETRO 100MM (4\")",
+      "unidade": "M",
+      "quantidade": 40.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "07-14-00",
+      "fonte": null,
+      "descricao": "FORNECIMENTO E APLICAÇÃO DE CONCRETO USINADO FCK=15,0MPA",
+      "unidade": "M3",
+      "quantidade": 23.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "08-49-00",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE CONCRETO SIMPLES",
+      "unidade": "M3",
+      "quantidade": 18.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "10-18-00",
+      "fonte": null,
+      "descricao": "PROTEÇÃO PARA TERCEIROS COM TELA DE NYLON",
+      "unidade": "M2",
+      "quantidade": 450.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    }
+  ],
+  "apelido": "PARELHEIROS, RUA WILLIAN NAPIER"
+}

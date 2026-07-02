@@ -1,0 +1,185 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620250000781",
+    "numero_art": "2620242224942",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA DE ERMELINO MATARAZZO",
+    "cnpj_contratante": "05.612.822/0001-47",
+    "objeto": "REVITALIZAÇÃO DE ESCADARIA PRAÇA PADRE CICERO MANUTENÇÃO DOS DEGRAUS E INSTALAÇÃO DE CORRIMÃOS. CONFORME NBR9050.",
+    "processo_administrativo": "6036.2022/0001349-3",
+    "contrato": "25/SUB-EM/2022",
+    "endereco_obra": "PRAÇA PADRE CÍCERO",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2022-08-30",
+    "data_fim": "2022-09-10",
+    "area_m2": 114.0,
+    "valor_contrato": 125099.42
+  },
+  "servicos": [
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "01-01-06",
+      "fonte": "EDIF",
+      "descricao": "CARGA MANUAL E REMOÇÃO DE ENTULHO, INCLUSIVE TRANSPORTE ATÉ 1 KM",
+      "unidade": "M3",
+      "quantidade": 20.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "01-01-07",
+      "fonte": "EDIF",
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 20.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "01-05-40",
+      "fonte": "EDIF",
+      "descricao": "TELA PARA PROTEÇÃO DE OBRAS, MALHA 2 MM",
+      "unidade": "M2",
+      "quantidade": 120.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "17-30-02",
+      "fonte": "EDIF",
+      "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "20-03-59",
+      "fonte": "EDIF",
+      "descricao": "ENGENHEIRO DA OBRA",
+      "unidade": "H",
+      "quantidade": 45.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "20-03-60",
+      "fonte": "EDIF",
+      "descricao": "PROJETO BÁSICO (PRANCHA A1)",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "12-12-00",
+      "fonte": "INFRA",
+      "descricao": "ENCARREGADO",
+      "unidade": "H",
+      "quantidade": 120.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "DEGRAUS E RAMPAS CENTRAIS",
+      "codigo": "13-02-02",
+      "fonte": "EDIF",
+      "descricao": "CIMENTADO COMUM, DESEMPENADO E ALISADO - ESPESSURA 20MM",
+      "unidade": "M2",
+      "quantidade": 114.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "DEGRAUS E RAMPAS CENTRAIS",
+      "codigo": "15-01-15",
+      "fonte": "EDIF",
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 114.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "DEGRAUS E RAMPAS CENTRAIS",
+      "codigo": "17-04-14",
+      "fonte": "EDIF",
+      "descricao": "LIMPEZA E LAVAGEM DE PISO POR HIDROJATEAMENTO",
+      "unidade": "M2",
+      "quantidade": 114.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "DEGRAUS E RAMPAS CENTRAIS",
+      "codigo": "17-50-21",
+      "fonte": "EDIF",
+      "descricao": "DEMOLIÇÃO MANUAL DE CONCRETO ARMADO",
+      "unidade": "M3",
+      "quantidade": 13.44,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "DEGRAUS E RAMPAS CENTRAIS",
+      "codigo": "18-03-05",
+      "fonte": "EDIF",
+      "descricao": "GRAMA ESMERALDA",
+      "unidade": "M2",
+      "quantidade": 112.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "DEGRAUS E RAMPAS CENTRAIS",
+      "codigo": "18-80-01",
+      "fonte": "EDIF",
+      "descricao": "REVOLVIMENTO E AJUSTE DO SOLO",
+      "unidade": "M2",
+      "quantidade": 112.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "DEGRAUS E RAMPAS CENTRAIS",
+      "codigo": "18-80-11",
+      "fonte": "EDIF",
+      "descricao": "TERRA PREPARADA PARA PLANTIO",
+      "unidade": "M3",
+      "quantidade": 11.2,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "CORRIMÃO",
+      "codigo": "17-05-25",
+      "fonte": "EDIF",
+      "descricao": "DP.05 - CORRIMÃO EM TUBO GALVANIZADO COM GUARDA CORPO",
+      "unidade": "M",
+      "quantidade": 139.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "LIMPEZA",
+      "codigo": "17-04-01",
+      "fonte": "EDIF",
+      "descricao": "LIMPEZA GERAL DA OBRA",
+      "unidade": "M2",
+      "quantidade": 114.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    }
+  ],
+  "apelido": "ERMELINO MATARAZZO - ESCADARIA PADRE CÍCERO"
+}

@@ -1,0 +1,635 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620240011366",
+    "numero_art": "28027230231178393",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA VILA MARIANA",
+    "cnpj_contratante": "05.626.770/0001-68",
+    "objeto": "Execucao, Execucao de obra, de aplicacao de outros materiais. 301,50000 metro quadrado.",
+    "processo_administrativo": "6059.2022/0011397-3",
+    "contrato": "33/SUB-VM/2022",
+    "endereco_obra": "RUA MARIA NOSCHESE PRAÇA DAVID NASSER",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2022-12-21",
+    "data_fim": "2023-01-20",
+    "area_m2": 301.5,
+    "valor_contrato": 322071.53
+  },
+  "servicos": [
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "1.1",
+      "fonte": null,
+      "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "1.2",
+      "fonte": null,
+      "descricao": "LEVANTAMENTO PLANIALTIMÉTRICO CADASTRAL",
+      "unidade": "M2",
+      "quantidade": 5641.1,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "1.3",
+      "fonte": null,
+      "descricao": "SINALIZAÇÃO COM FITA FIXADA EM",
+      "unidade": "M2",
+      "quantidade": 201.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "1.4",
+      "fonte": null,
+      "descricao": "PROTEÇÃO PARA TERCEIROS COM TELA DE NYLON",
+      "unidade": "M2",
+      "quantidade": 241.2,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "1.5",
+      "fonte": null,
+      "descricao": "Locação de container tipo alojamento - área mínima de 13,80 m²",
+      "unidade": "UNMES",
+      "quantidade": 3.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "1.6",
+      "fonte": null,
+      "descricao": "Locação de container tipo sanitário com 2 vasos sanitários, 2 lavatórios, 2 mictórios e 4 pontos para chuveiro - área mínima de 13,80 m²",
+      "unidade": "UNMES",
+      "quantidade": 3.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "1.7",
+      "fonte": null,
+      "descricao": "PLACA DE AVISO DE POLIESTIRENO 30X40 E 2MM",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "1.8",
+      "fonte": null,
+      "descricao": "SINALIZAÇÃO - ILUMINAÇÃO",
+      "unidade": "M",
+      "quantidade": 201.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "1.9",
+      "fonte": null,
+      "descricao": "PROJETO EXECUTIVO (PRANCHA A1)",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "1.10",
+      "fonte": null,
+      "descricao": "CONTROLE TECNOLÓGICO DE CONCRETO - MOBILIZAÇÃO PARA MOLDAGEM E/OU COLETA DOS CORPOS DE PROVA DE CONCRETO",
+      "unidade": "VIAGEM",
+      "quantidade": 3.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "DEMOLIÇÕES",
+      "codigo": "2.1",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MECANIZADA DE CONCRETO ARMADO",
+      "unidade": "M3",
+      "quantidade": 24.62,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "DEMOLIÇÕES",
+      "codigo": "2.3",
+      "fonte": null,
+      "descricao": "CARGA MECANIZADA E REMOÇÃO DE ENTULHO, INCLUSIVE TRANSPORTE ATÉ 1KM",
+      "unidade": "M3",
+      "quantidade": 32.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "DEMOLIÇÕES",
+      "codigo": "2.4",
+      "fonte": null,
+      "descricao": "TRANSPORTE DE ENTULHO POR CAMINHÃO BASCULANTE, A PARTIR DE 1KM",
+      "unidade": "M3XKM",
+      "quantidade": 480.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "DEMOLIÇÕES",
+      "codigo": "2.5",
+      "fonte": null,
+      "descricao": "TAXA DESCARTE RESÍDUOS SÓLIDOS",
+      "unidade": "TON",
+      "quantidade": 51.2,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "PAVIMENTO",
+      "codigo": "3.1",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL PARA FUNDAÇÕES E VALAS COM PROFUNDIDADE MÉDIA MENOR OU IGUAL À 1,50M",
+      "unidade": "M3",
+      "quantidade": 21.11,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "PAVIMENTO",
+      "codigo": "3.2",
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 301.5,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "PAVIMENTO",
+      "codigo": "3.3",
+      "fonte": null,
+      "descricao": "LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 21.11,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "PAVIMENTO",
+      "codigo": "3.4",
+      "fonte": null,
+      "descricao": "FORMA COMUM DE TÁBUAS DE PINUS",
+      "unidade": "M2",
+      "quantidade": 80.4,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": null,
+      "codigo": "3.5",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-60 - TELA",
+      "unidade": "KG",
+      "quantidade": 937.67,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "3.6",
+      "fonte": null,
+      "descricao": "CURA QUÍMICA",
+      "unidade": "M2",
+      "quantidade": 301.5,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "3.7",
+      "fonte": null,
+      "descricao": "CONCRETO SIMPLES DESEMPENADO E RIPADO, 200KG CIM/M3",
+      "unidade": "M3",
+      "quantidade": 36.18,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "3.8",
+      "fonte": null,
+      "descricao": "CORTE SUPERFICIAL DE CONCRETO ATÉ 3 CM DE PROFUNDIDADE",
+      "unidade": "M2",
+      "quantidade": 15.89,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "3.9",
+      "fonte": null,
+      "descricao": "PISO PODOTÁTIL, ALERTA OU DIRECIONAL, EM LADRILHO HIDRÁULICO",
+      "unidade": "M2",
+      "quantidade": 51.25,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "3.11",
+      "fonte": null,
+      "descricao": "LONA PLASTICA PRETA, E= 150 MICRA",
+      "unidade": "M2",
+      "quantidade": 301.5,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "3.15",
+      "fonte": null,
+      "descricao": "RETIRADA DE GUIAS DE CONCRETO",
+      "unidade": "M",
+      "quantidade": 201.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "3.16",
+      "fonte": null,
+      "descricao": "GUIA DE CONCRETO RETA OU CURVA, TIPO PMSP",
+      "unidade": "M",
+      "quantidade": 39.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "3.16.2",
+      "fonte": null,
+      "descricao": "RECOLOCAÇÃO DE GUIAS DE CONCRETO",
+      "unidade": "M",
+      "quantidade": 162.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "3.17",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MECANIZADA DE CONCRETO SIMPLES",
+      "unidade": "M3",
+      "quantidade": 1.54,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "3.18",
+      "fonte": null,
+      "descricao": "CARGA MECANIZADA E REMOÇÃO DE ENTULHO, INCLUSIVE TRANSPORTE ATÉ 1KM",
+      "unidade": "M3",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "3.19",
+      "fonte": null,
+      "descricao": "TRANSPORTE DE ENTULHO POR CAMINHÃO BASCULANTE, A PARTIR DE 1KM",
+      "unidade": "M3",
+      "quantidade": 29.98,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": "3.20",
+      "fonte": null,
+      "descricao": "TAXA DESCARTE RESÍDUOS SÓLIDOS",
+      "unidade": "TON",
+      "quantidade": 3.2,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": null,
+      "codigo": "3.22",
+      "fonte": null,
+      "descricao": "TINTA PVA (LÁTEX) - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 68.34,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": null,
+      "codigo": "3.23",
+      "fonte": null,
+      "descricao": "LEVANTAMENTO OU REBAIXAMENTO DE TAMPÃO DE POÇO DE VISITA",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": null,
+      "codigo": "3.24",
+      "fonte": null,
+      "descricao": "SUBSTITUIÇÃO DE TAMPA DE CONCRETO PARA BOCA DE LOBO",
+      "unidade": "M2",
+      "quantidade": 4.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": null,
+      "codigo": "3.25",
+      "fonte": null,
+      "descricao": "LIMPEZA E LAVAGEM DE PISO POR HIDROJATEAMENTO",
+      "unidade": "M2",
+      "quantidade": 301.5,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "CACHORRÓDROMO",
+      "codigo": "4.1",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL, PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 39.67,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "CACHORRÓDROMO",
+      "codigo": "4.2",
+      "fonte": null,
+      "descricao": "FORMA COMUM DE TÁBUAS DE PINUS - NÃO RECUPERÁVEL",
+      "unidade": "M2",
+      "quantidade": 72.76,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": null,
+      "codigo": "4.3",
+      "fonte": null,
+      "descricao": "BROCA DE CONCRETO - DIÂMETRO DE 20CM",
+      "unidade": "M",
+      "quantidade": 60.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "4.4",
+      "fonte": null,
+      "descricao": "BLOCOS VAZADOS DE CONCRETO - 14CM",
+      "unidade": "M2",
+      "quantidade": 29.1,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "4.5",
+      "fonte": null,
+      "descricao": "CHAPISCO COMUM - ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 58.21,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "4.6",
+      "fonte": null,
+      "descricao": "EMBOÇO EXTERNO - ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 58.21,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "4.7",
+      "fonte": null,
+      "descricao": "REBOCO EXTERNO - ARGAMASSA PRÉ-FABRICADA",
+      "unidade": "M2",
+      "quantidade": 58.21,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "4.8",
+      "fonte": null,
+      "descricao": "FP.05 - ALAMBRADO EM TUBO GALVANIZADO E TELA GALVANIZADA H=1,00M",
+      "unidade": "M",
+      "quantidade": 72.76,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "4.9",
+      "fonte": null,
+      "descricao": "PP.20/24 - PORTÃO EM FERRO PERFILADO COM TELA, 1 FOLHA",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "4.10",
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 27.65,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "4.11",
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO - ESQUADRIAS E PEÇAS DE SERRALHERIA",
+      "unidade": "M2",
+      "quantidade": 145.52,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "4.13",
+      "fonte": null,
+      "descricao": "PASSEIO DE CONCRETO ARMADO, FCK=25MPA, INCLUINDO PREPARO DA CAIXA E LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 0.34,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "4.14",
+      "fonte": null,
+      "descricao": "CONJUNTO DE 07 EQUIPAMENTO PARA ÁREA PET",
+      "unidade": "CJ",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "4.15",
+      "fonte": null,
+      "descricao": "LIMPEZA MECANIZADA GERAL, INCLUSIVE REMOÇÃO DA COBERTURA VEGETAL - TRONCOS COM DIÂMETRO ATÉ 10CM - SEM TRANSPORTE",
+      "unidade": "M2",
+      "quantidade": 443.22,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": "4.16",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 53.47,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": null,
+      "codigo": "4.17",
+      "fonte": null,
+      "descricao": "REVOLVIMENTO E AJUSTE DO SOLO",
+      "unidade": "M2",
+      "quantidade": 280.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": null,
+      "codigo": "4.18",
+      "fonte": null,
+      "descricao": "TERRA PREPARADA PARA PLANTIO",
+      "unidade": "M3",
+      "quantidade": 14.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": null,
+      "codigo": "4.19",
+      "fonte": null,
+      "descricao": "ADUBO QUÍMICO NPK, 10:10:10",
+      "unidade": "KG",
+      "quantidade": 280.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": null,
+      "codigo": "4.20",
+      "fonte": null,
+      "descricao": "GRAMA ESMERALDA",
+      "unidade": "M2",
+      "quantidade": 280.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "EQUIPAMENTOS",
+      "codigo": "5.1",
+      "fonte": null,
+      "descricao": "CAMINHÃO BASCULANTE 4,0M3",
+      "unidade": "H",
+      "quantidade": 96.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "EQUIPAMENTOS",
+      "codigo": "5.2",
+      "fonte": null,
+      "descricao": "ROMPEDOR",
+      "unidade": "H",
+      "quantidade": 90.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "EQUIPAMENTOS",
+      "codigo": "5.3",
+      "fonte": null,
+      "descricao": "CARRO POPULAR 50% EM OPERAÇÃO",
+      "unidade": "H",
+      "quantidade": 144.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "ADM LOCAL",
+      "codigo": "6.1",
+      "fonte": null,
+      "descricao": "VIGIA DE CANTEIRO DE OBRA - NOTURNO",
+      "unidade": "H",
+      "quantidade": 96.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "ADM LOCAL",
+      "codigo": "6.2",
+      "fonte": null,
+      "descricao": "ENGENHEIRO/ ARQUITETO SÊNIOR",
+      "unidade": "H",
+      "quantidade": 45.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "ADM LOCAL",
+      "codigo": "6.3",
+      "fonte": null,
+      "descricao": "ENCARREGADO",
+      "unidade": "H",
+      "quantidade": 112.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "ADM LOCAL",
+      "codigo": "6.4",
+      "fonte": null,
+      "descricao": "TOPOGRÁFO",
+      "unidade": "H",
+      "quantidade": 24.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 7
+    }
+  ],
+  "apelido": "VILA MARIANA - CACHORRÓDROMO PÇ DAVID NASSER"
+}

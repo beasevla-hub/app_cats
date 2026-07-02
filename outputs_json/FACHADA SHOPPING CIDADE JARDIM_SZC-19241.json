@@ -1,0 +1,315 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "SZC-19241",
+    "numero_art": "92221220090588812 e 92221220090615276",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893",
+    "empresa_contratada": "THI Engenharia e Arquitetura Ltda.",
+    "contratante": "Torres Engenharia e Construções Ltda.",
+    "cnpj_contratante": null,
+    "objeto": "Execução na área da Engenharia Civil - Construção parcial da fachada do Shopping Cidade Jardim, incluindo os serviços de fundação, superestrutura, vedações, revestimento, tijolo aparente, esquadrias metálicas, impermeabilizações, pintura e peitoris de granito.",
+    "processo_administrativo": null,
+    "contrato": null,
+    "endereco_obra": "Marginal Pinheiros, 12000",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2007-12-13",
+    "data_fim": "2008-05-13",
+    "area_m2": 2688.0,
+    "valor_contrato": 1426851.36
+  },
+  "servicos": [
+    {
+      "grupo": "FUNDAÇÃO - BALDRAMES E BLOCOS",
+      "codigo": "1.1",
+      "fonte": null,
+      "descricao": "Forma em tabua de cedro 30cm",
+      "unidade": "M2",
+      "quantidade": 320.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "FUNDAÇÃO - BALDRAMES E BLOCOS",
+      "codigo": "1.2",
+      "fonte": null,
+      "descricao": "Armadura CA 50 / CA 60",
+      "unidade": "KG",
+      "quantidade": 4200.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "FUNDAÇÃO - BALDRAMES E BLOCOS",
+      "codigo": "1.3",
+      "fonte": null,
+      "descricao": "Lançamento de concreto FCK 30 Mpa",
+      "unidade": "M3",
+      "quantidade": 42.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "FUNDAÇÃO - BALDRAMES E BLOCOS",
+      "codigo": "1.4",
+      "fonte": null,
+      "descricao": "Escavação, corte e movimentação de terra",
+      "unidade": "M3",
+      "quantidade": 63.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "SUPERESTRUTURA",
+      "codigo": "2.1",
+      "fonte": null,
+      "descricao": "Concreto FCK=30 Mpa",
+      "unidade": "M3",
+      "quantidade": 270.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "SUPERESTRUTURA",
+      "codigo": "2.2",
+      "fonte": null,
+      "descricao": "Forma em compensado resinado 15 mm",
+      "unidade": "M2",
+      "quantidade": 850.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "SUPERESTRUTURA",
+      "codigo": "2.3",
+      "fonte": null,
+      "descricao": "Armadura CA 50 / CA 60",
+      "unidade": "KG",
+      "quantidade": 30000.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "SUPERESTRUTURA",
+      "codigo": "2.4",
+      "fonte": null,
+      "descricao": "Furos em concreto com ancoragem de barras de aço com adesivo a base de epóxi",
+      "unidade": "UN",
+      "quantidade": 5200.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "SUPERESTRUTURA",
+      "codigo": "2.5",
+      "fonte": null,
+      "descricao": "Pré-laje de concreto (Laje pré-moldada)",
+      "unidade": "M2",
+      "quantidade": 672.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "SUPERESTRUTURA",
+      "codigo": "2.6",
+      "fonte": null,
+      "descricao": "Escoramento / Cimbramento (metálico)",
+      "unidade": "VB",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "VEDAÇÕES",
+      "codigo": "3.1",
+      "fonte": null,
+      "descricao": "Assentamento de blocos de concreto estrutural 8 MPa",
+      "unidade": "M2",
+      "quantidade": 6200.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "VEDAÇÕES",
+      "codigo": "3.2",
+      "fonte": null,
+      "descricao": "Armadura para alvenaria estrutural CA 50",
+      "unidade": "KG",
+      "quantidade": 15200.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "VEDAÇÕES",
+      "codigo": "3.3",
+      "fonte": null,
+      "descricao": "Preenchimento com graute das alvenarias",
+      "unidade": "M3",
+      "quantidade": 190.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "VEDAÇÕES",
+      "codigo": "3.4",
+      "fonte": null,
+      "descricao": "Andaime Fachadeiro - Locação, brete / assoalhos / montagem",
+      "unidade": "M2",
+      "quantidade": 15600.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "VEDAÇÕES",
+      "codigo": "3.5",
+      "fonte": null,
+      "descricao": "Tela fachadeiro",
+      "unidade": "M2",
+      "quantidade": 15600.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "REVESTIMENTO DE MASSA PARA PINTURA",
+      "codigo": "4.1",
+      "fonte": null,
+      "descricao": "Chapisco",
+      "unidade": "M2",
+      "quantidade": 12288.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "REVESTIMENTO DE MASSA PARA PINTURA",
+      "codigo": "4.2",
+      "fonte": null,
+      "descricao": "Massa única",
+      "unidade": "M2",
+      "quantidade": 12288.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "TIJOLO APARENTE",
+      "codigo": "5.1",
+      "fonte": null,
+      "descricao": "Chapisco",
+      "unidade": "M2",
+      "quantidade": 5700.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "TIJOLO APARENTE",
+      "codigo": "5.2",
+      "fonte": null,
+      "descricao": "Execução de tijolo aparente (frisado)",
+      "unidade": "M2",
+      "quantidade": 5700.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "ESQUADRIAS METÁLICAS",
+      "codigo": "6.1",
+      "fonte": null,
+      "descricao": "Chumbamento com argamassa de areia e cimento",
+      "unidade": "M2",
+      "quantidade": 386.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "ESQUADRIAS METÁLICAS",
+      "codigo": "6.2",
+      "fonte": null,
+      "descricao": "Vedação com mastique elástico base de poliuretano",
+      "unidade": "ML",
+      "quantidade": 2400.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "ESQUADRIAS METÁLICAS",
+      "codigo": "6.3",
+      "fonte": null,
+      "descricao": "Instalação de caixilhos metálicos",
+      "unidade": "M2",
+      "quantidade": 386.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "ESQUADRIAS METÁLICAS",
+      "codigo": "6.4",
+      "fonte": null,
+      "descricao": "Instalação de vidros",
+      "unidade": "M2",
+      "quantidade": 386.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "IMPERMEABILIZAÇÕES",
+      "codigo": "7.1",
+      "fonte": null,
+      "descricao": "Impermeabilização de laje",
+      "unidade": "M2",
+      "quantidade": 268.8,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": "8.1",
+      "fonte": null,
+      "descricao": "Aplicação de fundo selador",
+      "unidade": "M2",
+      "quantidade": 12288.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": "8.2",
+      "fonte": null,
+      "descricao": "Aplicação de textura projetada",
+      "unidade": "M2",
+      "quantidade": 12288.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": "8.3",
+      "fonte": null,
+      "descricao": "Tratamento impermeabilizante de tijolo aparente",
+      "unidade": "M2",
+      "quantidade": 5700.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "PEITORIS DE GRANITO",
+      "codigo": "9.1",
+      "fonte": null,
+      "descricao": "Peitoril em granito Mármore Travertino Extra (3,00 X 1,00)m",
+      "unidade": "M2",
+      "quantidade": 450.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "LIMPEZA",
+      "codigo": "10.1",
+      "fonte": null,
+      "descricao": "Limpeza da obra",
+      "unidade": "M2",
+      "quantidade": 2688.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    }
+  ],
+  "apelido": "FACHADA SHOPPING CIDADE JARDIM"
+}

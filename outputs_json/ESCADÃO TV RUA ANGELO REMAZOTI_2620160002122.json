@@ -1,0 +1,285 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620160002122",
+    "numero_art": "92221220160044442",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA CIDADE ADEMAR",
+    "cnpj_contratante": "05.587.823/0001-89",
+    "objeto": "Reforma de Escadão, na Travessa da Rua Angelo Remazoti - Cidade Ademar.",
+    "processo_administrativo": null,
+    "contrato": "021/SP-AD/2012",
+    "endereco_obra": "AVENIDA YERVANT KISSAJIKIAN, No.: 416, Bairro: VILA CONSTANÇA",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2012-09-10",
+    "data_fim": "2012-11-09",
+    "area_m2": 180.0,
+    "valor_contrato": 98736.03
+  },
+  "servicos": [
+    {
+      "grupo": null,
+      "codigo": "02-50-03",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MANUAL DE CONCRETO SIMPLES",
+      "unidade": "M3",
+      "quantidade": 41.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "01-01-06",
+      "fonte": null,
+      "descricao": "CARGA MANUAL E REMOÇÃO DE ENTULHO, INCLUSIVE TRANSPORTE ATÉ 1 KM",
+      "unidade": "M3",
+      "quantidade": 45.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "13-01-10",
+      "fonte": null,
+      "descricao": "LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 3.76,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "03-01-01",
+      "fonte": null,
+      "descricao": "FORMA COMUM DE TÁBUAS DE PINUS - PLANA",
+      "unidade": "M2",
+      "quantidade": 24.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "01-02-05",
+      "fonte": null,
+      "descricao": "ATERRO, INCLUSIVE COMPACTAÇÃO",
+      "unidade": "M3",
+      "quantidade": 9.4,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "01-03-05",
+      "fonte": null,
+      "descricao": "FORNECIMENTO DE TERRA, INCLUSIVE CORTE, CARGA, DESCARGA E TRANSPORTE ATÉ 1KM",
+      "unidade": "M3",
+      "quantidade": 9.4,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "17-05-25",
+      "fonte": null,
+      "descricao": "DP.05 CORRIMÃO EM TUBO GALVANIZADO COM GUARDA CORPO",
+      "unidade": "M",
+      "quantidade": 127.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "04-01-31",
+      "fonte": null,
+      "descricao": "BLOCOS VAZADOS DE CONCRETO ESTRUTURAL14CM8MPA",
+      "unidade": "M2",
+      "quantidade": 38.88,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "02-04-04",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-50",
+      "unidade": "KG",
+      "quantidade": 144.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "01-01-01",
+      "fonte": null,
+      "descricao": "LIMPEZA MECANIZADA GERAL, INCLUSIVE REMOÇÃO DA COBERTURA VEGETAL - TRONCOS COM DIÂMETRO ATÉ 10CM - SEM TRANSPORTE",
+      "unidade": "M2",
+      "quantidade": 31.32,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "01-01-10",
+      "fonte": null,
+      "descricao": "TRANSPORTE DE ENTULHO POR CAMINHÃO BASCULANTE, A PARTIR DE 1KM",
+      "unidade": "M3XKM",
+      "quantidade": 5323.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "17-02-43",
+      "fonte": null,
+      "descricao": "PASSEIO DE CONCRETO ARMADO, FCK=25MPA, INCLUINDO PREPARO DA CAIXA E LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 10.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": "17-02-45",
+      "fonte": null,
+      "descricao": "PASSEIO DE CONCRETO ARMADO, FCK=30MPA, INCLUINDO PREPARO DA CAIXA E LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 23.4,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": null,
+      "codigo": "13-02-04",
+      "fonte": null,
+      "descricao": "ACABAMENTO DE PISO DE CONCRETO TIPO BAMBOLÊ",
+      "unidade": "M2",
+      "quantidade": 180.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": null,
+      "codigo": "11-80-05",
+      "fonte": null,
+      "descricao": "REPAROS EM EMBOÇO ARGAMASSA MISTA DE CIMENTO, CAL E AREIA 1:4/12",
+      "unidade": "M2",
+      "quantidade": 80.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": null,
+      "codigo": "13-03-65",
+      "fonte": null,
+      "descricao": "DEGRAUS DE ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M",
+      "quantidade": 180.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": null,
+      "codigo": "15-01-10",
+      "fonte": null,
+      "descricao": "TINTA PVA (LÁTEX) - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 250.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": null,
+      "codigo": "04-01-00",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL PARA FUNDAÇÕES E VALAS COM PROFUNDIDADE MÉDIA MENOR OU IGUAL À 1,50M",
+      "unidade": "M3",
+      "quantidade": 9.4,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": null,
+      "codigo": "06-06-00",
+      "fonte": null,
+      "descricao": "LASTRO DE CONCRETO FCK=10MPA",
+      "unidade": "M3",
+      "quantidade": 4.7,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": null,
+      "codigo": "07-12-00",
+      "fonte": null,
+      "descricao": "FORNECIMENTO E APLICAÇÃO DE TELA DE AÇO",
+      "unidade": "KG",
+      "quantidade": 952.2,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": null,
+      "codigo": "08-68-00",
+      "fonte": null,
+      "descricao": "BROCA, DIÂMETRO 25CM, PROFUNDIDADE ATÉ 4M",
+      "unidade": "M",
+      "quantidade": 63.2,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": null,
+      "codigo": "08-13-00",
+      "fonte": null,
+      "descricao": "FORMA PARA SAPATAS E BALDRAMES",
+      "unidade": "M2",
+      "quantidade": 11.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": null,
+      "codigo": "08-80-00",
+      "fonte": null,
+      "descricao": "CARGA E REMOÇÃO DE ENTULHO ATÉ A DISTÂNCIA MÉDIA DE IDA E VOLTA DE 1KM",
+      "unidade": "M3",
+      "quantidade": 8.14,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": null,
+      "codigo": "08-27-00",
+      "fonte": null,
+      "descricao": "FORNECIMENTO E APLICAÇÃO DE CONCRETO USINADO FCK=25MPA -BOMBEADO",
+      "unidade": "M3",
+      "quantidade": 5.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": null,
+      "codigo": "06-23-02",
+      "fonte": null,
+      "descricao": "REFORMA DE BOCA DE LOBO DUPLA",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": null,
+      "codigo": "06-23-05",
+      "fonte": null,
+      "descricao": "SUBSTITUIÇÃO DE TAMPA DE CONCRETO PARA BOCA DE LOBO",
+      "unidade": "UN",
+      "quantidade": 4.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 26
+    }
+  ],
+  "apelido": "ESCADÃO TV. RUA ANGELO REMAZOTI"
+}

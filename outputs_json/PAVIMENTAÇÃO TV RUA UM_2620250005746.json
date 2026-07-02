@@ -1,0 +1,305 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620250005746",
+    "numero_art": "2620250407408",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA DE GUAIANASES",
+    "cnpj_contratante": "05.667.941/0001-05",
+    "objeto": "Revitalização de Via Pública na Travessa Particular Um - Jd. Lourdes - Guaianases.",
+    "processo_administrativo": "6038.2023/0002755-1",
+    "contrato": "101/SUB-G/AJ/2023",
+    "endereco_obra": "TRAVESSA PARTICULAR UM, 7",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2023-12-29",
+    "data_fim": "2024-03-27",
+    "area_m2": 1701.0,
+    "valor_contrato": 826590.04
+  },
+  "servicos": [
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "01-05-40",
+      "fonte": null,
+      "descricao": "TELA PARA PROTEÇÃO DE OBRAS, MALHA 2 MM",
+      "unidade": "M2",
+      "quantidade": 345.25,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "17-30-02",
+      "fonte": null,
+      "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "20-03-61",
+      "fonte": null,
+      "descricao": "PROJETO EXECUTIVO (PRANCHA A1)",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "CONSTRUÇÃO DE PASSEIO",
+      "codigo": "17-02-45",
+      "fonte": null,
+      "descricao": "PASSEIO DE CONCRETO ARMADO, FCK=30MPA, INCLUINDO PREPARO DA CAIXA E LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 66.13,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "CONSTRUÇÃO DE PASSEIO",
+      "codigo": "17-50-21",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MANUAL DE CONCRETO ARMADO",
+      "unidade": "M3",
+      "quantidade": 94.5,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "CONSTRUÇÃO DE PASSEIO",
+      "codigo": "01-01-07",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 122.85,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "05-04-00",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE PAVIMENTO ASFÁLTICO, INCLUSIVE CAPA, INCLUI CARGA NO CAMINHÃO",
+      "unidade": "M2",
+      "quantidade": 1701.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "05-08-00",
+      "fonte": null,
+      "descricao": "REMANEJAMENTO DE RAMAL DOMICILIAR DE ÁGUA, INCLUSIVE ABERTURA E FECHAMENTO DE VALA",
+      "unidade": "M",
+      "quantidade": 315.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "06-05-00",
+      "fonte": null,
+      "descricao": "LASTRO DE BRITA E PÓ DE PEDRA",
+      "unidade": "M3",
+      "quantidade": 37.26,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "05-14-03",
+      "fonte": null,
+      "descricao": "FORNECIMENTO E ASSENTAMENTO DE GUIAS TIPO PMSP 100, INCLUSIVE ENCOSTAMENTO DE TERRA - FCK=30,0MPA",
+      "unidade": "M",
+      "quantidade": 630.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "05-19-02",
+      "fonte": null,
+      "descricao": "CONSTRUÇÃO DE SARJETA OU SARJETÃO DE CONCRETO - FCK= 20,0MPA",
+      "unidade": "M3",
+      "quantidade": 34.11,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "05-11-00",
+      "fonte": null,
+      "descricao": "ABERTURA DE CAIXA ATÉ 25CM, INCLUI ESCAVAÇÃO, COMPACTAÇÃO, TRANSPORTE E PREPARO DO SUB-LEITO",
+      "unidade": "M2",
+      "quantidade": 1701.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "05-25-02",
+      "fonte": null,
+      "descricao": "BASE DE BINDER DENSO (SEM TRANSPORTE)",
+      "unidade": "M3",
+      "quantidade": 85.05,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "05-27-00",
+      "fonte": null,
+      "descricao": "IMPRIMAÇÃO BETUMINOSA IMPERMEABILIZANTE",
+      "unidade": "M2",
+      "quantidade": 1701.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "05-26-00",
+      "fonte": null,
+      "descricao": "IMPRIMAÇÃO BETUMINOSA LIGANTE",
+      "unidade": "M2",
+      "quantidade": 1701.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "05-28-00",
+      "fonte": null,
+      "descricao": "REVESTIMENTO DE CONCRETO ASFÁLTICO (SEM TRANSPORTE)",
+      "unidade": "M3",
+      "quantidade": 68.04,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "05-48-00",
+      "fonte": null,
+      "descricao": "BASE DE BRITA GRADUADA",
+      "unidade": "M3",
+      "quantidade": 170.1,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "05-67-00",
+      "fonte": null,
+      "descricao": "TRANSPORTE DE PAVIMENTO ASFALTICO",
+      "unidade": "M2XKM",
+      "quantidade": 34020.27,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "05-78-01",
+      "fonte": null,
+      "descricao": "CARGA, DESCARGA E TRANSPORTE DE CONCRETO ASFÁLTICO ATÉ A DISTÂNCIA MÉDIA DE IDA E VOLTA DE 1KM",
+      "unidade": "M3",
+      "quantidade": 68.04,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "05-78-07",
+      "fonte": null,
+      "descricao": "TRANSPORTE DE CONCRETO ASFÁLTICO ALÉM DO PRIMEIRO KM",
+      "unidade": "M3XKM",
+      "quantidade": 1360.8,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "05-79-01",
+      "fonte": null,
+      "descricao": "CARGA, DESCARGA E TRANSPORTE DE BINDER ATÉ A DISTÂNCIA MÉDIA DE IDA E VOLTA DE 1KM",
+      "unidade": "M3",
+      "quantidade": 85.05,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "05-79-07",
+      "fonte": null,
+      "descricao": "TRANSPORTE DE BINDER ALÉM DO PRIMEIRO KM",
+      "unidade": "M3XKM",
+      "quantidade": 1701.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "06-22-05",
+      "fonte": null,
+      "descricao": "BOCA DE LOBO TRIPLA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "CONTROLE TECNOLOGICO DA PAVIMENTAÇÃO",
+      "codigo": "02-06-21",
+      "fonte": null,
+      "descricao": "ENSAIOS DE LABORATÓRIO - DOSAGEM MARSHALL, GRANULOMETRIA, TEOR DE ASFALTO, ESTABILIDADE E FLUÊNCIA",
+      "unidade": "ENS.",
+      "quantidade": 3.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "CONTROLE TECNOLOGICO DA PAVIMENTAÇÃO",
+      "codigo": "02-06-22",
+      "fonte": null,
+      "descricao": "CONTROLE TECNOLÓGICO DE CONCRETO - ENSAIO DE ESCLEROMETRIA EM 10 PONTOS COM 16 TIROS POR PONTO",
+      "unidade": "ENS.",
+      "quantidade": 3.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "ADMINISTRAÇÃO DA OBRA",
+      "codigo": "03-41-00",
+      "fonte": null,
+      "descricao": "AJUDANTE GERAL",
+      "unidade": "H",
+      "quantidade": 480.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "ADMINISTRAÇÃO DA OBRA",
+      "codigo": "12-12-00",
+      "fonte": null,
+      "descricao": "ENCARREGADO",
+      "unidade": "H",
+      "quantidade": 354.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "ADMINISTRAÇÃO DA OBRA",
+      "codigo": "12-13-00",
+      "fonte": null,
+      "descricao": "ENGENHEIRO DA OBRA",
+      "unidade": "H",
+      "quantidade": 120.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 3
+    }
+  ],
+  "apelido": "PAVIMENTAÇÃO TV. RUA UM"
+}

@@ -1,0 +1,165 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620230013351",
+    "numero_art": "28027230231629240",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA CIDADE ADEMAR",
+    "cnpj_contratante": "05587823000189",
+    "objeto": "Execução, Execução de reforma, de edificação, em materiais mistos.",
+    "processo_administrativo": null,
+    "contrato": "025/SUB-AD/2021",
+    "endereco_obra": "AVENIDA YERVANT KISSAJIKIAN",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2021-12-27",
+    "data_fim": "2022-01-31",
+    "area_m2": 60.0,
+    "valor_contrato": 194885.13
+  },
+  "servicos": [
+    {
+      "grupo": null,
+      "codigo": "01-01-07",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 10.13,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "17-30-02",
+      "fonte": null,
+      "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "17-01-29",
+      "fonte": null,
+      "descricao": "FP.03 ALAMBRADO PARA QUADRAS DE ESPORTE - GP.6/EDIF - TG/4,5M",
+      "unidade": "M",
+      "quantidade": 160.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "17-01-41",
+      "fonte": null,
+      "descricao": "PP.20/24 - PORTÃO EM FERRO PERFILADO COM TELA, 1 FOLHA",
+      "unidade": "M2",
+      "quantidade": 5.67,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "15-01-25",
+      "fonte": null,
+      "descricao": "APLICAÇÃO DE TINTA ANTI-PICHAÇÃO - BASE SOLVENTE - 2 DEMÃOS (REMOÇÃO DA PICHAÇÃO SOMENTE A SECO OU COM ÁGUA E SABÃO)",
+      "unidade": "M2",
+      "quantidade": 220.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "02-50-03",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MANUAL DE CONCRETO SIMPLES",
+      "unidade": "M3",
+      "quantidade": 0.1,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "01-04-01",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL, PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 0.6,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "09-02-53",
+      "fonte": null,
+      "descricao": "ELETRODUTO DE POLIETILENO FLEXÍVEL, ALTA RESISTÊNCIA - 2\"",
+      "unidade": "M",
+      "quantidade": 10.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "09-02-98",
+      "fonte": null,
+      "descricao": "ENVELOPAMENTO DE ELETRODUTO ENTERRADO, COM CONCRETO",
+      "unidade": "M",
+      "quantidade": 10.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "09-03-07",
+      "fonte": null,
+      "descricao": "CABO 6,00MM2 - ISOLAMENTO PARA 0,7KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 114.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "09-03-08",
+      "fonte": null,
+      "descricao": "CABO 10,00MM2 - ISOLAMENTO PARA 0,7KV - CLASSE 4 - FLEXIVEL",
+      "unidade": "M",
+      "quantidade": 30.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "09-09-39",
+      "fonte": null,
+      "descricao": "PROJETOR PARA USO EXTERNO COM LÂMPADA LED DE 150W - COMPLETA",
+      "unidade": "UN",
+      "quantidade": 12.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": "18-15-50",
+      "fonte": null,
+      "descricao": "FORNECIMENTO E APLICAÇÃO DE AREIA FINA",
+      "unidade": "M3",
+      "quantidade": 40.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": null,
+      "codigo": "17-04-01",
+      "fonte": null,
+      "descricao": "LIMPEZA GERAL DA OBRA",
+      "unidade": "M2",
+      "quantidade": 60.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 14
+    }
+  ],
+  "apelido": "ASSOCIAÇÃO ESPORTIVA SANTA AMÉLIA - CIDADE ADEMAR"
+}

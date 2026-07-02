@@ -1,0 +1,605 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620250017221",
+    "numero_art": "2620251660372",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "Prefeitura do Município de São Paulo PMSP - SUBPREFEITURA VILA PRUDENTE",
+    "cnpj_contratante": "05.969.123/0001-59",
+    "objeto": "CONTRATAÇÃO DE EMPRESA DE ENGENHARIA OU ARQUITETURA PARA REVITALIZAÇÃO DA PRAÇA MAIRARA, COM IMPLANTAÇÃO DE PLAYGROUND LÚDICO (PRIMEIRA INFÂNCIA)",
+    "processo_administrativo": "6060.2025/0001411-9",
+    "contrato": "15/SUB-VP/2025",
+    "endereco_obra": "PRAÇA MAIRARA",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2025-06-09",
+    "data_fim": "2025-09-07",
+    "area_m2": 376.24,
+    "valor_contrato": 1108513.4
+  },
+  "servicos": [
+    {
+      "grupo": null,
+      "codigo": "17-030-002",
+      "fonte": null,
+      "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "20-001-013",
+      "fonte": null,
+      "descricao": "LEVANTAMENTO PLANIALTIMÉTRICO DE ÁREAS - ATÉ 10.000M2",
+      "unidade": "GL",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "20-003-061",
+      "fonte": null,
+      "descricao": "PROJETO EXECUTIVO (PRANCHA A1)",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "01-005-040",
+      "fonte": null,
+      "descricao": "TELA PARA PROTEÇÃO DE OBRAS, MALHA 2 MM",
+      "unidade": "M2",
+      "quantidade": 120.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "17-090-003",
+      "fonte": null,
+      "descricao": "LOCAÇÃO DE CONTAINER 2,30 X 6,00 M, ALT. 2,50 M, PARA ESCRITÓRIO, COM 1 SANITÁRIO, COMPLETO, SEM DIVISÓRIAS INTERNAS",
+      "unidade": "UNXMES",
+      "quantidade": 3.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "01-005-005",
+      "fonte": null,
+      "descricao": "TAPUME METÁLICO COM TELHA METÁLICA, SEM PINTURA, TRAPEZOIDAL 40 ESP-0,43MM, COLUNAS, BASES E PARAFUSOS",
+      "unidade": "M2",
+      "quantidade": 220.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "01-005-006",
+      "fonte": null,
+      "descricao": "PORTÃO METÁLICO DE OBRA-5M, PIVOTANTE, 2 FOLHAS, PARA TAPUME",
+      "unidade": "M2",
+      "quantidade": 8.8,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "10-002-014",
+      "fonte": null,
+      "descricao": "HD.21 RESERVATÓRIO DE POLIETILENO 5000 LITROS",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "02-050-004",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MANUAL DE CONCRETO ARMADO",
+      "unidade": "M3",
+      "quantidade": 106.71,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "04-050-001",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE ALVENARIA ESTRUTURAL DE BLOCOS VAZADOS DE CONCRETO",
+      "unidade": "M3",
+      "quantidade": 3.6,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "17-060-095",
+      "fonte": null,
+      "descricao": "RETIRADA DE ALAMBRADO EM TELA INCLUSIVE ESTRUTURA DE SUSTENTAÇÃO (FP.04)",
+      "unidade": "M",
+      "quantidade": 45.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "17-050-045",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE GUIAS DE CONCRETO",
+      "unidade": "M",
+      "quantidade": 20.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": "17-050-048",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE SARJETAS DE CONCRETO",
+      "unidade": "M",
+      "quantidade": 20.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": null,
+      "codigo": "01-001-006",
+      "fonte": null,
+      "descricao": "CARGA MANUAL E REMOÇÃO DE ENTULHO, INCLUSIVE TRANSPORTE ATÉ 1 KM",
+      "unidade": "M3",
+      "quantidade": 391.93,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": null,
+      "codigo": "01-001-010",
+      "fonte": null,
+      "descricao": "TRANSPORTE DE ENTULHO POR CAMINHÃO BASCULANTE, A PARTIR DE 1KM",
+      "unidade": "M3XKM",
+      "quantidade": 9798.35,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": null,
+      "codigo": "04-064-000",
+      "fonte": null,
+      "descricao": "DISPOSIÇÃO FINAL DE SOLOS E RESÍDUOS, CLASSE II B - INERTES, EM ATERRO SANITÁRIO LICENCIADO",
+      "unidade": "Ton",
+      "quantidade": 587.9,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": null,
+      "codigo": "01-004-001",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL, PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 175.34,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "05-064-000",
+      "fonte": null,
+      "descricao": "REFORÇO DE SUB-LEITO/SUB-BASE DE SOLO MELHORADO COM BRITA 40% EM VOLUME",
+      "unidade": "M3",
+      "quantidade": 133.39,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "05-048-000",
+      "fonte": null,
+      "descricao": "BASE DE BRITA GRADUADA",
+      "unidade": "M3",
+      "quantidade": 88.92,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "01-004-010",
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 889.24,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "02-003-004",
+      "fonte": null,
+      "descricao": "FORMA COMUM DE TÁBUAS DE PINUS - NÃO RECUPERÁVEL",
+      "unidade": "M2",
+      "quantidade": 140.4,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "01-004-015",
+      "fonte": null,
+      "descricao": "LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 44.46,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "03-002-009",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-60 - TELA",
+      "unidade": "KG",
+      "quantidade": 6402.53,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "17-002-001",
+      "fonte": null,
+      "descricao": "NC.01-CONCRETO SIMPLES DESEMPENADO E RIPADO, 200KG CIM/M3",
+      "unidade": "M3",
+      "quantidade": 106.71,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "03-003-030",
+      "fonte": null,
+      "descricao": "BOMBEAMENTO DE CONCRETO",
+      "unidade": "M3",
+      "quantidade": 106.71,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "17-004-014",
+      "fonte": null,
+      "descricao": "LIMPEZA E LAVAGEM DE PISO POR HIDROJATEAMENTO",
+      "unidade": "M2",
+      "quantidade": 889.24,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "05-002-044",
+      "fonte": null,
+      "descricao": "PINTURA PROTETORA COM TINTA A BASE DE EPÓXI (PARA ARGAMASSA IMPERMEÁVEL)",
+      "unidade": "M2",
+      "quantidade": 376.24,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "1",
+      "fonte": null,
+      "descricao": "FORNECIMENTO E INSTALAÇÃO DE PISO EMBORRACHADO EPDM MONOLITICO",
+      "unidade": "M2",
+      "quantidade": 376.24,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": "02-001-002",
+      "fonte": null,
+      "descricao": "BROCA DE CONCRETO - DIAMETRO DE 25CM",
+      "unidade": "M",
+      "quantidade": 28.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": null,
+      "codigo": "17-001-027",
+      "fonte": null,
+      "descricao": "FP.04-ALAMBRADO EM TUBO GALVANIZADO E TELA GALVANIZADA H=2,00M",
+      "unidade": "M",
+      "quantidade": 45.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": null,
+      "codigo": "15-003-010",
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO - ESQUADRIAS E PEÇAS DE SERRALHERIA",
+      "unidade": "M2",
+      "quantidade": 180.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": null,
+      "codigo": "17-002-052",
+      "fonte": null,
+      "descricao": "NC.22 - SARJETA DE CONCRETO, INCLUSIVE PREPARO DE CAIXA",
+      "unidade": "M3",
+      "quantidade": 1.6,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": null,
+      "codigo": "05-014-003",
+      "fonte": null,
+      "descricao": "INC.27 - FORNECIMENTO E ASSENTAMENTO DE GUIAS TIPO PMSP 100, INCLUSIVE ENCOSTAMENTO DE TERRA - FCK=30,0MPA",
+      "unidade": "M",
+      "quantidade": 20.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": null,
+      "codigo": "01-004-001",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL, PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 25.05,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": null,
+      "codigo": "01-004-010",
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 55.5,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": null,
+      "codigo": "02-006-010",
+      "fonte": null,
+      "descricao": "REATERRO DE VALAS, INCLUSIVE APILOAMENTO",
+      "unidade": "M3",
+      "quantidade": 14.25,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": null,
+      "codigo": "10-011-072",
+      "fonte": null,
+      "descricao": "HC.01-CANALETA DE CONCRETO DE A.P.P/TAMPA/GRELHA DE CONCRETO OU FERRO L=30CM",
+      "unidade": "M",
+      "quantidade": 54.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": null,
+      "codigo": "10-011-096",
+      "fonte": null,
+      "descricao": "HC.03-TAMPA DE CONCRETO PARA CANALETA DE A.P.L=0,30M",
+      "unidade": "M",
+      "quantidade": 54.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": null,
+      "codigo": "01-004-048",
+      "fonte": null,
+      "descricao": "HA.01 - CAIXA DE LIGAÇÃO OU INSPEÇÃO - ESCAVAÇÃO E APILOAMENTO",
+      "unidade": "M3",
+      "quantidade": 2.51,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": null,
+      "codigo": "01-004-049",
+      "fonte": null,
+      "descricao": "HA.01- CAIXA DE LIGAÇÃO OU INSPEÇÃO - LASTRO DE CONCRETO (FUNDO)",
+      "unidade": "M3",
+      "quantidade": 0.26,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": null,
+      "codigo": "01-004-051",
+      "fonte": null,
+      "descricao": "HA.01 - CAIXA DE LIGAÇÃO OU INSPEÇÃO - ALVENARIA DE 1 TIJOLO, REVESTIDA",
+      "unidade": "M2",
+      "quantidade": 10.56,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": null,
+      "codigo": "01-004-052",
+      "fonte": null,
+      "descricao": "HA.01 - CAIXA DE LIGAÇÃO OU INSPEÇÃO - TAMPA DE CONCRETO",
+      "unidade": "M2",
+      "quantidade": 2.64,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": null,
+      "codigo": "10-009-034",
+      "fonte": null,
+      "descricao": "TUBO DE PVC RÍGIDO, PONTA E BOLSA (LINHA ESGOTO) - 150MM (6\")",
+      "unidade": "M",
+      "quantidade": 95.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": null,
+      "codigo": "09-002-098",
+      "fonte": null,
+      "descricao": "ENVELOPAMENTO DE ELETRODUTO ENTERRADO, COM CONCRETO",
+      "unidade": "M",
+      "quantidade": 95.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": null,
+      "codigo": "18-080-001",
+      "fonte": null,
+      "descricao": "REVOLVIMENTO E AJUSTE DO SOLO",
+      "unidade": "M2",
+      "quantidade": 350.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 29
+    },
+    {
+      "grupo": null,
+      "codigo": "18-080-011",
+      "fonte": null,
+      "descricao": "TERRA PREPARADA PARA PLANTIO",
+      "unidade": "M3",
+      "quantidade": 35.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 30
+    },
+    {
+      "grupo": null,
+      "codigo": "18-080-015",
+      "fonte": null,
+      "descricao": "ADUBO QUÍMICO NPK, 10:10:10",
+      "unidade": "KG",
+      "quantidade": 175.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 31
+    },
+    {
+      "grupo": null,
+      "codigo": "18-003-003",
+      "fonte": null,
+      "descricao": "GRAMA SÃO CARLOS EM PLACAS (AXONOPUS OBTUSIFOLIUS)",
+      "unidade": "M2",
+      "quantidade": 350.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 32
+    },
+    {
+      "grupo": null,
+      "codigo": "18-003-025",
+      "fonte": null,
+      "descricao": "MONSTERA (MONSTERA DELICIOSA)",
+      "unidade": "UN",
+      "quantidade": 100.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 33
+    },
+    {
+      "grupo": null,
+      "codigo": "18-003-015",
+      "fonte": null,
+      "descricao": "CLOROFITO (CLOROPHYTUM CROMOSSUM)",
+      "unidade": "DÚZIA",
+      "quantidade": 100.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 34
+    },
+    {
+      "grupo": null,
+      "codigo": "18-003-077",
+      "fonte": null,
+      "descricao": "DRACENA (DRACAENA FRAGRANS)",
+      "unidade": "UN",
+      "quantidade": 100.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 35
+    },
+    {
+      "grupo": null,
+      "codigo": "18-003-021",
+      "fonte": null,
+      "descricao": "LÍRIO (HEMEROCALLIS FLAVA)",
+      "unidade": "DÚZIA",
+      "quantidade": 100.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "18-003-023",
+      "fonte": null,
+      "descricao": "MARIA SEM VERGONHA (IMPATIENS SPP)",
+      "unidade": "DÚZIA",
+      "quantidade": 100.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "17-004-001",
+      "fonte": null,
+      "descricao": "LIMPEZA GERAL DA OBRA",
+      "unidade": "M2",
+      "quantidade": 486.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "20-003-059",
+      "fonte": null,
+      "descricao": "ENGENHEIRO DA OBRA",
+      "unidade": "H",
+      "quantidade": 224.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "11-008-000",
+      "fonte": null,
+      "descricao": "CARRO POPULAR 50% EM OPERAÇÃO",
+      "unidade": "H",
+      "quantidade": 224.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "12-012-000",
+      "fonte": null,
+      "descricao": "ENCARREGADO",
+      "unidade": "H",
+      "quantidade": 480.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "03-025-000",
+      "fonte": null,
+      "descricao": "COORDENADOR GERAL",
+      "unidade": "H",
+      "quantidade": 12.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 7
+    }
+  ],
+  "apelido": "PRAÇA MAIRARA PLAYGROUND LÚDICO"
+}

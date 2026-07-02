@@ -1,0 +1,175 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620230011381",
+    "numero_art": "28027230231403926",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA VILA MARIANA",
+    "cnpj_contratante": "05.626.770/0001-68",
+    "objeto": "CONTRATAÇÃO DE EMPRESA DE ENGENHARIA OU ARQUITETURA PARA OBRA DE EXECUÇÃO DE JARDIM DE CHUVA ENTRE AV. RUBEM BERTA X LOEFGREN E AV. RUBEM BERTA X RUA IPÊ",
+    "processo_administrativo": "6059.2022/0012438-0",
+    "contrato": "41/SUB-VM/2022",
+    "endereco_obra": "AV. RUBEM BERTA X LOEFGREN E AV. RUBEM BERTA X RUA IPÊ",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2022-12-29",
+    "data_fim": "2023-01-18",
+    "area_m2": 120.04,
+    "valor_contrato": 32468.27
+  },
+  "servicos": [
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "17-30-02",
+      "fonte": null,
+      "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "01-05-40",
+      "fonte": null,
+      "descricao": "TELA PARA PROTEÇÃO DE OBRAS, MALHA 2MM",
+      "unidade": "M2",
+      "quantidade": 85.62,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "17-05-40",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE PAVIMENTAÇÃO",
+      "unidade": "M2",
+      "quantidade": 120.04,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "ASFÁLTICA, CAPA E BASE - MANUAL",
+      "codigo": "01-01-07",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 0.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "JARDIM DE CHUVA",
+      "codigo": "01-04-75",
+      "fonte": null,
+      "descricao": "MANTA GEOTÊXTIL",
+      "unidade": "M2",
+      "quantidade": 120.04,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "JARDIM DE CHUVA",
+      "codigo": "02-02-01",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL COM PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 9.6,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "JARDIM DE CHUVA",
+      "codigo": "02-02-10",
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 120.04,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "JARDIM DE CHUVA",
+      "codigo": "04-01-51",
+      "fonte": null,
+      "descricao": "BLOCOS VAZADOS DE CONCRETO APARENTE – 14CM",
+      "unidade": "M2",
+      "quantidade": 21.41,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "JARDIM DE CHUVA",
+      "codigo": "18-15-50",
+      "fonte": null,
+      "descricao": "FORNECIMENTO E APLICAÇÃO DE AREIA FINA",
+      "unidade": "M3",
+      "quantidade": 6.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "JARDIM DE CHUVA",
+      "codigo": "18-15-51",
+      "fonte": null,
+      "descricao": "FORNECIMENTO E APLICAÇÃO DE PEDRA N.2",
+      "unidade": "M3",
+      "quantidade": 6.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": "17-02-32",
+      "fonte": null,
+      "descricao": "PEDRA BRITADA N.2 COM COMPACTAÇÃO MANUAL - 5CM",
+      "unidade": "M2",
+      "quantidade": 21.41,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": "18-03-15",
+      "fonte": null,
+      "descricao": "CLOROFITO (CLOROPHYTUM CROMOSSUM)",
+      "unidade": "DÚZIA",
+      "quantidade": 55.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": "18-03-29",
+      "fonte": null,
+      "descricao": "VEDELIA (WEDELIA PALUDARIS)",
+      "unidade": "DÚZIA",
+      "quantidade": 55.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": "18-03-07",
+      "fonte": null,
+      "descricao": "GRAMA PRETA (OPHIOPOGUM JAPONICUS) - 36 MUDAS POR M2",
+      "unidade": "M2",
+      "quantidade": 120.04,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "17-04-01",
+      "fonte": null,
+      "descricao": "LIMPEZA GERAL DA OBRA",
+      "unidade": "M2",
+      "quantidade": 184.36,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    }
+  ],
+  "apelido": "JARDIM DE CHUVA - VILA MARIANA"
+}

@@ -1,0 +1,2675 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620250005288",
+    "numero_art": "2620250388969",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUB PREFEITURA PINHEIROS",
+    "cnpj_contratante": "05.649.898/0001-47",
+    "objeto": "CONTRATAÇÃO DE EMPRESA PARA REFORMA DE ÁREA PÚBLICA - SUBSTITUIÇÃO DE MURO POR GRADES, READEQUAÇÃO NO ACESSO DE PEDESTRES, COBERTURA DO ACESSO DE VEÍCULOS COM AMPLIAÇÃO DA GUARITA, INSTALAÇÃO DE INFRAESTRUTURA DE REDE LÓGICA PARA CÂMERAS DE SEGURANÇA NA SUBPREFEITURA DE PINHEIROS - ALTO DE PINHEIROS - SÃO PAULO/SP.",
+    "processo_administrativo": "6050.2023/0013474-4",
+    "contrato": "010/SUB-PI/2023",
+    "endereco_obra": "AVENIDA PROFESSOR FREDERICO HERMAN JÚNIOR",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2023-09-20",
+    "data_fim": "2024-05-17",
+    "area_m2": 3729.0,
+    "valor_contrato": 2571528.5
+  },
+  "servicos": [
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PROTEÇÃO PARA TERCEIROS COM TELA DE NYLON",
+      "unidade": "M2",
+      "quantidade": 60.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PROJETO EXECUTIVO (PRANCHA AI)",
+      "unidade": "UN",
+      "quantidade": 4.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TAPUME CHAPA COMPENSADA 6MM",
+      "unidade": "M2",
+      "quantidade": 377.96,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ANDAIMES METALICOS - FORNECIMENTO",
+      "unidade": "M3xMÊS",
+      "quantidade": 324.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ANDAIMES METALICOS-MONTAGEM E DESMONTAGEM",
+      "unidade": "M3",
+      "quantidade": 216.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "DEMOLIÇÃO DE MURO, EXECUÇÃO DE GRADIL, RAMPAS DE ACESSO E PASSEIO DE CONCRETO ARMADO.",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "RETIRADA DE ESTRUTURA METÁLICA INCLUSIVE PERFIS DE FIXAÇÃO",
+      "unidade": "KG",
+      "quantidade": 5403.6,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "DEMOLIÇÃO DE MURO, EXECUÇÃO DE GRADIL, RAMPAS DE ACESSO E PASSEIO DE CONCRETO ARMADO.",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE ALVENARIA ESTRUTURAL DE BLOCOS VAZADOS DE CONCRETO",
+      "unidade": "M3",
+      "quantidade": 2.13,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "DEMOLIÇÃO DE MURO, EXECUÇÃO DE GRADIL, RAMPAS DE ACESSO E PASSEIO DE CONCRETO ARMADO.",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MANUAL DE CONCRETO ARMADO",
+      "unidade": "M3",
+      "quantidade": 15.99,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "DEMOLIÇÃO DE MURO, EXECUÇÃO DE GRADIL, RAMPAS DE ACESSO E PASSEIO DE CONCRETO ARMADO.",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE ALVENARIA EM GERAL (TIJOLOS OU BLOCOS)",
+      "unidade": "M3",
+      "quantidade": 66.25,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "DEMOLIÇÃO DE MURO, EXECUÇÃO DE GRADIL, RAMPAS DE ACESSO E PASSEIO DE CONCRETO ARMADO.",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL, PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 39.56,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "DEMOLIÇÃO DE MURO, EXECUÇÃO DE GRADIL, RAMPAS DE ACESSO E PASSEIO DE CONCRETO ARMADO.",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 346.05,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "DEMOLIÇÃO DE MURO, EXECUÇÃO DE GRADIL, RAMPAS DE ACESSO E PASSEIO DE CONCRETO ARMADO.",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 27.56,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "DEMOLIÇÃO DE MURO, EXECUÇÃO DE GRADIL, RAMPAS DE ACESSO E PASSEIO DE CONCRETO ARMADO.",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "FORMA COMUM DE TABUAS DE PINUS",
+      "unidade": "M2",
+      "quantidade": 47.85,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "DEMOLIÇÃO DE MURO, EXECUÇÃO DE GRADIL, RAMPAS DE ACESSO E PASSEIO DE CONCRETO ARMADO.",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-60 - TELA",
+      "unidade": "KG",
+      "quantidade": 1800.8,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "DEMOLIÇÃO DE MURO, EXECUÇÃO DE GRADIL, RAMPAS DE ACESSO E PASSEIO DE CONCRETO ARMADO.",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CONCRETO SIMPLES DESEMPENADO E RIPADO, 200KG CIM/M3",
+      "unidade": "M3",
+      "quantidade": 54.86,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "DEMOLIÇÃO DE MURO, EXECUÇÃO DE GRADIL, RAMPAS DE ACESSO E PASSEIO DE CONCRETO ARMADO.",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CURA QUIMICA",
+      "unidade": "M2",
+      "quantidade": 323.25,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "DEMOLIÇÃO DE MURO, EXECUÇÃO DE GRADIL, RAMPAS DE ACESSO E PASSEIO DE CONCRETO ARMADO.",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CORTE SUPERFICIAL DE CONCRETO ATE 3 CM DE PROFUNDIDADE",
+      "unidade": "M2",
+      "quantidade": 6.87,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "DEMOLIÇÃO DE MURO, EXECUÇÃO DE GRADIL, RAMPAS DE ACESSO E PASSEIO DE CONCRETO ARMADO.",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "BROCA DE CONCRETO - DIAMETRO DE 20CM",
+      "unidade": "M",
+      "quantidade": 36.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "DEMOLIÇÃO DE MURO, EXECUÇÃO DE GRADIL, RAMPAS DE ACESSO E PASSEIO DE CONCRETO ARMADO.",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CONCRETO FCK = 25.0MPA VIRADO NA OBRA",
+      "unidade": "M3",
+      "quantidade": 3.24,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "DEMOLIÇÃO DE MURO, EXECUÇÃO DE GRADIL, RAMPAS DE ACESSO E PASSEIO DE CONCRETO ARMADO.",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-50",
+      "unidade": "KG",
+      "quantidade": 259.2,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "DEMOLIÇÃO DE MURO, EXECUÇÃO DE GRADIL, RAMPAS DE ACESSO E PASSEIO DE CONCRETO ARMADO.",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "BLOCOS VAZADOS DE CONCRETO ESTRUTURAL-14CM - ATÉ 6MPA",
+      "unidade": "M2",
+      "quantidade": 43.2,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "DEMOLIÇÃO DE MURO, EXECUÇÃO DE GRADIL, RAMPAS DE ACESSO E PASSEIO DE CONCRETO ARMADO.",
+      "codigo": "FP 02",
+      "fonte": null,
+      "descricao": "GRADIL DE FERRO PERFILADO, TIPO PARQUE COM MURETA - GPMI/DEPAVE",
+      "unidade": "M",
+      "quantidade": 183.8,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "DEMOLIÇÃO DE MURO, EXECUÇÃO DE GRADIL, RAMPAS DE ACESSO E PASSEIO DE CONCRETO ARMADO.",
+      "codigo": "PP.41",
+      "fonte": null,
+      "descricao": "-PORTÃO DE FERRO PERFILADO, TIPO PARQUE (GP-5/GPM-1) 4,00M, 2 FOLHAS",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "DEMOLIÇÃO DE MURO, EXECUÇÃO DE GRADIL, RAMPAS DE ACESSO E PASSEIO DE CONCRETO ARMADO.",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CHAPISCO COMUM-ARGAMASSA DE CIMENTO E AREIΑ 1:3",
+      "unidade": "M2",
+      "quantidade": 270.02,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "DEMOLIÇÃO DE MURO, EXECUÇÃO DE GRADIL, RAMPAS DE ACESSO E PASSEIO DE CONCRETO ARMADO.",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "EMBOÇO EXTERNO - ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 270.02,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "DEMOLIÇÃO DE MURO, EXECUÇÃO DE GRADIL, RAMPAS DE ACESSO E PASSEIO DE CONCRETO ARMADO.",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "REBOCO EXTERNO - ARGAMASSA PRE-FABRICADA",
+      "unidade": "M2",
+      "quantidade": 270.02,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "DEMOLIÇÃO DE MURO, EXECUÇÃO DE GRADIL, RAMPAS DE ACESSO E PASSEIO DE CONCRETO ARMADO.",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TINTA ACRILICA-CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 270.02,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "DEMOLIÇÃO DE MURO, EXECUÇÃO DE GRADIL, RAMPAS DE ACESSO E PASSEIO DE CONCRETO ARMADO.",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ESMALTE SINTETICO - ESQUADRIAS E PEÇAS DE SERRALHERIA",
+      "unidade": "M2",
+      "quantidade": 735.2,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "DEMOLIÇÃO DE MURO, EXECUÇÃO DE GRADIL, RAMPAS DE ACESSO E PASSEIO DE CONCRETO ARMADO.",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PISO PODOTATIL COLORIDO, ALERTA OU DIRECIONAL VIBRO-PRENSADO - 3CM SELADO",
+      "unidade": "M2",
+      "quantidade": 1.33,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "DEMOLIÇÃO DE MURO, EXECUÇÃO DE GRADIL, RAMPAS DE ACESSO E PASSEIO DE CONCRETO ARMADO.",
+      "codigo": "DP.05",
+      "fonte": null,
+      "descricao": "CORRIMÃO EM TUBO GALVANIZADO COM GUARDA CORPO",
+      "unidade": "M",
+      "quantidade": 102.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "DEMOLIÇÃO DE MURO, EXECUÇÃO DE GRADIL, RAMPAS DE ACESSO E PASSEIO DE CONCRETO ARMADO.",
+      "codigo": "PP 37",
+      "fonte": null,
+      "descricao": "-PORTÃO DE FERRO PERFILADO, TIPO PARQUE (GP.5/GPM. 1) 1,50M, I FOLHA",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "DEMOLIÇÃO DE MURO, EXECUÇÃO DE GRADIL, RAMPAS DE ACESSO E PASSEIO DE CONCRETO ARMADO.",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ΤΙΝΤΑ ΕΡΟXI-REBOCO COM MASSA BASE EPOΧΙ",
+      "unidade": "M2",
+      "quantidade": 65.6,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE ALVENARIA EM GERAL (TIJOLOS OU BLOCOS)",
+      "unidade": "M3",
+      "quantidade": 3.85,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "RETIRADA DE ESQUADRIAS METALICAS EM GERAL, PORTAS OU CAIXILHOS",
+      "unidade": "M2",
+      "quantidade": 9.13,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "RETIRADA DE ELETRODUTOS APARENTES - ATE 2\"",
+      "unidade": "M",
+      "quantidade": 40.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "RETIRADA DE ELETRODUTOS APARENTES - ACIMA DE 2\"",
+      "unidade": "M",
+      "quantidade": 20.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "RETIRADA DE FIO EMBUTIDO ATE 16MM2",
+      "unidade": "M",
+      "quantidade": 120.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "RETIRADA DE CABO EMBUTIDO ACIMA DE 16MM2",
+      "unidade": "M",
+      "quantidade": 60.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "RETIRADA DE QUADRO DE DISTRIBUIÇÃO OU CAIXA DE PASSAGEM",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE ARGAMASSA, CERAMICA OU SIMILAR INCLUSIVE ARGAMASSA DE REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 15.91,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL, PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 0.43,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 0.8,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "BROCA DE CONCRETO - DIAMETRO DE 20CM",
+      "unidade": "M",
+      "quantidade": 6.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 0.04,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "FORMA COMUM DE TABUAS DE PINUS",
+      "unidade": "M2",
+      "quantidade": 1.91,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CONCRETO FCK 25.0MPA - VIRADO NA OBRA",
+      "unidade": "M3",
+      "quantidade": 0.75,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 29
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-50",
+      "unidade": "KG",
+      "quantidade": 59.56,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 30
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "BLOCOS VAZADOS DE CONCRETO ESTRUTURAL14CMATE 6MPA",
+      "unidade": "M2",
+      "quantidade": 9.54,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 31
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CHAPISCO COMUM ARGAMASSA DE CIMENTO E AREIΑ 1:3",
+      "unidade": "M2",
+      "quantidade": 19.08,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 32
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "EMBOÇO EXTERNO - ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 19.08,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 33
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "REBOCO EXTERNO-ARGAMASSA PRE-FABRICADA",
+      "unidade": "M2",
+      "quantidade": 19.08,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 34
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TINTA ACRILICA CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 83.05,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 35
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": "CA.02",
+      "fonte": null,
+      "descricao": "-CAIXILHO EM ALUMINIO ANODIZADO, FIXO, SEM VENTILAÇÃO PERMANENTE",
+      "unidade": "M2",
+      "quantidade": 6.45,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 36
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PORTA DE VIDRO TEMPERADO 10MM OPACO COM FERRAGENS 82X210CM",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 37
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "FERRO TRABALHADO CAIXILHOS E PEQUENAS PEÇAS DE SERRALHERIA",
+      "unidade": "KG",
+      "quantidade": 200.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 38
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "VIDRO LISO DE SEGURANÇA, TEMPERADO INCOLOR - ESPESSURA 10MM",
+      "unidade": "M2",
+      "quantidade": 6.45,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 39
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TAMPO PARA BANCADA UMIDA GRANITO PRETO TIJUCA POLIDO 2CM",
+      "unidade": "M2",
+      "quantidade": 0.4,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 40
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": "PM.08",
+      "fonte": null,
+      "descricao": "-PORTA LISA ESPECIAL/SOLIDA - 92X210CM",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 41
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CONJUNTO DE FECHADURA DE CILINDRO, 55MM, TRAFEGO INTENSO, MAÇANETA EM ZAMAC, GUARNIÇÕES EM AÇO, ACABAMENTO CROMADO -",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 42
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": "EM.01",
+      "fonte": null,
+      "descricao": "-BATENTE DE MADEIRA (14CM) - PARA PORTA DE I FOLHA, SEM BANDEIRA",
+      "unidade": "JG",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 43
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "DOBRADIÇA EM AÇO LAMINADO, CROMADA-3 1/2\"X3\"",
+      "unidade": "UN",
+      "quantidade": 6.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 44
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ESMALTE SINTETICO - ESQUADRIAS E PEÇAS DE SERRALHERIA",
+      "unidade": "M2",
+      "quantidade": 1.93,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 45
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "BACIA SANITARIA COM CAIXA ACOPLADA DE LOUÇA BRANCA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 46
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "LAVATORIO DE LOUÇA BRANCA, SEM COLUNA, CAPACIDADE MINIMA SL, EXCLUSIVE TORNEIRA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 47
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TORNEIRA DE PRESSÃO PARA USO GERAL, METAL CROMADO - 3/4\"",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 48
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "SIFÃO COM COPO, TIPO REFORÇADO, PVC RIGIDO - 1 1/2\"X2\"",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 49
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TUBO DE LIGAÇÃO FLEXÍVEL, PVC 1/2\"X30/40CM",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 50
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CAIXA SIFONADA DE PVC RIGIDO-100X150MM",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 51
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "RALO SECO DE PVC RIGIDO, COM SAÍDA SOLDADA DE 40MM - DIAMETRO 100MM",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 52
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TUBO DE PVC RIGIDO, PONTA E BOLSA (LINHA ESGOTO) -40MM (1 1/2\")",
+      "unidade": "M",
+      "quantidade": 10.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 53
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TUBO DE PVC RIGIDO, PONTA E BOLSA (LINHA ESGOTO) - 100MM (4\")",
+      "unidade": "M",
+      "quantidade": 20.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TUBO DE PVC RIGIDO, SOLDAVEL (LINHA AGUA) - 32MM (1\")",
+      "unidade": "M",
+      "quantidade": 30.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "REGISTRO DE GAVETA, METAL CROMADO - 1\"",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "GULARIZAÇÃO COM ARGAMASSA DE CIMENTO E AREIA - TRAÇO 1:3, ESPESSURA MEDIA 30MM",
+      "unidade": "M2",
+      "quantidade": 15.91,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PISO CERAMICO ESMALTADO (PEI-5) - ASSENTADO COM ARGAMASSA COMUM",
+      "unidade": "M2",
+      "quantidade": 15.91,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "RODAPE CERAMICO ESMALTADO PEIV 7CM A 10CM",
+      "unidade": "M",
+      "quantidade": 21.78,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "SOLEIRA PARA PORTA EM GRANITO CINZA SEM POLIMENTO (FOSCO)",
+      "unidade": "M",
+      "quantidade": 1.74,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ELETRODUTO DE AÇO GALVANIZADO ELETROLITICO, TIPO LEVE I-1\"",
+      "unidade": "M",
+      "quantidade": 60.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ELETRODUTO DE AÇO GALVANIZADO ELETROLITICO, TIPO LEVE I - 2\"",
+      "unidade": "M",
+      "quantidade": 20.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ELETRODUTO DE PVC CORRUGADO REFORÇADO, ANTICHAMA - 25MM (3/4\")",
+      "unidade": "M",
+      "quantidade": 15.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "QUADRO DE DISTRIBUIÇÃO EM CHAPA METÁLICA - PARA ATÉ 28 DISJUNTORES",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "BARRAMENTO DE COBRE PARA 100A-15X3MM",
+      "unidade": "M",
+      "quantidade": 0.3,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "MINI DISJUNTOR - TIPO EUROPEU (IEC) - TRIPOLAR 100A",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "MINI DISJUNTOR - TIPO EUROPEU (IEC) - BIPOLAR 32/50A",
+      "unidade": "UN",
+      "quantidade": 8.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CABO 16,00MM2 - ISOLAMENTO PARA 1,0KV-CLASSE 4 - FLEXIVEL",
+      "unidade": "M",
+      "quantidade": 60.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CABO 10,00MM2 - ISOLAMENTO PARA 1.0KV - CLASSE 4 - FLEXİVEL",
+      "unidade": "M",
+      "quantidade": 120.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CABO 4,00MM2 - ISOLAMENTO PARA 1.0KV-CLASSE 4 - FLEXIVEL",
+      "unidade": "M",
+      "quantidade": 360.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PONTO COM DOIS INTERRUPTORES SIMPLES BIPOLAR - EM CAIXA 4\"X4\"",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PONTO COM INTERRUPTOR SIMPLES BIPOLAR - EM CAIΧΑ 4\"Χ2\"",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PONTO COM TOMADA SIMPLES DE EMBUTIR 110/220V CAIXA 4\"X2\"",
+      "unidade": "UN",
+      "quantidade": 8.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "LUMINÁRIA COMERCIAL - 2 LAMPADAS FLUORESCENTES 28W",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PROJETOR PARA USO EXTERNO COM LAMPADA LED DE 150W - COMPLETA",
+      "unidade": "UN",
+      "quantidade": 6.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ARGAMASSA IMPERMEABILIZANTE DE CIMENTO E AREIA (CALHAS E MARQUISES) - TRACO 1:3, ESPESSURA 30MM",
+      "unidade": "M2",
+      "quantidade": 24.92,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "AMPLIAÇÃO DE GU禪ITA DE VIGILANTES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA - REBOCO COM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 75.6,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "REFORMA NO \"ANEXO\" DA DEFESA CIVIL",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "RETIRADA DE ESQUADRIAS METÁLICAS EM GERAL, PORTAS OU CAIXILHOS",
+      "unidade": "M2",
+      "quantidade": 12.03,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "REFORMA NO \"ANEXO\" DA DEFESA CIVIL",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "RETIRADA DE FOLHAS DE PORTA DE PASSAGEM OU JANELA",
+      "unidade": "UN",
+      "quantidade": 5.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "REFORMA NO \"ANEXO\" DA DEFESA CIVIL",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE ARGAMASSA, CERAMICA OU SIMILAR INCLUSIVE ARGAMASSA DE REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 49.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": "REFORMA NO \"ANEXO\" DA DEFESA CIVIL",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "RETIRADA DE LUMINARIA INTERNA PARA LAMPADA FLUORESCENTE",
+      "unidade": "UN",
+      "quantidade": 5.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": "REFORMA NO \"ANEXO\" DA DEFESA CIVIL",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "RETIRADA DE ELETRODUTOS APARENTES - ATÉ 2\"",
+      "unidade": "M",
+      "quantidade": 30.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 29
+    },
+    {
+      "grupo": "REFORMA NO \"ANEXO\" DA DEFESA CIVIL",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "RETIRADA DE FIO APARENTE - ATE 16MM2",
+      "unidade": "M",
+      "quantidade": 90.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 30
+    },
+    {
+      "grupo": "REFORMA NO \"ANEXO\" DA DEFESA CIVIL",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE TELHAS EM GERAL, EXCLUSIVE TELHAS DE BARRO COZIDO E VIDRO",
+      "unidade": "M2",
+      "quantidade": 49.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 31
+    },
+    {
+      "grupo": "REFORMA NO \"ANEXO\" DA DEFESA CIVIL",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "RETIRADA DE ESTRUTURA MADEIRA PONTALETADA - PARA TELHAS DE BARRO COZIDO",
+      "unidade": "M2",
+      "quantidade": 49.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 32
+    },
+    {
+      "grupo": "REFORMA NO \"ANEXO\" DA DEFESA CIVIL",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "BLOCOS VAZADOS DE CONCRETO ESTRUTURAL14CM - ATE 6MPA",
+      "unidade": "M2",
+      "quantidade": 9.57,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 33
+    },
+    {
+      "grupo": "REFORMA NO \"ANEXO\" DA DEFESA CIVIL",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-50",
+      "unidade": "KG",
+      "quantidade": 26.77,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 34
+    },
+    {
+      "grupo": "REFORMA NO \"ANEXO\" DA DEFESA CIVIL",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CHAPISCO COMUMARGAMASSA DE CIMENTO E AREIΑ 1:3",
+      "unidade": "M2",
+      "quantidade": 19.14,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 35
+    },
+    {
+      "grupo": "REFORMA NO \"ANEXO\" DA DEFESA CIVIL",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "EMBOÇO EXTERNO - ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 19.14,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 36
+    },
+    {
+      "grupo": "REFORMA NO \"ANEXO\" DA DEFESA CIVIL",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "REBOCO EXTERNO-ARGAMASSA PRE-FABRICADA",
+      "unidade": "M2",
+      "quantidade": 19.14,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 37
+    },
+    {
+      "grupo": "REFORMA NO \"ANEXO\" DA DEFESA CIVIL",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TINTA ACRILICA-CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 194.84,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 38
+    },
+    {
+      "grupo": "REFORMA NO \"ANEXO\" DA DEFESA CIVIL",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ESMALTE SINTETICO - ESQUADRIAS E PEÇAS DE SERRALHERIA",
+      "unidade": "M2",
+      "quantidade": 13.41,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 39
+    },
+    {
+      "grupo": "REFORMA NO \"ANEXO\" DA DEFESA CIVIL",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "REGULARIZAÇÃO COM ARGAMASSA DE CIMENTO E AREIA - TRAÇO 1:3, ESPESSURA MEDIA 30MM",
+      "unidade": "M2",
+      "quantidade": 49.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 40
+    },
+    {
+      "grupo": "REFORMA NO \"ANEXO\" DA DEFESA CIVIL",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PISO CERAMICO ESMALTADO (PEI-5) - ASSENTADO COM ARGAMASSA COMUM",
+      "unidade": "M2",
+      "quantidade": 49.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 41
+    },
+    {
+      "grupo": "REFORMA NO \"ANEXO\" DA DEFESA CIVIL",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "RODAPÉ CERAMICO ESMALTADO PEIV 7CM À 10CM",
+      "unidade": "M",
+      "quantidade": 46.7,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 42
+    },
+    {
+      "grupo": "REFORMA NO \"ANEXO\" DA DEFESA CIVIL",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "SOLEIRA PARA PORTA EM GRANITO CINZA SEM POLIMENTO (FOSCO)",
+      "unidade": "M",
+      "quantidade": 2.46,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 43
+    },
+    {
+      "grupo": "REFORMA NO \"ANEXO\" DA DEFESA CIVIL",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "REGISTRO DE GAVETA, METAL CROMADO - 1\"",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 44
+    },
+    {
+      "grupo": "REFORMA NO \"ANEXO\" DA DEFESA CIVIL",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TUBO DE PVC RIGIDO, SOLDAVEL (LINHA AGUA) - 32MM (1\")",
+      "unidade": "M",
+      "quantidade": 10.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 45
+    },
+    {
+      "grupo": "REFORMA NO \"ANEXO\" DA DEFESA CIVIL",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "BICA ALTA ARTICULAVEL DE MESA - 1/2\"",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 46
+    },
+    {
+      "grupo": "REFORMA NO \"ANEXO\" DA DEFESA CIVIL",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "SIFÃO COM COPO, TIPO REFORÇADO, PVC RÍGIDO - 1 1/2\"X2\"",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 47
+    },
+    {
+      "grupo": "REFORMA NO \"ANEXO\" DA DEFESA CIVIL",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TUBO DE LIGAÇÃO FLEXİVEL, PVC - 1/2\"X30/40CM",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 48
+    },
+    {
+      "grupo": "REFORMA NO \"ANEXO\" DA DEFESA CIVIL",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ELETRODUTO DE AÇO GALVANIZADO ELETROLITICO, TIPO LEVE I-1\"",
+      "unidade": "M",
+      "quantidade": 50.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 49
+    },
+    {
+      "grupo": "REFORMA NO \"ANEXO\" DA DEFESA CIVIL",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "QUADRO DE DISTRIBUIÇÃO EM CHAPA METALICA - PARA ATE 28 DISJUNTORES",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 50
+    },
+    {
+      "grupo": "REFORMA NO \"ANEXO\" DA DEFESA CIVIL",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "BARRAMENTO DE COBRE PARA 100A 15X3MM",
+      "unidade": "M",
+      "quantidade": 0.3,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 51
+    },
+    {
+      "grupo": "REFORMA NO \"ANEXO\" DA DEFESA CIVIL",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "MINI DISJUNTOR - TIPO EUROPEU (IEC) - UNIPOLAR 32/50A",
+      "unidade": "UN",
+      "quantidade": 8.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 52
+    },
+    {
+      "grupo": "CPO - COORDENADORIA DE PROJETOS E OBRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CABO 4,00MM2 - ISOLAMENTO PARA 1,0KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 450.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "CPO - COORDENADORIA DE PROJETOS E OBRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PONTO COM DOIS INTERRUPTORES SIMPLES BIPOLAR - EM CAIXA 4\"X4\"",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "CPO - COORDENADORIA DE PROJETOS E OBRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PONTO COM INTERRUPTOR SIMPLES BIPOLAR - EM CAIΧΑ 4\"Χ2\"",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "CPO - COORDENADORIA DE PROJETOS E OBRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PONTO COM TOMADA SIMPLES DE EMBUTIR-110/220V CAIΧΑ 4\"X2\"",
+      "unidade": "UN",
+      "quantidade": 8.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "CPO - COORDENADORIA DE PROJETOS E OBRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "LUMINÁRIA COMERCIAL - 2 LAMPADAS FLUORESCENTES 28W",
+      "unidade": "UN",
+      "quantidade": 6.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "CPO - COORDENADORIA DE PROJETOS E OBRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ELETROCALHA PERF. GALV, ELETROL. CHAPA 14-150X50MM C/TAMPA E INST.",
+      "unidade": "M",
+      "quantidade": 11.95,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "CPO - COORDENADORIA DE PROJETOS E OBRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TELHA TRAPEZOIDAL DUPLA EM AÇO GALVANIZADO - E= 0,8MM, REVESTIMENTO B. H=40MM-PINTADA I FACE - MIOLO EM POLIURETANO",
+      "unidade": "M2",
+      "quantidade": 51.25,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "CPO - COORDENADORIA DE PROJETOS E OBRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CUMEEIRA TRAPEZOIDAL EM AÇO GALVANIZADO ESP=0,5MM, REVESTIMENTO B, H=40MM, L=0,60 M",
+      "unidade": "M",
+      "quantidade": 4.1,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "CPO - COORDENADORIA DE PROJETOS E OBRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "FORNECIMENTO DE ESTRUTURA METALICA PARA COBERTURA",
+      "unidade": "KG",
+      "quantidade": 1025.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "CPO - COORDENADORIA DE PROJETOS E OBRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "MONTAGEM DE ESTRUTURA METALICA PARA COBERTURA",
+      "unidade": "KG",
+      "quantidade": 1025.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "CPO - COORDENADORIA DE PROJETOS E OBRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CALHA EM CHAPA DE AÇO GALVANIZADO N.24 - DESENVOLVIMENTO 50CM",
+      "unidade": "M",
+      "quantidade": 8.2,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "CPO - COORDENADORIA DE PROJETOS E OBRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TUBO DE PVC RIGIDO, PONTA E BOLSA (LINHA ESGOTO) - 100MM (4\")",
+      "unidade": "M",
+      "quantidade": 14.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "CPO - COORDENADORIA DE PROJETOS E OBRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MANUAL DE CONCRETO ARMADO",
+      "unidade": "M3",
+      "quantidade": 0.31,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "CPO - COORDENADORIA DE PROJETOS E OBRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL, PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 0.96,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "CPO - COORDENADORIA DE PROJETOS E OBRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 2.4,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "CPO - COORDENADORIA DE PROJETOS E OBRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 0.12,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "CPO - COORDENADORIA DE PROJETOS E OBRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "FORMA COMUM DE TABUAS DE PINUS",
+      "unidade": "M2",
+      "quantidade": 1.8,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "CPO - COORDENADORIA DE PROJETOS E OBRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-60 - TELA",
+      "unidade": "KG",
+      "quantidade": 14.4,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "CPO - COORDENADORIA DE PROJETOS E OBRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CONCRETO SIMPLES DESEMPENADO E RIPADO, 200KG CIM/M3",
+      "unidade": "M3",
+      "quantidade": 0.57,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "CPO - COORDENADORIA DE PROJETOS E OBRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CAIXA DE LIGAÇÃO OU INSPEÇÃO - ESCAVAÇÃO E APILOAMENTO",
+      "unidade": "M3",
+      "quantidade": 0.43,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "CPO - COORDENADORIA DE PROJETOS E OBRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CAIXA DE LIGAÇÃO OU INSPEÇÃO - LASTRO DE CONCRETO (FUNDO)",
+      "unidade": "M3",
+      "quantidade": 0.72,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "CPO - COORDENADORIA DE PROJETOS E OBRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CAIXA DE LIGAÇÃO OU INSPEÇÃO - ALVENARIA DE I TIJOLO, REVESTIDA",
+      "unidade": "M2",
+      "quantidade": 2.88,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "CPO - COORDENADORIA DE PROJETOS E OBRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CAIXA DE LIGAÇÃO OU INSPEÇÃO - TAMPA DE CONCRETO",
+      "unidade": "M2",
+      "quantidade": 0.72,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "CPO - COORDENADORIA DE PROJETOS E OBRAS",
+      "codigo": "CF. 13",
+      "fonte": null,
+      "descricao": "-CAIXILHO EM PERFIL DE CHAPA DOBRADA - BASCULANTE",
+      "unidade": "M2",
+      "quantidade": 4.8,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "CPO - COORDENADORIA DE PROJETOS E OBRAS",
+      "codigo": "PM.07",
+      "fonte": null,
+      "descricao": "-PORTA LISA ESPECIAL/SOLIDA - 82X210CM",
+      "unidade": "UN",
+      "quantidade": 5.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "CPO - COORDENADORIA DE PROJETOS E OBRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CONJUNTO DE FECHADURA DE CILINDRO, 55MM, TRAFEGO INTENSO, MAÇANETA EM ZAMAC, GUARNIÇÕES EM AÇO, АСАВАMENTO CROMADO -",
+      "unidade": "UN",
+      "quantidade": 5.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "CPO - COORDENADORIA DE PROJETOS E OBRAS",
+      "codigo": "EM.01",
+      "fonte": null,
+      "descricao": "-BATENTE DE MADEIRA (14CM) - PARA PORTA DE I FOLHA, SEM BANDEIRA",
+      "unidade": "JG",
+      "quantidade": 5.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": "COBERTURA DE POLICARBONATO NO ACESSO DE VEICULOS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL, PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 10.77,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": "COBERTURA DE POLICARBONATO NO ACESSO DE VEICULOS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 14.4,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 29
+    },
+    {
+      "grupo": "COBERTURA DE POLICARBONATO NO ACESSO DE VEICULOS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 0.45,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 30
+    },
+    {
+      "grupo": "COBERTURA DE POLICARBONATO NO ACESSO DE VEICULOS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "FORMA ESPECIAL DE CHAPAS PLASTIFICADAS (10MM) PLANA",
+      "unidade": "M2",
+      "quantidade": 30.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 31
+    },
+    {
+      "grupo": "COBERTURA DE POLICARBONATO NO ACESSO DE VEICULOS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "IMPERMEABILIZAÇÃO DO RESPALDO DA FUNDAÇÃO - ARGAMASSA IMPERMEAVEL",
+      "unidade": "M2",
+      "quantidade": 30.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 32
+    },
+    {
+      "grupo": "COBERTURA DE POLICARBONATO NO ACESSO DE VEICULOS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ESTACA DE CONCRETO MOLDADA NO LOCAL, TIPO \"STRAUSS\" - ATE 60T",
+      "unidade": "M",
+      "quantidade": 84.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 33
+    },
+    {
+      "grupo": "COBERTURA DE POLICARBONATO NO ACESSO DE VEICULOS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-50",
+      "unidade": "KG",
+      "quantidade": 720.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 34
+    },
+    {
+      "grupo": "COBERTURA DE POLICARBONATO NO ACESSO DE VEICULOS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-60",
+      "unidade": "KG",
+      "quantidade": 180.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 35
+    },
+    {
+      "grupo": "COBERTURA DE POLICARBONATO NO ACESSO DE VEICULOS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CONCRETO FCK = 40,0MPA USINADO",
+      "unidade": "M3",
+      "quantidade": 9.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 36
+    },
+    {
+      "grupo": "COBERTURA DE POLICARBONATO NO ACESSO DE VEICULOS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "FORNECIMENTO E MONTAGEM DE ESTRUTURA METALICA VERTICAL - NÃO PATINAVEL",
+      "unidade": "KG",
+      "quantidade": 9250.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 37
+    },
+    {
+      "grupo": "COBERTURA DE POLICARBONATO NO ACESSO DE VEICULOS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CHAPA EM POLICARBONATO COMPACTA, CRISTAL, ESPESSURA DE 6 mm",
+      "unidade": "M2",
+      "quantidade": 156.4,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 38
+    },
+    {
+      "grupo": "COBERTURA DE POLICARBONATO NO ACESSO DE VEICULOS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CALHA EM ALUMINIO ESP. 1,0MM DESENVOLVIMENTO 100CM",
+      "unidade": "M",
+      "quantidade": 40.8,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 39
+    },
+    {
+      "grupo": "COBERTURA DE POLICARBONATO NO ACESSO DE VEICULOS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CONDUTOR EM TUBO DE PVC RIGIDO, PONTA E BOLSA 100MM (4\")",
+      "unidade": "M",
+      "quantidade": 18.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 40
+    },
+    {
+      "grupo": "COBERTURA DE POLICARBONATO NO ACESSO DE VEICULOS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ESMALTE SINTETICO EXTERIOR DE CALHAS, RUFOS E CONDUTORES",
+      "unidade": "M2",
+      "quantidade": 58.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 41
+    },
+    {
+      "grupo": "COBERTURA DE POLICARBONATO NO ACESSO DE VEICULOS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "BLOCOS VAZADOS DE CONCRETO ESTRUTURAL14CM - ATE 6MPA",
+      "unidade": "M2",
+      "quantidade": 20.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 42
+    },
+    {
+      "grupo": "COBERTURA DE POLICARBONATO NO ACESSO DE VEICULOS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CHAPISCO COMUM ARGAMASSA DE CIMENTO E AREIΑ 1:3",
+      "unidade": "M2",
+      "quantidade": 40.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 43
+    },
+    {
+      "grupo": "COBERTURA DE POLICARBONATO NO ACESSO DE VEICULOS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ΕΜΒΟÇO EXTERNO - ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 40.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 44
+    },
+    {
+      "grupo": "COBERTURA DE POLICARBONATO NO ACESSO DE VEICULOS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "REBOCO EXTERNO - ARGAMASSA PRE-FABRICADA",
+      "unidade": "M2",
+      "quantidade": 40.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 45
+    },
+    {
+      "grupo": "COBERTURA DE POLICARBONATO NO ACESSO DE VEICULOS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TINTA ACRILICA CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 40.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 46
+    },
+    {
+      "grupo": "MARQUISE DE POLICARBONATO NO ACESSO PRINCIPAL",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL, PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 7.95,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 47
+    },
+    {
+      "grupo": "MARQUISE DE POLICARBONATO NO ACESSO PRINCIPAL",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 12.79,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 48
+    },
+    {
+      "grupo": "MARQUISE DE POLICARBONATO NO ACESSO PRINCIPAL",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 0.15,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 49
+    },
+    {
+      "grupo": "MARQUISE DE POLICARBONATO NO ACESSO PRINCIPAL",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "FORMA ESPECIAL DE CHAPAS PLASTIFICADAS (10MM) - PLANA",
+      "unidade": "M2",
+      "quantidade": 10.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 50
+    },
+    {
+      "grupo": "CPO - COORDENADORIA DE PROJETOS E OBRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "IMPERMEABILIZAÇÃO DO RESPALDO DA FUNDAÇÃO - ARGAMASSA IMPERMEAVEL",
+      "unidade": "M2",
+      "quantidade": 10.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "CPO - COORDENADORIA DE PROJETOS E OBRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ESTACA DE CONCRETO MOLADA NO LOCAL, TIPO \"STRAUSS\" - ATE 60T",
+      "unidade": "M",
+      "quantidade": 28.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "CPO - COORDENADORIA DE PROJETOS E OBRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-50",
+      "unidade": "KG",
+      "quantidade": 192.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "CPO - COORDENADORIA DE PROJETOS E OBRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-60",
+      "unidade": "KG",
+      "quantidade": 48.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "CPO - COORDENADORIA DE PROJETOS E OBRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CONCRETO FCK 40,0MPA USINADO",
+      "unidade": "M3",
+      "quantidade": 2.4,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "CPO - COORDENADORIA DE PROJETOS E OBRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "FORNECIMENTO E MONTAGEM DE ESTRUTURA METALICA VERTICAL - NÃO PATINAVEL",
+      "unidade": "KG",
+      "quantidade": 8104.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "CPO - COORDENADORIA DE PROJETOS E OBRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CHAPA EM POLICARBONATO COMPACTA, CRISTAL, ESPESSURA DE 6 mm",
+      "unidade": "M2",
+      "quantidade": 135.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "CPO - COORDENADORIA DE PROJETOS E OBRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CALHA EM ALUMINIO ESP 1,0MM - DESENVOLVIMENTO 100CM",
+      "unidade": "M",
+      "quantidade": 40.5,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "CPO - COORDENADORIA DE PROJETOS E OBRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CONDUTOR EM TUBO DE PVC RIGIDO, PONTA E BOLSA - 100MM (4\")",
+      "unidade": "M",
+      "quantidade": 18.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "CPO - COORDENADORIA DE PROJETOS E OBRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO EXTERIOR DE CALHAS, RUFOS E CONDUTORES",
+      "unidade": "M",
+      "quantidade": 58.5,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "PAISAGISMO, TOTEM DE SINALIZAÇÃO E MASTRO DE BANDEIRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE ALVENARIA EM GERAL (TIJOLOS OU BLOCOS)",
+      "unidade": "M3",
+      "quantidade": 1.28,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "PAISAGISMO, TOTEM DE SINALIZAÇÃO E MASTRO DE BANDEIRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE PAVIMENTO ASFALTICO, INCLUSIVE CAPA, INCLUI CARGA NO CAMINHÃO",
+      "unidade": "M2",
+      "quantidade": 138.72,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "PAISAGISMO, TOTEM DE SINALIZAÇÃO E MASTRO DE BANDEIRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL, PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 23.09,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "PAISAGISMO, TOTEM DE SINALIZAÇÃO E MASTRO DE BANDEIRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 141.72,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "PAISAGISMO, TOTEM DE SINALIZAÇÃO E MASTRO DE BANDEIRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "RETIRADA DE ESTRUTURA METÁLICA INCLUSIVE PERFIS DE FIXAÇÃO",
+      "unidade": "KG",
+      "quantidade": 600.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "PAISAGISMO, TOTEM DE SINALIZAÇÃO E MASTRO DE BANDEIRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MANUAL DE CONCRETO ARMADO",
+      "unidade": "M3",
+      "quantidade": 0.8,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "PAISAGISMO, TOTEM DE SINALIZAÇÃO E MASTRO DE BANDEIRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 7.04,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "PAISAGISMO, TOTEM DE SINALIZAÇÃO E MASTRO DE BANDEIRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "FORMA COMUM DE TABUAS DE PINUS",
+      "unidade": "M2",
+      "quantidade": 5.08,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "PAISAGISMO, TOTEM DE SINALIZAÇÃO E MASTRO DE BANDEIRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "BROCA DE CONCRETO - DIAMETRO DE 30CM",
+      "unidade": "M",
+      "quantidade": 8.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "PAISAGISMO, TOTEM DE SINALIZAÇÃO E MASTRO DE BANDEIRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-50",
+      "unidade": "KG",
+      "quantidade": 160.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "PAISAGISMO, TOTEM DE SINALIZAÇÃO E MASTRO DE BANDEIRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CONCRETO FCK = 25,0MPA - VIRADO NA OBRA",
+      "unidade": "M3",
+      "quantidade": 2.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "PAISAGISMO, TOTEM DE SINALIZAÇÃO E MASTRO DE BANDEIRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-60 - TELA",
+      "unidade": "KG",
+      "quantidade": 1248.48,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "PAISAGISMO, TOTEM DE SINALIZAÇÃO E MASTRO DE BANDEIRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CONCRETO SIMPLES DESEMPENADO E RIPADO, 200KG CIM/M3",
+      "unidade": "M3",
+      "quantidade": 20.81,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "PAISAGISMO, TOTEM DE SINALIZAÇÃO E MASTRO DE BANDEIRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CURA QUIMICA",
+      "unidade": "M2",
+      "quantidade": 138.72,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "PAISAGISMO, TOTEM DE SINALIZAÇÃO E MASTRO DE BANDEIRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CORTE SUPERFICIAL DE CONCRETO ATE 3 CM DE PROFUNDIDADE",
+      "unidade": "M2",
+      "quantidade": 3.88,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "PAISAGISMO, TOTEM DE SINALIZAÇÃO E MASTRO DE BANDEIRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TERRA PREPARADA PARA PLANTIO",
+      "unidade": "M3",
+      "quantidade": 6.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "PAISAGISMO, TOTEM DE SINALIZAÇÃO E MASTRO DE BANDEIRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ADUBO QUIMICO NPK, 10:10:10",
+      "unidade": "KG",
+      "quantidade": 200.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": "PAISAGISMO, TOTEM DE SINALIZAÇÃO E MASTRO DE BANDEIRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "REVOLVIMENTO E AJUSTE DO SOLO",
+      "unidade": "M2",
+      "quantidade": 60.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": "PAISAGISMO, TOTEM DE SINALIZAÇÃO E MASTRO DE BANDEIRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "GRAMA PRETA (OPHIOPOGUM JAPONICUS) - 36 MUDAS POR M2",
+      "unidade": "M2",
+      "quantidade": 30.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 29
+    },
+    {
+      "grupo": "PAISAGISMO, TOTEM DE SINALIZAÇÃO E MASTRO DE BANDEIRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "AZALEA (RHODODENDRON INDICUM)",
+      "unidade": "UN",
+      "quantidade": 50.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 30
+    },
+    {
+      "grupo": "PAISAGISMO, TOTEM DE SINALIZAÇÃO E MASTRO DE BANDEIRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "DRACENA (DRACAENA FRAGRANS)",
+      "unidade": "UN",
+      "quantidade": 40.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 31
+    },
+    {
+      "grupo": "PAISAGISMO, TOTEM DE SINALIZAÇÃO E MASTRO DE BANDEIRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "MARIA SEM VERGONHA (IMPATIENS SPP)",
+      "unidade": "DUZIA",
+      "quantidade": 50.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 32
+    },
+    {
+      "grupo": "PAISAGISMO, TOTEM DE SINALIZAÇÃO E MASTRO DE BANDEIRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "FERRO TRABALHADO - CAIXILHOS E PEQUENAS PEÇAS DE SERRALHERIA",
+      "unidade": "KG",
+      "quantidade": 6770.48,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 33
+    },
+    {
+      "grupo": "PAISAGISMO, TOTEM DE SINALIZAÇÃO E MASTRO DE BANDEIRAS",
+      "codigo": "IP.04",
+      "fonte": null,
+      "descricao": "-PLATAFORMA COM 3 MASTROS DE BANDEIRA H LIVRE=9,00M (EXCLUSIVE ENGASTAMENTO)",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 34
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE ALVENARIA EM GERAL (TIJOLOS OU BLOCOS)",
+      "unidade": "M3",
+      "quantidade": 0.02,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 35
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MANUAL DE CONCRETO ARMADO",
+      "unidade": "M3",
+      "quantidade": 6.58,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 36
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL, PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 52.6,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 37
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 65.75,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 38
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 6.58,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 39
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ELETRODUTO DE POLIETILENO FLEXÍVEL, ALTA RESISTENCIA - 2\"",
+      "unidade": "M",
+      "quantidade": 535.57,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 40
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ENVELOPAMENTO DE ELETRODUTO ENTERRADO, COM CONCRETO",
+      "unidade": "M",
+      "quantidade": 535.57,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 41
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ELETRODUTO DE AÇO GALVANIZADO ELETROLITICO, TIPO LEVE I - 1\"",
+      "unidade": "M",
+      "quantidade": 70.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 42
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CABO 10,00MM2 - ISOLAMENTO PARA 0,7KV-CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 1533.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 43
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CABO 16,00MM2 - ISOLAMENTO PARA 0,7KV-CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 50.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 44
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CABO 4,00MM2 - ISOLAMENTO PARA 0,7KV-CLASSE 4 - FLEXIVEL",
+      "unidade": "M",
+      "quantidade": 495.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 45
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "REATERRO DE VALAS, INCLUSIVE COMPACTAÇÃO",
+      "unidade": "M3",
+      "quantidade": 52.6,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 46
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CAIXA DE PASSAGEM E TAMPA PRE-MOLDADAS EM CONCRETO, SEM FUNDO, 40X40CM",
+      "unidade": "UN",
+      "quantidade": 16.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 47
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CAIXA DE INSPEÇÃO DE ATERRAMENTO TIPO EMBUTIR COM TAMPA E ALÇA",
+      "unidade": "UN",
+      "quantidade": 11.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 48
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CONECTOR PARA HASTE \"COPPERWELD\"",
+      "unidade": "UN",
+      "quantidade": 11.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 49
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "HASTE \"COPPERWELD\" 3/4\"X3,00M",
+      "unidade": "UN",
+      "quantidade": 11.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 50
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "POSTE DE AÇO GALVANIZADO, TIPO RETO FLANGEADO H=7M",
+      "unidade": "UN",
+      "quantidade": 11.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 51
+    },
+    {
+      "grupo": "CPO – COORDENADORIA DE PROJETOS E OBRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CRUZETA DE FERRO GALVANIZADO PARA 3 PROJETORES",
+      "unidade": "UN",
+      "quantidade": 11.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "CPO – COORDENADORIA DE PROJETOS E OBRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PROJETOR PARA USO EXTERNO COM LAMPADA LED DE 150W - COMPLETA",
+      "unidade": "UN",
+      "quantidade": 35.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "CPO – COORDENADORIA DE PROJETOS E OBRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "FOTOCELULA SOLAR-RELE FOTOELETRICO CAPACIDADE-1000W",
+      "unidade": "UN",
+      "quantidade": 14.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "CPO – COORDENADORIA DE PROJETOS E OBRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "MINI DISJUNTOR - TIPO EUROPEU (IEC) - BIPOLAR 32/50A",
+      "unidade": "UN",
+      "quantidade": 5.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "CPO – COORDENADORIA DE PROJETOS E OBRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "QUADRO DE DISTRIBUIÇÃO EM CHAPA METÁLICA - PARA ATÉ 16 DISJUNTORES",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "CPO – COORDENADORIA DE PROJETOS E OBRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TUBO DE PVC RIGIDO, SOLDAVEL (LINHA AGUA) - 32MM (1\")",
+      "unidade": "M",
+      "quantidade": 4.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "CPO – COORDENADORIA DE PROJETOS E OBRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TORNEIRA PARA JARDIM HD. 16",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "CPO – COORDENADORIA DE PROJETOS E OBRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "FORMA COMUM DE TABUAS DE PINUS",
+      "unidade": "M2",
+      "quantidade": 43.6,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "CPO – COORDENADORIA DE PROJETOS E OBRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-60 - TELA",
+      "unidade": "KG",
+      "quantidade": 272.5,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "CPO – COORDENADORIA DE PROJETOS E OBRAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CONCRETO SIMPLES DESEMPENADO E RIPADO, 200KG CIM/M3",
+      "unidade": "M3",
+      "quantidade": 5.45,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "INFRA ESTRUTURA PARA REDE DE LÓGICA PARA VIGILÂNCIA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL, PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 87.6,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "INFRA ESTRUTURA PARA REDE DE LÓGICA PARA VIGILÂNCIA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 219.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "INFRA ESTRUTURA PARA REDE DE LÓGICA PARA VIGILÂNCIA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "LIMPEZA DE JUNTA DE DILATAÇÃO COM REMOÇÃO DO EXCESSO DE CONCRETO ATE 3CM",
+      "unidade": "M",
+      "quantidade": 985.5,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "INFRA ESTRUTURA PARA REDE DE LÓGICA PARA VIGILÂNCIA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ELETRODUTO DE PVC RIGIDO, ROSCAVEL-60MM (2\")",
+      "unidade": "M",
+      "quantidade": 876.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "INFRA ESTRUTURA PARA REDE DE LÓGICA PARA VIGILÂNCIA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "FIO TELEFONICO EXTERNO TIPO FE-100 PAR PARALELO",
+      "unidade": "M",
+      "quantidade": 690.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "INFRA ESTRUTURA PARA REDE DE LÓGICA PARA VIGILÂNCIA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CABO FLEXIVEL PVC-750V-2 CONDUTORES 1,5MM2",
+      "unidade": "M",
+      "quantidade": 1314.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "INFRA ESTRUTURA PARA REDE DE LÓGICA PARA VIGILÂNCIA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CAIXA DE PASSAGEM EM ALVENARIA - ESCAVAÇÃO E APILOAMENTO",
+      "unidade": "M3",
+      "quantidade": 8.1,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "INFRA ESTRUTURA PARA REDE DE LÓGICA PARA VIGILÂNCIA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CAIXA DE PASSAGEM EM ALVENARIA - LASTRO DE BRITA (FUNDO)",
+      "unidade": "M3",
+      "quantidade": 1.8,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "INFRA ESTRUTURA PARA REDE DE LÓGICA PARA VIGILÂNCIA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CAIXA DE PASSAGEM EM ALVENARIA - LASTRO DE CONCRETO (FUNDO)",
+      "unidade": "M3",
+      "quantidade": 1.8,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "INFRA ESTRUTURA PARA REDE DE LÓGICA PARA VIGILÂNCIA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CAIXA DE PASSAGEM EM ALVENARIA - PAREDE DE I TIJOLO, REVESTIDA",
+      "unidade": "M2",
+      "quantidade": 54.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "INFRA ESTRUTURA PARA REDE DE LÓGICA PARA VIGILÂNCIA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CAIXA DE PASSAGEM EM ALVENARIA - TAMPA DE CONCRETO",
+      "unidade": "M2",
+      "quantidade": 9.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "INFRA ESTRUTURA PARA REDE DE LÓGICA PARA VIGILÂNCIA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PLACA DE AVISO DE POLIESTIRENO 30X40 E 2MM",
+      "unidade": "UN",
+      "quantidade": 70.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "INFRA ESTRUTURA PARA REDE DE LÓGICA PARA VIGILÂNCIA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "COLOCAÇÃO DE ARAME GUIA #14 DE AÇO GALVANIZADO EM ELETRODUTO",
+      "unidade": "M",
+      "quantidade": 876.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "INFRA ESTRUTURA PARA REDE DE LÓGICA PARA VIGILÂNCIA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CABO UTP CATEGORIA 4 E 5 PARES",
+      "unidade": "M",
+      "quantidade": 1800.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "INFRA ESTRUTURA PARA REDE DE LÓGICA PARA VIGILÂNCIA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PEDRISCO COM COMPACTAÇÃO MANUAL - ESPESSURA 5CM",
+      "unidade": "M2",
+      "quantidade": 219.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "INFRA ESTRUTURA PARA REDE DE LÓGICA PARA VIGILÂNCIA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PÓ DE BRITA COM СОMРАСТAÇÃO MECÂNICA - ESPESSURA 10CM",
+      "unidade": "M2",
+      "quantidade": 219.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "INFRA ESTRUTURA PARA REDE DE LÓGICA PARA VIGILÂNCIA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PEDRA BRITADA N.2 COM COMPACTAÇÃO MANUAL - 5CM",
+      "unidade": "M2",
+      "quantidade": 219.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": "INFRA ESTRUTURA PARA REDE DE LÓGICA PARA VIGILÂNCIA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PASSEIO DE CONCRETO ARMADO, FCK=25MPA, INCLUINDO PREPARO DA CAIXA E LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 32.85,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": "INFRA ESTRUTURA PARA REDE DE LÓGICA PARA VIGILÂNCIA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "DEMARCAÇÃO E PINTURA DE FAIXAS ATE 10CM - EPOXI",
+      "unidade": "M",
+      "quantidade": 438.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 29
+    },
+    {
+      "grupo": "INFRA ESTRUTURA PARA REDE DE LÓGICA PARA VIGILÂNCIA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "LIMPEZA E LAVAGEM DE PISO POR HIDROJATEAMENTO",
+      "unidade": "M2",
+      "quantidade": 219.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 30
+    },
+    {
+      "grupo": "INFRA ESTRUTURA PARA REDE DE LÓGICA PARA VIGILÂNCIA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MANUAL DE CONCRETO ARMADO",
+      "unidade": "M3",
+      "quantidade": 32.85,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 31
+    },
+    {
+      "grupo": "INFRA ESTRUTURA PARA REDE DE LÓGICA PARA VIGILÂNCIA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE PAVIMENTAÇÃO ASFALTICA, CAPA E BASE - MANUAL",
+      "unidade": "M2",
+      "quantidade": 219.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 32
+    },
+    {
+      "grupo": "SERVIÇOS TÉCNICOS E COMPLEMENTARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CARGA MECANIZADA E REMOÇÃO DE ENTULHO, INCLUSIVE TRANSPORTE ATÉ IKM",
+      "unidade": "M3",
+      "quantidade": 180.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 33
+    },
+    {
+      "grupo": "SERVIÇOS TÉCNICOS E COMPLEMENTARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "TRANSPORTE DE ENTULHO POR CAMINHÃO BASCULANTE, A PARTIR DE IKM",
+      "unidade": "M3XKM",
+      "quantidade": 3600.01,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 34
+    },
+    {
+      "grupo": "SERVIÇOS TÉCNICOS E COMPLEMENTARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "BOMBEAMENTO DE CONCRETO",
+      "unidade": "M3",
+      "quantidade": 49.26,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 35
+    },
+    {
+      "grupo": "SERVIÇOS TÉCNICOS E COMPLEMENTARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ENGENHEIRO/ARQUITETO SENIOR",
+      "unidade": "H",
+      "quantidade": 290.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 36
+    },
+    {
+      "grupo": "SERVIÇOS TÉCNICOS E COMPLEMENTARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CONSULTOR",
+      "unidade": "H",
+      "quantidade": 85.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 37
+    },
+    {
+      "grupo": "SERVIÇOS TÉCNICOS E COMPLEMENTARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CARRO POPULAR 50% EM OPERAÇÃO",
+      "unidade": "H",
+      "quantidade": 290.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 38
+    },
+    {
+      "grupo": "SERVIÇOS TÉCNICOS E COMPLEMENTARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ENCARREGADO",
+      "unidade": "H",
+      "quantidade": 660.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 39
+    },
+    {
+      "grupo": "SERVIÇOS TÉCNICOS E COMPLEMENTARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CAMINHÃO CARGA SECA CAPACIDADE STON COM GUINDASTE",
+      "unidade": "H",
+      "quantidade": 384.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 40
+    },
+    {
+      "grupo": "SERVIÇOS TÉCNICOS E COMPLEMENTARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "LIMPEZA GERAL DA OBRA",
+      "unidade": "M2",
+      "quantidade": 500.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 41
+    }
+  ],
+  "apelido": "REFORMA DA SUBPREFEITURA DE PINHEIROS"
+}

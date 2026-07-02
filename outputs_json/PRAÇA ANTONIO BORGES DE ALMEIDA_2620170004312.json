@@ -1,0 +1,425 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620170004312",
+    "numero_art": "28027230171781608",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA VILA MARIANA",
+    "cnpj_contratante": "05.626.770/0001-68",
+    "objeto": "Contratação de empresa especializada em engenharia para a revitalização e requalificação da Praça Antonio Borges de Almeida.",
+    "processo_administrativo": "2015-0.291.477-4",
+    "contrato": null,
+    "endereco_obra": "PRAÇA ANTONIO BORGES DE ALMEIDA",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2015-12-23",
+    "data_fim": "2016-02-21",
+    "area_m2": 758.0,
+    "valor_contrato": 231199.23
+  },
+  "servicos": [
+    {
+      "grupo": "PARCÃO (ÁREA DE LAZER DESTINADA A CÃES)",
+      "codigo": "09-02-51",
+      "fonte": null,
+      "descricao": "ELETRODUTO DE POLIETILENO FLEXÍVEL, ALTA RESISTÊNCIA - 3\"",
+      "unidade": "M",
+      "quantidade": 90.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "PARCÃO (ÁREA DE LAZER DESTINADA A CÃES)",
+      "codigo": "09-02-98",
+      "fonte": null,
+      "descricao": "ENVELOPAMENTO DE ELETRODUTO ENTERRADO, COM CONCRETO",
+      "unidade": "M",
+      "quantidade": 90.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "PARCÃO (ÁREA DE LAZER DESTINADA A CÃES)",
+      "codigo": "09-03-32",
+      "fonte": null,
+      "descricao": "CABO 10,00MM2 - ISOLAMENTO PARA 1,0KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 294.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "PARCÃO (ÁREA DE LAZER DESTINADA A CÃES)",
+      "codigo": "09-05-40",
+      "fonte": null,
+      "descricao": "CAIXA DE PASSAGEM EM CHAPA METÁLICA COM TAMPA PARAFUSADA - 20X20X10CM",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "PARCÃO (ÁREA DE LAZER DESTINADA A CÃES)",
+      "codigo": "09-11-90",
+      "fonte": null,
+      "descricao": "TOMADA DE TERRA COMPLETA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "PARCÃO (ÁREA DE LAZER DESTINADA A CÃES)",
+      "codigo": "09-20-34",
+      "fonte": null,
+      "descricao": "POSTE DE AÇO GALVANIZADO TIPO RETO, FLANGEADO H=7M COM LUMINÁRIA HERMÉTICA EM ALUMÍNIO FUNDIDO PARA LÂMPADA DE VAPOR DE MERCÚRIO DE 250W - COM APROVAÇÃO DE ILUME/PMSP",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "PARCÃO (ÁREA DE LAZER DESTINADA A CÃES)",
+      "codigo": "17-01-27",
+      "fonte": null,
+      "descricao": "FP.04-ALAMBRADO EM TUBO GALVANIZADO E TELA GALVANIZADA H=2,00M",
+      "unidade": "M",
+      "quantidade": 107.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "PARCÃO (ÁREA DE LAZER DESTINADA A CÃES)",
+      "codigo": "17-01-41",
+      "fonte": null,
+      "descricao": "PP.20/24 - PORTÃO EM FERRO PERFILADO COM TELA, 1 FOLHA",
+      "unidade": "M2",
+      "quantidade": 3.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "PARCÃO (ÁREA DE LAZER DESTINADA A CÃES)",
+      "codigo": "18-03-05",
+      "fonte": null,
+      "descricao": "GRAMA ESMERALDA",
+      "unidade": "M2",
+      "quantidade": 893.31,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "PARCÃO (ÁREA DE LAZER DESTINADA A CÃES)",
+      "codigo": "MERCADO",
+      "fonte": null,
+      "descricao": "CONJUNTO DE OBSTÁCULO AGILITY COM 7 EQUIPAMENTOS (PASSARELA, PNEU, RAMPA, SALTO SIMPLES, SLALOM, GANGORRA E TÚNEL RÍGIDO) INSTALADO.",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "PLAYGROUND (INFANTIL)",
+      "codigo": "17-01-28",
+      "fonte": null,
+      "descricao": "FP.05-ALAMBRADO EM TUBO GALVANIZADO E TELA GALVANIZADA H=1,00M",
+      "unidade": "M",
+      "quantidade": 69.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "PLAYGROUND (INFANTIL)",
+      "codigo": "18-13-40",
+      "fonte": null,
+      "descricao": "RV.10 - TANQUE DE AREIA CIRCULAR - RAIO INTERNO 2,50M",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "PLAYGROUND (INFANTIL)",
+      "codigo": "18-14-05",
+      "fonte": null,
+      "descricao": "CARROSSEL PARA 20 LUGARES, DIÁMETRO 2,20M, FORNECIMENTO E INSTALAÇÃO",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "PLAYGROUND (INFANTIL)",
+      "codigo": "18-14-24",
+      "fonte": null,
+      "descricao": "GAIOLA LABIRINTO (1,5X1,5X2,0)M - ESTRUTURA METÁLICA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "PLAYGROUND (INFANTIL)",
+      "codigo": "18-14-41",
+      "fonte": null,
+      "descricao": "PLAYGROUND BRINQUEDOS DE MADEIRA - CASA TARZAN COM RAMPA ESCALADA, ESCORREGADOR, PONTE E ESCADA MARINHEIRO",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "PLAYGROUND (INFANTIL)",
+      "codigo": "18-14-45",
+      "fonte": null,
+      "descricao": "PLAYGROUND BRINQUEDOS DE MADEIRA - ESCORREGADOR ( ALT. 1,80M COMP. 3,00M)",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "PLAYGROUND (INFANTIL)",
+      "codigo": "18-14-46",
+      "fonte": null,
+      "descricao": "PLAYGROUND BRINQUEDOS DE MADEIRA - GANGORRA DUPLA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "PLAYGROUND (INFANTIL)",
+      "codigo": "18-14-48",
+      "fonte": null,
+      "descricao": "PLAYGROUND BRINQUEDOS DE MADEIRA - BALANÇA DUPLA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "PLAYGROUND (INFANTIL)",
+      "codigo": "18-15-13",
+      "fonte": null,
+      "descricao": "AMARELINHA DEMARCAÇÃO DE PISO (RD-05)",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "ÁREA PARA ADULTOS (ALONGAMENTO)",
+      "codigo": "18-15-01",
+      "fonte": null,
+      "descricao": "APARELHOS DE GINÁTICA EM MADEIRA - BARRA DUPLA EM DOIS NIVEIS",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "ÁREA PARA ADULTOS (ALONGAMENTO)",
+      "codigo": "18-15-02",
+      "fonte": null,
+      "descricao": "APARELHOS DE GINÁTICA EM MADEIRA - BARREIRA SIMPLES",
+      "unidade": "UN",
+      "quantidade": 5.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "ÁREA PARA ADULTOS (ALONGAMENTO)",
+      "codigo": "18-15-03",
+      "fonte": null,
+      "descricao": "APARELHOS DE GINÁTICA EM MADEIRA - BARRAS PARALELAS",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "11-80-01",
+      "fonte": null,
+      "descricao": "REPAROS EM TRINCAS E RACHADURAS",
+      "unidade": "M",
+      "quantidade": 24.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "13-03-65",
+      "fonte": null,
+      "descricao": "DEGRAUS DE ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M",
+      "quantidade": 24.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "15-03-10",
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO - ESQUADRIAS E PEÇAS DE SERRALHERIA",
+      "unidade": "M2",
+      "quantidade": 176.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "17-02-45",
+      "fonte": null,
+      "descricao": "PASSEIO DE CONCRETO ARMADO, FCK=30MPA, INCLUINDO PREPARO DA CAIXA E LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 19.8,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "17-04-01",
+      "fonte": null,
+      "descricao": "LIMPEZA GERAL DA OBRA",
+      "unidade": "M2",
+      "quantidade": 758.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "17-05-25",
+      "fonte": null,
+      "descricao": "DP.05 - CORRIMÃO EM TUBO GALVANIZADO COM GUARDA CORPO",
+      "unidade": "M",
+      "quantidade": 12.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "17-50-22",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MECANIZADA DE CONCRETO SIMPLES",
+      "unidade": "M3",
+      "quantidade": 134.5,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "18-03-43",
+      "fonte": null,
+      "descricao": "JASMIM ESTRELA (TRACHELOSPERMOM JASMINDA)",
+      "unidade": "UN",
+      "quantidade": 40.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "18-03-71",
+      "fonte": null,
+      "descricao": "BELA EMÍLIA (PLUMBAGO CAPENSIS)",
+      "unidade": "UN",
+      "quantidade": 40.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "18-03-73",
+      "fonte": null,
+      "descricao": "CAMARÃO (BELOPERONE GUTATA)",
+      "unidade": "UN",
+      "quantidade": 50.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "18-03-83",
+      "fonte": null,
+      "descricao": "HIBISCO (HIBISCUS ROSA SINENSIS)",
+      "unidade": "UN",
+      "quantidade": 20.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "18-12-02",
+      "fonte": null,
+      "descricao": "IC.02-CONJUNTO MESA E BANCOS EM CONCRETO",
+      "unidade": "CJ",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "18-12-06",
+      "fonte": null,
+      "descricao": "IC.06-BANCO EM CONCRETO APARENTE, TIPO PMSP",
+      "unidade": "M",
+      "quantidade": 16.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "18-80-01",
+      "fonte": null,
+      "descricao": "REVOLVIMENTO E AJUSTE DO SOLO",
+      "unidade": "M2",
+      "quantidade": 177.81,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "18-80-11",
+      "fonte": null,
+      "descricao": "TERRA PREPARADA PARA PLANTIO",
+      "unidade": "M3",
+      "quantidade": 107.33,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "18-80-35",
+      "fonte": null,
+      "descricao": "RECOLOCAÇÃO DE TERRA DE JARDIM",
+      "unidade": "M3",
+      "quantidade": 12.27,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "20-01-13",
+      "fonte": null,
+      "descricao": "LEVANTAMENTO PLANIALTIMÉTRICO DE ÁREAS - ATÉ 10.000M2",
+      "unidade": "GL",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "20-03-18",
+      "fonte": null,
+      "descricao": "DESENVOLVIMENTO DE PRANCHA TÉCNICA EM FORMATO A0",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 26
+    }
+  ],
+  "apelido": "PRAÇA ANTONIO BORGES DE ALMEIDA"
+}

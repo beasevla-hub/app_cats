@@ -1,0 +1,1685 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620240002449",
+    "numero_art": "2620240450792",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA DE JACANA-TREMEMBE - SUB-JT",
+    "cnpj_contratante": "05.655.070/0001-00",
+    "objeto": "Contratação de empresa de engenharia para execução de obras de revitalização em área pública municipal da Praça da Rua dos Pássaros, bem como readequação de salão multiuso",
+    "processo_administrativo": "6043.2022/0001184-7",
+    "contrato": "27/SUB JT/2022",
+    "endereco_obra": "PRAÇA DA Rua dos Pássaros",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2022-10-27",
+    "data_fim": "2022-12-26",
+    "area_m2": 184.99,
+    "valor_contrato": 1139347.41
+  },
+  "servicos": [
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "01-01-08",
+      "fonte": "EDIF",
+      "descricao": "LIMPEZA MANUAL GERAL INCLUSIVE REMOÇÃO DE COBERTURA VEGETAL - TRONCO ATÉ 10CM - SEM TRANSPORTE",
+      "unidade": "M2",
+      "quantidade": 1804.95,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "17-30-02",
+      "fonte": "EDIF",
+      "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "01-05-01",
+      "fonte": "EDIF",
+      "descricao": "TAPUME CHAPA COMPENSADA 6MM",
+      "unidade": "M2",
+      "quantidade": 269.28,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "01-05-40",
+      "fonte": "EDIF",
+      "descricao": "TELA PARA PROTEÇÃO DE OBRAS, MALHA 2 MM",
+      "unidade": "M2",
+      "quantidade": 45.6,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "17-45-01",
+      "fonte": "EDIF",
+      "descricao": "ANDAIMES METÁLICOS - FORNECIMENTO",
+      "unidade": "M3xMÊS",
+      "quantidade": 337.5,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "17-45-02",
+      "fonte": "EDIF",
+      "descricao": "ANDAIMES METÁLICOS - MONTAGEM E DESMONTAGEM",
+      "unidade": "M3",
+      "quantidade": 337.5,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DA PRAÇA DA RUA DOS PÁSSAROS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PASSEIO DE CONCRETO E INFRAESTRUTURA",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DA PRAÇA DA RUA DOS PÁSSAROS",
+      "codigo": "01-01-07",
+      "fonte": "EDIF",
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 159.14,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DA PRAÇA DA RUA DOS PÁSSAROS",
+      "codigo": "01-04-01",
+      "fonte": "EDIF",
+      "descricao": "ESCAVAÇÃO MANUAL, PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 104.32,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DA PRAÇA DA RUA DOS PÁSSAROS",
+      "codigo": "01-04-10",
+      "fonte": "EDIF",
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 647.13,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DA PRAÇA DA RUA DOS PÁSSAROS",
+      "codigo": "03-50-03",
+      "fonte": "EDIF",
+      "descricao": "DEMOLIÇÃO MANUAL DE CONCRETO SIMPLES",
+      "unidade": "M3",
+      "quantidade": 3.2,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DA PRAÇA DA RUA DOS PÁSSAROS",
+      "codigo": "03-50-02",
+      "fonte": "EDIF",
+      "descricao": "DEMOLIÇÃO MECANIZADA DE CONCRETO ARMADO",
+      "unidade": "M3",
+      "quantidade": 14.9,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DA PRAÇA DA RUA DOS PÁSSAROS",
+      "codigo": "17-50-45",
+      "fonte": "EDIF",
+      "descricao": "DEMOLIÇÃO DE GUIAS DE CONCRETO",
+      "unidade": "M",
+      "quantidade": 95.5,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DA PRAÇA DA RUA DOS PÁSSAROS",
+      "codigo": "18-10-56",
+      "fonte": "EDIF",
+      "descricao": "ORLA DE SEPARAÇÃO EM CONCRETO NC.26",
+      "unidade": "M",
+      "quantidade": 120.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DA PRAÇA DA RUA DOS PÁSSAROS",
+      "codigo": "17-02-50",
+      "fonte": "EDIF",
+      "descricao": "GUIA DE CONCRETO RETA OU CURVA, TIPO PMSP",
+      "unidade": "M",
+      "quantidade": 95.5,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DA PRAÇA DA RUA DOS PÁSSAROS",
+      "codigo": "17-02-47",
+      "fonte": "EDIF",
+      "descricao": "PISO/PASSEIO DE CONCRETO ARMADO, INCLUINDO O PREPARO DA CAIXA, LASTRO DE BRITA, TELA METÁLICA E A MÃO DE OBRA REFERENTE AOS SERVIÇOS NO CONCRETO: LANÇAMENTO E ACABAMENTO (RIPADO E DESEMPENADO), EXCLUSIVE O FORNECIMENTO DO CONCRETO",
+      "unidade": "M2",
+      "quantidade": 95.5,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DA PRAÇA DA RUA DOS PÁSSAROS",
+      "codigo": "02-05-11",
+      "fonte": "EDIF",
+      "descricao": "CONCRETO FCK=30MPA - USINADO",
+      "unidade": "M3",
+      "quantidade": 38.77,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DA PRAÇA DA RUA DOS PÁSSAROS",
+      "codigo": "03-03-30",
+      "fonte": "EDIF",
+      "descricao": "BOMBEAMENTO DE CONCRETO",
+      "unidade": "M3",
+      "quantidade": 38.77,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DA PRAÇA DA RUA DOS PÁSSAROS",
+      "codigo": "13-02-04",
+      "fonte": "EDIF",
+      "descricao": "ACABAMENTO DE PISO DE CONCRETO TIPO BAMBOLÊ",
+      "unidade": "M2",
+      "quantidade": 258.48,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DA PRAÇA DA RUA DOS PÁSSAROS",
+      "codigo": "02-02-15",
+      "fonte": "EDIF",
+      "descricao": "LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 14.36,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DA PRAÇA DA RUA DOS PÁSSAROS",
+      "codigo": "02-03-04",
+      "fonte": "EDIF",
+      "descricao": "FORMA COMUM DE TÁBUAS DE PINUS - NÃO RECUPERÁVEL",
+      "unidade": "M2",
+      "quantidade": 57.3,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DA PRAÇA DA RUA DOS PÁSSAROS",
+      "codigo": "02-04-04",
+      "fonte": "EDIF",
+      "descricao": "ARMADURA EM AÇO CA-50",
+      "unidade": "KG",
+      "quantidade": 1552.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "EQUIPAMENTOS URBANOS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "REMADA SENTADA",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "EQUIPAMENTOS URBANOS",
+      "codigo": "18-16-05",
+      "fonte": "EDIF",
+      "descricao": "SIMULADOR DE CAVALGADA TRIPLO",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "EQUIPAMENTOS URBANOS",
+      "codigo": "18-16-19",
+      "fonte": "EDIF",
+      "descricao": "PLACA ORIENTADORA VERTICAL",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "EQUIPAMENTOS URBANOS",
+      "codigo": "18-16-17",
+      "fonte": "EDIF",
+      "descricao": "PUXADOR PEITORAL DUPLO STAR",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "EQUIPAMENTOS URBANOS",
+      "codigo": "18-16-09",
+      "fonte": "EDIF",
+      "descricao": "SIMULADOR DE CAMINHADA DUPLO CONJUGADO",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "EQUIPAMENTOS URBANOS",
+      "codigo": "18-16-16",
+      "fonte": "EDIF",
+      "descricao": "BICICLETA DE CADEIRA TRIPLA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "EQUIPAMENTOS URBANOS",
+      "codigo": "18-16-07",
+      "fonte": "EDIF",
+      "descricao": "PRESSÃO DE PERNAS TRIPLO CONJUGADO",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "EQUIPAMENTOS URBANOS",
+      "codigo": "18-16-04",
+      "fonte": "EDIF",
+      "descricao": "SIMULADOR DE CAVALGADA",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "EQUIPAMENTOS URBANOS",
+      "codigo": "18-16-13",
+      "fonte": "EDIF",
+      "descricao": "ESQUI DUPLO CONJUGADO",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "EQUIPAMENTOS URBANOS",
+      "codigo": "18-16-03",
+      "fonte": "EDIF",
+      "descricao": "MULTI EXERCITADOR CONJUGADO COM 6 FUNÇÕES",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "EQUIPAMENTOS URBANOS",
+      "codigo": "18-15-01",
+      "fonte": "EDIF",
+      "descricao": "APARELHOS DE GINÁTICA EM MADEIRA - BARRA DUPLA EM DOIS NIVEIS",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "EQUIPAMENTOS URBANOS",
+      "codigo": "18-15-03",
+      "fonte": "EDIF",
+      "descricao": "APARELHOS DE GINÁTICA EM MADEIRA - BARRAS PARALELAS",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "EQUIPAMENTOS URBANOS",
+      "codigo": "18-12-02",
+      "fonte": "EDIF",
+      "descricao": "IC,02-CONJUNTO MESA E BANCOS EM CONCRETO",
+      "unidade": "CJ",
+      "quantidade": 10.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "EQUIPAMENTOS URBANOS",
+      "codigo": "18-12-06",
+      "fonte": "EDIF",
+      "descricao": "IC.06 - BANCO EM CONCRETO APARENTE, TIPO PMSP",
+      "unidade": "M",
+      "quantidade": 12.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "EQUIPAMENTOS URBANOS",
+      "codigo": "17-01-33",
+      "fonte": "EDIF",
+      "descricao": "FP.06 - GRADIL/PEITORIL DE FERRO PERFILADO H=1,00M",
+      "unidade": "M",
+      "quantidade": 95.5,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "EQUIPAMENTOS URBANOS",
+      "codigo": "18-14-45",
+      "fonte": "EDIF",
+      "descricao": "PLAYGROUND BRINQUEDOS DE MADEIRA - ESCORREGADOR (ALT.=1,80M COMP.=3,00M)",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "EQUIPAMENTOS URBANOS",
+      "codigo": "18-14-49",
+      "fonte": "EDIF",
+      "descricao": "PLAYGROUND BRINQUEDOS DE MADEIRA - ESCADA HORIZONTAL",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "EQUIPAMENTOS URBANOS",
+      "codigo": "18-14-48",
+      "fonte": "EDIF",
+      "descricao": "PLAYGROUND BRINQUEDOS DE MADEIRA - BALANÇA DUPLA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "EQUIPAMENTOS URBANOS",
+      "codigo": "18-14-46",
+      "fonte": "EDIF",
+      "descricao": "PLAYGROUND BRINQUEDOS DE MADEIRA - GANGORRA DUPLA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": "EQUIPAMENTOS URBANOS",
+      "codigo": "18-14-41",
+      "fonte": "EDIF",
+      "descricao": "PLAYGROUND BRINQUEDOS DE MADEIRA - CASA TARZAN COM RAMPA ESCALADA, ESCORREGADOR, PONTE E ESCADA MARINHEIRO",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": "EQUIPAMENTOS URBANOS",
+      "codigo": "18-14-16",
+      "fonte": "EDIF",
+      "descricao": "BRINQUEDO TIPO BALANÇO FRONTAL DUPLO PARA CADEIRANTE COM ESTRUTURA EM TUBOS DE AÇO CARBONO - INSTALADO",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 29
+    },
+    {
+      "grupo": "EQUIPAMENTOS URBANOS",
+      "codigo": "15-01-15",
+      "fonte": "EDIF",
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 59.2,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 30
+    },
+    {
+      "grupo": "EQUIPAMENTOS URBANOS",
+      "codigo": "15-03-10",
+      "fonte": "EDIF",
+      "descricao": "ESMALTE SINTÉTICO - ESQUADRIAS E PEÇAS DE SERRALHERIA",
+      "unidade": "M2",
+      "quantidade": 95.5,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 31
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": "09-01-55",
+      "fonte": "EDIF",
+      "descricao": "ENTRADA AÉREA DE ENERGIA E TELEFONE - 21 À 23KVA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 32
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": "09-02-53",
+      "fonte": "EDIF",
+      "descricao": "ELETRODUTO DE POLIETILENO FLEXÍVEL, ALTA RESISTÊNCIA - 2\"",
+      "unidade": "M",
+      "quantidade": 208.8,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 33
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": "09-02-98",
+      "fonte": "EDIF",
+      "descricao": "ENVELOPAMENTO DE ELETRODUTO ENTERRADO, COM CONCRETO",
+      "unidade": "M",
+      "quantidade": 208.8,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 34
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": "09-03-08",
+      "fonte": "EDIF",
+      "descricao": "CABO 10,00MM2 - ISOLAMENTO PARA 0,7KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 417.6,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 35
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": "09-03-09",
+      "fonte": "EDIF",
+      "descricao": "CABO 16,00MM2 - ISOLAMENTO PARA 0,7KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 626.4,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 36
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": "09-83-51",
+      "fonte": "EDIF",
+      "descricao": "FOTOCELULA SOLAR-RELÊ FOTOELÉTRICO CAPACIDADE - 1000W",
+      "unidade": "UN",
+      "quantidade": 12.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 37
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": "09-20-35",
+      "fonte": "EDIF",
+      "descricao": "TIPO LED DE 150W COM APROVAÇÃO DE ILUME/PMSP, INCLUSIVE CAIXA",
+      "unidade": "UN",
+      "quantidade": 12.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 38
+    },
+    {
+      "grupo": "ILUMINAÇÃO",
+      "codigo": "09-09-57",
+      "fonte": "EDIF",
+      "descricao": "LUMINÁRIA HERMÉTICA EM ALUMÍNIO FUNDIDO PARA LÂMPADA ATÉ 250W - COM APROVAÇÃO DE ILUME/PMSP",
+      "unidade": "UN",
+      "quantidade": 12.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "GRAMA ESMERALDA",
+      "unidade": "M2",
+      "quantidade": 1040.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": "18-80-01",
+      "fonte": "EDIF",
+      "descricao": "REVOLVIMENTO E AJUSTE DO SOLO",
+      "unidade": "M2",
+      "quantidade": 1040.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": "18-80-11",
+      "fonte": "EDIF",
+      "descricao": "TERRA PREPARADA PARA PLANTIO",
+      "unidade": "M3",
+      "quantidade": 104.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": "18-80-15",
+      "fonte": "EDIF",
+      "descricao": "ADUBO QUÍMICO NPK, 10:10:10",
+      "unidade": "KG",
+      "quantidade": 7.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": "18-03-15",
+      "fonte": "EDIF",
+      "descricao": "CLOROFITO (CLOROPHYTUM CROMOSSUM)",
+      "unidade": "DÚZIA",
+      "quantidade": 20.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": "18-03-07",
+      "fonte": "EDIF",
+      "descricao": "GRAMA PRETA (OPHIOPOGUM JAPONICUS) - 36 MUDAS POR M2",
+      "unidade": "M2",
+      "quantidade": 33.43,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": "18-03-29",
+      "fonte": "EDIF",
+      "descricao": "VEDELIA (WEDELIA PALUDARIS)",
+      "unidade": "DÚZIA",
+      "quantidade": 20.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": "18-03-21",
+      "fonte": "EDIF",
+      "descricao": "LÍRIO (HEMEROCALLIS FLAVA)",
+      "unidade": "DÚZIA",
+      "quantidade": 20.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "DEMOLIÇÃO E RECONSTRUÇÃO DE SALÃO MULTIUSO",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "RETIRADAS E DEMOLIÇÕES",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "DEMOLIÇÃO E RECONSTRUÇÃO DE SALÃO MULTIUSO",
+      "codigo": "01-01-07",
+      "fonte": "EDIF",
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 122.96,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "DEMOLIÇÃO E RECONSTRUÇÃO DE SALÃO MULTIUSO",
+      "codigo": "06-60-25",
+      "fonte": "EDIF",
+      "descricao": "RETIRADA DE TELHAS EM GERAL, EXCLUSIVE TELHAS DE BARRO COZIDO, VIDRO E ESTRUTURAIS DE CRFS",
+      "unidade": "M2",
+      "quantidade": 70.36,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "DEMOLIÇÃO E RECONSTRUÇÃO DE SALÃO MULTIUSO",
+      "codigo": "06-60-04",
+      "fonte": "EDIF",
+      "descricao": "RETIRADA DE ESTRUTURA MADEIRA PONTALETADA - PARA TELHA ONDULADA DE CIMENTO AMIANTO, ALUMÍNIO OU PLÁSTICO",
+      "unidade": "M2",
+      "quantidade": 70.36,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "DEMOLIÇÃO E RECONSTRUÇÃO DE SALÃO MULTIUSO",
+      "codigo": "07-60-01",
+      "fonte": "EDIF",
+      "descricao": "RETIRADA DE FOLHAS DE PORTA DE PASSAGEM OU JANELA",
+      "unidade": "UN",
+      "quantidade": 8.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "DEMOLIÇÃO E RECONSTRUÇÃO DE SALÃO MULTIUSO",
+      "codigo": "07-60-02",
+      "fonte": "EDIF",
+      "descricao": "RETIRADA DE BATENTES DE MADEIRA",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "DEMOLIÇÃO E RECONSTRUÇÃO DE SALÃO MULTIUSO",
+      "codigo": "07-60-08",
+      "fonte": "EDIF",
+      "descricao": "RETIRADA DE GUARNIÇÕES OU MOLDURAS DE MADEIRA",
+      "unidade": "M",
+      "quantidade": 10.6,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "DEMOLIÇÃO E RECONSTRUÇÃO DE SALÃO MULTIUSO",
+      "codigo": "10-60-42",
+      "fonte": "EDIF",
+      "descricao": "RETIRADA DE TORNEIRAS",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "DEMOLIÇÃO E RECONSTRUÇÃO DE SALÃO MULTIUSO",
+      "codigo": "10-60-40",
+      "fonte": "EDIF",
+      "descricao": "RETIRADA DE SIFÕES",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "DEMOLIÇÃO E RECONSTRUÇÃO DE SALÃO MULTIUSO",
+      "codigo": "10-60-35",
+      "fonte": "EDIF",
+      "descricao": "RETIRADA DE APARELHOS SANITÁRIOS, INCLUSIVE ACESSÓRIOS",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "DEMOLIÇÃO E RECONSTRUÇÃO DE SALÃO MULTIUSO",
+      "codigo": "10-60-18",
+      "fonte": "EDIF",
+      "descricao": "RETIRADA DE REGISTROS OU VÁLVULAS FLUXÍVEIS",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "DEMOLIÇÃO E RECONSTRUÇÃO DE SALÃO MULTIUSO",
+      "codigo": "09-61-26",
+      "fonte": "EDIF",
+      "descricao": "RETIRADA DE QUADRO DE DISTRIBUIÇÃO OU CAIXA DE PASSAGEM",
+      "unidade": "M2",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "DEMOLIÇÃO E RECONSTRUÇÃO DE SALÃO MULTIUSO",
+      "codigo": "09-62-03",
+      "fonte": "EDIF",
+      "descricao": "RETIRADA DE LÂMPADA INCANDESCENTE OU FLUORESCENTE",
+      "unidade": "UN",
+      "quantidade": 7.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "DEMOLIÇÃO E RECONSTRUÇÃO DE SALÃO MULTIUSO",
+      "codigo": "09-60-14",
+      "fonte": "EDIF",
+      "descricao": "RETIRADA DE FIO EMBUTIDO - ATÉ 16MM2",
+      "unidade": "M",
+      "quantidade": 118.2,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "DEMOLIÇÃO E RECONSTRUÇÃO DE SALÃO MULTIUSO",
+      "codigo": "09-51-16",
+      "fonte": "EDIF",
+      "descricao": "REMOÇÃO DE DISJUNTOR AUTOMÁTICO BIPOLAR ATÉ 50A",
+      "unidade": "UN",
+      "quantidade": 8.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "DEMOLIÇÃO E RECONSTRUÇÃO DE SALÃO MULTIUSO",
+      "codigo": "04-50-04",
+      "fonte": "EDIF",
+      "descricao": "DEMOLIÇÃO DE ALVENARIA EM GERAL (TIJOLOS OU BLOCOS)",
+      "unidade": "M3",
+      "quantidade": 19.33,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "DEMOLIÇÃO E RECONSTRUÇÃO DE SALÃO MULTIUSO",
+      "codigo": "09-52-06",
+      "fonte": "EDIF",
+      "descricao": "REMOÇÃO DE INTERRUPTOR, TOMADA, BOTÃO DE CAMPAINHA OU CIGARRA",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "DEMOLIÇÃO E RECONSTRUÇÃO DE SALÃO MULTIUSO",
+      "codigo": "02-50-03",
+      "fonte": "EDIF",
+      "descricao": "DEMOLIÇÃO MANUAL DE CONCRETO SIMPLES",
+      "unidade": "M3",
+      "quantidade": 0.9,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": "DEMOLIÇÃO E RECONSTRUÇÃO DE SALÃO MULTIUSO",
+      "codigo": "03-50-04",
+      "fonte": "EDIF",
+      "descricao": "DEMOLIÇÃO MANUAL DE CONCRETO ARMADO",
+      "unidade": "M3",
+      "quantidade": 3.49,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": "DEMOLIÇÃO E RECONSTRUÇÃO DE SALÃO MULTIUSO",
+      "codigo": "10-50-03",
+      "fonte": "EDIF",
+      "descricao": "DEMOLIÇÃO DE TUBULAÇÃO DE PVC RÍGIDO - ATÉ 4\"",
+      "unidade": "M",
+      "quantidade": 11.2,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 29
+    },
+    {
+      "grupo": "INFRAESTRUTURA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL, PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 52.58,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 30
+    },
+    {
+      "grupo": "INFRAESTRUTURA",
+      "codigo": "01-02-05",
+      "fonte": "EDIF",
+      "descricao": "ATERRO, INCLUSIVE COMPACTAÇÃO",
+      "unidade": "M3",
+      "quantidade": 10.3,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 31
+    },
+    {
+      "grupo": "INFRAESTRUTURA",
+      "codigo": "02-02-10",
+      "fonte": "EDIF",
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 15.84,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 32
+    },
+    {
+      "grupo": "INFRAESTRUTURA",
+      "codigo": "17-01-71",
+      "fonte": "EDIF",
+      "descricao": "MURO DE ARRIMO H=2,50M, COM DRENAGEM",
+      "unidade": "M",
+      "quantidade": 9.6,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 33
+    },
+    {
+      "grupo": "INFRAESTRUTURA",
+      "codigo": "02-03-04",
+      "fonte": "EDIF",
+      "descricao": "FORMA COMUM DE TÁBUAS DE PINUS - NÃO RECUPERÁVEL",
+      "unidade": "M2",
+      "quantidade": 103.04,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 34
+    },
+    {
+      "grupo": "INFRAESTRUTURA",
+      "codigo": "02-04-04",
+      "fonte": "EDIF",
+      "descricao": "ARMADURA EM AÇO CA-50",
+      "unidade": "KG",
+      "quantidade": 586.99,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 35
+    },
+    {
+      "grupo": "INFRAESTRUTURA",
+      "codigo": "02-04-07",
+      "fonte": "EDIF",
+      "descricao": "ARMADURA EM AÇO CA-60",
+      "unidade": "KG",
+      "quantidade": 23.1,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 36
+    },
+    {
+      "grupo": "INFRAESTRUTURA",
+      "codigo": "02-05-06",
+      "fonte": "EDIF",
+      "descricao": "CONCRETO FCK=20,0MPA - VIRADO NA OBRA",
+      "unidade": "M3",
+      "quantidade": 45.5,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 37
+    },
+    {
+      "grupo": "INFRAESTRUTURA",
+      "codigo": "04-01-98",
+      "fonte": "EDIF",
+      "descricao": "VERGAS, CINTAS E PILARETES DE CONCRETO",
+      "unidade": "M3",
+      "quantidade": 13.5,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 38
+    },
+    {
+      "grupo": "VEDOS E COBERTURA",
+      "codigo": "02-02-15",
+      "fonte": "EDIF",
+      "descricao": "LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 8.59,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "VEDOS E COBERTURA",
+      "codigo": "02-06-05",
+      "fonte": "EDIF",
+      "descricao": "IMPERMEABILIZAÇÃO DO RESPALDO DA FUNDAÇÃO - ARGAMASSA IMPERMEÁVEL",
+      "unidade": "M2",
+      "quantidade": 103.04,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "VEDOS E COBERTURA",
+      "codigo": "04-01-63",
+      "fonte": "EDIF",
+      "descricao": "BLOCOS VAZADOS DE CONCRETO ESTRUTURAL APARENTE - 19CM - ATÉ 6MPA",
+      "unidade": "M2",
+      "quantidade": 156.8,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "VEDOS E COBERTURA",
+      "codigo": "04-01-62",
+      "fonte": "EDIF",
+      "descricao": "BLOCOS VAZADOS DE CONCRETO ESTRUTURAL APARENTE - 14CM - ATÉ 6MPA",
+      "unidade": "M2",
+      "quantidade": 31.5,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "VEDOS E COBERTURA",
+      "codigo": "04-01-80",
+      "fonte": "EDIF",
+      "descricao": "TELA TIPO DEPLOYEE PARA REFORÇO DE ALVENARIA",
+      "unidade": "M2",
+      "quantidade": 56.49,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "VEDOS E COBERTURA",
+      "codigo": "03-04-19",
+      "fonte": "EDIF",
+      "descricao": "LAJE MISTA TRELIÇADA H-8CM COM CAPEAMENTO 4CM (12CM)",
+      "unidade": "M2",
+      "quantidade": 1.68,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "VEDOS E COBERTURA",
+      "codigo": "06-01-30",
+      "fonte": "EDIF",
+      "descricao": "FORNECIMENTO DE ESTRUTURA METÁLICA PARA COBERTURA",
+      "unidade": "KG",
+      "quantidade": 3720.74,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "VEDOS E COBERTURA",
+      "codigo": "06-01-31",
+      "fonte": "EDIF",
+      "descricao": "MONTAGEM DE ESTRUTURA METÁLICA PARA COBERTURA",
+      "unidade": "KG",
+      "quantidade": 3720.74,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "VEDOS E COBERTURA",
+      "codigo": "06-02-43",
+      "fonte": "EDIF",
+      "descricao": "TELHA TRAPEZOIDAL DUPLA EM AÇO GALVANIZADO - E= 0,8MM, REVESTIMENTO B, H=40MM - PINTADA 1 FACE - MIOLO EM POLIURETANO E=30MM",
+      "unidade": "M2",
+      "quantidade": 184.99,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "VEDOS E COBERTURA",
+      "codigo": "06-02-96",
+      "fonte": "EDIF",
+      "descricao": "CUMEEIRA TRAPEZOIDAL EM AÇO GALVANIZADO E=0,5MM, REVESTIMENTO B, H=40MM, L=0,60M, COM PINTURA BRANCA 2 FACES",
+      "unidade": "M",
+      "quantidade": 16.5,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "VEDOS E COBERTURA",
+      "codigo": "10-11-07",
+      "fonte": "EDIF",
+      "descricao": "CALHA EM ALUMÍNIO ESP. 1,0MM - DESENVOLVIMENTO 100CM",
+      "unidade": "M",
+      "quantidade": 11.5,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "VEDOS E COBERTURA",
+      "codigo": "10-12-16",
+      "fonte": "EDIF",
+      "descricao": "CONDUTOR EM TUBO DE PVC RÍGIDO, PONTA E BOLSA - 100MM (4\")",
+      "unidade": "M",
+      "quantidade": 3.5,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "ESQUADRIAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PM.49 - PORTA DE MADEIRA LISA COMUM/ ENCABEÇADA, 2 FOLHAS - 204X210CM",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "ESQUADRIAS",
+      "codigo": "07-01-07",
+      "fonte": "EDIF",
+      "descricao": "PM.07 - PORTA LISA ESPECIAL/ SÓLIDA - 82X210CM",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "ESQUADRIAS",
+      "codigo": "07-01-50",
+      "fonte": "EDIF",
+      "descricao": "EM.01 - BATENTE DE MADEIRA (14CM) - PARA PORTA DE 1 FOLHA, SEM BANDEIRA",
+      "unidade": "JG",
+      "quantidade": 2.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "ESQUADRIAS",
+      "codigo": "07-02-02",
+      "fonte": "EDIF",
+      "descricao": "EM ZAMAC, GUARNIÇÕES EM AÇO, ACABAMENTO CROMADO - PARA PORTA",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "ESQUADRIAS",
+      "codigo": "07-80-50",
+      "fonte": "EDIF",
+      "descricao": "DOBRADIÇA EM AÇO LAMINADO, CROMADA - 3 1/2\"X3\"",
+      "unidade": "UN",
+      "quantidade": 12.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "ESQUADRIAS",
+      "codigo": "07-80-01",
+      "fonte": "EDIF",
+      "descricao": "GUARNIÇÃO OU MOLDURA DE MADEIRA - 4,5CM",
+      "unidade": "M",
+      "quantidade": 21.64,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "ESQUADRIAS",
+      "codigo": "08-01-10",
+      "fonte": "EDIF",
+      "descricao": "PP.01 - PORTA EM FERRO PERFILADO - INSTALAÇÃO SANITÁRIA PARA PORTADORES DE DEFICIÊNCIA - 90 X 210CM",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "ESQUADRIAS",
+      "codigo": "08-01-74",
+      "fonte": "EDIF",
+      "descricao": "EF.03 - BATENTE EM PERFIL DE CHAPA DOBRADA Nº20,1 FOLHA, SEM BANDEIRA",
+      "unidade": "JG",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "ESQUADRIAS",
+      "codigo": "08-02-05",
+      "fonte": "EDIF",
+      "descricao": "CP.05 - CAIXILHO EM FERRO PERFILADO - PIVOTANTE",
+      "unidade": "M2",
+      "quantidade": 12.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "ESQUADRIAS",
+      "codigo": "14-01-05",
+      "fonte": "EDIF",
+      "descricao": "VIDRO LISO COMUM, TRANSPARENTE INCOLOR - ESPESSURA 6MM",
+      "unidade": "M2",
+      "quantidade": 12.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "ESQUADRIAS",
+      "codigo": "08-02-75",
+      "fonte": "EDIF",
+      "descricao": "EP.07 - GRADE DE PROTEÇÃO EM FERRO CHATO",
+      "unidade": "M2",
+      "quantidade": 12.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "ELÉTRICA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "ENTRADA AÉREA DE ENERGIA E TELEFONE - 13 À 16KVA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "ELÉTRICA",
+      "codigo": "09-02-55",
+      "fonte": "EDIF",
+      "descricao": "ELETRODUTO DE PVC CORRUGADO REFORÇADO, ANTICHAMA - 25MM (3/4\")",
+      "unidade": "M",
+      "quantidade": 135.4,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "ELÉTRICA",
+      "codigo": "09-02-53",
+      "fonte": "EDIF",
+      "descricao": "ELETRODUTO DE POLIETILENO FLEXÍVEL, ALTA RESISTÊNCIA - 2\"",
+      "unidade": "M",
+      "quantidade": 20.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "ELÉTRICA",
+      "codigo": "09-03-05",
+      "fonte": "EDIF",
+      "descricao": "CABO 2,50MM2 - ISOLAMENTO PARA 0,7KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 406.2,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": "ELÉTRICA",
+      "codigo": "09-03-30",
+      "fonte": "EDIF",
+      "descricao": "CABO 4,00MM2 - ISOLAMENTO PARA 1,0KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 121.86,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": "ELÉTRICA",
+      "codigo": "09-03-33",
+      "fonte": "EDIF",
+      "descricao": "CABO 16,00MM2 - ISOLAMENTO PARA 1,0KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 50.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 29
+    },
+    {
+      "grupo": "ELÉTRICA",
+      "codigo": "09-03-35",
+      "fonte": "EDIF",
+      "descricao": "CABO 35,00MM2 - ISOLAMENTO PARA 1,0KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 50.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 30
+    },
+    {
+      "grupo": "ELÉTRICA",
+      "codigo": "09-05-06",
+      "fonte": "EDIF",
+      "descricao": "QUADRO DE DISTRIBUIÇÃO EM CHAPA METÁLICA - PARA ATÉ 16 DISJUNTORES",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 31
+    },
+    {
+      "grupo": "ELÉTRICA",
+      "codigo": "09-08-12",
+      "fonte": "EDIF",
+      "descricao": "MINI DISJUNTOR - TIPO EUROPEU (IEC) - BIPOLAR 6/25A",
+      "unidade": "UN",
+      "quantidade": 6.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 32
+    },
+    {
+      "grupo": "ELÉTRICA",
+      "codigo": "09-08-13",
+      "fonte": "EDIF",
+      "descricao": "MINI DISJUNTOR - TIPO EUROPEU (IEC) - BIPOLAR 32/50A",
+      "unidade": "UN",
+      "quantidade": 6.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 33
+    },
+    {
+      "grupo": "ELÉTRICA",
+      "codigo": "09-08-19",
+      "fonte": "EDIF",
+      "descricao": "MINI DISJUNTOR - TIPO EUROPEU (IEC) - BIPOLAR 63A",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 34
+    },
+    {
+      "grupo": "ELÉTRICA",
+      "codigo": "09-05-21",
+      "fonte": "EDIF",
+      "descricao": "CAIXA DE PASSAGEM E LIGAÇÃO EM PVC 7,5X7,5X5,0CM (3\"X3\"), INCLUSIVE ESPELHO",
+      "unidade": "UN",
+      "quantidade": 4.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 35
+    },
+    {
+      "grupo": "ELÉTRICA",
+      "codigo": "09-07-02",
+      "fonte": "EDIF",
+      "descricao": "PONTO COM INTERRUPTOR SIMPLES - 2 TECLAS, EM CAIXA 4\"X2\"",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "ELÉTRICA",
+      "codigo": "09-07-60",
+      "fonte": "EDIF",
+      "descricao": "PONTO COM TOMADA SIMPLES DE EMBUTIR - 110/220V CAIXA 4\"X2\"",
+      "unidade": "UN",
+      "quantidade": 8.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "ELÉTRICA",
+      "codigo": "09-09-51",
+      "fonte": "EDIF",
+      "descricao": "LUMINÁRIA COMERCIAL DE SOBREPOR COM DIFUSOR TRANSPARENTE OU FOSCO PARA 2 LÂMPADAS TUBULARES DE LED 18/20W - COMPLETA",
+      "unidade": "UN",
+      "quantidade": 14.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "ELÉTRICA",
+      "codigo": "09-82-81",
+      "fonte": "EDIF",
+      "descricao": "LÂMPADA DE LED TUBULAR T8 - 18/20W",
+      "unidade": "UN",
+      "quantidade": 28.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "HIDRÁULICA",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CAVALETE DE ENTRADA - 3/4\"",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "HIDRÁULICA",
+      "codigo": "10-01-19",
+      "fonte": "EDIF",
+      "descricao": "HV.09 - ABRIGO PARA CAVALETE ENTRADA, D=3/4\" OU 1\" EM ALVENARIA REVESTIDA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "HIDRÁULICA",
+      "codigo": "10-02-09",
+      "fonte": "EDIF",
+      "descricao": "RESERVATÓRIO DE FIBRA DE VIDRO - CAPACIDADE 1000L",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "HIDRÁULICA",
+      "codigo": "10-02-91",
+      "fonte": "EDIF",
+      "descricao": "TORNEIRA DE BÓIA, DE LATÃO - 3/4\"",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "HIDRÁULICA",
+      "codigo": "10-02-81",
+      "fonte": "EDIF",
+      "descricao": "REGISTRO DE GAVETA, METAL AMARELO - 3/4\"",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "HIDRÁULICA",
+      "codigo": "10-04-62",
+      "fonte": "EDIF",
+      "descricao": "TUBO DE PVC RÍGIDO, SOLDÁVEL (LINHA ÁGUA) - 25MM (3/4\")",
+      "unidade": "M",
+      "quantidade": 7.5,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "HIDRÁULICA",
+      "codigo": "10-04-65",
+      "fonte": "EDIF",
+      "descricao": "TUBO DE PVC RÍGIDO, SOLDÁVEL (LINHA ÁGUA) - 50MM (1 1/2\")",
+      "unidade": "M",
+      "quantidade": 10.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "HIDRÁULICA",
+      "codigo": "10-05-31",
+      "fonte": "EDIF",
+      "descricao": "REGISTRO DE GAVETA, METAL CROMADO - 3/4\"",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "HIDRÁULICA",
+      "codigo": "10-13-05",
+      "fonte": "EDIF",
+      "descricao": "BACIA SANITÁRIA ALTEADA PARA PORTADORES DE DEFICIÊNCIA FÍSICA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "HIDRÁULICA",
+      "codigo": "10-09-31",
+      "fonte": "EDIF",
+      "descricao": "TUBO DE PVC RÍGIDO, PONTA E BOLSA (LINHA ESGOTO) - 50MM (2\")",
+      "unidade": "M",
+      "quantidade": 10.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "HIDRÁULICA",
+      "codigo": "10-09-32",
+      "fonte": "EDIF",
+      "descricao": "TUBO DE PVC RÍGIDO, PONTA E BOLSA (LINHA ESGOTO) - 75MM (3\")",
+      "unidade": "M",
+      "quantidade": 14.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "HIDRÁULICA",
+      "codigo": "10-13-14",
+      "fonte": "EDIF",
+      "descricao": "LAVATÓRIO DE LOUÇA INDIVIDUAL PARA PORTADORES DE DEFICIÊNCIA FÍSICA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "HIDRÁULICA",
+      "codigo": "10-10-10",
+      "fonte": "EDIF",
+      "descricao": "CAIXA SIFONADA DE PVC RÍGIDO - 100X150MM",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "HIDRÁULICA",
+      "codigo": "10-10-94",
+      "fonte": "EDIF",
+      "descricao": "CAIXA DE LIGAÇÃO OU INSPEÇÃO - ESCAVAÇÃO E APILOAMENTO",
+      "unidade": "M3",
+      "quantidade": 1.54,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "HIDRÁULICA",
+      "codigo": "10-10-95",
+      "fonte": "EDIF",
+      "descricao": "CAIXA DE LIGAÇÃO OU INSPEÇÃO - LASTRO DE CONCRETO (FUNDO)",
+      "unidade": "M3",
+      "quantidade": 1.54,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "HIDRÁULICA",
+      "codigo": "10-10-97",
+      "fonte": "EDIF",
+      "descricao": "CAIXA DE LIGAÇÃO OU INSPEÇÃO - ALVENARIA DE 1 TIJOLO, REVESTIDA",
+      "unidade": "M2",
+      "quantidade": 7.68,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "HIDRÁULICA",
+      "codigo": "10-10-98",
+      "fonte": "EDIF",
+      "descricao": "CAIXA DE LIGAÇÃO OU INSPEÇÃO - TAMPA DE CONCRETO",
+      "unidade": "M2",
+      "quantidade": 1.92,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "HIDRÁULICA",
+      "codigo": "10-80-86",
+      "fonte": "EDIF",
+      "descricao": "TORNEIRA DE PRESSÃO PARA LAVATÓRIO, METAL CROMADO - 1/2\"",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "HIDRÁULICA",
+      "codigo": "10-80-70",
+      "fonte": "EDIF",
+      "descricao": "SIFÃO COM COPO, TIPO REFORÇADO, PVC RÍGIDO - 1 1/2\"X2\"",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "HIDRÁULICA",
+      "codigo": "17-05-20",
+      "fonte": "EDIF",
+      "descricao": "BARRA DE APOIO PARA DEFICIENTES L=45 CM (BARRAS COM DIÂMETRO ENTRE 3,0 E 4,5CM)",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "HIDRÁULICA",
+      "codigo": "17-05-21",
+      "fonte": "EDIF",
+      "descricao": "BARRA DE APOIO PARA DEFICIENTES L=80 CM (BARRAS COM DIAMETRO ENTRE 3,0 E 4,5CM)",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "HIDRÁULICA",
+      "codigo": "17-05-27",
+      "fonte": "EDIF",
+      "descricao": "BARRA DE APOIO PARA LAVATÓRIO EM \"L\" - PPDF",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "PISOS/REVESTIMENTOS E PINTURAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "CHAPISCO COMUM - ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 219.8,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": "PISOS/REVESTIMENTOS E PINTURAS",
+      "codigo": "11-02-10",
+      "fonte": "EDIF",
+      "descricao": "EMBOÇO INTERNO - ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 219.8,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": "PISOS/REVESTIMENTOS E PINTURAS",
+      "codigo": "11-02-13",
+      "fonte": "EDIF",
+      "descricao": "REBOCO INTERNO - ARGAMASSA PRÉ-FABRICADA",
+      "unidade": "M2",
+      "quantidade": 219.8,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 29
+    },
+    {
+      "grupo": "PISOS/REVESTIMENTOS E PINTURAS",
+      "codigo": "13-02-40",
+      "fonte": "EDIF",
+      "descricao": "PISO CERÂMICO ESMALTADO (PEI-5) - ASSENTADO COM ARGAMASSA COMUM",
+      "unidade": "M2",
+      "quantidade": 142.3,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 30
+    },
+    {
+      "grupo": "PISOS/REVESTIMENTOS E PINTURAS",
+      "codigo": "11-02-25",
+      "fonte": "EDIF",
+      "descricao": "AZULEJOS, JUNTAS AMARRAÇÃO OU A PRUMO - ASSENTES COM ARGAMASSA COMUM",
+      "unidade": "M2",
+      "quantidade": 18.2,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 31
+    },
+    {
+      "grupo": "PISOS/REVESTIMENTOS E PINTURAS",
+      "codigo": "15-01-16",
+      "fonte": "EDIF",
+      "descricao": "TINTA ACRÍLICA - REBOCO COM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 376.6,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 32
+    },
+    {
+      "grupo": "PISOS/REVESTIMENTOS E PINTURAS",
+      "codigo": "15-03-10",
+      "fonte": "EDIF",
+      "descricao": "ESMALTE SINTÉTICO - ESQUADRIAS E PEÇAS DE SERRALHERIA",
+      "unidade": "M2",
+      "quantidade": 12.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 33
+    },
+    {
+      "grupo": "SERVIÇOS TÉCNICOS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "MOBILIZAÇÃO E INSTALAÇÃO DE 1 EQUIPAMENTO PARA EXECUÇÃO DE SONDAGEM A PERCUSSÃO",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 34
+    },
+    {
+      "grupo": "SERVIÇOS TÉCNICOS",
+      "codigo": "20-01-01",
+      "fonte": "EDIF",
+      "descricao": "LEVANTAMENTO PLANIMÉTRICO DE PERÍMETRO - ATÉ 1,000M",
+      "unidade": "GL",
+      "quantidade": 1.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 35
+    },
+    {
+      "grupo": "SERVIÇOS TÉCNICOS",
+      "codigo": "20-03-08",
+      "fonte": "EDIF",
+      "descricao": "CONSULTOR",
+      "unidade": "H",
+      "quantidade": 15.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 36
+    },
+    {
+      "grupo": "SERVIÇOS TÉCNICOS",
+      "codigo": "20-03-09",
+      "fonte": "EDIF",
+      "descricao": "PROJETISTA CADISTA",
+      "unidade": "H",
+      "quantidade": 60.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 37
+    },
+    {
+      "grupo": "SERVIÇOS TÉCNICOS",
+      "codigo": "20-03-60",
+      "fonte": "EDIF",
+      "descricao": "PROJETO BÁSICO (PRANCHA A1)",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 38
+    },
+    {
+      "grupo": "SERVIÇOS TÉCNICOS",
+      "codigo": "20-03-04",
+      "fonte": "EDIF",
+      "descricao": "ENGENHEIRO/ARQUITETO PLENO",
+      "unidade": "H",
+      "quantidade": 240.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 39
+    },
+    {
+      "grupo": null,
+      "codigo": "11-08-00",
+      "fonte": "INFRA",
+      "descricao": "CARRO POPULAR 50% EM OPERAÇÃO",
+      "unidade": "H",
+      "quantidade": 240.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "12-12-00",
+      "fonte": "INFRA",
+      "descricao": "ENCARREGADO",
+      "unidade": "H",
+      "quantidade": 240.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 2
+    }
+  ],
+  "apelido": "JAÇANÃ-TREMEMBÉ - PRAÇA RUA DOS PASSÁROS"
+}

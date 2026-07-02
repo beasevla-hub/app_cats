@@ -1,0 +1,2665 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620230006421",
+    "numero_art": "28027230230637914",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SERVIÇO FUNERÁRIO DO MUNICÍPIO DE SÃO PAULO",
+    "cnpj_contratante": "47.261.292/0001-80",
+    "objeto": "Contratação de empresa de construção civil com serviço de mão de obra especializada em reforma geral e reparos no Edifício da Agência Central do Serviço Funerário do Município de São Paulo.",
+    "processo_administrativo": "6410.2021/0014852-7",
+    "contrato": "103/SFMSP/2021",
+    "endereco_obra": "VIADUTO DONA PAULINA",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2021-12-27",
+    "data_fim": "2022-03-26",
+    "area_m2": null,
+    "valor_contrato": 771928.22
+  },
+  "servicos": [
+    {
+      "grupo": "1.0 - SERVIÇOS PRELIMINARES",
+      "codigo": "01-05-40",
+      "fonte": null,
+      "descricao": "TELA PARA PROTEÇÃO DE OBRAS, MALHA 2 MM",
+      "unidade": "M2",
+      "quantidade": 33.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "1.0 - SERVIÇOS PRELIMINARES",
+      "codigo": "17-30-02",
+      "fonte": null,
+      "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "1.0 - SERVIÇOS PRELIMINARES",
+      "codigo": "17-45-01",
+      "fonte": null,
+      "descricao": "ANDAIMES METÁLICOS - FORNECIMENTO",
+      "unidade": "M3XMÊS",
+      "quantidade": 200.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "1.0 - SERVIÇOS PRELIMINARES",
+      "codigo": "17-45-02",
+      "fonte": null,
+      "descricao": "ANDAIMES METÁLICOS - MONTAGEM E DESMONTAGEM",
+      "unidade": "M3",
+      "quantidade": 200.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "2.0 - REFORMA SALAS DE ARQUIVO, FISCALIZAÇÃO E BANHEIROS - SALA DE ARQUIVO - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "01-01-07",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 13.79,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "2.0 - REFORMA SALAS DE ARQUIVO, FISCALIZAÇÃO E BANHEIROS - SALA DE ARQUIVO - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "13-50-05",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE ARGAMASSA, CERÂMICA OU SIMILAR INCLUSIVE ARGAMASSA DE REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 22.39,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "2.0 - REFORMA SALAS DE ARQUIVO, FISCALIZAÇÃO E BANHEIROS - SALA DE ARQUIVO - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "09-62-11",
+      "fonte": null,
+      "descricao": "RETIRADA DE LUMINÁRIA INTERNA PARA LÂMPADA FLUORESCENTE",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "2.0 - REFORMA SALAS DE ARQUIVO, FISCALIZAÇÃO E BANHEIROS - SALA DE ARQUIVO - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "09-60-16",
+      "fonte": null,
+      "descricao": "RETIRADA DE FIO APARENTE - ATÉ 16MM2",
+      "unidade": "M",
+      "quantidade": 30.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "2.0 - REFORMA SALAS DE ARQUIVO, FISCALIZAÇÃO E BANHEIROS - SALA DE ARQUIVO - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "12-60-01",
+      "fonte": null,
+      "descricao": "RETIRADA DE FORRO DE TÁBUAS OU CHAPAS EM GERAL - PREGADAS",
+      "unidade": "M2",
+      "quantidade": 22.39,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "2.0 - REFORMA SALAS DE ARQUIVO, FISCALIZAÇÃO E BANHEIROS - SALA DE ARQUIVO - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "12-60-20",
+      "fonte": null,
+      "descricao": "RETIRADA DE ENTARUGAMENTO DE FORRO",
+      "unidade": "M2",
+      "quantidade": 22.39,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "2.0 - REFORMA SALAS DE ARQUIVO, FISCALIZAÇÃO E BANHEIROS - SALA DE ARQUIVO - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "09-62-03",
+      "fonte": null,
+      "descricao": "RETIRADA DE LÂMPADA INCANDESCENTE OU FLUORESCENTE",
+      "unidade": "UN",
+      "quantidade": 8.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "2.0 - REFORMA SALAS DE ARQUIVO, FISCALIZAÇÃO E BANHEIROS - SALA DE ARQUIVO - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "08-60-01",
+      "fonte": null,
+      "descricao": "RETIRADA DE ESQUADRIAS METÁLICAS EM GERAL, PORTAS OU CAIXILHOS",
+      "unidade": "M2",
+      "quantidade": 1.68,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "2.0 - REFORMA SALAS DE ARQUIVO, FISCALIZAÇÃO E BANHEIROS - SALA DE ARQUIVO - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "04-60-16",
+      "fonte": null,
+      "descricao": "RETIRADA DE DIVISÓRIAS - CHAPAS OU TÁBUAS, INCLUSIVE ENTARUGAMENTO",
+      "unidade": "M2",
+      "quantidade": 54.78,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "2.0 - REFORMA SALAS DE ARQUIVO, FISCALIZAÇÃO E BANHEIROS - SALA DE ARQUIVO - VEDOS",
+      "codigo": "04-03-59",
+      "fonte": null,
+      "descricao": "VL.09 DIVISÓRIA DE ACABAMENTO LAMINADO MELAMÍNICO, MIOLO COLMÉIA - PORTA/BONECA/VIDRO",
+      "unidade": "M2",
+      "quantidade": 54.78,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "2.0 - REFORMA SALAS DE ARQUIVO, FISCALIZAÇÃO E BANHEIROS - SALA DE ARQUIVO - VEDOS",
+      "codigo": "14-01-05",
+      "fonte": null,
+      "descricao": "VIDRO LISO COMUM, TRANSPARENTE INCOLOR - ESPESSURA 6MM",
+      "unidade": "M2",
+      "quantidade": 4.1,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "2.0 - REFORMA SALAS DE ARQUIVO, FISCALIZAÇÃO E BANHEIROS - SALA DE ARQUIVO - PISOS",
+      "codigo": "13-02-88",
+      "fonte": null,
+      "descricao": "PISO VINÍLICO CROMA OU SIMILAR E=3,2 MM, EXCLUSIVE ARGAMASSA REGULARIZAÇÃO DA BASE",
+      "unidade": "M2",
+      "quantidade": 22.39,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "2.0 - REFORMA SALAS DE ARQUIVO, FISCALIZAÇÃO E BANHEIROS - SALA DE ARQUIVO - PISOS",
+      "codigo": "05-01-40",
+      "fonte": null,
+      "descricao": "REGULARIZAÇÃO COM ARGAMASSA DE CIMENTO E AREIA - TRAÇO 1:3, ESPESSURA MÉDIA 30мм",
+      "unidade": "M2",
+      "quantidade": 6.46,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "2.0 - REFORMA SALAS DE ARQUIVO, FISCALIZAÇÃO E BANHEIROS - SALA DE ARQUIVO - ESQUADRIAS",
+      "codigo": "07-01-17",
+      "fonte": null,
+      "descricao": "PM.17 PORTA LISA COMUM/ ENCABEÇADA REVESTIDA COM LAMINADO MELAMÍNICO - 82X210CM",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "2.0 - REFORMA SALAS DE ARQUIVO, FISCALIZAÇÃO E BANHEIROS - SALA DE ARQUIVO - ESQUADRIAS",
+      "codigo": "07-02-16",
+      "fonte": null,
+      "descricao": "FECHADURA TIPO GORGE (55MM) - TRÁFEGO INTENSO, MAÇANETA EM ZEMAC, GUARNIÇÕES EM AÇO, ACABAMENTO CROMADO BRILHANTE",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "2.0 - REFORMA SALAS DE ARQUIVO, FISCALIZAÇÃO E BANHEIROS - SALA DE ARQUIVO - ESQUADRIAS",
+      "codigo": "07-01-57",
+      "fonte": null,
+      "descricao": "EM.03 - BATENTE DE MADEIRA (9,5CM) - PARA PORTA EM DIVISÓRIA DV.01",
+      "unidade": "M",
+      "quantidade": 5.02,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "2.0 - REFORMA SALAS DE ARQUIVO, FISCALIZAÇÃO E BANHEIROS - SALA DE ARQUIVO - ESQUADRIAS",
+      "codigo": "07-80-50",
+      "fonte": null,
+      "descricao": "DOBRADIÇA EM AÇO LAMINADO, CROMADA - 3 1/2\"X3\"",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "2.0 - REFORMA SALAS DE ARQUIVO, FISCALIZAÇÃO E BANHEIROS - SALA DE ARQUIVO - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-02-12",
+      "fonte": null,
+      "descricao": "ELETRODUTO DE AÇO GALVANIZADO ELETROLÍTICO, TIPO LEVE I - 1\"",
+      "unidade": "M",
+      "quantidade": 20.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "2.0 - REFORMA SALAS DE ARQUIVO, FISCALIZAÇÃO E BANHEIROS - SALA DE ARQUIVO - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-03-29",
+      "fonte": null,
+      "descricao": "CABO 2,50MM2 - ISOLAMENTO PARA 1,0KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 45.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "2.0 - REFORMA SALAS DE ARQUIVO, FISCALIZAÇÃO E BANHEIROS - SALA DE ARQUIVO - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-03-31",
+      "fonte": null,
+      "descricao": "CABO 6,00MM2 - ISOLAMENTO PARA 1,0KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 80.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "2.0 - REFORMA SALAS DE ARQUIVO, FISCALIZAÇÃO E BANHEIROS - SALA DE ARQUIVO - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-05-06",
+      "fonte": null,
+      "descricao": "QUADRO DE DISTRIBUIÇÃO EM CHAPA METÁLICA - PARA ATÉ 16 DISJUNTORES",
+      "unidade": "UN",
+      "quantidade": 0.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "2.0 - REFORMA SALAS DE ARQUIVO, FISCALIZAÇÃO E BANHEIROS - SALA DE ARQUIVO - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-08-11",
+      "fonte": null,
+      "descricao": "MINI DISJUNTOR - TIPO EUROPEU (IEC) - UNIPOLAR 32/50A",
+      "unidade": "UN",
+      "quantidade": 0.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "2.0 - REFORMA SALAS DE ARQUIVO, FISCALIZAÇÃO E BANHEIROS - SALA DE ARQUIVO - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-04-70",
+      "fonte": null,
+      "descricao": "INTERRUPTOR DIFERENCIAL RESIDUAL BIPOLAR 63A, SENSIBILIDADE 30MA-220V",
+      "unidade": "UN",
+      "quantidade": 0.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "2.0 - REFORMA SALAS DE ARQUIVO, FISCALIZAÇÃO E BANHEIROS - SALA DE ARQUIVO - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-07-01",
+      "fonte": null,
+      "descricao": "PONTO COM INTERRUPTOR SIMPLES - 1 TECLA, EM CAIXA 4\"X2\"",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "2.0 - REFORMA SALAS DE ARQUIVO, FISCALIZAÇÃO E BANHEIROS - SALA DE ARQUIVO - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-09-53",
+      "fonte": null,
+      "descricao": "LUMINÁRIA COMERCIAL DE EMBUTIR COM DIFUSOR TRANSPARENTE OU FOSCO PARA 2 LÂMPADAS TUBULARES DE LED 18/20W - COMPLETA",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "2.0 - REFORMA SALAS DE ARQUIVO, FISCALIZAÇÃO E BANHEIROS - SALA DE ARQUIVO - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-82-81",
+      "fonte": null,
+      "descricao": "LÂMPADA DE LED TUBULAR T8 - 18/20W",
+      "unidade": "UN",
+      "quantidade": 4.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "2.0 - REFORMA SALAS DE ARQUIVO, FISCALIZAÇÃO E BANHEIROS - SALA DE ARQUIVO - FORRO",
+      "codigo": "12-01-43",
+      "fonte": null,
+      "descricao": "FORRO DE GESSO ACARTONADO TIPO FGE (FORNECIMENTO E INSTALAÇÃO)",
+      "unidade": "M2",
+      "quantidade": 22.39,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "3.0 - SALA DE ARQUIVO 1/ CIRCULAÇÃO / HALL - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "01-01-07",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 5.12,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "3.0 - SALA DE ARQUIVO 1/ CIRCULAÇÃO / HALL - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "13-50-05",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE ARGAMASSA, CERÂMICA OU SIMILAR INCLUSIVE ARGAMASSA DE REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 185.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "3.0 - SALA DE ARQUIVO 1/ CIRCULAÇÃO / HALL - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "09-62-11",
+      "fonte": null,
+      "descricao": "RETIRADA DE LUMINÁRIA INTERNA PARA LÂMPADA FLUORESCENTE",
+      "unidade": "UN",
+      "quantidade": 32.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "3.0 - SALA DE ARQUIVO 1/ CIRCULAÇÃO / HALL - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "09-60-16",
+      "fonte": null,
+      "descricao": "RETIRADA DE FIO APARENTE - ATÉ 16MM2",
+      "unidade": "M",
+      "quantidade": 300.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "3.0 - SALA DE ARQUIVO 1/ CIRCULAÇÃO / HALL - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "12-60-01",
+      "fonte": null,
+      "descricao": "RETIRADA DE FORRO DE TÁBUAS OU CHAPAS EM GERAL - PREGADAS",
+      "unidade": "M2",
+      "quantidade": 185.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "3.0 - SALA DE ARQUIVO 1/ CIRCULAÇÃO / HALL - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "12-60-20",
+      "fonte": null,
+      "descricao": "RETIRADA DE ENTARUGAMENTO DE FORRO",
+      "unidade": "M2",
+      "quantidade": 185.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "3.0 - SALA DE ARQUIVO 1/ CIRCULAÇÃO / HALL - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "09-62-03",
+      "fonte": null,
+      "descricao": "RETIRADA DE LÂMPADA INCANDESCENTE OU FLUORESCENTE",
+      "unidade": "UN",
+      "quantidade": 128.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "3.0 - SALA DE ARQUIVO 1/ CIRCULAÇÃO / HALL - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "08-60-01",
+      "fonte": null,
+      "descricao": "RETIRADA DE ESQUADRIAS METÁLICAS EM GERAL, PORTAS OU CAIXILHOS",
+      "unidade": "M2",
+      "quantidade": 16.41,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "3.0 - SALA DE ARQUIVO 1/ CIRCULAÇÃO / HALL - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "04-60-16",
+      "fonte": null,
+      "descricao": "RETIRADA DE DIVISÓRIAS - CHAPAS OU TÁBUAS, INCLUSIVE ENTARUGAMENTO",
+      "unidade": "M2",
+      "quantidade": 39.38,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "3.0 - SALA DE ARQUIVO 1/ CIRCULAÇÃO / HALL - PISOS",
+      "codigo": "13-02-88",
+      "fonte": null,
+      "descricao": "PISO VINÍLICO CROMA OU SIMILAR E=3,2 MM, EXCLUSIVE ARGAMASSA REGULARIZAÇÃO DA BASE",
+      "unidade": "M2",
+      "quantidade": 225.03,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "3.0 - SALA DE ARQUIVO 1/ CIRCULAÇÃO / HALL - PISOS",
+      "codigo": "05-01-40",
+      "fonte": null,
+      "descricao": "REGULARIZAÇÃO COM ARGAMASSA DE CIMENTO E AREIA - TRAÇO 1:3, ESPESSURA MÉDIA 30MM",
+      "unidade": "M2",
+      "quantidade": 64.94,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": "3.0 - SALA DE ARQUIVO 1/ CIRCULAÇÃO / HALL - VEDOS",
+      "codigo": "04-03-59",
+      "fonte": null,
+      "descricao": "VL.09 - DIVISÓRIA DE ACABAMENTO LAMINADO MELAMÍNICO, MIOLO COLMÉIA - PORTA/BONECA/VIDRO",
+      "unidade": "M2",
+      "quantidade": 42.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": "3.0 - SALA DE ARQUIVO 1/ CIRCULAÇÃO / HALL - VEDOS",
+      "codigo": "14-01-05",
+      "fonte": null,
+      "descricao": "VIDRO LISO COMUM, TRANSPARENTE INCOLOR - ESPESSURA 6MM",
+      "unidade": "M2",
+      "quantidade": 3.15,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 29
+    },
+    {
+      "grupo": "3.0 - SALA DE ARQUIVO 1/ CIRCULAÇÃO / HALL - ESQUADRIAS",
+      "codigo": "07-01-17",
+      "fonte": null,
+      "descricao": "PM.17 PORTA LISA COMUM/ ENCABEÇADA REVESTIDA COM LAMINADO MELAMÍNICO - 82X210CM",
+      "unidade": "UN",
+      "quantidade": 5.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "3.0 - SALA DE ARQUIVO 1/ CIRCULAÇÃO / HALL - ESQUADRIAS",
+      "codigo": "07-02-16",
+      "fonte": null,
+      "descricao": "FECHADURA TIPO GORGE (55MM) - TRÁFEGO INTENSO, MAÇANETA EM ZEMAC, GUARNIÇÕES EM AÇO, ACABAMENTO CROMADO BRILHANTE",
+      "unidade": "UN",
+      "quantidade": 5.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "3.0 - SALA DE ARQUIVO 1/ CIRCULAÇÃO / HALL - ESQUADRIAS",
+      "codigo": "07-01-57",
+      "fonte": null,
+      "descricao": "EM.03 - BATENTE DE MADEIRA (9,5CM) - PARA PORTA EM DIVISÓRIA DV.01",
+      "unidade": "M",
+      "quantidade": 25.1,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "3.0 - SALA DE ARQUIVO 1/ CIRCULAÇÃO / HALL - ESQUADRIAS",
+      "codigo": "07-80-50",
+      "fonte": null,
+      "descricao": "DOBRADIÇA EM AÇO LAMINADO, CROMADA - 3 1/2\"X3\"",
+      "unidade": "UN",
+      "quantidade": 15.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "3.0 - SALA DE ARQUIVO 1/ CIRCULAÇÃO / HALL - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-02-12",
+      "fonte": null,
+      "descricao": "ELETRODUTO DE AÇO GALVANIZADO ELETROLÍTICO, TIPO LEVE I - 1\"",
+      "unidade": "M",
+      "quantidade": 100.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "3.0 - SALA DE ARQUIVO 1/ CIRCULAÇÃO / HALL - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-03-29",
+      "fonte": null,
+      "descricao": "CABO 2,50MM2 - ISOLAMENTO PARA 1,0KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 600.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "3.0 - SALA DE ARQUIVO 1/ CIRCULAÇÃO / HALL - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-03-31",
+      "fonte": null,
+      "descricao": "CABO 6,00MM2 - ISOLAMENTO PARA 1,0KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 450.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "3.0 - SALA DE ARQUIVO 1/ CIRCULAÇÃO / HALL - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-05-06",
+      "fonte": null,
+      "descricao": "QUADRO DE DISTRIBUIÇÃO EM CHAPA METÁLICA - PARA ATÉ 16 DISJUNTORES",
+      "unidade": "UN",
+      "quantidade": 0.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "3.0 - SALA DE ARQUIVO 1/ CIRCULAÇÃO / HALL - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-08-11",
+      "fonte": null,
+      "descricao": "MINI DISJUNTOR - TIPO EUROPEU (IEC) - UNIPOLAR 32/50A",
+      "unidade": "UN",
+      "quantidade": 0.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "3.0 - SALA DE ARQUIVO 1/ CIRCULAÇÃO / HALL - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-07-01",
+      "fonte": null,
+      "descricao": "PONTO COM INTERRUPTOR SIMPLES - 1 TECLA, EM CAIXA 4\"X2\"",
+      "unidade": "UN",
+      "quantidade": 6.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "3.0 - SALA DE ARQUIVO 1/ CIRCULAÇÃO / HALL - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-07-02",
+      "fonte": null,
+      "descricao": "PONTO COM INTERRUPTOR SIMPLES - 2 TECLAS, EM CAIXA 4\"X2\"",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "3.0 - SALA DE ARQUIVO 1/ CIRCULAÇÃO / HALL - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-04-70",
+      "fonte": null,
+      "descricao": "INTERRUPTOR DIFERENCIAL RESIDUAL BIPOLAR 63A, SENSIBILIDADE 30MA-220V",
+      "unidade": "UN",
+      "quantidade": 0.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "3.0 - SALA DE ARQUIVO 1/ CIRCULAÇÃO / HALL - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-09-53",
+      "fonte": null,
+      "descricao": "LUMINÁRIA COMERCIAL DE EMBUTIR COM DIFUSOR TRANSPARENTE OU FOSCO PARA 2 LÂMPADAS TUBULARES DE LED 18/20W - COMPLETA",
+      "unidade": "UN",
+      "quantidade": 32.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "3.0 - SALA DE ARQUIVO 1/ CIRCULAÇÃO / HALL - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-82-81",
+      "fonte": null,
+      "descricao": "LÂMPADA DE LED TUBULAR T8 - 18/20W",
+      "unidade": "UN",
+      "quantidade": 64.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "3.0 - SALA DE ARQUIVO 1/ CIRCULAÇÃO / HALL - PINTURA",
+      "codigo": "15-01-16",
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA - REBOCO COM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 972.68,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "3.0 - SALA DE ARQUIVO 1/ CIRCULAÇÃO / HALL - FORRO",
+      "codigo": "12-01-43",
+      "fonte": null,
+      "descricao": "FORRO DE GESSO ACARTONADO TIPO FGE (FORNECIMENTO E INSTALAÇÃO)",
+      "unidade": "M2",
+      "quantidade": 185.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "4.0 - SALA DE ARQUIVO 2 - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "01-01-07",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 6.55,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "4.0 - SALA DE ARQUIVO 2 - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "13-50-05",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE ARGAMASSA, CERÂMICA OU SIMILAR INCLUSIVE ARGAMASSA DE REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 13.93,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "4.0 - SALA DE ARQUIVO 2 - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "09-62-11",
+      "fonte": null,
+      "descricao": "RETIRADA DE LUMINÁRIA INTERNA PARA LÂMPADA FLUORESCENTE",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "4.0 - SALA DE ARQUIVO 2 - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "09-60-16",
+      "fonte": null,
+      "descricao": "RETIRADA DE FIO APARENTE - ATÉ 16MM2",
+      "unidade": "M",
+      "quantidade": 30.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "4.0 - SALA DE ARQUIVO 2 - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "12-60-01",
+      "fonte": null,
+      "descricao": "RETIRADA DE FORRO DE TÁBUAS OU CHAPAS EM GERAL - PREGADAS",
+      "unidade": "M2",
+      "quantidade": 13.93,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "4.0 - SALA DE ARQUIVO 2 - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "12-60-20",
+      "fonte": null,
+      "descricao": "RETIRADA DE ENTARUGAMENTO DE FORRO",
+      "unidade": "M2",
+      "quantidade": 13.93,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "4.0 - SALA DE ARQUIVO 2 - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "09-62-03",
+      "fonte": null,
+      "descricao": "RETIRADA DE LÂMPADA INCANDESCENTE OU FLUORESCENTE",
+      "unidade": "UN",
+      "quantidade": 8.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "4.0 - SALA DE ARQUIVO 2 - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "08-60-01",
+      "fonte": null,
+      "descricao": "RETIRADA DE ESQUADRIAS METÁLICAS EM GERAL, PORTAS OU CAIXILHOS",
+      "unidade": "M2",
+      "quantidade": 3.69,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "4.0 - SALA DE ARQUIVO 2 - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "04-60-16",
+      "fonte": null,
+      "descricao": "RETIRADA DE DIVISÓRIAS - CHAPAS OU TÁBUAS, INCLUSIVE ENTARUGAMENTO",
+      "unidade": "M2",
+      "quantidade": 50.35,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "4.0 - SALA DE ARQUIVO 2 - PISOS",
+      "codigo": "13-02-88",
+      "fonte": null,
+      "descricao": "PISO VINÍLICO CROMA OU SIMILAR E=3,2 MM, EXCLUSIVE ARGAMASSA REGULARIZAÇÃO DA BASE",
+      "unidade": "M2",
+      "quantidade": 14.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "4.0 - SALA DE ARQUIVO 2 - PISOS",
+      "codigo": "05-01-40",
+      "fonte": null,
+      "descricao": "REGULARIZAÇÃO COM ARGAMASSA DE CIMENTO E AREIA - TRAÇO 1:3, ESPESSURA MÉDIA 30MM",
+      "unidade": "M2",
+      "quantidade": 4.04,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": "4.0 - SALA DE ARQUIVO 2 - VEDOS",
+      "codigo": "04-03-59",
+      "fonte": null,
+      "descricao": "VL.09 DIVISÓRIA DE ACABAMENTO LAMINADO MELAMÍNICO, MIOLO COLMÉIA - PORTA/BONECA/VIDRO",
+      "unidade": "M2",
+      "quantidade": 49.43,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": "4.0 - SALA DE ARQUIVO 2 - VEDOS",
+      "codigo": "14-01-05",
+      "fonte": null,
+      "descricao": "VIDRO LISO COMUM, TRANSPARENTE INCOLOR - ESPESSURA 6MM",
+      "unidade": "M2",
+      "quantidade": 3.7,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 29
+    },
+    {
+      "grupo": "4.0 - SALA DE ARQUIVO 2 - ESQUADRIAS",
+      "codigo": "07-01-17",
+      "fonte": null,
+      "descricao": "PM.17 PORTA LISA COMUM/ ENCABEÇADA REVESTIDA COM LAMINADO MELAMÍNICO - 82X210CM",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "4.0 - SALA DE ARQUIVO 2 - ESQUADRIAS",
+      "codigo": "07-02-16",
+      "fonte": null,
+      "descricao": "FECHADURA TIPO GORGE (55MM) - TRÁFEGO INTENSO, MAÇANETA EM ZEMAC, GUARNIÇÕES EM AÇO, ACABAMENTO CROMADO BRILHANTE",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "4.0 - SALA DE ARQUIVO 2 - ESQUADRIAS",
+      "codigo": "07-01-57",
+      "fonte": null,
+      "descricao": "EM.03 - BATENTE DE MADEIRA (9,5CM) - PARA PORTA EM DIVISÓRIA DV.01",
+      "unidade": "M",
+      "quantidade": 5.02,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "4.0 - SALA DE ARQUIVO 2 - ESQUADRIAS",
+      "codigo": "07-80-50",
+      "fonte": null,
+      "descricao": "DOBRADIÇA EM AÇO LAMINADO, CROMADA - 3 1/2\"X3\"",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "4.0 - SALA DE ARQUIVO 2 - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-02-12",
+      "fonte": null,
+      "descricao": "ELETRODUTO DE AÇO GALVANIZADO ELETROLÍTICO, TIPO LEVE I - 1\"",
+      "unidade": "M",
+      "quantidade": 15.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "4.0 - SALA DE ARQUIVO 2 - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-03-29",
+      "fonte": null,
+      "descricao": "CABO 2,50MM2 - ISOLAMENTO PARA 1,0KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 45.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "4.0 - SALA DE ARQUIVO 2 - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-03-31",
+      "fonte": null,
+      "descricao": "CABO 6,00MM2 - ISOLAMENTO PARA 1,0KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 60.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "4.0 - SALA DE ARQUIVO 2 - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-05-06",
+      "fonte": null,
+      "descricao": "QUADRO DE DISTRIBUIÇÃO EM CHAPA METÁLICA - PARA ATÉ 16 DISJUNTORES",
+      "unidade": "UN",
+      "quantidade": 0.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "4.0 - SALA DE ARQUIVO 2 - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-08-11",
+      "fonte": null,
+      "descricao": "MINI DISJUNTOR - TIPO EUROPEU (IEC) - UNIPOLAR 32/50A",
+      "unidade": "UN",
+      "quantidade": 0.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "4.0 - SALA DE ARQUIVO 2 - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-07-01",
+      "fonte": null,
+      "descricao": "PONTO COM INTERRUPTOR SIMPLES - 1 TECLA, EM CAIXA 4\"X2\"",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "4.0 - SALA DE ARQUIVO 2 - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-04-70",
+      "fonte": null,
+      "descricao": "INTERRUPTOR DIFERENCIAL RESIDUAL BIPOLAR 63A, SENSIBILIDADE 30MA-220V",
+      "unidade": "UN",
+      "quantidade": 0.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "4.0 - SALA DE ARQUIVO 2 - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-09-53",
+      "fonte": null,
+      "descricao": "LUMINÁRIA COMERCIAL DE EMBUTIR COM DIFUSOR TRANSPARENTE OU FOSCO PARA 2 LÂMPADAS TUBULARES DE LED 18/20W - COMPLETA",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "4.0 - SALA DE ARQUIVO 2 - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-82-81",
+      "fonte": null,
+      "descricao": "LÂMPADA DE LED TUBULAR T8 - 18/20W",
+      "unidade": "UN",
+      "quantidade": 4.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "4.0 - SALA DE ARQUIVO 2 - FORRO",
+      "codigo": "12-01-43",
+      "fonte": null,
+      "descricao": "FORRO DE GESSO ACARTONADO TIPO FGE (FORNECIMENTO E INSTALAÇÃO)",
+      "unidade": "M2",
+      "quantidade": 13.93,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "5.0 - SALA DE ARQUIVO 3/ SETOR 21 - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "01-01-07",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 57.98,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "5.0 - SALA DE ARQUIVO 3/ SETOR 21 - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "13-50-05",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE ARGAMASSA, CERÂMICA OU SIMILAR INCLUSIVE ARGAMASSA DE REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 373.56,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "5.0 - SALA DE ARQUIVO 3/ SETOR 21 - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "09-62-11",
+      "fonte": null,
+      "descricao": "RETIRADA DE LUMINÁRIA INTERNA PARA LÂMPADA FLUORESCENTE",
+      "unidade": "UN",
+      "quantidade": 25.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "5.0 - SALA DE ARQUIVO 3/ SETOR 21 - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "09-60-16",
+      "fonte": null,
+      "descricao": "RETIRADA DE FIO APARENTE - ATÉ 16MM2",
+      "unidade": "M",
+      "quantidade": 30.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "5.0 - SALA DE ARQUIVO 3/ SETOR 21 - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "12-60-01",
+      "fonte": null,
+      "descricao": "RETIRADA DE FORRO DE TÁBUAS OU CHAPAS EM GERAL - PREGADAS",
+      "unidade": "M2",
+      "quantidade": 362.16,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "5.0 - SALA DE ARQUIVO 3/ SETOR 21 - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "12-60-20",
+      "fonte": null,
+      "descricao": "RETIRADA DE ENTARUGAMENTO DE FORRO",
+      "unidade": "M2",
+      "quantidade": 362.16,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "5.0 - SALA DE ARQUIVO 3/ SETOR 21 - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "09-62-03",
+      "fonte": null,
+      "descricao": "RETIRADA DE LÂMPADA INCANDESCENTE OU FLUORESCENTE",
+      "unidade": "UN",
+      "quantidade": 100.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "5.0 - SALA DE ARQUIVO 3/ SETOR 21 - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "08-60-01",
+      "fonte": null,
+      "descricao": "RETIRADA DE ESQUADRIAS METÁLICAS EM GERAL, PORTAS OU CAIXILHOS",
+      "unidade": "M2",
+      "quantidade": 13.26,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "5.0 - SALA DE ARQUIVO 3/ SETOR 21 - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "04-60-16",
+      "fonte": null,
+      "descricao": "RETIRADA DE DIVISÓRIAS - CHAPAS OU TÁBUAS, INCLUSIVE ENTARUGAMENTO",
+      "unidade": "M2",
+      "quantidade": 256.42,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "5.0 - SALA DE ARQUIVO 3/ SETOR 21 - PISOS",
+      "codigo": "13-02-88",
+      "fonte": null,
+      "descricao": "PISO VINÍLICO CROMA OU SIMILAR E=3,2 MM, EXCLUSIVE ARGAMASSA REGULARIZAÇÃO DA BASE",
+      "unidade": "M2",
+      "quantidade": 373.56,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "5.0 - SALA DE ARQUIVO 3/ SETOR 21 - PISOS",
+      "codigo": "05-01-40",
+      "fonte": null,
+      "descricao": "REGULARIZAÇÃO COM ARGAMASSA DE CIMENTO E AREIA - TRAÇO 1:3, ESPESSURA MÉDIA 30мм",
+      "unidade": "M2",
+      "quantidade": 107.81,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "5.0 - SALA DE ARQUIVO 3/ SETOR 21 - VEDOS",
+      "codigo": "04-03-59",
+      "fonte": null,
+      "descricao": "VL.09 - DIVISÓRIA DE ACABAMENTO LAMINADO MELAMÍNICO, MIOLO COLMÉIA - PORTA/BONECA/VIDRO",
+      "unidade": "M2",
+      "quantidade": 232.33,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "5.0 - SALA DE ARQUIVO 3/ SETOR 21 - VEDOS",
+      "codigo": "14-01-05",
+      "fonte": null,
+      "descricao": "VIDRO LISO COMUM, TRANSPARENTE INCOLOR - ESPESSURA 6MM",
+      "unidade": "M2",
+      "quantidade": 21.02,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": "5.0 - SALA DE ARQUIVO 3/ SETOR 21 - ESQUADRIAS",
+      "codigo": "07-01-17",
+      "fonte": null,
+      "descricao": "PM.17 PORTA LISA COMUM/ ENCABEÇADA REVESTIDA COM LAMINADO MELAMÍNICO - 82X210CM",
+      "unidade": "UN",
+      "quantidade": 5.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": "5.0 - SALA DE ARQUIVO 3/ SETOR 21 - ESQUADRIAS",
+      "codigo": "07-02-16",
+      "fonte": null,
+      "descricao": "FECHADURA TIPO GORGE (55MM) - TRÁFEGO INTENSO, MAÇANETA EM ZEMAC, GUARNIÇÕES EM AÇO, ACABAMENTO CROMADO BRILHANTE",
+      "unidade": "UN",
+      "quantidade": 5.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "5.0 - SALA DE ARQUIVO 3/ SETOR 21 - ESQUADRIAS",
+      "codigo": "07-01-57",
+      "fonte": null,
+      "descricao": "EM.03 - BATENTE DE MADEIRA (9,5CM) - PARA PORTA EM DIVISÓRIA DV.01",
+      "unidade": "M",
+      "quantidade": 25.1,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "5.0 - SALA DE ARQUIVO 3/ SETOR 21 - ESQUADRIAS",
+      "codigo": "07-80-50",
+      "fonte": null,
+      "descricao": "DOBRADIÇA EM AÇO LAMINADO, CROMADA - 3 1/2\"X3\"",
+      "unidade": "UN",
+      "quantidade": 15.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "5.0 - SALA DE ARQUIVO 3/ SETOR 21 - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-02-12",
+      "fonte": null,
+      "descricao": "ELETRODUTO DE AÇO GALVANIZADO ELETROLÍTICO, TIPO LEVE I - 1\"",
+      "unidade": "M",
+      "quantidade": 80.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "5.0 - SALA DE ARQUIVO 3/ SETOR 21 - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-03-29",
+      "fonte": null,
+      "descricao": "CABO 2,50MM2 - ISOLAMENTO PARA 1,0KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 370.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "5.0 - SALA DE ARQUIVO 3/ SETOR 21 - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-03-31",
+      "fonte": null,
+      "descricao": "CABO 6,00MM2 - ISOLAMENTO PARA 1,0KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 60.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "5.0 - SALA DE ARQUIVO 3/ SETOR 21 - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-05-06",
+      "fonte": null,
+      "descricao": "QUADRO DE DISTRIBUIÇÃO EM CHAPA METÁLICA - PARA ATÉ 16 DISJUNTORES",
+      "unidade": "UN",
+      "quantidade": 0.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "5.0 - SALA DE ARQUIVO 3/ SETOR 21 - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-08-11",
+      "fonte": null,
+      "descricao": "MINI DISJUNTOR - TIPO EUROPEU (IEC) - UNIPOLAR 32/50A",
+      "unidade": "UN",
+      "quantidade": 0.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "5.0 - SALA DE ARQUIVO 3/ SETOR 21 - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-07-01",
+      "fonte": null,
+      "descricao": "PONTO COM INTERRUPTOR SIMPLES - 1 TECLA, EM CAIXA 4\"X2\"",
+      "unidade": "UN",
+      "quantidade": 10.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "5.0 - SALA DE ARQUIVO 3/ SETOR 21 - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-04-70",
+      "fonte": null,
+      "descricao": "INTERRUPTOR DIFERENCIAL RESIDUAL BIPOLAR 63A, SENSIBILIDADE 30MA-220V",
+      "unidade": "UN",
+      "quantidade": 0.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "5.0 - SALA DE ARQUIVO 3/ SETOR 21 - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-09-53",
+      "fonte": null,
+      "descricao": "LUMINÁRIA COMERCIAL DE EMBUTIR COM DIFUSOR TRANSPARENTE OU FOSCO PARA 2 LÂMPADAS TUBULARES DE LED 18/20W - COMPLETA",
+      "unidade": "UN",
+      "quantidade": 25.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "5.0 - SALA DE ARQUIVO 3/ SETOR 21 - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-82-81",
+      "fonte": null,
+      "descricao": "LÂMPADA DE LED TUBULAR T8 - 18/20W",
+      "unidade": "UN",
+      "quantidade": 50.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "5.0 - SALA DE ARQUIVO 3/ SETOR 21 - FORRO",
+      "codigo": "12-01-43",
+      "fonte": null,
+      "descricao": "FORRO DE GESSO ACARTONADO TIPO FGE (FORNECIMENTO E INSTALAÇÃO)",
+      "unidade": "M2",
+      "quantidade": 353.55,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "6.0 - SERVIDOR - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "01-01-07",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 5.75,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "6.0 - SERVIDOR - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "13-50-05",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE ARGAMASSA, CERÂMICA OU SIMILAR INCLUSIVE ARGAMASSA DE REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 17.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "6.0 - SERVIDOR - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "09-62-11",
+      "fonte": null,
+      "descricao": "RETIRADA DE LUMINÁRIA INTERNA PARA LÂMPADA FLUORESCENTE",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "6.0 - SERVIDOR - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "09-60-16",
+      "fonte": null,
+      "descricao": "RETIRADA DE FIO APARENTE - ATÉ 16MM2",
+      "unidade": "M",
+      "quantidade": 30.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "6.0 - SERVIDOR - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "12-60-01",
+      "fonte": null,
+      "descricao": "RETIRADA DE FORRO DE TÁBUAS OU CHAPAS EM GERAL - PREGADAS",
+      "unidade": "M2",
+      "quantidade": 17.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "6.0 - SERVIDOR - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "12-60-20",
+      "fonte": null,
+      "descricao": "RETIRADA DE ENTARUGAMENTO DE FORRO",
+      "unidade": "M2",
+      "quantidade": 17.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "6.0 - SERVIDOR - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "09-62-03",
+      "fonte": null,
+      "descricao": "RETIRADA DE LÂMPADA INCANDESCENTE OU FLUORESCENTE",
+      "unidade": "UN",
+      "quantidade": 12.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "6.0 - SERVIDOR - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "08-60-01",
+      "fonte": null,
+      "descricao": "RETIRADA DE ESQUADRIAS METÁLICAS EM GERAL, PORTAS OU CAIXILHOS",
+      "unidade": "M2",
+      "quantidade": 1.65,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "6.0 - SERVIDOR - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "04-60-16",
+      "fonte": null,
+      "descricao": "RETIRADA DE DIVISÓRIAS - CHAPAS OU TÁBUAS, INCLUSIVE ENTARUGAMENTO",
+      "unidade": "M2",
+      "quantidade": 5.75,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "6.0 - SERVIDOR - PISOS",
+      "codigo": "13-02-88",
+      "fonte": null,
+      "descricao": "PISO VINÍLICO CROMA OU SIMILAR E=3,2 MM, EXCLUSIVE ARGAMASSA REGULARIZAÇÃO DA BASE",
+      "unidade": "M2",
+      "quantidade": 17.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "6.0 - SERVIDOR - PISOS",
+      "codigo": "05-01-40",
+      "fonte": null,
+      "descricao": "REGULARIZAÇÃO COM ARGAMASSA DE CIMENTO E AREIA - TRAÇO 1:3, ESPESSURA MÉDIA 30MM",
+      "unidade": "M2",
+      "quantidade": 4.91,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "6.0 - SERVIDOR - VEDOS",
+      "codigo": "04-03-59",
+      "fonte": null,
+      "descricao": "VL.09 DIVISÓRIA DE ACABAMENTO LAMINADO MELAMÍNICO, MIOLO COLMÉIA - PORTA/BONECA/VIDRO",
+      "unidade": "M2",
+      "quantidade": 21.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "6.0 - SERVIDOR - VEDOS",
+      "codigo": "14-01-05",
+      "fonte": null,
+      "descricao": "VIDRO LISO COMUM, TRANSPARENTE INCOLOR - ESPESSURA 6MM",
+      "unidade": "M2",
+      "quantidade": 0.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "6.0 - SERVIDOR - ESQUADRIAS",
+      "codigo": "07-01-17",
+      "fonte": null,
+      "descricao": "PM.17 PORTA LISA COMUM/ ENCABEÇADA REVESTIDA COM LAMINADO MELAMÍNICO - 82X210CM",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": "6.0 - SERVIDOR - ESQUADRIAS",
+      "codigo": "07-02-16",
+      "fonte": null,
+      "descricao": "FECHADURA TIPO GORGE (55MM) - TRÁFEGO INTENSO, MAÇANETA EM ZEMAC, GUARNIÇÕES EM AÇO, ACABAMENTO CROMADO BRILHANTE",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": "6.0 - SERVIDOR - ESQUADRIAS",
+      "codigo": "07-01-57",
+      "fonte": null,
+      "descricao": "EM.03 - BATENTE DE MADEIRA (9,5CM) - PARA PORTA EM DIVISÓRIA DV.01",
+      "unidade": "M",
+      "quantidade": 5.02,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "6.0 - SERVIDOR - ESQUADRIAS",
+      "codigo": "07-80-50",
+      "fonte": null,
+      "descricao": "DOBRADIÇA EM AÇO LAMINADO, CROMADA - 3 1/2\"X3\"",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "6.0 - SERVIDOR - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-02-12",
+      "fonte": null,
+      "descricao": "ELETRODUTO DE AÇO GALVANIZADO ELETROLÍTICO, TIPO LEVE I - 1\"",
+      "unidade": "M",
+      "quantidade": 10.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "6.0 - SERVIDOR - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-03-29",
+      "fonte": null,
+      "descricao": "CABO 2,50MM2 - ISOLAMENTO PARA 1,0KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 100.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "6.0 - SERVIDOR - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-03-31",
+      "fonte": null,
+      "descricao": "CABO 6,00MM2 - ISOLAMENTO PARA 1,0KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 50.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "6.0 - SERVIDOR - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-05-06",
+      "fonte": null,
+      "descricao": "QUADRO DE DISTRIBUIÇÃO EM CHAPA METÁLICA - PARA ATÉ 16 DISJUNTORES",
+      "unidade": "UN",
+      "quantidade": 0.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "6.0 - SERVIDOR - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-08-11",
+      "fonte": null,
+      "descricao": "MINI DISJUNTOR - TIPO EUROPEU (IEC) - UNIPOLAR 32/50A",
+      "unidade": "UN",
+      "quantidade": 0.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "6.0 - SERVIDOR - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-07-01",
+      "fonte": null,
+      "descricao": "PONTO COM INTERRUPTOR SIMPLES 1 TECLA, EM CAIXA 4\"X2\"",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "6.0 - SERVIDOR - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-04-70",
+      "fonte": null,
+      "descricao": "INTERRUPTOR DIFERENCIAL RESIDUAL BIPOLAR 63A, SENSIBILIDADE 30MA-220V",
+      "unidade": "UN",
+      "quantidade": 0.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "6.0 - SERVIDOR - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-09-53",
+      "fonte": null,
+      "descricao": "LUMINÁRIA COMERCIAL DE EMBUTIR COM DIFUSOR TRANSPARENTE OU FOSCO PARA 2 LÂMPADAS TUBULARES DE LED 18/20W - COMPLETA",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "6.0 - SERVIDOR - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-82-81",
+      "fonte": null,
+      "descricao": "LÂMPADA DE LED TUBULAR T8 - 18/20W",
+      "unidade": "UN",
+      "quantidade": 6.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "6.0 - SERVIDOR - FORRO",
+      "codigo": "12-01-43",
+      "fonte": null,
+      "descricao": "FORRO DE GESSO ACARTONADO TIPO FGE (FORNECIMENTO E INSTALAÇÃO)",
+      "unidade": "M2",
+      "quantidade": 17.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "7.0 - FISCALIZAÇÃO - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "01-01-07",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 22.63,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "7.0 - FISCALIZAÇÃO - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "13-50-05",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE ARGAMASSA, CERÂMICA OU SIMILAR INCLUSIVE ARGAMASSA DE REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 184.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "7.0 - FISCALIZAÇÃO - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "09-62-11",
+      "fonte": null,
+      "descricao": "RETIRADA DE LUMINÁRIA INTERNA PARA LÂMPADA FLUORESCENTE",
+      "unidade": "UN",
+      "quantidade": 21.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "7.0 - FISCALIZAÇÃO - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "09-60-16",
+      "fonte": null,
+      "descricao": "RETIRADA DE FIO APARENTE - ATÉ 16MM2",
+      "unidade": "M",
+      "quantidade": 300.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "7.0 - FISCALIZAÇÃO - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "12-60-01",
+      "fonte": null,
+      "descricao": "RETIRADA DE FORRO DE TÁBUAS OU CHAPAS EM GERAL - PREGADAS",
+      "unidade": "M2",
+      "quantidade": 184.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "7.0 - FISCALIZAÇÃO - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "12-60-20",
+      "fonte": null,
+      "descricao": "RETIRADA DE ENTARUGAMENTO DE FORRO",
+      "unidade": "M2",
+      "quantidade": 184.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "7.0 - FISCALIZAÇÃO - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "09-62-03",
+      "fonte": null,
+      "descricao": "RETIRADA DE LÂMPADA INCANDESCENTE OU FLUORESCENTE",
+      "unidade": "UN",
+      "quantidade": 84.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "7.0 - FISCALIZAÇÃO - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "08-60-01",
+      "fonte": null,
+      "descricao": "RETIRADA DE ESQUADRIAS METÁLICAS EM GERAL, PORTAS OU CAIXILHOS",
+      "unidade": "M2",
+      "quantidade": 49.73,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "7.0 - FISCALIZAÇÃO - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "04-60-16",
+      "fonte": null,
+      "descricao": "RETIRADA DE DIVISÓRIAS - CHAPAS OU TÁBUAS, INCLUSIVE ENTARUGAMENTO",
+      "unidade": "M2",
+      "quantidade": 235.1,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "7.0 - FISCALIZAÇÃO - PISOS",
+      "codigo": "13-02-88",
+      "fonte": null,
+      "descricao": "PISO VINÍLICO CROMA OU SIMILAR E=3,2 MM, EXCLUSIVE ARGAMASSA REGULARIZAÇÃO DA BASE",
+      "unidade": "M2",
+      "quantidade": 184.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "7.0 - FISCALIZAÇÃO - PISOS",
+      "codigo": "05-01-40",
+      "fonte": null,
+      "descricao": "REGULARIZAÇÃO COM ARGAMASSA DE CIMENTO E AREIA - TRAÇO 1:3, ESPESSURA MÉDIA 30MM",
+      "unidade": "M2",
+      "quantidade": 53.1,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "7.0 - FISCALIZAÇÃO - VEDOS",
+      "codigo": "04-03-59",
+      "fonte": null,
+      "descricao": "VL.09 - DIVISÓRIA DE ACABAMENTO LAMINADO MELAMÍNICO, MIOLO COLMÉIA - PORTA/BONECA/VIDRO",
+      "unidade": "M2",
+      "quantidade": 242.33,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "7.0 - FISCALIZAÇÃO - VEDOS",
+      "codigo": "14-01-05",
+      "fonte": null,
+      "descricao": "VIDRO LISO COMUM, TRANSPARENTE INCOLOR - ESPESSURA 6MM",
+      "unidade": "M2",
+      "quantidade": 13.03,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "7.0 - FISCALIZAÇÃO - ESQUADRIAS",
+      "codigo": "07-01-17",
+      "fonte": null,
+      "descricao": "PM.17 PORTA LISA COMUM/ ENCABEÇADA REVESTIDA COM LAMINADO MELAMÍNICO - 82X210CM",
+      "unidade": "UN",
+      "quantidade": 5.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "7.0 - FISCALIZAÇÃO - ESQUADRIAS",
+      "codigo": "07-02-16",
+      "fonte": null,
+      "descricao": "FECHADURA TIPO GORGE (55MM) - TRÁFEGO INTENSO, MAÇANETA EM ZEMAC, GUARNIÇÕES EM AÇO, ACABAMENTO CROMADO BRILHANTE",
+      "unidade": "UN",
+      "quantidade": 5.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": "7.0 - FISCALIZAÇÃO - ESQUADRIAS",
+      "codigo": "07-01-57",
+      "fonte": null,
+      "descricao": "EM.03 - BATENTE DE MADEIRA (9,5CM) - PARA PORTA EM DIVISÓRIA DV.01",
+      "unidade": "M",
+      "quantidade": 25.1,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": "7.0 - FISCALIZAÇÃO - ESQUADRIAS",
+      "codigo": "07-80-50",
+      "fonte": null,
+      "descricao": "DOBRADIÇA EM AÇO LAMINADO, CROMADA - 3 1/2\"X3\"",
+      "unidade": "UN",
+      "quantidade": 15.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 29
+    },
+    {
+      "grupo": "7.0 - FISCALIZAÇÃO - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-02-12",
+      "fonte": null,
+      "descricao": "ELETRODUTO DE AÇO GALVANIZADO ELETROLÍTICO, TIPO LEVE I - 1\"",
+      "unidade": "M",
+      "quantidade": 97.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "7.0 - FISCALIZAÇÃO - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-03-29",
+      "fonte": null,
+      "descricao": "CABO 2,50MM2 - ISOLAMENTO PARA 1,0KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 400.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "7.0 - FISCALIZAÇÃO - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-03-31",
+      "fonte": null,
+      "descricao": "CABO 6,00MM2 - ISOLAMENTO PARA 1,0KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 200.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "7.0 - FISCALIZAÇÃO - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-05-06",
+      "fonte": null,
+      "descricao": "QUADRO DE DISTRIBUIÇÃO EM CHAPA METÁLICA - PARA ATÉ 16 DISJUNTORES",
+      "unidade": "UN",
+      "quantidade": 0.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "7.0 - FISCALIZAÇÃO - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-08-11",
+      "fonte": null,
+      "descricao": "MINI DISJUNTOR - TIPO EUROPEU (IEC) - UNIPOLAR 32/50A",
+      "unidade": "UN",
+      "quantidade": 0.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "7.0 - FISCALIZAÇÃO - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-07-01",
+      "fonte": null,
+      "descricao": "PONTO COM INTERRUPTOR SIMPLES - 1 TECLA, EM CAIXA 4\"X2\"",
+      "unidade": "UN",
+      "quantidade": 5.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "7.0 - FISCALIZAÇÃO - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-02-02",
+      "fonte": null,
+      "descricao": "PONTO COM INTERRUPTOR SIMPLES - 2 TECLAS, EM CAIXA 4\"X2\"",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "7.0 - FISCALIZAÇÃO - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-04-70",
+      "fonte": null,
+      "descricao": "INTERRUPTOR DIFERENCIAL RESIDUAL BIPOLAR 63A, SENSIBILIDADE 30MA-220V",
+      "unidade": "UN",
+      "quantidade": 0.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "7.0 - FISCALIZAÇÃO - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-09-53",
+      "fonte": null,
+      "descricao": "LUMINÁRIA COMERCIAL DE EMBUTIR COM DIFUSOR TRANSPARENTE OU FOSCO PARA 2 LÂMPADAS TUBULARES DE LED 18/20W - COMPLETA",
+      "unidade": "UN",
+      "quantidade": 21.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "7.0 - FISCALIZAÇÃO - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-82-81",
+      "fonte": null,
+      "descricao": "LÂMPADA DE LED TUBULAR T8 - 18/20W",
+      "unidade": "UN",
+      "quantidade": 42.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "7.0 - FISCALIZAÇÃO - FORRO",
+      "codigo": "12-01-43",
+      "fonte": null,
+      "descricao": "FORRO DE GESSO ACARTONADO TIPO FGE (FORNECIMENTO E INSTALAÇÃO)",
+      "unidade": "M2",
+      "quantidade": 184.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "8.0 - W.C MASCULINO / COPA - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "01-01-07",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 13.43,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "8.0 - W.C MASCULINO / COPA - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "13-50-05",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE ARGAMASSA, CERÂMICA OU SIMILAR INCLUSIVE ARGAMASSA DE REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 20.05,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "8.0 - W.C MASCULINO / COPA - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "10-60-22",
+      "fonte": null,
+      "descricao": "RETIRADA DE VÁLVULAS DE RETENÇÃO",
+      "unidade": "UN",
+      "quantidade": 0.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "8.0 - W.C MASCULINO / COPA - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "10-60-35",
+      "fonte": null,
+      "descricao": "RETIRADA DE APARELHOS SANITÁRIOS, INCLUSIVE ACESSÓRIOS",
+      "unidade": "UN",
+      "quantidade": 12.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "8.0 - W.C MASCULINO / COPA - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "10-60-18",
+      "fonte": null,
+      "descricao": "RETIRADA DE REGISTROS OU VÁLVULAS FLUXÍVEIS",
+      "unidade": "UN",
+      "quantidade": 23.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "8.0 - W.C MASCULINO / COPA - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "07-60-01",
+      "fonte": null,
+      "descricao": "RETIRADA DE FOLHAS DE PORTA DE PASSAGEM OU JANELA",
+      "unidade": "UN",
+      "quantidade": 9.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "8.0 - W.C MASCULINO / COPA - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "07-60-02",
+      "fonte": null,
+      "descricao": "RETIRADA DE BATENTES DE MADEIRA",
+      "unidade": "UN",
+      "quantidade": 9.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "8.0 - W.C MASCULINO / COPA - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "07-60-08",
+      "fonte": null,
+      "descricao": "RETIRADA DE GUARNIÇÕES OU MOLDURAS DE MADEIRA",
+      "unidade": "M",
+      "quantidade": 43.38,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "8.0 - W.C MASCULINO / COPA - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "09-62-11",
+      "fonte": null,
+      "descricao": "RETIRADA DE LUMINÁRIA INTERNA PARA LÂMPADA FLUORESCENTE",
+      "unidade": "UN",
+      "quantidade": 10.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "8.0 - W.C MASCULINO / COPA - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "09-62-03",
+      "fonte": null,
+      "descricao": "RETIRADA DE LÂMPADA INCANDESCENTE OU FLUORESCENTE",
+      "unidade": "UN",
+      "quantidade": 40.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "8.0 - W.C MASCULINO / COPA - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "09-60-16",
+      "fonte": null,
+      "descricao": "RETIRADA DE FIO APARENTE - ATÉ 16MM2",
+      "unidade": "M",
+      "quantidade": 50.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "8.0 - W.C MASCULINO / COPA - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "12-60-01",
+      "fonte": null,
+      "descricao": "RETIRADA DE FORRO DE TÁBUAS OU CHAPAS EM GERAL - PREGADAS",
+      "unidade": "M2",
+      "quantidade": 32.27,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "8.0 - W.C MASCULINO / COPA - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "12-60-20",
+      "fonte": null,
+      "descricao": "RETIRADA DE ENTARUGAMENTO DE FORRO",
+      "unidade": "M2",
+      "quantidade": 32.27,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "8.0 - W.C MASCULINO / COPA - PIOS E AZULEJOS",
+      "codigo": "05-01-40",
+      "fonte": null,
+      "descricao": "REGULARIZAÇÃO COM ARGAMASSA DE CIMENTO E AREIA - TRAÇO 1:3, ESPESSURA MÉDIA 30MM",
+      "unidade": "M2",
+      "quantidade": 65.79,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "8.0 - W.C MASCULINO / COPA - PIOS E AZULEJOS",
+      "codigo": "13.Β.115",
+      "fonte": null,
+      "descricao": "PISO PORCELANATO TIPO PORTBELLO 60X60CM OU SIMILAR ACENT. ARG COMUM",
+      "unidade": "M2",
+      "quantidade": 65.79,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "8.0 - W.C MASCULINO / COPA - PIOS E AZULEJOS",
+      "codigo": "11-02-29",
+      "fonte": null,
+      "descricao": "AZULEJOS, JUNTA AMARRAÇÃO OU A PRUMO - ASSENTES COM ARGAMASSA COLANTE",
+      "unidade": "M2",
+      "quantidade": 7.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": "8.0 - W.C MASCULINO / COPA - ESQUADRIAS",
+      "codigo": "07-01-05",
+      "fonte": null,
+      "descricao": "PM.05-PORTA LISA ESPECIAL/ SÓLIDA - 62X210CM",
+      "unidade": "UN",
+      "quantidade": 9.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": "8.0 - W.C MASCULINO / COPA - ESQUADRIAS",
+      "codigo": "07-02-16",
+      "fonte": null,
+      "descricao": "FECHADURA TIPO GORGE (55MM) - TRÁFEGO INTENSO, MAÇANETA EM ZEMAC, GUARNIÇÕES EM AÇO, ACABAMENTO CROMADO BRILHANTE",
+      "unidade": "UN",
+      "quantidade": 0.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 29
+    },
+    {
+      "grupo": "8.0 - W.C MASCULINO / COPA - ESQUADRIAS",
+      "codigo": "07-01-57",
+      "fonte": null,
+      "descricao": "EM.03 - BATENTE DE MADEIRA (9,5CM) - PARA PORTA EM DIVISÓRIA DV.01",
+      "unidade": "M",
+      "quantidade": 0.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 30
+    },
+    {
+      "grupo": "8.0 - W.C MASCULINO / COPA - ESQUADRIAS",
+      "codigo": "07-80-50",
+      "fonte": null,
+      "descricao": "DOBRADIÇA EM AÇO LAMINADO, CROMADA - 3 1/2\"X3\"",
+      "unidade": "UN",
+      "quantidade": 27.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 31
+    },
+    {
+      "grupo": "8.0 - W.C MASCULINO / COPA - INSTALAÇÕES HIDROSSANITÁRIAS",
+      "codigo": "10-14-19",
+      "fonte": null,
+      "descricao": "VÁLVULA DE ACIONAMENTO HIDRO-MECÂNICO POR PEDAL",
+      "unidade": "UN",
+      "quantidade": 6.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 32
+    },
+    {
+      "grupo": "8.0 - W.C MASCULINO / COPA - INSTALAÇÕES HIDROSSANITÁRIAS",
+      "codigo": "10-15-26",
+      "fonte": null,
+      "descricao": "ACABAMENTO ANTIVANDALISMO PARA VÁLVULA DE DESCARGA",
+      "unidade": "UN",
+      "quantidade": 6.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "8.0 - W.C MASCULINO / COPA - INSTALAÇÕES HIDROSSANITÁRIAS",
+      "codigo": "10-02-61",
+      "fonte": null,
+      "descricao": "TUBO DE PVC RÍGIDO, SOLDÁVEL (LINHA ÁGUA) - 25MM (3/4\")",
+      "unidade": "M",
+      "quantidade": 50.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "8.0 - W.C MASCULINO / COPA - INSTALAÇÕES HIDROSSANITÁRIAS",
+      "codigo": "10-02-64",
+      "fonte": null,
+      "descricao": "TUBO DE PVC RÍGIDO, SOLDÁVEL (LINHA ÁGUA) - 50MM (1 1/2\")",
+      "unidade": "M",
+      "quantidade": 30.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "8.0 - W.C MASCULINO / COPA - INSTALAÇÕES HIDROSSANITÁRIAS",
+      "codigo": "10-02-82",
+      "fonte": null,
+      "descricao": "REGISTRO DE GAVETA, METAL AMARELO - 1\"",
+      "unidade": "UN",
+      "quantidade": 0.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "8.0 - W.C MASCULINO / COPA - INSTALAÇÕES HIDROSSANITÁRIAS",
+      "codigo": "10-05-40",
+      "fonte": null,
+      "descricao": "REGISTRO DE PRESSÃO, METAL AMARELO - 1/2\"",
+      "unidade": "UN",
+      "quantidade": 0.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "8.0 - W.C MASCULINO / COPA - INSTALAÇÕES HIDROSSANITÁRIAS",
+      "codigo": "10-13-01",
+      "fonte": null,
+      "descricao": "BACIA SANITÁRIA SIFONADA, DE LOUÇA BRANCA",
+      "unidade": "UN",
+      "quantidade": 4.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "8.0 - W.C MASCULINO / COPA - INSTALAÇÕES HIDROSSANITÁRIAS",
+      "codigo": "10-13-08",
+      "fonte": null,
+      "descricao": "LAVATÓRIO DE LOUÇA BRANCA, SEM COLUNA, CAPACIDADE MÍNIMA 5L, EXCLUSIVE TORNEIRA",
+      "unidade": "UN",
+      "quantidade": 4.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "8.0 - W.C MASCULINO / COPA - INSTALAÇÕES HIDROSSANITÁRIAS",
+      "codigo": "10-13-25",
+      "fonte": null,
+      "descricao": "MICTÓRIO INDIVIDUAL DE LOUÇA BRANCA, TIPO BACIA - DE CENTRO",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "8.0 - W.C MASCULINO / COPA - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-02-12",
+      "fonte": null,
+      "descricao": "ELETRODUTO DE AÇO GALVANIZADO ELETROLÍTICO, TIPO LEVE I - 1\"",
+      "unidade": "M",
+      "quantidade": 0.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "8.0 - W.C MASCULINO / COPA - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-03-29",
+      "fonte": null,
+      "descricao": "CABO 2,50MM2 - ISOLAMENTO PARA 1,0KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 140.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "8.0 - W.C MASCULINO / COPA - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-03-31",
+      "fonte": null,
+      "descricao": "CABO 6,00MM2 - ISOLAMENTO PARA 1,0KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 60.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "8.0 - W.C MASCULINO / COPA - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-05-06",
+      "fonte": null,
+      "descricao": "QUADRO DE DISTRIBRIBUIÇÃO EM CHAPA METÁLICA - PARA ATÉ 16 DISJUNTORES",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "8.0 - W.C MASCULINO / COPA - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-08-11",
+      "fonte": null,
+      "descricao": "MINI DISJUNTOR - TIPO EUROPEU (IEC) - UNIPOLAR 32/50A",
+      "unidade": "UN",
+      "quantidade": 7.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "8.0 - W.C MASCULINO / COPA - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-07-01",
+      "fonte": null,
+      "descricao": "PONTO COM INTERRUPTOR SIMPLES - 1 TECLA, EM CAIXA 4\"X2\"",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "8.0 - W.C MASCULINO / COPA - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-04-70",
+      "fonte": null,
+      "descricao": "INTERRUPTOR DIFERENCIAL RESIDUAL BIPOLAR 63A, SENSIBILIDADE 30MA-220V",
+      "unidade": "UN",
+      "quantidade": 0.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "8.0 - W.C MASCULINO / COPA - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-09-53",
+      "fonte": null,
+      "descricao": "LUMINÁRIA COMERCIAL DE EMBUTIR COM DIFUSOR TRANSPARENTE OU FOSCO PARA 2 LÂMPADAS TUBULARES DE LED 18/20W - COMPLETA",
+      "unidade": "UN",
+      "quantidade": 10.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "8.0 - W.C MASCULINO / COPA - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-82-81",
+      "fonte": null,
+      "descricao": "LÂMPADA DE LED TUBULAR T8 - 18/20W",
+      "unidade": "UN",
+      "quantidade": 20.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "8.0 - W.C MASCULINO / COPA - PINTURAS",
+      "codigo": "15-01-16",
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA - REBOCO COM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 32.27,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "8.0 - W.C MASCULINO / COPA - FORRO",
+      "codigo": "12-01-43",
+      "fonte": null,
+      "descricao": "FORRO DE GESSO ACARTONADO TIPO FGE (FORNECIMENTO E INSTALAÇÃO)",
+      "unidade": "M2",
+      "quantidade": 32.27,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "9.0 - W.C FEMININO - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "01-01-07",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 7.04,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "9.0 - W.C FEMININO - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "13-50-05",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE ARGAMASSA, CERÂMICA OU SIMILAR INCLUSIVE ARGAMASSA DE REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 20.05,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "9.0 - W.C FEMININO - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "10-60-22",
+      "fonte": null,
+      "descricao": "RETIRADA DE VÁLVULAS DE RETENÇÃO",
+      "unidade": "UN",
+      "quantidade": 0.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "9.0 - W.C FEMININO - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "10-60-35",
+      "fonte": null,
+      "descricao": "RETIRADA DE APARELHOS SANITÁRIOS, INCLUSIVE ACESSÓRIOS",
+      "unidade": "UN",
+      "quantidade": 8.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "9.0 - W.C FEMININO - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "10-60-18",
+      "fonte": null,
+      "descricao": "RETIRADA DE REGISTROS OU VÁLVULAS FLUXÍVEIS",
+      "unidade": "UN",
+      "quantidade": 15.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "9.0 - W.C FEMININO - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "07-60-01",
+      "fonte": null,
+      "descricao": "RETIRADA DE FOLHAS DE PORTA DE PASSAGEM OU JANELA",
+      "unidade": "UN",
+      "quantidade": 5.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "9.0 - W.C FEMININO - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "07-60-02",
+      "fonte": null,
+      "descricao": "RETIRADA DE BATENTES DE MADEIRA",
+      "unidade": "UN",
+      "quantidade": 5.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "9.0 - W.C FEMININO - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "07-60-08",
+      "fonte": null,
+      "descricao": "RETIRADA DE GUARNIÇÕES OU MOLDURAS DE MADEIRA",
+      "unidade": "M",
+      "quantidade": 24.1,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": "9.0 - W.C FEMININO - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "09-62-11",
+      "fonte": null,
+      "descricao": "RETIRADA DE LUMINÁRIA INTERNA PARA LÂMPADA FLUORESCENTE",
+      "unidade": "UN",
+      "quantidade": 7.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": "9.0 - W.C FEMININO - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "09-62-03",
+      "fonte": null,
+      "descricao": "RETIRADA DE LÂMPADA INCANDESCENTE OU FLUORESCENTE",
+      "unidade": "UN",
+      "quantidade": 28.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 29
+    },
+    {
+      "grupo": "9.0 - W.C FEMININO - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "09-60-16",
+      "fonte": null,
+      "descricao": "RETIRADA DE FIO APARENTE - ATÉ 16MM2",
+      "unidade": "M",
+      "quantidade": 40.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 30
+    },
+    {
+      "grupo": "9.0 - W.C FEMININO - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "12-60-01",
+      "fonte": null,
+      "descricao": "RETIRADA DE FORRO DE TÁBUAS OU CHAPAS EM GERAL - PREGADAS",
+      "unidade": "M2",
+      "quantidade": 20.05,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 31
+    },
+    {
+      "grupo": "9.0 - W.C FEMININO - RETIRADAS E DEMOLIÇÕES",
+      "codigo": "12-60-20",
+      "fonte": null,
+      "descricao": "RETIRADA DE ENTARUGAMENTO DE FORRO",
+      "unidade": "M2",
+      "quantidade": 20.05,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 32
+    },
+    {
+      "grupo": "9.0 - W.C FEMININO - PISOS E AZULEJOS",
+      "codigo": "05-01-40",
+      "fonte": null,
+      "descricao": "REGULARIZAÇÃO COM ARGAMASSA DE CIMENTO E AREIA - TRAÇO 1:3, ESPESSURA MÉDIA 30MM",
+      "unidade": "M2",
+      "quantidade": 27.34,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 33
+    },
+    {
+      "grupo": "9.0 - W.C FEMININO - PISOS E AZULEJOS",
+      "codigo": "13.Β.115",
+      "fonte": null,
+      "descricao": "PISO PORCELANATO TIPO PORTBELLO 60X60CM OU SIMILAR ACENT. ARG COMUM",
+      "unidade": "M2",
+      "quantidade": 27.34,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 34
+    },
+    {
+      "grupo": "9.0 - W.C FEMININO - PISOS E AZULEJOS",
+      "codigo": "11-02-29",
+      "fonte": null,
+      "descricao": "AZULEJOS, JUNTA AMARRAÇÃO OU A PRUMO - ASSENTES COM ARGAMASSA COLANTE",
+      "unidade": "M2",
+      "quantidade": 5.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 35
+    },
+    {
+      "grupo": "9.0 - W.C FEMININO - ESQUADRIAS",
+      "codigo": "07-01-05",
+      "fonte": null,
+      "descricao": "PM.05 - PORTA LISA ESPECIAL/SÓLIDA - 62X210CM",
+      "unidade": "UN",
+      "quantidade": 5.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "9.0 - W.C FEMININO - ESQUADRIAS",
+      "codigo": "07-02-16",
+      "fonte": null,
+      "descricao": "FECHADURA TIPO GORGE (55MM) - TRÁFEGO INTENSO, MAÇANETA EM ZEMAC, GUARNIÇÕES EM AÇO, ACABAMENTO CROMADO BRILHANTE",
+      "unidade": "UN",
+      "quantidade": 0.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "9.0 - W.C FEMININO - ESQUADRIAS",
+      "codigo": "07-01-57",
+      "fonte": null,
+      "descricao": "EM.03 - BATENTE DE MADEIRA (9,5CM) - PARA PORTA EM DIVISÓRIA DV.01",
+      "unidade": "M",
+      "quantidade": 0.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "9.0 - W.C FEMININO - ESQUADRIAS",
+      "codigo": "07-80-50",
+      "fonte": null,
+      "descricao": "DOBRADIÇA EM AÇO LAMINADO, CROMADA - 3 1/2\"X3\"",
+      "unidade": "UN",
+      "quantidade": 15.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "9.0 - W.C FEMININO - INSTALAÇÕES HIDROSSANITÁRIAS",
+      "codigo": "10-14-19",
+      "fonte": null,
+      "descricao": "VÁLVULA DE ACIONAMENTO HIDRO-MECÂNICO POR PEDAL",
+      "unidade": "UN",
+      "quantidade": 6.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "9.0 - W.C FEMININO - INSTALAÇÕES HIDROSSANITÁRIAS",
+      "codigo": "10-14-26",
+      "fonte": null,
+      "descricao": "ACABAMENTO ANTIVANDALISMO PARA VÁLVULA DE DESCARGA",
+      "unidade": "UN",
+      "quantidade": 6.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "9.0 - W.C FEMININO - INSTALAÇÕES HIDROSSANITÁRIAS",
+      "codigo": "10-02-61",
+      "fonte": null,
+      "descricao": "TUBO DE PVC RÍGIDO, SOLDÁVEL (LINHA ÁGUA) - 25MM (3/4\")",
+      "unidade": "M",
+      "quantidade": 40.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "9.0 - W.C FEMININO - INSTALAÇÕES HIDROSSANITÁRIAS",
+      "codigo": "10-02-64",
+      "fonte": null,
+      "descricao": "TUBO DE PVC RÍGIDO, SOLDÁVEL (LINHA ÁGUA) - 50MM (1 1/2\")",
+      "unidade": "M",
+      "quantidade": 20.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "9.0 - W.C FEMININO - INSTALAÇÕES HIDROSSANITÁRIAS",
+      "codigo": "10-02-82",
+      "fonte": null,
+      "descricao": "REGISTRO DE GAVETA, METAL AMARELO - 1\"",
+      "unidade": "UN",
+      "quantidade": 0.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "9.0 - W.C FEMININO - INSTALAÇÕES HIDROSSANITÁRIAS",
+      "codigo": "10-05-40",
+      "fonte": null,
+      "descricao": "REGISTRO DE PRESSÃO, METAL AMARELO - 1/2\"",
+      "unidade": "UN",
+      "quantidade": 0.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "9.0 - W.C FEMININO - INSTALAÇÕES HIDROSSANITÁRIAS",
+      "codigo": "10-13-01",
+      "fonte": null,
+      "descricao": "BACIA SANITÁRIA SIFONADA, DE LOUÇA BRANCA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "9.0 - W.C FEMININO - INSTALAÇÕES HIDROSSANITÁRIAS",
+      "codigo": "10-13-08",
+      "fonte": null,
+      "descricao": "LAVATÓRIO DE LOUÇA BRANCA, SEM COLUNA, CAPACIDADE MÍNIMA 5L, EXCLUSIVE TORNEIRA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "9.0 - W.C FEMININO - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-02-12",
+      "fonte": null,
+      "descricao": "ELETRODUTO DE AÇO GALVANIZADO ELETROLÍTICO, TIPO LEVE I - 1\"",
+      "unidade": "M",
+      "quantidade": 0.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "9.0 - W.C FEMININO - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-03-29",
+      "fonte": null,
+      "descricao": "CABO 2,50MM2 - ISOLAMENTO PARA 1,0KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 100.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "9.0 - W.C FEMININO - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-03-31",
+      "fonte": null,
+      "descricao": "CABO 6,00MM2 - ISOLAMENTO PARA 1,0KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 60.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "9.0 - W.C FEMININO - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-05-06",
+      "fonte": null,
+      "descricao": "QUADRO DE DISTRIBRIBUIÇÃO EM CHAPA METÁLICA - PARA ATÉ 16 DISJUNTORES",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "9.0 - W.C FEMININO - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-08-11",
+      "fonte": null,
+      "descricao": "MINI DISJUNTOR - TIPO EUROPEU (IEC) - UNIPOLAR 32/50A",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "9.0 - W.C FEMININO - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-07-01",
+      "fonte": null,
+      "descricao": "PONTO COM INTERRUPTOR SIMPLES - 1 TECLA, EM CAIXA 4\"X2\"",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "9.0 - W.C FEMININO - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-04-70",
+      "fonte": null,
+      "descricao": "INTERRUPTOR DIFERENCIAL RESIDUAL BIPOLAR 63A, SENSIBILIDADE 30MA-220V",
+      "unidade": "UN",
+      "quantidade": 0.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "9.0 - W.C FEMININO - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-09-53",
+      "fonte": null,
+      "descricao": "LUMINÁRIA COMERCIAL DE EMBUTIR COM DIFUSOR TRANSPARENTE OU FOSCO PARA 2 LÂMPADAS TUBULARES DE LED 18/20W - COMPLETA",
+      "unidade": "UN",
+      "quantidade": 7.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "9.0 - W.C FEMININO - INSTALAÇÕES ELÉTRICAS",
+      "codigo": "09-82-81",
+      "fonte": null,
+      "descricao": "LÂMPADA DE LED TUBULAR T8 - 18/20W",
+      "unidade": "UN",
+      "quantidade": 14.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "9.0 - W.C FEMININO - PINTURAS",
+      "codigo": "15-01-16",
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA - REBOCO COM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 20.05,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "9.0 - W.C FEMININO - FORRO",
+      "codigo": "12-01-43",
+      "fonte": null,
+      "descricao": "FORRO DE GESSO ACARTONADO TIPO FGE (FORNECIMENTO E INSTALAÇÃO)",
+      "unidade": "M2",
+      "quantidade": 20.05,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "10.0 - SERVIÇOS COMPLEMENTARES",
+      "codigo": "17-04-01",
+      "fonte": null,
+      "descricao": "LIMPEZA GERAL DA OBRA",
+      "unidade": "M2",
+      "quantidade": 265.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "10.0 - SERVIÇOS COMPLEMENTARES",
+      "codigo": "13-03-10",
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO - ESQUADRIAS E PEÇAS DE SERRALHERIA",
+      "unidade": "M2",
+      "quantidade": 32.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "11.0 - ADMINISTRAÇÃO LOCAL E PROJETO EXECUTIVO DE ARQUITETURA",
+      "codigo": "20-03-61",
+      "fonte": null,
+      "descricao": "PROJETO EXECUTIVO (PRANCHA A1)",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "11.0 - ADMINISTRAÇÃO LOCAL E PROJETO EXECUTIVO DE ARQUITETURA",
+      "codigo": "20-03-08",
+      "fonte": null,
+      "descricao": "CONSULTOR",
+      "unidade": "H",
+      "quantidade": 12.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": "11.0 - ADMINISTRAÇÃO LOCAL E PROJETO EXECUTIVO DE ARQUITETURA",
+      "codigo": "20-03-04",
+      "fonte": null,
+      "descricao": "ENGENHEIRO/ARQUITETO PLENO",
+      "unidade": "H",
+      "quantidade": 72.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": "11.0 - ADMINISTRAÇÃO LOCAL E PROJETO EXECUTIVO DE ARQUITETURA",
+      "codigo": "12-12-00",
+      "fonte": null,
+      "descricao": "ENCARREGADO",
+      "unidade": "H",
+      "quantidade": 480.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 29
+    },
+    {
+      "grupo": "11.0 - ADMINISTRAÇÃO LOCAL E PROJETO EXECUTIVO DE ARQUITETURA",
+      "codigo": "03-41-00",
+      "fonte": null,
+      "descricao": "AJUDANTE GERAL",
+      "unidade": "H",
+      "quantidade": 480.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 30
+    },
+    {
+      "grupo": "12.0 - ITENS ADITIVO",
+      "codigo": "07-02-31",
+      "fonte": null,
+      "descricao": "FECHADURA TIPO TRANQUETA E TRINCO (55MM) - TRÁFEGO INTENSO, MAÇANETA EM ZAMAC, GUARNIÇÕES EM AÇO, ACABAMENTO CROMADO BRILHANTE - PORTA DE SANITÁRIO",
+      "unidade": "UN",
+      "quantidade": 14.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 31
+    },
+    {
+      "grupo": "12.0 - ITENS ADITIVO",
+      "codigo": "07-01-53",
+      "fonte": null,
+      "descricao": "EM.01 - BATENTE DE MADEIRA (14CM) - PARA INSTALAÇÕES SANITÁRIAS",
+      "unidade": "JG",
+      "quantidade": 14.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 32
+    },
+    {
+      "grupo": "12.0 - ITENS ADITIVO",
+      "codigo": "07-80-01",
+      "fonte": null,
+      "descricao": "GUARNIÇÃO OU MOLDURA DE MADEIRA - 4,5CM",
+      "unidade": "M",
+      "quantidade": 67.48,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 33
+    },
+    {
+      "grupo": "12.0 - ITENS ADITIVO",
+      "codigo": "09-07-61",
+      "fonte": null,
+      "descricao": "PONTO COM TOMADA SIMPLES 110/220V EM CONDULETE 3/4\"",
+      "unidade": "UN",
+      "quantidade": 84.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 34
+    },
+    {
+      "grupo": "12.0 - ITENS ADITIVO",
+      "codigo": "09-82-10",
+      "fonte": null,
+      "descricao": "TOMADA SIMPLES DE EMBUTIR - 110/220V",
+      "unidade": "UN",
+      "quantidade": 57.0,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "12.0 - ITENS ADITIVO",
+      "codigo": "09-09-71",
+      "fonte": null,
+      "descricao": "LUMINÁRIA INDUSTRIAL - 1 LÂMPADA FLUORESCENTE 16W",
+      "unidade": "UN",
+      "quantidade": 12.0,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "12.0 - ITENS ADITIVO",
+      "codigo": "13-03-27",
+      "fonte": null,
+      "descricao": "RODAPÉ DE MADEIRA - PADRÃO CUMARU 7CM",
+      "unidade": "M",
+      "quantidade": 138.86,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "12.0 - ITENS ADITIVO",
+      "codigo": "10-14-04",
+      "fonte": null,
+      "descricao": "TORNEIRA DE PRESSÃO PARA USO GERAL, METAL CROMADO - 3/4\"",
+      "unidade": "UN",
+      "quantidade": 8.0,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "12.0 - ITENS ADITIVO",
+      "codigo": "10-80-76",
+      "fonte": null,
+      "descricao": "TUBO DE LIGAÇÃO FLEXÍVEL, PVC - 1/2\"X30/40CM",
+      "unidade": "UN",
+      "quantidade": 14.0,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 5
+    }
+  ],
+  "apelido": "VIADUTO DONA PAULINA"
+}

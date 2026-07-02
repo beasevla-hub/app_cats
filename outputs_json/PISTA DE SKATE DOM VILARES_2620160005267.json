@@ -1,0 +1,275 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620160005267",
+    "numero_art": "92221220160520758",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA.",
+    "contratante": "SUBPREFEITURA DO IPIRANGA",
+    "cnpj_contratante": "05.636.771/0001-93",
+    "objeto": null,
+    "processo_administrativo": "2014-0.192.249-6",
+    "contrato": "007/SP-IP/2014",
+    "endereco_obra": "RUA DOM VILARES",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2014-08-26",
+    "data_fim": "2014-10-15",
+    "area_m2": 457.62,
+    "valor_contrato": 132000.42
+  },
+  "servicos": [
+    {
+      "grupo": null,
+      "codigo": "01-01-07",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 22.17,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "01-05-01",
+      "fonte": null,
+      "descricao": "TAPUME CHAPA COMPENSADA 6MM",
+      "unidade": "M2",
+      "quantidade": 191.62,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "02-50-06",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MECANIZADA DE CONCRETO ARMADO",
+      "unidade": "M3",
+      "quantidade": 17.06,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "20-03-19",
+      "fonte": null,
+      "descricao": "DESENVOLVIMENTO DE PRANCHA TÉCNICA EM FORMATO A1",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "01-02-05",
+      "fonte": null,
+      "descricao": "ATERRO, INCLUSIVE COMPACTAÇÃO",
+      "unidade": "M3",
+      "quantidade": 50.83,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "03-02-07",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-60",
+      "unidade": "KG",
+      "quantidade": 414.43,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "03-03-16",
+      "fonte": null,
+      "descricao": "CONCRETO FCK = 20,0MPA - USINADO E BOMBEÁVEL",
+      "unidade": "M3",
+      "quantidade": 42.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "03-03-30",
+      "fonte": null,
+      "descricao": "BOMBEAMENTO DE CONCRETO",
+      "unidade": "M3",
+      "quantidade": 42.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "04-01-98",
+      "fonte": null,
+      "descricao": "VERGAS, CINTAS E PILARETES DE CONCRETO",
+      "unidade": "M3",
+      "quantidade": 10.84,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "04-01-31",
+      "fonte": null,
+      "descricao": "BLOCOS VAZADOS DE CONCRETO ESTRUTURAL - 14CM - 8MPA",
+      "unidade": "M2",
+      "quantidade": 88.07,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "03-01-01",
+      "fonte": null,
+      "descricao": "FORMA COMUM DE TÁBUAS DE PINUS - PLANA",
+      "unidade": "M2",
+      "quantidade": 21.2,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "03-04-19",
+      "fonte": null,
+      "descricao": "LAJE MISTA TRELIÇADA H-8CM COM CAPEAMENTO 4CM (12CM)",
+      "unidade": "M2",
+      "quantidade": 28.6,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": "10-11-89",
+      "fonte": null,
+      "descricao": "CANTONEIRA DE FERRO 1\"X1\"X1/8\" PARA APOIO E CHUMBAMENTO DAS GRELHAS DE FERRO",
+      "unidade": "M",
+      "quantidade": 241.59,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": null,
+      "codigo": "17-05-24",
+      "fonte": null,
+      "descricao": "DP.05 - CORRIMÃO EM TUBO GALVANIZADO COM GUARDA CORPO",
+      "unidade": "M",
+      "quantidade": 25.1,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": null,
+      "codigo": "10-02-55",
+      "fonte": null,
+      "descricao": "TUBO DE AÇO GALVANIZADO, CLASSE LEVE I (LINHA ÁGUA) 2\"",
+      "unidade": "M",
+      "quantidade": 25.6,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": null,
+      "codigo": "10-21-00",
+      "fonte": null,
+      "descricao": "CORTE DE CONCRETO COM DISCO DIAMANTADO ATÉ PROFUNDIDADE DE 13CM",
+      "unidade": "M2",
+      "quantidade": 11.35,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": null,
+      "codigo": "13-02-04",
+      "fonte": null,
+      "descricao": "ACABAMENTO DE PISO DE CONCRETO TIPO BAMBOLÊ",
+      "unidade": "M2",
+      "quantidade": 263.31,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": null,
+      "codigo": "13-02-02",
+      "fonte": null,
+      "descricao": "CIMENTADO COMUM, DESEMPENADO E ALISADO - ESPESSURA 20MM",
+      "unidade": "M2",
+      "quantidade": 194.31,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": null,
+      "codigo": "11-03-01",
+      "fonte": null,
+      "descricao": "CHAPISCO COMUM - ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 45.74,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": null,
+      "codigo": "11-03-08",
+      "fonte": null,
+      "descricao": "EMBOÇO EXTERNO - ARGAMASSA MISTA DE CIMENTO, CAL E AREIA 1:4/12",
+      "unidade": "M2",
+      "quantidade": 45.74,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": null,
+      "codigo": "15-01-15",
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 311.76,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": null,
+      "codigo": "15-01-36",
+      "fonte": null,
+      "descricao": "TINTA EPOXI - REBOCO COM MASSA BASE EPÓXI",
+      "unidade": "M2",
+      "quantidade": 13.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": null,
+      "codigo": "15-03-10",
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO - ESQUADRIAS E PEÇAS DE SERRALHERIA",
+      "unidade": "M2",
+      "quantidade": 28.99,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": null,
+      "codigo": "17-01-27",
+      "fonte": null,
+      "descricao": "FP.04-ALAMBRADO EM TUBO GALVANIZADO E TELA GALVANIZADA H=2,00M",
+      "unidade": "M",
+      "quantidade": 12.25,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": null,
+      "codigo": "17-04-01",
+      "fonte": null,
+      "descricao": "LIMPEZA GERAL DA OBRA",
+      "unidade": "M2",
+      "quantidade": 457.62,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 25
+    }
+  ],
+  "apelido": "PISTA DE SKATE DOM VILARES"
+}

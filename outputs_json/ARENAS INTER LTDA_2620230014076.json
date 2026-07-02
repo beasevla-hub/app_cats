@@ -1,0 +1,345 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620230014076",
+    "numero_art": "28027230231737976",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "ADMINISTRAÇÃO ARENAS INTER LTDA",
+    "cnpj_contratante": "26.934.764/0001-48",
+    "objeto": "Contratação de empresa especializada para elaboração do projeto executivo e execução de obras e serviços, com fornecimento de material e mão-de-obra, visando à reforma de quadras esportivas contemplando a instalação de gramado sintético, incluindo a execução de drenagem tipo espinha de peixe, preparo da base e adequações necessárias.",
+    "processo_administrativo": null,
+    "contrato": null,
+    "endereco_obra": "AVENIDA DOUTOR FRANCISCO MESQUITA, 1752",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2023-07-11",
+    "data_fim": "2023-10-31",
+    "area_m2": 7250.0,
+    "valor_contrato": 1830620.5
+  },
+  "servicos": [
+    {
+      "grupo": "ACERTO DO TERRENO",
+      "codigo": "1.1",
+      "fonte": null,
+      "descricao": "CORTE E ATERRO COMPACTADO",
+      "unidade": "M3",
+      "quantidade": 160.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "ACERTO DO TERRENO",
+      "codigo": "1.2",
+      "fonte": null,
+      "descricao": "TELA PARA PROTEÇÃO DE OBRAS, MALHA 2 MM",
+      "unidade": "M2",
+      "quantidade": 380.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "ACERTO DO TERRENO",
+      "codigo": "1.3",
+      "fonte": null,
+      "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
+      "unidade": "M2",
+      "quantidade": 4.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "DRENAGEM",
+      "codigo": "2.1",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MECÂNICA PARA FUNDAÇÕES E VALAS COM PROFUNDIDADE MENOR OU IGUAL À 4,0M",
+      "unidade": "M3",
+      "quantidade": 342.08,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "DRENAGEM",
+      "codigo": "2.2",
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 790.4,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "DRENAGEM",
+      "codigo": "2.3",
+      "fonte": null,
+      "descricao": "LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 12.6,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "DRENAGEM",
+      "codigo": "2.4",
+      "fonte": null,
+      "descricao": "TUBO PVC PERFURADO PARA DRENAGEM - DIÂMETRO 4\" (100MM)",
+      "unidade": "M",
+      "quantidade": 940.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "DRENAGEM",
+      "codigo": "2.5",
+      "fonte": null,
+      "descricao": "TUBO PVC PERFURADO PARA DRENAGEM - DIÂMETRO 6\" (150MM)",
+      "unidade": "M",
+      "quantidade": 320.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "DRENAGEM",
+      "codigo": "2.6",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL, PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 8.9,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "DRENAGEM",
+      "codigo": "2.7",
+      "fonte": null,
+      "descricao": "ENVOLVIMENTO DE TUBOS COM BRITA",
+      "unidade": "M3",
+      "quantidade": 279.02,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "DRENAGEM",
+      "codigo": "2.8",
+      "fonte": null,
+      "descricao": "MANTA GEOTEXTIL",
+      "unidade": "M2",
+      "quantidade": 2860.16,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "DRENAGEM",
+      "codigo": "2.9",
+      "fonte": null,
+      "descricao": "REATERRO DE VALAS, INCLUSIVE COMPACTAÇÃO",
+      "unidade": "M3",
+      "quantidade": 36.38,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "DRENAGEM",
+      "codigo": "2.10",
+      "fonte": null,
+      "descricao": "CAIXA DE LIGAÇÃO OU INSPEÇÃO - ESCAVAÇÃO E APILOAMENTO",
+      "unidade": "M3",
+      "quantidade": 9.1,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "DRENAGEM",
+      "codigo": "2.11",
+      "fonte": null,
+      "descricao": "CAIXA DE LIGAÇÃO OU INSPEÇÃO - LASTRO DE CONCRETO (FUNDO)",
+      "unidade": "M3",
+      "quantidade": 9.1,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "DRENAGEM",
+      "codigo": "2.12",
+      "fonte": null,
+      "descricao": "CAIXA DE LIGAÇÃO OU INSPEÇÃO - ALVENARIA DE 1 TIJOLO, REVESTIDA",
+      "unidade": "M2",
+      "quantidade": 45.05,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "DRENAGEM",
+      "codigo": "2.13",
+      "fonte": null,
+      "descricao": "CAIXA DE LIGAÇÃO OU INSPEÇÃO - TAMPA DE CONCRETO",
+      "unidade": "M2",
+      "quantidade": 14.86,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "DRENAGEM",
+      "codigo": "2.14",
+      "fonte": null,
+      "descricao": "LASTRO DE BRITA E PÓ DE PEDRA",
+      "unidade": "M3",
+      "quantidade": 2.6,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "DRENAGEM",
+      "codigo": "2.15",
+      "fonte": null,
+      "descricao": "TUBO DE PVC RÍGIDO, PONTA E BOLSA (LINHA ESGOTO) - 150MM (6\")",
+      "unidade": "M",
+      "quantidade": 12.8,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "DRENAGEM SUPERFICIAL",
+      "codigo": "3.1",
+      "fonte": null,
+      "descricao": "HV.22 - CANALETA DE ALVENARIA PARA GRELHA OU TAMPA DE CONCRETO L=30CM",
+      "unidade": "M",
+      "quantidade": 288.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "DRENAGEM SUPERFICIAL",
+      "codigo": "3.2",
+      "fonte": null,
+      "descricao": "HC.05 - GRELHA DE CONCRETO PARA CANALETA - L=30CM - SEM PASSAGEM DE VEÍCULOS",
+      "unidade": "M",
+      "quantidade": 288.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "DRENAGEM SUPERFICIAL",
+      "codigo": "3.3",
+      "fonte": null,
+      "descricao": "FORNECIMENTO E ASSENTAMENTO DE TUBOS DE CONCRETO SIMPLES - DIÂMETRO 40CM",
+      "unidade": "M",
+      "quantidade": 144.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "DRENAGEM SUPERFICIAL",
+      "codigo": "3.4",
+      "fonte": null,
+      "descricao": "CONCRETO FCK=15,0MPA - USINADO",
+      "unidade": "M3",
+      "quantidade": 7.6,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "GRAMA SINTÉTICA",
+      "codigo": "4.1",
+      "fonte": null,
+      "descricao": "ORLA DE SEPARAÇÃO EM CONCRETO NC.26",
+      "unidade": "M",
+      "quantidade": 240.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "GRAMA SINTÉTICA",
+      "codigo": "4.2",
+      "fonte": null,
+      "descricao": "BASE DE MACADAME BETUMINOSO COM EMULSÃO ASFÁLTICA CATIÔNICA",
+      "unidade": "M3",
+      "quantidade": 316.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "GRAMA SINTÉTICA",
+      "codigo": "4.3",
+      "fonte": null,
+      "descricao": "BASE DE BRITA GRADUADA",
+      "unidade": "M2",
+      "quantidade": 360.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "GRAMA SINTÉTICA",
+      "codigo": "4.4",
+      "fonte": null,
+      "descricao": "FORNECIMENTO E INSTALAÇÃO DE GRAMA SINTÉTICA MONOFILAMENTO BICOLOR DE POLIETILENO h=6,2cm",
+      "unidade": "M2",
+      "quantidade": 7250.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "GRAMA SINTÉTICA",
+      "codigo": "4.5",
+      "fonte": null,
+      "descricao": "FORNECIMENTO E INSTALAÇÃO DE TRAVE E REDE PARA FUTBOL DE CAMPO.",
+      "unidade": "PAR",
+      "quantidade": 6.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "5.1",
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 844.4,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "5.2",
+      "fonte": null,
+      "descricao": "LEVANTAMENTO PLANIALTIMÉTRICO DE ÁREAS - ATÉ 10.000M2",
+      "unidade": "GL",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "5.3",
+      "fonte": null,
+      "descricao": "PROJETO BÁSICO (PRANCHA A1)",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "ADMINISTRAÇÃO DA OBRA",
+      "codigo": "6.1",
+      "fonte": null,
+      "descricao": "ENGENHEIRO/ARQUITETO PLENO",
+      "unidade": "H",
+      "quantidade": 220.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "ADMINISTRAÇÃO DA OBRA",
+      "codigo": "6.2",
+      "fonte": null,
+      "descricao": "ENGENHEIRO/ARQUITETO JUNIOR",
+      "unidade": "H",
+      "quantidade": 220.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 17
+    }
+  ],
+  "apelido": "ARENAS INTER LTDA"
+}

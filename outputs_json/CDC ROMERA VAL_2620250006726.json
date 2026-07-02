@@ -1,0 +1,1475 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620250006726",
+    "numero_art": "28027230231491289",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA VILA PRUDENTE",
+    "cnpj_contratante": "05.969.123/0001-59",
+    "objeto": "CONTRATAÇÃO DE EMPRESA DE ENGENHARIA OU ARQUITETURA PARA OBRA DE REVITALIZAÇÃO DO CDC FERNANDO ROMERA VAL. LOCAL: RUA JOÃO BATISTA MENDO,150 - VILA PRUDENTE, SÃO PAULO.",
+    "processo_administrativo": "6060.2023/0002119-7",
+    "contrato": "12/SUB-VP/2023",
+    "endereco_obra": "RUA JOÃO BATISTA MENDO",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2023-09-18",
+    "data_fim": "2023-12-17",
+    "area_m2": 7835.6,
+    "valor_contrato": 522809.11
+  },
+  "servicos": [
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "10540",
+      "fonte": null,
+      "descricao": "TELA PARA PROTEÇÃO DE OBRAS, MALHA 2 MM",
+      "unidade": "M2",
+      "quantidade": 48.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "10107",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 75.53,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "174501",
+      "fonte": null,
+      "descricao": "ANDAIMES METÁLICOS - FORNECIMENTO",
+      "unidade": "M3xMÊS",
+      "quantidade": 27.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "174502",
+      "fonte": null,
+      "descricao": "ANDAIMES METÁLICOS - MONTAGEM E DESMONTAGEM",
+      "unidade": "M3",
+      "quantidade": 9.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "30330",
+      "fonte": null,
+      "descricao": "BOMBEAMENTO DE CONCRETO",
+      "unidade": "M3",
+      "quantidade": 50.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "REFORMA DOS VESTIÁRIOS EXISTENTES",
+      "codigo": "66028",
+      "fonte": null,
+      "descricao": "RETIRADA DE TELHAS ESTRUTURAIS DE CRFS OU CIMENTO AMIANTO - LARGURA ÚTIL=44CM",
+      "unidade": "M2",
+      "quantidade": 69.6,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "REFORMA DOS VESTIÁRIOS EXISTENTES",
+      "codigo": "66004",
+      "fonte": null,
+      "descricao": "RETIRADA DE ESTRUTURA MADEIRA PONTALETADA - PARA TELHA ONDULADA DE CIMENTO AMIANTO, ALUMÍNIO OU PLÁSTICO",
+      "unidade": "M2",
+      "quantidade": 69.6,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "REFORMA DOS VESTIÁRIOS EXISTENTES",
+      "codigo": "118001",
+      "fonte": null,
+      "descricao": "REPAROS EM TRINCAS E RACHADURAS",
+      "unidade": "M",
+      "quantidade": 15.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "REFORMA DOS VESTIÁRIOS EXISTENTES",
+      "codigo": "50312",
+      "fonte": null,
+      "descricao": "IMPERMEABILIZAÇÃO A BASE DE EMULSÃO ASFÁLTICA - ESTRUTURADA COM TECIDO POLIÉSTER - 2 CAMADAS DE ESTRUTURANTE",
+      "unidade": "M2",
+      "quantidade": 69.6,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "REFORMA DOS VESTIÁRIOS EXISTENTES",
+      "codigo": "45004",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE ALVENARIA EM GERAL (TIJOLOS OU BLOCOS)",
+      "unidade": "M3",
+      "quantidade": 0.9,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "REFORMA DOS VESTIÁRIOS EXISTENTES",
+      "codigo": "25004",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MANUAL DE CONCRETO ARMADO",
+      "unidade": "M3",
+      "quantidade": 0.54,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "REFORMA DOS VESTIÁRIOS EXISTENTES",
+      "codigo": "106035",
+      "fonte": null,
+      "descricao": "RETIRADA DE APARELHOS SANITÁRIOS, INCLUSIVE ACESSÓRIOS",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "REFORMA DOS VESTIÁRIOS EXISTENTES",
+      "codigo": "106042",
+      "fonte": null,
+      "descricao": "RETIRADA DE TORNEIRAS",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "REFORMA DOS VESTIÁRIOS EXISTENTES",
+      "codigo": "60113",
+      "fonte": null,
+      "descricao": "ESTRUTURA DE MADEIRA, PONTALETADA, PARA TELHAS ONDULADAS CA/AL/PL/AG",
+      "unidade": "M2",
+      "quantidade": 69.6,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "REFORMA DOS VESTIÁRIOS EXISTENTES",
+      "codigo": "60222",
+      "fonte": null,
+      "descricao": "TELHA ONDULADA CRFS 8MM",
+      "unidade": "M2",
+      "quantidade": 69.6,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "REFORMA DOS VESTIÁRIOS EXISTENTES",
+      "codigo": "106003",
+      "fonte": null,
+      "descricao": "RETIRADA DE TUBULAÇÃO DE PVC RÍGIDO - ATÉ 4\"",
+      "unidade": "M",
+      "quantidade": 15.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "REFORMA DOS VESTIÁRIOS EXISTENTES",
+      "codigo": "106018",
+      "fonte": null,
+      "descricao": "RETIRADA DE REGISTROS OU VÁLVULAS FLUXÍVEIS",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "REFORMA DOS VESTIÁRIOS EXISTENTES",
+      "codigo": "106015",
+      "fonte": null,
+      "descricao": "RETIRADA DE RESERVATÓRIOS DE CIMENTO-AMIANTO - ATÉ 1000 LITROS",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": null,
+      "codigo": "100262",
+      "fonte": null,
+      "descricao": "TUBO DE PVC RÍGIDO, SOLDÁVEL (LINHA ÁGUA) - 32MM (1\")",
+      "unidade": "M",
+      "quantidade": 20.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "100261",
+      "fonte": null,
+      "descricao": "TUBO DE PVC RÍGIDO, SOLDÁVEL (LINHA ÁGUA) - 25MM (3/4\")",
+      "unidade": "M",
+      "quantidade": 5.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "100292",
+      "fonte": null,
+      "descricao": "TORNEIRA DE BÓIA, DE LATÃO - 1\"",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "100210",
+      "fonte": null,
+      "descricao": "CAIXA D'ÁGUA DE FIBRA DE VIDRO - 1500 LITROS",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "100282",
+      "fonte": null,
+      "descricao": "REGISTRO DE GAVETA, METAL AMARELO - 1\"",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "115005",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE REVESTIMENTO CERÂMICO OU SIMILAR",
+      "unidade": "M2",
+      "quantidade": 243.86,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "118005",
+      "fonte": null,
+      "descricao": "REPAROS EM EMBOÇO - ARGAMASSA MISTA DE CIMENTO, CAL E AREIA 1:4/12",
+      "unidade": "M2",
+      "quantidade": 73.16,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "130240",
+      "fonte": null,
+      "descricao": "PISO CERÂMICO ESMALTADO (PEI-5) - ASSENTADO COM ARGAMASSA COMUM",
+      "unidade": "M2",
+      "quantidade": 55.5,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "150210",
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO - ESQUADRIAS E PEÇAS DE MARCENARIA, SEM EMASSAMENTO",
+      "unidade": "M2",
+      "quantidade": 4.29,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "150115",
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 376.24,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "101303",
+      "fonte": null,
+      "descricao": "BACIA SANITÁRIA COM CAIXA ACOPLADA DE LOUÇA BRANCA",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "101308",
+      "fonte": null,
+      "descricao": "LAVATÓRIO DE LOUÇA BRANCA, SEM COLUNA, CAPACIDADE MÍNIMA 5L, EXCLUSIVE TORNEIRA",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": "90951",
+      "fonte": null,
+      "descricao": "LUMINÁRIA COMERCIAL DE SOBREPOR COM DIFUSOR TRANSPARENTE OU FOSCO PARA 2 LÂMPADAS TUBULARES DE LED 18/20W - COMPLETA",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": null,
+      "codigo": "98281",
+      "fonte": null,
+      "descricao": "LÂMPADA DE LED TUBULAR T8 - 18/20W",
+      "unidade": "UN",
+      "quantidade": 6.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": null,
+      "codigo": "98201",
+      "fonte": null,
+      "descricao": "INTERRUPTOR SIMPLES - 1 TECLA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DE QUADRA POLIESPORTIVA",
+      "codigo": "100933",
+      "fonte": null,
+      "descricao": "TUBO DE PVC RÍGIDO, PONTA E BOLSA (LINHA ESGOTO) - 100MM (4\")",
+      "unidade": "M",
+      "quantidade": 50.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DE QUADRA POLIESPORTIVA",
+      "codigo": "170140",
+      "fonte": null,
+      "descricao": "PP.15/19 - PORTÃO EM FERRO PERFILADO COM CHAPA, 1 FOLHA",
+      "unidade": "M2",
+      "quantidade": 9.12,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DE QUADRA POLIESPORTIVA",
+      "codigo": "170525",
+      "fonte": null,
+      "descricao": "DP.05 - CORRIMÃO EM TUBO GALVANIZADO COM GUARDA CORPO",
+      "unidade": "M",
+      "quantidade": 6.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DE QUADRA POLIESPORTIVA",
+      "codigo": "105001",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE TUBULAÇÃO DE AÇO PRETO OU GALVANIZADO - ATÉ 2\"",
+      "unidade": "M",
+      "quantidade": 15.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DE QUADRA POLIESPORTIVA",
+      "codigo": "88050",
+      "fonte": null,
+      "descricao": "FERRO TRABALHADO - CAIXILHOS E PEQUENAS PEÇAS DE SERRALHERIA",
+      "unidade": "KG",
+      "quantidade": 110.53,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DE QUADRA POLIESPORTIVA",
+      "codigo": "170361",
+      "fonte": null,
+      "descricao": "TRAVE PARA FUTEBOL DE SALÃO, INCLUSIVE PINTURA E REDE",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DE QUADRA POLIESPORTIVA",
+      "codigo": "175021",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MANUAL DE CONCRETO ARMADO",
+      "unidade": "M3",
+      "quantidade": 5.76,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DE QUADRA POLIESPORTIVA",
+      "codigo": "100400",
+      "fonte": null,
+      "descricao": "CORTE SUPERFICIAL DE CONCRETO ATÉ 3 CM DE PROFUNDIDADE",
+      "unidade": "M2",
+      "quantidade": 1.34,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DE QUADRA POLIESPORTIVA",
+      "codigo": "130211",
+      "fonte": null,
+      "descricao": "PISO ESTRUTURAL EM CONCRETO ARMADO - 7CM",
+      "unidade": "M2",
+      "quantidade": 96.96,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DE QUADRA POLIESPORTIVA",
+      "codigo": "170370",
+      "fonte": null,
+      "descricao": "DEMARCAÇÃO E PINTURA DE SUPERFÍCIES - BORRACHA CLORADA",
+      "unidade": "M2",
+      "quantidade": 884.48,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DE QUADRA POLIESPORTIVA",
+      "codigo": "170356",
+      "fonte": null,
+      "descricao": "QD.02 - DEMARCAÇÃO DE QUADRA COM TINTA A BASE DE BORRACHA. CLORADA - FUTEBOL DE SALÃO",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DE QUADRA POLIESPORTIVA",
+      "codigo": "90212",
+      "fonte": null,
+      "descricao": "ELETRODUTO DE AÇO GALVANIZADO ELETROLÍTICO, TIPO LEVE I - 1\"",
+      "unidade": "M",
+      "quantidade": 90.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DE QUADRA POLIESPORTIVA",
+      "codigo": "90306",
+      "fonte": null,
+      "descricao": "CABO 4,00MM2 - ISOLAMENTO PARA 0,7KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 270.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DE QUADRA POLIESPORTIVA",
+      "codigo": "90939",
+      "fonte": null,
+      "descricao": "PROJETOR PARA USO EXTERNO COM LÂMPADA LED DE 150W - COMPLETA",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 29
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DE QUADRA POLIESPORTIVA",
+      "codigo": "90506",
+      "fonte": null,
+      "descricao": "QUADRO DE DISTRIBUIÇÃO EM CHAPA METÁLICA - PARA ATÉ 16 DISJUNTORES",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 30
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DE QUADRA POLIESPORTIVA",
+      "codigo": "90813",
+      "fonte": null,
+      "descricao": "MINI DISJUNTOR - TIPO EUROPEU (IEC) - BIPOLAR 32/50A",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 31
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DE QUADRA POLIESPORTIVA",
+      "codigo": "90814",
+      "fonte": null,
+      "descricao": "MINI DISJUNTOR - TIPO EUROPEU (IEC) - TRIPOLAR 6/25A",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 32
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DE QUADRA POLIESPORTIVA",
+      "codigo": "135020",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE FIBRO-VINIL OU BORRACHA SINTÉTICA, INCLUSIVE ARGAMASSA DE REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 54.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 33
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DE QUADRA POLIESPORTIVA",
+      "codigo": "181430",
+      "fonte": null,
+      "descricao": "PLACAS DE E.V.A. ESP.30MM PARA USO INTERNO, TIPO TATAMI, COLOCADAS",
+      "unidade": "M2",
+      "quantidade": 54.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 34
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DE QUADRA POLIESPORTIVA",
+      "codigo": "45004",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE ALVENARIA EM GERAL (TIJOLOS OU BLOCOS)",
+      "unidade": "M3",
+      "quantidade": 8.5,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 35
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DE QUADRA POLIESPORTIVA",
+      "codigo": "10401",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL, PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 16.9,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 36
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DE QUADRA POLIESPORTIVA",
+      "codigo": "25004",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MANUAL DE CONCRETO ARMADO",
+      "unidade": "M3",
+      "quantidade": 12.24,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 37
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DE QUADRA POLIESPORTIVA",
+      "codigo": "10305",
+      "fonte": null,
+      "descricao": "FORNECIMENTO DE TERRA, INCLUSIVE CORTE, CARGA, DESCARGA E TRANSPORTE ATÉ 1KM",
+      "unidade": "M3",
+      "quantidade": 34.73,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 38
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DE QUADRA POLIESPORTIVA",
+      "codigo": "100214",
+      "fonte": null,
+      "descricao": "CAIXA D'ÁGUA DE POLIETILENO 5000 LITROS",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 39
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DE QUADRA POLIESPORTIVA",
+      "codigo": "100262",
+      "fonte": null,
+      "descricao": "TUBO DE PVC RÍGIDO, SOLDÁVEL (LINHA ÁGUA) - 32MM (1\")",
+      "unidade": "M",
+      "quantidade": 20.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 40
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DE QUADRA POLIESPORTIVA",
+      "codigo": "100352",
+      "fonte": null,
+      "descricao": "REGISTRO DE GAVETA, METAL AMARELO - 1\"",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 41
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DE QUADRA POLIESPORTIVA",
+      "codigo": "10410",
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 82.86,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 42
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DE QUADRA POLIESPORTIVA",
+      "codigo": "130110",
+      "fonte": null,
+      "descricao": "LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 4.53,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 43
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DE QUADRA POLIESPORTIVA",
+      "codigo": "20101",
+      "fonte": null,
+      "descricao": "BROCA DE CONCRETO - DIAMETRO DE 20CM",
+      "unidade": "M",
+      "quantidade": 52.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 44
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DE QUADRA POLIESPORTIVA",
+      "codigo": "20304",
+      "fonte": null,
+      "descricao": "FORMA COMUM DE TÁBUAS DE PINUS - NÃO RECUPERÁVEL",
+      "unidade": "M2",
+      "quantidade": 18.84,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 45
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DE QUADRA POLIESPORTIVA",
+      "codigo": "20404",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-50",
+      "unidade": "KG",
+      "quantidade": 426.6,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 46
+    },
+    {
+      "grupo": "REVITALIZAÇÃO DE QUADRA POLIESPORTIVA",
+      "codigo": "20407",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-60",
+      "unidade": "KG",
+      "quantidade": 170.64,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 47
+    },
+    {
+      "grupo": null,
+      "codigo": "40161",
+      "fonte": null,
+      "descricao": "BLOCOS VAZADOS DE CONCRETO ESTRUTURAL - 19CM - ATÉ 6MPA",
+      "unidade": "M2",
+      "quantidade": 24.66,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "20511",
+      "fonte": null,
+      "descricao": "CONCRETO FCK=30MPA - USINADO",
+      "unidade": "M3",
+      "quantidade": 8.53,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "20605",
+      "fonte": null,
+      "descricao": "IMPERMEABILIZAÇÃO DO RESPALDO DA FUNDAÇÃO - ARGAMASSA IMPERMEÁVEL",
+      "unidade": "M2",
+      "quantidade": 37.8,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "40163",
+      "fonte": null,
+      "descricao": "BLOCOS VAZADOS DE CONCRETO ESTRUTURAL APARENTE - 19CM - ATÉ 6MPA",
+      "unidade": "M2",
+      "quantidade": 61.5,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "150115",
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 141.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "30421",
+      "fonte": null,
+      "descricao": "LAJE MISTA TRELIÇADA H-12CM COM CAPEAMENTO 4CM (16CM)",
+      "unidade": "M2",
+      "quantidade": 26.73,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "181201",
+      "fonte": null,
+      "descricao": "IC.01 - BANCO DE CONCRETO POLIDO COM PINTURA EM POLIURETANO",
+      "unidade": "M",
+      "quantidade": 12.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "CONSTRUÇÃO DOS NOVOS VESTIÁRIOS",
+      "codigo": "45004",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE ALVENARIA EM GERAL (TIJOLOS OU BLOCOS)",
+      "unidade": "M3",
+      "quantidade": 3.78,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "CONSTRUÇÃO DOS NOVOS VESTIÁRIOS",
+      "codigo": "25004",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MANUAL DE CONCRETO ARMADO",
+      "unidade": "M3",
+      "quantidade": 1.72,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "CONSTRUÇÃO DOS NOVOS VESTIÁRIOS",
+      "codigo": "65025",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE TELHAS EM GERAL, EXCLUSIVE TELHAS DE BARRO COZIDO E VIDRO",
+      "unidade": "M2",
+      "quantidade": 10.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "CONSTRUÇÃO DOS NOVOS VESTIÁRIOS",
+      "codigo": "66004",
+      "fonte": null,
+      "descricao": "RETIRADA DE ESTRUTURA MADEIRA PONTALETADA - PARA TELHA ONDULADA DE CIMENTO AMIANTO, ALUMÍNIO OU PLÁSTICO",
+      "unidade": "M2",
+      "quantidade": 10.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "CONSTRUÇÃO DOS NOVOS VESTIÁRIOS",
+      "codigo": "115005",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE REVESTIMENTO CERÂMICO OU SIMILAR",
+      "unidade": "M2",
+      "quantidade": 35.2,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "CONSTRUÇÃO DOS NOVOS VESTIÁRIOS",
+      "codigo": "106042",
+      "fonte": null,
+      "descricao": "RETIRADA DE TORNEIRAS",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "CONSTRUÇÃO DOS NOVOS VESTIÁRIOS",
+      "codigo": "106035",
+      "fonte": null,
+      "descricao": "RETIRADA DE APARELHOS SANITÁRIOS, INCLUSIVE ACESSÓRIOS",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "CONSTRUÇÃO DOS NOVOS VESTIÁRIOS",
+      "codigo": "86001",
+      "fonte": null,
+      "descricao": "RETIRADA DE ESQUADRIAS METÁLICAS EM GERAL, PORTAS OU CAIXILHOS",
+      "unidade": "M2",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "CONSTRUÇÃO DOS NOVOS VESTIÁRIOS",
+      "codigo": "76001",
+      "fonte": null,
+      "descricao": "RETIRADA DE FOLHAS DE PORTA DE PASSAGEM OU JANELA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "CONSTRUÇÃO DOS NOVOS VESTIÁRIOS",
+      "codigo": "76002",
+      "fonte": null,
+      "descricao": "RETIRADA DE BATENTES DE MADEIRA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "CONSTRUÇÃO DOS NOVOS VESTIÁRIOS",
+      "codigo": "10401",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL, PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 25.17,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "CONSTRUÇÃO DOS NOVOS VESTIÁRIOS",
+      "codigo": "10410",
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 24.16,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "CONSTRUÇÃO DOS NOVOS VESTIÁRIOS",
+      "codigo": "10416",
+      "fonte": null,
+      "descricao": "LASTRO DE CONCRETO, 150KG CIM/M3",
+      "unidade": "M3",
+      "quantidade": 2.85,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "CONSTRUÇÃO DOS NOVOS VESTIÁRIOS",
+      "codigo": "20101",
+      "fonte": null,
+      "descricao": "BROCA DE CONCRETO - DIAMETRO DE 20CM",
+      "unidade": "M",
+      "quantidade": 24.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "CONSTRUÇÃO DOS NOVOS VESTIÁRIOS",
+      "codigo": "20304",
+      "fonte": null,
+      "descricao": "FORMA COMUM DE TÁBUAS DE PINUS - NÃO RECUPERÁVEL",
+      "unidade": "M2",
+      "quantidade": 86.72,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "CONSTRUÇÃO DOS NOVOS VESTIÁRIOS",
+      "codigo": "20404",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-50",
+      "unidade": "KG",
+      "quantidade": 983.2,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "CONSTRUÇÃO DOS NOVOS VESTIÁRIOS",
+      "codigo": "20610",
+      "fonte": null,
+      "descricao": "REATERRO DE VALAS, INCLUSIVE APILOAMENTO",
+      "unidade": "M3",
+      "quantidade": 1.91,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "CONSTRUÇÃO DOS NOVOS VESTIÁRIOS",
+      "codigo": "20605",
+      "fonte": null,
+      "descricao": "IMPERMEABILIZAÇÃO DO RESPALDO DA FUNDAÇÃO - ARGAMASSA IMPERMEÁVEL",
+      "unidade": "M2",
+      "quantidade": 95.64,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "CONSTRUÇÃO DOS NOVOS VESTIÁRIOS",
+      "codigo": "20511",
+      "fonte": null,
+      "descricao": "CONCRETO FCK=30MPA - USINADO",
+      "unidade": "M3",
+      "quantidade": 19.66,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "CONSTRUÇÃO DOS NOVOS VESTIÁRIOS",
+      "codigo": "40142",
+      "fonte": null,
+      "descricao": "BLOCOS VAZADOS DE CONCRETO 19CM",
+      "unidade": "M2",
+      "quantidade": 169.12,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": "CONSTRUÇÃO DOS NOVOS VESTIÁRIOS",
+      "codigo": "40140",
+      "fonte": null,
+      "descricao": "BLOCOS VAZADOS DE CONCRETO - 09CM",
+      "unidade": "M2",
+      "quantidade": 56.8,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": "CONSTRUÇÃO DOS NOVOS VESTIÁRIOS",
+      "codigo": "40204",
+      "fonte": null,
+      "descricao": "ELEMENTOS VAZADOS DE TIJOLOS CERÂMICOS",
+      "unidade": "M2",
+      "quantidade": 4.8,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 29
+    },
+    {
+      "grupo": "CONSTRUÇÃO DOS NOVOS VESTIÁRIOS",
+      "codigo": "101094",
+      "fonte": null,
+      "descricao": "CAIXA DE LIGAÇÃO OU INSPEÇÃO - ESCAVAÇÃO E APILOAMENTO",
+      "unidade": "M3",
+      "quantidade": 1.02,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 30
+    },
+    {
+      "grupo": "CONSTRUÇÃO DOS NOVOS VESTIÁRIOS",
+      "codigo": "101095",
+      "fonte": null,
+      "descricao": "CAIXA DE LIGAÇÃO OU INSPEÇÃO - LASTRO DE CONCRETO (FUNDO)",
+      "unidade": "M3",
+      "quantidade": 0.13,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 31
+    },
+    {
+      "grupo": "CONSTRUÇÃO DOS NOVOS VESTIÁRIOS",
+      "codigo": "101096",
+      "fonte": null,
+      "descricao": "CAIXA DE LIGAÇÃO OU INSPEÇÃO - ALVENARIA DE 1/2 TIJOLO, REVESTIDA",
+      "unidade": "M2",
+      "quantidade": 4.1,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 32
+    },
+    {
+      "grupo": "CONSTRUÇÃO DOS NOVOS VESTIÁRIOS",
+      "codigo": "101098",
+      "fonte": null,
+      "descricao": "CAIXA DE LIGAÇÃO OU INSPEÇÃO - TAMPA DE CONCRETO",
+      "unidade": "M2",
+      "quantidade": 1.28,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 33
+    },
+    {
+      "grupo": "CONSTRUÇÃO DOS NOVOS VESTIÁRIOS",
+      "codigo": "110301",
+      "fonte": null,
+      "descricao": "CHAPISCO COMUM - ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 451.84,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 34
+    },
+    {
+      "grupo": "CONSTRUÇÃO DOS NOVOS VESTIÁRIOS",
+      "codigo": "110310",
+      "fonte": null,
+      "descricao": "EMBOÇO EXTERNO - ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 451.84,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 35
+    },
+    {
+      "grupo": "CONSTRUÇÃO DOS NOVOS VESTIÁRIOS",
+      "codigo": "110313",
+      "fonte": null,
+      "descricao": "REBOCO EXTERNO - ARGAMASSA PRÉ-FABRICADA",
+      "unidade": "M2",
+      "quantidade": 451.84,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 36
+    },
+    {
+      "grupo": "CONSTRUÇÃO DOS NOVOS VESTIÁRIOS",
+      "codigo": "130202",
+      "fonte": null,
+      "descricao": "CIMENTADO COMUM, DESEMPENADO E ALISADO - ESPESSURA 20MM",
+      "unidade": "M2",
+      "quantidade": 57.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 37
+    },
+    {
+      "grupo": "CONSTRUÇÃO DOS NOVOS VESTIÁRIOS",
+      "codigo": "130240",
+      "fonte": null,
+      "descricao": "PISO CERÂMICO ESMALTADO (PEI-5) - ASSENTADO COM ARGAMASSA COMUM",
+      "unidade": "M2",
+      "quantidade": 57.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 38
+    },
+    {
+      "grupo": "CONSTRUÇÃO DOS NOVOS VESTIÁRIOS",
+      "codigo": "150115",
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 475.32,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 39
+    },
+    {
+      "grupo": "CONSTRUÇÃO DOS NOVOS VESTIÁRIOS",
+      "codigo": "150210",
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO - ESQUADRIAS E PEÇAS DE MARCENARIA, SEM EMASSAMENTO",
+      "unidade": "M2",
+      "quantidade": 8.4,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 40
+    },
+    {
+      "grupo": "CONSTRUÇÃO DOS NOVOS VESTIÁRIOS",
+      "codigo": "100210",
+      "fonte": null,
+      "descricao": "CAIXA D'ÁGUA DE FIBRA DE VIDRO - 1500 LITROS",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 41
+    },
+    {
+      "grupo": "CONSTRUÇÃO DOS NOVOS VESTIÁRIOS",
+      "codigo": "100261",
+      "fonte": null,
+      "descricao": "TUBO DE PVC RÍGIDO, SOLDÁVEL (LINHA ÁGUA) - 25MM (3/4\")",
+      "unidade": "M",
+      "quantidade": 20.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 42
+    },
+    {
+      "grupo": "CONSTRUÇÃO DOS NOVOS VESTIÁRIOS",
+      "codigo": "100262",
+      "fonte": null,
+      "descricao": "TUBO DE PVC RÍGIDO, SOLDÁVEL (LINHA ÁGUA) - 32MM (1\")",
+      "unidade": "M",
+      "quantidade": 30.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 43
+    },
+    {
+      "grupo": "CONSTRUÇÃO DOS NOVOS VESTIÁRIOS",
+      "codigo": "100282",
+      "fonte": null,
+      "descricao": "REGISTRO DE GAVETA, METAL AMARELO - 1\"",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 44
+    },
+    {
+      "grupo": "CONSTRUÇÃO DOS NOVOS VESTIÁRIOS",
+      "codigo": "100291",
+      "fonte": null,
+      "descricao": "TORNEIRA DE BÓIA, DE LATÃO - 3/4\"",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 45
+    },
+    {
+      "grupo": "CONSTRUÇÃO DOS NOVOS VESTIÁRIOS",
+      "codigo": "100531",
+      "fonte": null,
+      "descricao": "REGISTRO DE GAVETA, METAL CROMADO - 3/4\"",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 46
+    },
+    {
+      "grupo": "CONSTRUÇÃO DOS NOVOS VESTIÁRIOS",
+      "codigo": "100551",
+      "fonte": null,
+      "descricao": "REGISTRO DE PRESSÃO, METAL CROMADO - 3/4\"",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 47
+    },
+    {
+      "grupo": "CONSTRUÇÃO DOS NOVOS VESTIÁRIOS",
+      "codigo": "101440",
+      "fonte": null,
+      "descricao": "CHUVEIRO ELÉTRICO AUTOMÁTICO, CORPO EM PVC CROMADO - 220V2800/4400W",
+      "unidade": "UN",
+      "quantidade": 4.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 48
+    },
+    {
+      "grupo": "CONSTRUÇÃO DOS NOVOS VESTIÁRIOS",
+      "codigo": "100931",
+      "fonte": null,
+      "descricao": "TUBO DE PVC RÍGIDO, PONTA E BOLSA (LINHA ESGOTO) - 50MM (2\")",
+      "unidade": "M",
+      "quantidade": 25.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 49
+    },
+    {
+      "grupo": "CONSTRUÇÃO DOS NOVOS VESTIÁRIOS",
+      "codigo": "100933",
+      "fonte": null,
+      "descricao": "TUBO DE PVC RÍGIDO, PONTA E BOLSA (LINHA ESGOTO) - 100MM (4\")",
+      "unidade": "M",
+      "quantidade": 30.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 50
+    },
+    {
+      "grupo": null,
+      "codigo": "101325",
+      "fonte": null,
+      "descricao": "MICTÓRIO INDIVIDUAL DE LOUÇA BRANCA, TIPO BACIA - DE CENTRO",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "101010",
+      "fonte": null,
+      "descricao": "CAIXA SIFONADA DE PVC RÍGIDO - 100X150MM",
+      "unidade": "UN",
+      "quantidade": 8.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "101303",
+      "fonte": null,
+      "descricao": "BACIA SANITÁRIA COM CAIXA ACOPLADA DE LOUÇA BRANCA",
+      "unidade": "UN",
+      "quantidade": 4.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "101308",
+      "fonte": null,
+      "descricao": "LAVATÓRIO DE LOUÇA BRANCA, SEM COLUNA, CAPACIDADE MÍNIMA 5L, EXCLUSIVE TORNEIRA",
+      "unidade": "UN",
+      "quantidade": 4.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "101410",
+      "fonte": null,
+      "descricao": "TORNEIRA DE MESA COM ACIONAMENTO MANUAL E FECHAMENTO AUTOMÁTICO",
+      "unidade": "UN",
+      "quantidade": 4.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "108072",
+      "fonte": null,
+      "descricao": "SIFÃO TIPO PESADO, METAL CROMADO - 1\"X1 1/2\"",
+      "unidade": "UN",
+      "quantidade": 4.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "108093",
+      "fonte": null,
+      "descricao": "VÁLVULA AMERICANA DE METAL CROMADO - 1 1/2\"X3 3/4\"",
+      "unidade": "UN",
+      "quantidade": 4.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "90254",
+      "fonte": null,
+      "descricao": "ELETRODUTO DE PVC CORRUGADO REFORÇADO, ANTICHAMA - 20MM (1/2\")",
+      "unidade": "M",
+      "quantidade": 60.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "90305",
+      "fonte": null,
+      "descricao": "CABO 2,50MM2 - ISOLAMENTO PARA 0,7KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 120.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "90307",
+      "fonte": null,
+      "descricao": "CABO 6,00MM2 - ISOLAMENTO PARA 0,7KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 150.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "90506",
+      "fonte": null,
+      "descricao": "QUADRO DE DISTRIBUIÇÃO EM CHAPA METÁLICA - PARA ATÉ 16 DISJUNTORES",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "90760",
+      "fonte": null,
+      "descricao": "PONTO COM TOMADA SIMPLES DE EMBUTIR - 110/220V CAIXA 4\"X2\"",
+      "unidade": "UN",
+      "quantidade": 12.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": "90715",
+      "fonte": null,
+      "descricao": "PONTO COM INTERRUPTOR SIMPLES BIPOLAR - EM CAIXA 4\"X2\"",
+      "unidade": "UN",
+      "quantidade": 4.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": null,
+      "codigo": "90795",
+      "fonte": null,
+      "descricao": "PONTO DE LUZ - CONDULETE 3/4\"",
+      "unidade": "UN",
+      "quantidade": 8.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": null,
+      "codigo": "90812",
+      "fonte": null,
+      "descricao": "MINI DISJUNTOR - TIPO EUROPEU (IEC) - BIPOLAR 6/25A",
+      "unidade": "UN",
+      "quantidade": 12.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": null,
+      "codigo": "90813",
+      "fonte": null,
+      "descricao": "MINI DISJUNTOR - TIPO EUROPEU (IEC) - BIPOLAR 32/50A",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": null,
+      "codigo": "90951",
+      "fonte": null,
+      "descricao": "LUMINÁRIA COMERCIAL DE SOBREPOR COM DIFUSOR TRANSPARENTE OU FOSCO PARA 2 LÂMPADAS TUBULARES DE LED 18/20W - COMPLETA",
+      "unidade": "UN",
+      "quantidade": 8.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": null,
+      "codigo": "30421",
+      "fonte": null,
+      "descricao": "LAJE MISTA TRELIÇADA H-12CM COM CAPEAMENTO 4CM (16CM)",
+      "unidade": "M2",
+      "quantidade": 71.28,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": null,
+      "codigo": "50312",
+      "fonte": null,
+      "descricao": "IMPERMEABILIZAÇÃO A BASE DE EMULSÃO ASFÁLTICA - ESTRUTURADA COM TECIDO POLIÉSTER - 2 CAMADAS DE ESTRUTURANTE",
+      "unidade": "M2",
+      "quantidade": 71.28,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": null,
+      "codigo": "60113",
+      "fonte": null,
+      "descricao": "ESTRUTURA DE MADEIRA, PONTALETADA, PARA TELHAS ONDULADAS CA/AL/PL/AG",
+      "unidade": "M2",
+      "quantidade": 71.28,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": null,
+      "codigo": "60222",
+      "fonte": null,
+      "descricao": "TELHA ONDULADA CRFS 8MM",
+      "unidade": "M2",
+      "quantidade": 71.28,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": null,
+      "codigo": "70105",
+      "fonte": null,
+      "descricao": "PM.05 - PORTA LISA ESPECIAL/ SÓLIDA - 62X210CM",
+      "unidade": "UN",
+      "quantidade": 4.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": null,
+      "codigo": "70107",
+      "fonte": null,
+      "descricao": "PM.07 - PORTA LISA ESPECIAL/ SÓLIDA - 82X210CM",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": null,
+      "codigo": "70153",
+      "fonte": null,
+      "descricao": "EM.01 - BATENTE DE MADEIRA (14CM) - PARA INSTALAÇÕES SANITÁRIAS",
+      "unidade": "JG",
+      "quantidade": 6.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": null,
+      "codigo": "70202",
+      "fonte": null,
+      "descricao": "CONJUNTO DE FECHADURA DE CILINDRO, 55MM, TRÁFEGO INTENSO, MAÇANETA EM ZAMAC, GUARNIÇÕES EM AÇO, ACABAMENTO CROMADO - PARA PORTA INTERNA OU EXTERNA",
+      "unidade": "UN",
+      "quantidade": 6.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "110800",
+      "fonte": null,
+      "descricao": "CARRO POPULAR 50% EM OPERAÇÃO",
+      "unidade": "H",
+      "quantidade": 60.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "35100",
+      "fonte": null,
+      "descricao": "TÉCNICO - NÍVEL MÉDIO",
+      "unidade": "H",
+      "quantidade": 60.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "200360",
+      "fonte": null,
+      "descricao": "PROJETO BÁSICO (PRANCHA A1)",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "200304",
+      "fonte": null,
+      "descricao": "ENGENHEIRO/ARQUITETO PLENO",
+      "unidade": "H",
+      "quantidade": 60.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 29
+    }
+  ],
+  "apelido": "CDC ROMERA VAL"
+}

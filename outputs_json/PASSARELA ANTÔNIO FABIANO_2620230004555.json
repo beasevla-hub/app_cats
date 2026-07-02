@@ -1,0 +1,265 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620230004555",
+    "numero_art": "28027230230615865",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA VILA PRUDENTE",
+    "cnpj_contratante": "05.969.123/0001-59",
+    "objeto": "CONTRATAÇÃO DE EMPRESA DE ENGENHARIA OU ARQUITETURA PARA EXECUÇÃO DE OBRAS DE REVITALIZAÇÃO NA PASSARELA ANTÔNIO FABIANO",
+    "processo_administrativo": "6060.2021/0000564-5",
+    "contrato": "04/SUB-VP/2022",
+    "endereco_obra": "AVENIDA PROFESSOR LUIZ IGNÁCIO ANHAIA MELLO",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2022-06-06",
+    "data_fim": "2022-09-04",
+    "area_m2": 177.25,
+    "valor_contrato": 243621.12
+  },
+  "servicos": [
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "01-01-07",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M³",
+      "quantidade": 5.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "01-05-40",
+      "fonte": null,
+      "descricao": "TELA PARA PROTEÇÃO DE OBRAS, MALHA 2MM",
+      "unidade": "M²",
+      "quantidade": 123.36,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "17-30-02",
+      "fonte": null,
+      "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
+      "unidade": "M²",
+      "quantidade": 2.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "REVITALIZAÇÃO",
+      "codigo": "06-02-44",
+      "fonte": null,
+      "descricao": "TELHA TRAPEZOIDAL EM AÇO GALVANIZADO ESPESSURA DE 0,50MM, REVESTIMENTO B, H=40MM",
+      "unidade": "M²",
+      "quantidade": 153.47,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "REVITALIZAÇÃO",
+      "codigo": "08-02-80",
+      "fonte": null,
+      "descricao": "TELA DE PROTEÇÃO EM ARAME N. 12, MALHA DE ½\" – INCLUSIVE REQUADRO",
+      "unidade": "M²",
+      "quantidade": 31.95,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "REVITALIZAÇÃO",
+      "codigo": "06-02-94",
+      "fonte": null,
+      "descricao": "CUMEEIRA TRAPEZOIDAL EM AÇO GALVANIZADO ESP=0,5MM, REVESTIMENTO B, H=40MM, L=0,60M",
+      "unidade": "M",
+      "quantidade": 52.2,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "REVITALIZAÇÃO",
+      "codigo": "08-60-01",
+      "fonte": null,
+      "descricao": "RETIRADA DE ESQUADRIAS METÁLICAS EM GERAL, PORTAS OU CAIXILHOS",
+      "unidade": "M²",
+      "quantidade": 33.59,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "REVITALIZAÇÃO",
+      "codigo": "08-80-50",
+      "fonte": null,
+      "descricao": "FERRO TRABALHADO - CAIXILHOS E PEQUENA PEÇAS DE SERRALHERIA",
+      "unidade": "KG",
+      "quantidade": 72.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "REVITALIZAÇÃO",
+      "codigo": "10-09-33",
+      "fonte": null,
+      "descricao": "TUBO DE PVC RÍGICO, PONTA E BOLSA (LINHA ESGOTO) – 100MM (4\")",
+      "unidade": "M",
+      "quantidade": 72.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "REVITALIZAÇÃO",
+      "codigo": "10-11-02",
+      "fonte": null,
+      "descricao": "CALHA EM CHAPA DE AÇO GALVANIZADO N.24 - DESENVLVIMENTO 50CM",
+      "unidade": "M",
+      "quantidade": 104.4,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "REVITALIZAÇÃO",
+      "codigo": "13-02-02",
+      "fonte": null,
+      "descricao": "CIMENTADO COMUM, DESEMPENADO E ALISADO - ESPESSURA 20MM",
+      "unidade": "M²",
+      "quantidade": 476.25,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "REVITALIZAÇÃO",
+      "codigo": "13-02-47",
+      "fonte": null,
+      "descricao": "PISO PODOTÁTIL, ALERTA OU DIRECIONAL, EM LADRILHO HIDRÁULICO",
+      "unidade": "M²",
+      "quantidade": 36.33,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "REVITALIZAÇÃO",
+      "codigo": "15-01-15",
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M²",
+      "quantidade": 579.04,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "REVITALIZAÇÃO",
+      "codigo": "15-03-10",
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO - ESQUADRIAS E PEÇAS DE SERRALHERIA",
+      "unidade": "M²",
+      "quantidade": 586.93,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "REVITALIZAÇÃO",
+      "codigo": "15-03-12",
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO - ESTRUTURAS METÁLICAS",
+      "unidade": "M²",
+      "quantidade": 422.82,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "REVITALIZAÇÃO",
+      "codigo": "15-03-14",
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO – EXTERIOR DE CALHAS, RUFOS E CODUTORES",
+      "unidade": "M",
+      "quantidade": 176.4,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "REVITALIZAÇÃO",
+      "codigo": "15-50-03",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE PINTURA EM ALVENARIA E CONCRETO - LIXA",
+      "unidade": "M²",
+      "quantidade": 579.04,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "REVITALIZAÇÃO",
+      "codigo": "15-50-20",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE PINTURA EM ESQUADRIAS E PEÇAS DE SERRALHERIA - LIXA",
+      "unidade": "M²",
+      "quantidade": 586.93,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "REVITALIZAÇÃO",
+      "codigo": "17-45-01",
+      "fonte": null,
+      "descricao": "ANDAIMES METÁLICOS - FORNECIMENTO",
+      "unidade": "M³XMÊS",
+      "quantidade": 182.25,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "REVITALIZAÇÃO",
+      "codigo": "17-45-02",
+      "fonte": null,
+      "descricao": "ANDAIMES METÁLICOS - MONTAGEM E DESMONTAGEM",
+      "unidade": "M³",
+      "quantidade": 60.75,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "REVITALIZAÇÃO",
+      "codigo": "17-84-64",
+      "fonte": null,
+      "descricao": "CORRIMÃO DUPLO AÇO GALVANIZADO COM PINTURA ESMALTE",
+      "unidade": "M",
+      "quantidade": 382.2,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "17-04-01",
+      "fonte": null,
+      "descricao": "LIMPEZA GERAL DA OBRA",
+      "unidade": "M²",
+      "quantidade": 177.25,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "20-03-04",
+      "fonte": null,
+      "descricao": "ENGENHEIRO/ARQUITETO PLENO",
+      "unidade": "H",
+      "quantidade": 36.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "20-03-61",
+      "fonte": null,
+      "descricao": "PROJETO EXECUTIVO (PRANCHA A1)",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    }
+  ],
+  "apelido": "PASSARELA ANTÔNIO FABIANO"
+}

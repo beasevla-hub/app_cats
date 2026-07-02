@@ -1,0 +1,585 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620260001552",
+    "numero_art": "2620260209673",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893 - SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA DE SANTANA / TUCURUVI",
+    "cnpj_contratante": "05.652.348/0001-87",
+    "objeto": "Contratação de serviços para execução de escadaria",
+    "processo_administrativo": "6052.2026/0000271-2",
+    "contrato": "028/SUB-ST/AJ/2024",
+    "endereco_obra": "Rua MARIA LUIZA No.: 230",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2024-12-30",
+    "data_fim": "2025-02-28",
+    "area_m2": 126.0,
+    "valor_contrato": 180018.03
+  },
+  "servicos": [
+    {
+      "grupo": "ADMINISTRAÇÃO DIRETA DA OBRA",
+      "codigo": "70-002-108",
+      "fonte": null,
+      "descricao": "ENCARREGADO DE OBRA (SGSP)",
+      "unidade": "H",
+      "quantidade": 264.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "ADMINISTRAÇÃO DIRETA DA OBRA",
+      "codigo": "20-003-004",
+      "fonte": null,
+      "descricao": "ENGENHEIRO/ARQUITETO PLENO",
+      "unidade": "H",
+      "quantidade": 32.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "ADMINISTRAÇÃO DIRETA DA OBRA",
+      "codigo": "17-030-002",
+      "fonte": null,
+      "descricao": "ENCARREGADO DE OBRA (SGSP)",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "TOPOGRAFIA, SONDAGENS E PROJETO EXECUTIVO",
+      "codigo": "51-010-000",
+      "fonte": null,
+      "descricao": "LEVANTAMENTO PLANIALTIMÉTRICO CADASTRAL",
+      "unidade": "M2",
+      "quantidade": 200.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "TOPOGRAFIA, SONDAGENS E PROJETO EXECUTIVO",
+      "codigo": "53-015-001",
+      "fonte": null,
+      "descricao": "CÁLCULO ESTRUTURAL DE CONCRETO ARMADO PARA PONTES, VIADUTOS, MUROS DE ARRIMO E OBRAS CONGÊNERES - PERCENTAGEM A SER APLICADA AO ORÇAMENTO DA PARTE ESTRUTURAL DA OBRA, USANDO OS PREÇOS UNITÁRIOS DA TABELA DE SMSO-ATÉ 50M3",
+      "unidade": "%",
+      "quantidade": 48829.29,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "TOPOGRAFIA, SONDAGENS E PROJETO EXECUTIVO",
+      "codigo": "53-053-018",
+      "fonte": null,
+      "descricao": "PROJETO EXECUTIVO (PRANCHA A1)",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "TOPOGRAFIA, SONDAGENS E PROJETO EXECUTIVO",
+      "codigo": "52-002-002",
+      "fonte": null,
+      "descricao": "MOBILIZAÇÃO E INSTALAÇÃO DE 1 EQUIPAMENTO",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "TOPOGRAFIA, SONDAGENS E PROJETO EXECUTIVO",
+      "codigo": "52-002-004",
+      "fonte": null,
+      "descricao": "DESLOCAMENTO DE EQUIPAMENTO ENTRE FUROS EM TERRENO PLANO, CONSIDERANDO A DISTÂNCIA ATÉ 100M",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "TOPOGRAFIA, SONDAGENS E PROJETO EXECUTIVO",
+      "codigo": "52-002-010",
+      "fonte": null,
+      "descricao": "PERFURAÇÃO E EXECUÇÃO DE ENSAIO PENETOMÉTRICO OU DE LAVAGEM POR TEMPO",
+      "unidade": "M",
+      "quantidade": 45.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "CONSTRUÇÃO DA ESCADA",
+      "codigo": "02-050-006",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MECANIZADA DE CONCRETO ARMADO",
+      "unidade": "M3",
+      "quantidade": 2.4,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "CONSTRUÇÃO DA ESCADA",
+      "codigo": "01-001-006",
+      "fonte": null,
+      "descricao": "CARGA MANUAL E REMOÇÃO DE ENTULHO, INCLUSIVE TRANSPORTE ATÉ 1 KM",
+      "unidade": "M3",
+      "quantidade": 3.12,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "CONSTRUÇÃO DA ESCADA",
+      "codigo": "01-001-007",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 3.12,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "CONSTRUÇÃO PAREDES LATERAIS IMPERMEABILIZAÇÃO E PINTURA JUNTO AOS MUROS VIZINHOS",
+      "codigo": "01-002-001",
+      "fonte": null,
+      "descricao": "CORTE",
+      "unidade": "M3",
+      "quantidade": null,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "CONSTRUÇÃO PAREDES LATERAIS IMPERMEABILIZAÇÃO E PINTURA JUNTO AOS MUROS VIZINHOS",
+      "codigo": "01-002-002",
+      "fonte": null,
+      "descricao": "CORTE E ESPALHAMENTO DENTRO DA OBRA",
+      "unidade": "M3",
+      "quantidade": null,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "CONSTRUÇÃO PAREDES LATERAIS IMPERMEABILIZAÇÃO E PINTURA JUNTO AOS MUROS VIZINHOS",
+      "codigo": "01-002-005",
+      "fonte": null,
+      "descricao": "ATERRO, INCLUSIVE COMPACTAÇÃO MANUAL",
+      "unidade": "M3",
+      "quantidade": null,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "CONSTRUÇÃO PAREDES LATERAIS IMPERMEABILIZAÇÃO E PINTURA JUNTO AOS MUROS VIZINHOS",
+      "codigo": "01-002-011",
+      "fonte": null,
+      "descricao": "CARGA MANUAL E REMOÇÃO DE TERRA, INCLUSIVE TRANSPORTE ATÉ 1 KM",
+      "unidade": "M3",
+      "quantidade": null,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "CONSTRUÇÃO PAREDES LATERAIS IMPERMEABILIZAÇÃO E PINTURA JUNTO AOS MUROS VIZINHOS",
+      "codigo": "01-003-002",
+      "fonte": null,
+      "descricao": "CORTE E ATERRO COMPACTADO",
+      "unidade": "M3",
+      "quantidade": 22.5,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "CONSTRUÇÃO PAREDES LATERAIS IMPERMEABILIZAÇÃO E PINTURA JUNTO AOS MUROS VIZINHOS",
+      "codigo": "01-003-003",
+      "fonte": null,
+      "descricao": "CORTE E CARREGAMENTO PARA BOTA-FORA, INCLUSIVE TRANSPORTE ATÉ 1KM",
+      "unidade": "M3",
+      "quantidade": 204.36,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "CONSTRUÇÃO PAREDES LATERAIS IMPERMEABILIZAÇÃO E PINTURA JUNTO AOS MUROS VIZINHOS",
+      "codigo": "01-003-010",
+      "fonte": null,
+      "descricao": "TRANSPORTE DE TERRA POR CAMINHÃO BASCULANTE, A PARTIR DE1KM",
+      "unidade": "M3XKM",
+      "quantidade": 4087.2,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "CONSTRUÇÃO PAREDES LATERAIS IMPERMEABILIZAÇÃO E PINTURA JUNTO AOS MUROS VIZINHOS",
+      "codigo": "02-001-001",
+      "fonte": null,
+      "descricao": "BROCA DE CONCRETO - DIAMETRO DE 20CM",
+      "unidade": "M",
+      "quantidade": 99.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "CONSTRUÇÃO PAREDES LATERAIS IMPERMEABILIZAÇÃO E PINTURA JUNTO AOS MUROS VIZINHOS",
+      "codigo": "02-002-015",
+      "fonte": null,
+      "descricao": "LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 5.7,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "CONSTRUÇÃO PAREDES LATERAIS IMPERMEABILIZAÇÃO E PINTURA JUNTO AOS MUROS VIZINHOS",
+      "codigo": "02-003-001",
+      "fonte": null,
+      "descricao": "FORMA COMUM DE TÁBUAS DE PINUS",
+      "unidade": "M2",
+      "quantidade": 102.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "CONSTRUÇÃO PAREDES LATERAIS IMPERMEABILIZAÇÃO E PINTURA JUNTO AOS MUROS VIZINHOS",
+      "codigo": "02-004-004",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-50",
+      "unidade": "KG",
+      "quantidade": 972.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "CONSTRUÇÃO PAREDES LATERAIS IMPERMEABILIZAÇÃO E PINTURA JUNTO AOS MUROS VIZINHOS",
+      "codigo": "02-004-007",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-60",
+      "unidade": "KG",
+      "quantidade": 486.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "CONSTRUÇÃO PAREDES LATERAIS IMPERMEABILIZAÇÃO E PINTURA JUNTO AOS MUROS VIZINHOS",
+      "codigo": "02-005-010",
+      "fonte": null,
+      "descricao": "CONCRETO FCK=25MPA - USINADO",
+      "unidade": "M3",
+      "quantidade": 24.3,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "CONSTRUÇÃO PAREDES LATERAIS IMPERMEABILIZAÇÃO E PINTURA JUNTO AOS MUROS VIZINHOS",
+      "codigo": "02-006-005",
+      "fonte": null,
+      "descricao": "IMPERMEABILIZAÇÃO DO RESPALDO DA FUNDAÇÃO - ARGAMASSA IMPERMEÁVEL",
+      "unidade": "M2",
+      "quantidade": 60.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "CONSTRUÇÃO PAREDES LATERAIS IMPERMEABILIZAÇÃO E PINTURA JUNTO AOS MUROS VIZINHOS",
+      "codigo": "05-002-043",
+      "fonte": null,
+      "descricao": "PINTURA PROTETORA COM TINTA BETUMINOSA (PARA ARGAMASSA IMPERMEÁVEL) - 2 DEMÃOS",
+      "unidade": "M2",
+      "quantidade": 60.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "CONSTRUÇÃO PAREDES LATERAIS IMPERMEABILIZAÇÃO E PINTURA JUNTO AOS MUROS VIZINHOS",
+      "codigo": "04-001-035",
+      "fonte": null,
+      "descricao": "VB.02-ALVENARIA EM BLOCOS DE CONCRETO ESTRUTURAL 19 X 19 X 39CM - 8MPA",
+      "unidade": "M2",
+      "quantidade": 28.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "CONSTRUÇÃO PAREDES LATERAIS IMPERMEABILIZAÇÃO E PINTURA JUNTO AOS MUROS VIZINHOS",
+      "codigo": "11-003-010",
+      "fonte": null,
+      "descricao": "VA. 10 - EMBOÇO EXTERNO - ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 28.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "CONSTRUÇÃO PAREDES LATERAIS IMPERMEABILIZAÇÃO E PINTURA JUNTO AOS MUROS VIZINHOS",
+      "codigo": "11-003-001",
+      "fonte": null,
+      "descricao": "VA.10- CHAPISCO COMUM - ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 28.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "CONSTRUÇÃO PAREDES LATERAIS IMPERMEABILIZAÇÃO E PINTURA JUNTO AOS MUROS VIZINHOS",
+      "codigo": "15-001-015",
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 28.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "CONSTRUÇÃO DE PASSEIOS E PAISAGISMO",
+      "codigo": "02-050-006",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MECANIZADA DE CONCRETO ARMADO",
+      "unidade": "M3",
+      "quantidade": 1.55,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "CONSTRUÇÃO DE PASSEIOS E PAISAGISMO",
+      "codigo": "01-001-006",
+      "fonte": null,
+      "descricao": "CARGA MANUAL E REMOÇÃO DE ENTULHO, INCLUSIVE TRANSPORTE ATÉ 1 KM",
+      "unidade": "M3",
+      "quantidade": 2.03,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "CONSTRUÇÃO DE PASSEIOS E PAISAGISMO",
+      "codigo": "01-001-007",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 2.03,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "CONSTRUÇÃO DE PASSEIOS E PAISAGISMO",
+      "codigo": "17-002-043",
+      "fonte": null,
+      "descricao": "NC.27-PASSEIO DE CONCRETO ARMADO, FCK=25MPA, INCLUINDO PREPARO DA CAIXA E LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 1.55,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "CONSTRUÇÃO DE PASSEIOS E PAISAGISMO",
+      "codigo": "13-002-004",
+      "fonte": null,
+      "descricao": "ACABAMENTO DE PISO DE CONCRETO TIPO BAMBOLÊ",
+      "unidade": "M2",
+      "quantidade": 15.5,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "CONSTRUÇÃO DE PASSEIOS E PAISAGISMO",
+      "codigo": "13-002-043",
+      "fonte": null,
+      "descricao": "DY.02 - PISO PODOTÁTIL, ALERTA OU DIRECIONAL, EM BORRACHA SINTÉTICA ASSENTES COM COLA",
+      "unidade": "M2",
+      "quantidade": 3.5,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "CONSTRUÇÃO DE PASSEIOS E PAISAGISMO",
+      "codigo": "60-021-000",
+      "fonte": null,
+      "descricao": "CORTE DE CONCRETO COM DISCO DIAMANTADO ATÉ PROFUNDIDADE DE 13CM",
+      "unidade": "M2",
+      "quantidade": 0.45,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "CONSTRUÇÃO DE PASSEIOS E PAISAGISMO",
+      "codigo": "18-003-005",
+      "fonte": null,
+      "descricao": "GRAMA ESMERALDA",
+      "unidade": "M2",
+      "quantidade": 75.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": "CONSTRUÇÃO DE PASSEIOS E PAISAGISMO",
+      "codigo": "18-070-040",
+      "fonte": null,
+      "descricao": "TRANSPLANTE DE ÁRVORES COM DIÂMETRO ATÉ 30CM",
+      "unidade": "UN",
+      "quantidade": null,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": "CONSTRUÇÃO DE PASSEIOS E PAISAGISMO",
+      "codigo": "18-080-001",
+      "fonte": null,
+      "descricao": "REVOLVIMENTO E AJUSTE DO SOLO",
+      "unidade": "M2",
+      "quantidade": 75.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 29
+    },
+    {
+      "grupo": "CONSTRUÇÃO DE PASSEIOS E PAISAGISMO",
+      "codigo": "18-080-011",
+      "fonte": null,
+      "descricao": "TERRA PREPARADA PARA PLANTIO",
+      "unidade": "M3",
+      "quantidade": 3.75,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 30
+    },
+    {
+      "grupo": "IMPLANTAÇÃO DO CORRIMÃO METÁLICO",
+      "codigo": "17-005-024",
+      "fonte": null,
+      "descricao": "DP.04-CORRIMÃO EM TUBO GALVANIZADO",
+      "unidade": "M",
+      "quantidade": 170.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 31
+    },
+    {
+      "grupo": "IMPLANTAÇÃO DO CORRIMÃO METÁLICO",
+      "codigo": "17-005-026",
+      "fonte": null,
+      "descricao": "ANEL DE TEXTURA PARA CORRIMÃO",
+      "unidade": "UN",
+      "quantidade": 4.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 32
+    },
+    {
+      "grupo": "CONSTRUÇÃO PAREDES LATERAIS IMPERMEABILIZAÇÃO E PINTURA JUNTO AOS MUROS VIZINHOS",
+      "codigo": "02-001-001",
+      "fonte": null,
+      "descricao": "BROCA DE CONCRETO - DIAMETRO DE 20CM",
+      "unidade": "M",
+      "quantidade": 26.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "CONSTRUÇÃO PAREDES LATERAIS IMPERMEABILIZAÇÃO E PINTURA JUNTO AOS MUROS VIZINHOS",
+      "codigo": "02-002-015",
+      "fonte": null,
+      "descricao": "LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 0.6,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "CONSTRUÇÃO PAREDES LATERAIS IMPERMEABILIZAÇÃO E PINTURA JUNTO AOS MUROS VIZINHOS",
+      "codigo": "02-003-001",
+      "fonte": null,
+      "descricao": "FORMA COMUM DE TÁBUAS DE PINUS",
+      "unidade": "M2",
+      "quantidade": 36.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "CONSTRUÇÃO PAREDES LATERAIS IMPERMEABILIZAÇÃO E PINTURA JUNTO AOS MUROS VIZINHOS",
+      "codigo": "02-004-004",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-50",
+      "unidade": "KG",
+      "quantidade": 144.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "CONSTRUÇÃO PAREDES LATERAIS IMPERMEABILIZAÇÃO E PINTURA JUNTO AOS MUROS VIZINHOS",
+      "codigo": "02-004-007",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-60",
+      "unidade": "KG",
+      "quantidade": 72.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "CONSTRUÇÃO PAREDES LATERAIS IMPERMEABILIZAÇÃO E PINTURA JUNTO AOS MUROS VIZINHOS",
+      "codigo": "02-005-010",
+      "fonte": null,
+      "descricao": "CONCRETO FCK=25MPA - USINADO",
+      "unidade": "M3",
+      "quantidade": 3.6,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "CONSTRUÇÃO PAREDES LATERAIS IMPERMEABILIZAÇÃO E PINTURA JUNTO AOS MUROS VIZINHOS",
+      "codigo": "02-006-005",
+      "fonte": null,
+      "descricao": "IMPERMEABILIZAÇÃO DO RESPALDO DA FUNDAÇÃO - ARGAMASSA IMPERMEÁVEL",
+      "unidade": "M2",
+      "quantidade": 30.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "CONSTRUÇÃO PAREDES LATERAIS IMPERMEABILIZAÇÃO E PINTURA JUNTO AOS MUROS VIZINHOS",
+      "codigo": "05-002-043",
+      "fonte": null,
+      "descricao": "PINTURA PROTETORA COM TINTA BETUMINOSA (PARA ARGAMASSA IMPERMEÁVEL) - 2 DEMÃOS",
+      "unidade": "M2",
+      "quantidade": 24.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "CONSTRUÇÃO PAREDES LATERAIS IMPERMEABILIZAÇÃO E PINTURA JUNTO AOS MUROS VIZINHOS",
+      "codigo": "04-001-035",
+      "fonte": null,
+      "descricao": "VB.02-ALVENARIA EM BLOCOS DE CONCRETO ESTRUTURAL 19 X 19 X 39CM-8MPA",
+      "unidade": "M2",
+      "quantidade": 72.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "CONSTRUÇÃO PAREDES LATERAIS IMPERMEABILIZAÇÃO E PINTURA JUNTO AOS MUROS VIZINHOS",
+      "codigo": "11-003-010",
+      "fonte": null,
+      "descricao": "VA.10 - EMBOÇO EXTERNO - ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 72.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "CONSTRUÇÃO PAREDES LATERAIS IMPERMEABILIZAÇÃO E PINTURA JUNTO AOS MUROS VIZINHOS",
+      "codigo": "11-003-001",
+      "fonte": null,
+      "descricao": "VA.10 - CHAPISCO COMUM - ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 72.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "CONSTRUÇÃO PAREDES LATERAIS IMPERMEABILIZAÇÃO E PINTURA JUNTO AOS MUROS VIZINHOS",
+      "codigo": "15-001-015",
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 72.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 12
+    }
+  ],
+  "apelido": "ESCADARIA MARIA LUIZA"
+}

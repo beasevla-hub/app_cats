@@ -1,0 +1,595 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620250004978",
+    "numero_art": "2620241827304",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "Subprefeitura Parelheiros",
+    "cnpj_contratante": "05.494.401/0001-69",
+    "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA DE ENGENHARIA OU ARQUITETURA PARA REVITALIZAÇÃO E REURBANIZAÇÃO DE ÁREA PÚBLICA",
+    "processo_administrativo": "6047.2024/0000957-0",
+    "contrato": "026/SUB-PA/2024",
+    "endereco_obra": "R. FREI EUSTÁQUIO, ESTR. DA COLONIA MÁRIO REIMBERG CHRISTE ALT. N° 3190 - JARDIM SILVEIRA, E TV. ESTR. DA BARRAGEM, BARRAGEM",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2024-10-11",
+    "data_fim": "2024-12-09",
+    "area_m2": null,
+    "valor_contrato": 1939035.94
+  },
+  "servicos": [
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "10-018-000",
+      "fonte": null,
+      "descricao": "PROTEÇÃO PARA TERCEIROS COM TELA DE NYLON",
+      "unidade": "M2",
+      "quantidade": 1346.4,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "10-016-003",
+      "fonte": null,
+      "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
+      "unidade": "M2",
+      "quantidade": 4.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "DEMOLIÇÃO E RETIRADA VIELA",
+      "codigo": "02-050-006",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MECANIZADA DE CONCRETO ARMADO",
+      "unidade": "M3",
+      "quantidade": 100.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "DEMOLIÇÃO E RETIRADA VIELA",
+      "codigo": "01-001-005",
+      "fonte": null,
+      "descricao": "CARGA MECANIZADA E REMOÇÃO DE ENTULHO, INCLUSIVE TRANSPORTE ATÉ 1KM",
+      "unidade": "M3",
+      "quantidade": 180.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "DEMOLIÇÃO E RETIRADA VIELA",
+      "codigo": "01-001-007",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 180.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "VIELA",
+      "codigo": "01-003-003",
+      "fonte": null,
+      "descricao": "CORTE E CARREGAMENTO PARA BOTA-FORA, INCLUINDO TRANSPORTE ATÉ 1KM",
+      "unidade": "M3",
+      "quantidade": 125.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "VIELA",
+      "codigo": "01-003-010",
+      "fonte": null,
+      "descricao": "TRANSPORTE DE TERRA POR CAMINHÃO BASCULANTE, A PARTIR DE 1KM",
+      "unidade": "M3XKM",
+      "quantidade": 6874.98,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "VIELA",
+      "codigo": "02-002-010",
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 500.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "VIELA",
+      "codigo": "02-003-004",
+      "fonte": null,
+      "descricao": "FORMA COMUM DE TÁBUAS DE PINUS - NÃO RECUPERÁVEL",
+      "unidade": "M2",
+      "quantidade": 30.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "VIELA",
+      "codigo": "13-002-004",
+      "fonte": null,
+      "descricao": "ACABAMENTO DE PISO DE CONCRETO TIPO BAMBOLÊ",
+      "unidade": "M2",
+      "quantidade": 500.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "VIELA",
+      "codigo": "17-002-031",
+      "fonte": null,
+      "descricao": "PÓ DE BRITA COM COMPACTAÇÃO MECÂNICA - ESPESSURA 10CM",
+      "unidade": "M2",
+      "quantidade": 500.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "VIELA",
+      "codigo": "17-002-043",
+      "fonte": null,
+      "descricao": "NC.27-PASSEIO DE CONCRETO ARMADO, FCK=25MPA, INCLUINDO PREPARO DA CAIXA E LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 50.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "VIELA",
+      "codigo": "17-004-001",
+      "fonte": null,
+      "descricao": "LIMPEZA GERAL DA OBRA",
+      "unidade": "M2",
+      "quantidade": 500.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "VIELA",
+      "codigo": "15-015-015",
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 400.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "DEMOLIÇÃO E RETIRADA PAVIMENTO",
+      "codigo": "05-004-000",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE PAVIMENTO ASFÁLTICO, INCLUSIVE CAPA, INCLUI CARGA NO CAMINHÃO",
+      "unidade": "M2",
+      "quantidade": 1440.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "DEMOLIÇÃO E RETIRADA PAVIMENTO",
+      "codigo": "05-003-000",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE PAVIMENTO DE CONCRETO, SARJETA OU SARJETÃO, INCLUI CARGA EM CAMINHÃO",
+      "unidade": "M2",
+      "quantidade": 212.8,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "DEMOLIÇÃO E RETIRADA PAVIMENTO",
+      "codigo": "08-086-000",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO ALÉM DO PRIMEIRO KM",
+      "unidade": "M3XKM",
+      "quantidade": 16317.84,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "DRENAGEM",
+      "codigo": "05-013-000",
+      "fonte": null,
+      "descricao": "INC.27 - BASE DE CONCRETO FCK=15,00MPA PARA GUIAS, SARJETAS OU SARJETÕES",
+      "unidade": "M3",
+      "quantidade": 11.5,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "DRENAGEM",
+      "codigo": "05-014-002",
+      "fonte": null,
+      "descricao": "INC.27 - FORNECIMENTO E ASSENTAMENTO DE GUIAS TIPO PMSP 100, INCLUSIVE ENCOSTAMENTO DE TERRA - FCK=25,0MPA",
+      "unidade": "M",
+      "quantidade": 340.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "DRENAGEM",
+      "codigo": "05-019-002",
+      "fonte": null,
+      "descricao": "INC.27 - CONSTRUÇÃO DE SARJETA OU SARJETÃO DE CONCRETO - FCK= 20,0MPA",
+      "unidade": "M3",
+      "quantidade": 15.3,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": null,
+      "codigo": "06-022-003",
+      "fonte": null,
+      "descricao": "BOCA DE LOBO SIMPLES",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "04-004-000",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MECÂNICA PARA FUNDAÇÕES E VALAS COM PROFUNDIDADE MENOR OU IGUAL À 4,0M",
+      "unidade": "M3",
+      "quantidade": 60.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "05-020-000",
+      "fonte": null,
+      "descricao": "FUNDAÇÃO DE RACHÃO",
+      "unidade": "M3",
+      "quantidade": 352.33,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "06-005-000",
+      "fonte": null,
+      "descricao": "IHD.23-LASTRO DE BRITA E PÓ DE PEDRA",
+      "unidade": "M3",
+      "quantidade": 182.52,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "06-010-001",
+      "fonte": null,
+      "descricao": "FORNECIMENTO E ASSENTAMENTO DE TUBOS DE CONCRETO ARMADO, DIAMETRO 60CM - TIPO PA-2",
+      "unidade": "M",
+      "quantidade": 12.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "04-009-000",
+      "fonte": null,
+      "descricao": "REENCHIMENTO DE VALA COM COMPACTAÇÃO, SEM FORNECIMENTO DE TERRA",
+      "unidade": "M3",
+      "quantidade": 60.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "04-015-000",
+      "fonte": null,
+      "descricao": "ABERTURA DE CAIXA ATÉ 40CM, INCLUI ESCAVAÇÃO, COMPACTAÇÃO, TRANSPORTE E PREPARO DO SUB-LEITO",
+      "unidade": "M2",
+      "quantidade": 1296.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "04-060-000",
+      "fonte": null,
+      "descricao": "CARGA E REMOÇÃO DE TERRA ATÉ A DISTÂNCIA MÉDIA DE 1,0KM COM CAMINHÃO BASCULANTE DE 14 M3",
+      "unidade": "M3",
+      "quantidade": 673.92,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "05-010-000",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE TERRA ALÉM DO PRIMEIRO KM COM CAMINHÃO DE 14 M3",
+      "unidade": "M3XKM",
+      "quantidade": 37065.6,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "05-008-000",
+      "fonte": null,
+      "descricao": "REMANEJAMENTO DE RAMAL DOMICILIAR DE ÁGUA, INCLUSIVE ABERTURA E FECHAMENTO DE VALA",
+      "unidade": "M",
+      "quantidade": 368.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "05-048-000",
+      "fonte": null,
+      "descricao": "BASE DE BRITA GRADUADA",
+      "unidade": "M3",
+      "quantidade": 324.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "05-047-000",
+      "fonte": null,
+      "descricao": "BASE DE BICA CORRIDA",
+      "unidade": "M3",
+      "quantidade": 324.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "05-026-000",
+      "fonte": null,
+      "descricao": "INA.01 - IMPRIMAÇÃO BETUMINOSA LIGANTE",
+      "unidade": "M2",
+      "quantidade": 1296.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "05-027-000",
+      "fonte": null,
+      "descricao": "IMPRIMAÇÃO BETUMINOSA IMPERMEABILIZANTE",
+      "unidade": "M2",
+      "quantidade": 1296.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "05-028-000",
+      "fonte": null,
+      "descricao": "INA.01 - REVESTIMENTO DE CONCRETO ASFÁLTICO (SEM TRANSPORTE)",
+      "unidade": "M3",
+      "quantidade": 64.8,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "05-078-001",
+      "fonte": null,
+      "descricao": "CARGA, DESCARGA E TRANSPORTE DE CONCRETO ASFÁLTICO ATÉ A DISTÂNCIA MÉDIA DE IDA E VOLTA DE 1KM",
+      "unidade": "M3",
+      "quantidade": 64.8,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "05-078-007",
+      "fonte": null,
+      "descricao": "TRANSPORTE DE CONCRETO ASFÁLTICO ALÉM DO PRIMEIRO KM",
+      "unidade": "M3XKM",
+      "quantidade": 2592.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "03-053-018",
+      "fonte": null,
+      "descricao": "PROJETO EXECUTIVO (PRANCHA A1)",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "12-012-000",
+      "fonte": null,
+      "descricao": "ENCARREGADO",
+      "unidade": "H",
+      "quantidade": 384.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "12-013-000",
+      "fonte": null,
+      "descricao": "ENGENHEIRO DA OBRA",
+      "unidade": "H",
+      "quantidade": 304.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "DEMOLIÇÃO E RETIRADA - RUA PAULINO GOTSFRITZ",
+      "codigo": "005-001-000",
+      "fonte": null,
+      "descricao": "ARRANCAMENTO DE GUIAS, INCLUI CARGA EM CAMINHÃO",
+      "unidade": "M",
+      "quantidade": 600.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "DEMOLIÇÃO E RETIRADA - RUA PAULINO GOTSFRITZ",
+      "codigo": "005-040-000",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE TERRA ALÉM DO PRIMEIRO KM COM CAMINHÃO DE 14 M3",
+      "unidade": "M2",
+      "quantidade": 26.28,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "DEMOLIÇÃO E RETIRADA - RUA PAULINO GOTSFRITZ",
+      "codigo": "005-003-000",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE PAVIMENTO DE CONCRETO, SARJETA OU SARJETÃO, INCLUI CARGA EM CAMINHÃO",
+      "unidade": "M2",
+      "quantidade": 1541.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "DEMOLIÇÃO E RETIRADA - RUA PAULINO GOTSFRITZ",
+      "codigo": "005-004-000",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE PAVIMENTO ASFÁLTICO, INCLUSIVE CAPA, INCLUI CARGA NO CAMINHÃO",
+      "unidade": "M3XKM",
+      "quantidade": 7221.77,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "DEMOLIÇÃO E RETIRADA - RUA PAULINO GOTSFRITZ",
+      "codigo": "008-086-000",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO ALÉM DO PRIMEIRO KM",
+      "unidade": "M2",
+      "quantidade": 2345.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "DEMOLIÇÃO E RETIRADA - RUA PAULINO GOTSFRITZ",
+      "codigo": "009-003-000",
+      "fonte": null,
+      "descricao": "FRESAGEM DE PAVIMENTO ASFÁLTICO COM ESPESSURA ATÉ 5CM, EM VIAS EXPRESSAS, INCLUSIVE REMOÇÃO DO MATERIAL FRESADO ATÉ 10KM E VARRIÇÃO",
+      "unidade": "M2",
+      "quantidade": 1541.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO - RUA PAULINO GOTSFRITZ",
+      "codigo": "005-010-000",
+      "fonte": null,
+      "descricao": "ABERTURA DE CAIXA ATÉ 40CM, INCLUI ESCAVAÇÃO, COMPACTAÇÃO, TRANSPORTE E PREPARO DO SUB-LEITO",
+      "unidade": "M",
+      "quantidade": 600.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO - RUA PAULINO GOTSFRITZ",
+      "codigo": "005-014-002",
+      "fonte": null,
+      "descricao": "INC.27 - FORNECIMENTO E ASSENTAMENTO DE GUIAS TIPO PMSP 100, INCLUSIVE ENCOSTAMENTO DE TERRA - FCK=25,0MPA",
+      "unidade": "M3",
+      "quantidade": 26.28,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO - RUA PAULINO GOTSFRITZ",
+      "codigo": "005-019-001",
+      "fonte": null,
+      "descricao": "INC.27 - CONSTRUÇÃO DE SARJETA OU SARJETÃO DE CONCRETO - FCK=25,0MPA",
+      "unidade": "M3XKM",
+      "quantidade": 32052.8,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 29
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO - RUA PAULINO GOTSFRITZ",
+      "codigo": "004-060-000",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE TERRA ALÉM DO PRIMEIRO KM COM CAMINHÃO DE 14 M3",
+      "unidade": "M3",
+      "quantidade": 313.37,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 30
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO - RUA PAULINO GOTSFRITZ",
+      "codigo": "005-048-000",
+      "fonte": null,
+      "descricao": "BASE DE BRITA GRADUADA",
+      "unidade": "M3",
+      "quantidade": 385.25,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 31
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO - RUA PAULINO GOTSFRITZ",
+      "codigo": "005-047-000",
+      "fonte": null,
+      "descricao": "BASE DE BICA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 2345.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 32
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO - RUA PAULINO GOTSFRITZ",
+      "codigo": "005-026-000",
+      "fonte": null,
+      "descricao": "INA.01 - IMPRIMAÇÃO BETUMINOSA LIGANTE",
+      "unidade": "M2",
+      "quantidade": 2345.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 33
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO - RUA PAULINO GOTSFRITZ",
+      "codigo": "005-027-000",
+      "fonte": null,
+      "descricao": "IMPRIMAÇÃO BETUMINOSA IMPERMEABILIZANTE",
+      "unidade": "M3",
+      "quantidade": 117.25,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 34
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO - RUA PAULINO GOTSFRITZ",
+      "codigo": "005-093-000",
+      "fonte": null,
+      "descricao": "INA.01 - REVESTIMENTO DE MISTURA ASFALTICA TIPO SMA COM POLÍMERO E FIBRA (SEM TRANSPORTE)",
+      "unidade": "M3",
+      "quantidade": 140.7,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 35
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO - RUA PAULINO GOTSFRITZ",
+      "codigo": "005-078-001",
+      "fonte": null,
+      "descricao": "CARGA, DESCARGA E TRANSPORTE DE CONCRETO ASFÁLTICO ATÉ A DISTÂNCIA MÉDIA DE IDA E VOLTA DE 1KM",
+      "unidade": "M3XKM",
+      "quantidade": 5628.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 36
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO - RUA PAULINO GOTSFRITZ",
+      "codigo": "005-078-007",
+      "fonte": null,
+      "descricao": "TRANSPORTE DE CONCRETO ASFÁLTICO ALÉM DO PRIMEIRO KM",
+      "unidade": "M3XKM",
+      "quantidade": 5628.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 37
+    }
+  ],
+  "apelido": "PAVIMENTAÇÃO 3 ENDEREÇOS"
+}

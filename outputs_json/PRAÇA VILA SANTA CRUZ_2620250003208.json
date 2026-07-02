@@ -1,0 +1,335 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620250003208",
+    "numero_art": "2620250187078",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA PERUS ANHANGUERA",
+    "cnpj_contratante": "05.539.998/0001-10",
+    "objeto": "Execução, Execução de reforma, de requalificação, de área urbana.",
+    "processo_administrativo": "6049.2023/0001556-1",
+    "contrato": "63/SUB/PR/2023",
+    "endereco_obra": "AVENIDA RAIMUNDO PEREIRA DE MAGALHÃES",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2024-01-18",
+    "data_fim": "2024-03-31",
+    "area_m2": 330.0,
+    "valor_contrato": 314561.19
+  },
+  "servicos": [
+    {
+      "grupo": "SERVIÇOS TÉCNICOS DE ACOMPANHAMENTO",
+      "codigo": "20-03-59",
+      "fonte": null,
+      "descricao": "ENGENHEIRO DA OBRA",
+      "unidade": "H",
+      "quantidade": 60.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS TÉCNICOS DE ACOMPANHAMENTO",
+      "codigo": "00-21-08",
+      "fonte": null,
+      "descricao": "ENCARREGADO DE OBRA (SGSP)",
+      "unidade": "H",
+      "quantidade": 200.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "17-30-02",
+      "fonte": null,
+      "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "01-01-08",
+      "fonte": null,
+      "descricao": "LIMPEZA MANUAL GERAL INCLUSIVE REMOÇÃO DE COBERTURA VEGETAL - TRONCO ATÉ 10CM - SEM TRANSPORTE",
+      "unidade": "M2",
+      "quantidade": 330.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "01-01-07",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 20.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "17-60-46",
+      "fonte": null,
+      "descricao": "RETIRADA DE PISO INTERTRAVADO",
+      "unidade": "M2",
+      "quantidade": 230.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "PLAYGROUND",
+      "codigo": "CPU",
+      "fonte": null,
+      "descricao": "BRINQUEDÃO DE PLÁSTICO",
+      "unidade": "UM",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "PLAYGROUND",
+      "codigo": "13-02-93",
+      "fonte": null,
+      "descricao": "CHAPAS DE BORRACHA SINTÉTICA ASSENTES COM ARGAMASSA, E=8 A 10MM - COM RELEVO",
+      "unidade": "M2",
+      "quantidade": 81.1,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "17-02-47",
+      "fonte": null,
+      "descricao": "PISO/PASSEIO DE CONCRETO ARMADO, INCLUINDO O PREPARO DA CAIXA, LASTRO DE BRITA, TELA METÁLICA E A MÃO DE OBRA REFERENTE AOS SERVIÇOS NO CONCRETO: LANÇAMENTO E ACABAMENTO (RIPADO E DESEMPENADO), EXCLUSIVE O FORNECIMENTO DO CONCRETO",
+      "unidade": "M3",
+      "quantidade": 11.7,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "02-05-11",
+      "fonte": null,
+      "descricao": "CONCRETO FCK=30MPA - USINADO",
+      "unidade": "M3",
+      "quantidade": 11.7,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "ÁREA DE CONCIVÊNCIA E ATI'S",
+      "codigo": "17-02-47",
+      "fonte": null,
+      "descricao": "PISO/PASSEIO DE CONCRETO ARMADO, INCLUINDO O PREPARO DA CAIXA, LASTRO DE BRITA, TELA METÁLICA E A MÃO DE OBRA REFERENTE AOS SERVIÇOS NO CONCRETO: LANÇAMENTO E ACABAMENTO (RIPADO E DESEMPENADO), EXCLUSIVE O FORNECIMENTO DO CONCRETO",
+      "unidade": "M3",
+      "quantidade": 22.27,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "ÁREA DE CONCIVÊNCIA E ATI'S",
+      "codigo": "02-01-01",
+      "fonte": null,
+      "descricao": "BROCA DE CONCRETO - DIÂMETRO DE 20CM",
+      "unidade": "M",
+      "quantidade": 49.5,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "ÁREA DE CONCIVÊNCIA E ATI'S",
+      "codigo": "02-05-11",
+      "fonte": null,
+      "descricao": "CONCRETO FCK=30MPA - USINADO",
+      "unidade": "M3",
+      "quantidade": 22.27,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "ÁREA DE CONCIVÊNCIA E ATI'S",
+      "codigo": "17-01-30",
+      "fonte": null,
+      "descricao": "GRADIL DE FERRO PERFILADO - GE-1/EDIF",
+      "unidade": "M",
+      "quantidade": 57.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "ÁREA DE CONCIVÊNCIA E ATI'S",
+      "codigo": "18-12-06",
+      "fonte": null,
+      "descricao": "IC.06 - BANCO EM CONCRETO APARENTE, TIPO PMSP",
+      "unidade": "M",
+      "quantidade": 13.5,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "ÁREA DE CONCIVÊNCIA E ATI'S",
+      "codigo": "17-02-12",
+      "fonte": null,
+      "descricao": "PISO DE CONCRETO INTERTRAVADO, ESPESSURA 10CM",
+      "unidade": "M2",
+      "quantidade": 270.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "ÁREA DE CONCIVÊNCIA E ATI'S",
+      "codigo": "18-12-02",
+      "fonte": null,
+      "descricao": "IC.02 - CONJUNTO MESA E BANCOS EM CONCRETO",
+      "unidade": "CJ",
+      "quantidade": 3.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "ÁREA DE CONCIVÊNCIA E ATI'S",
+      "codigo": "17-04-09",
+      "fonte": null,
+      "descricao": "LIMPEZA DE PISOS E REVESTIMENTO DE ARGAMASSA, CERÂMICA OU PEDRAS NATURAIS",
+      "unidade": "M2",
+      "quantidade": 270.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "ÁREA DE CONCIVÊNCIA E ATI'S",
+      "codigo": "01-03-01",
+      "fonte": null,
+      "descricao": "CORTE E ESPALHAMENTO DENTRO DA OBRA",
+      "unidade": "M3",
+      "quantidade": 26.4,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "ÁREA DE CONCIVÊNCIA E ATI'S",
+      "codigo": "18-16-12",
+      "fonte": null,
+      "descricao": "ROTAÇÃO VERTICAL TRIPLO CONJUGADO",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "ÁREA DE CONCIVÊNCIA E ATI'S",
+      "codigo": "18-16-15",
+      "fonte": null,
+      "descricao": "BICICLETA DE CADEIRA INDIVIDUAL",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "ÁREA DE CONCIVÊNCIA E ATI'S",
+      "codigo": "18-16-08",
+      "fonte": null,
+      "descricao": "REMADA SENTADA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "ÁREA DE CONCIVÊNCIA E ATI'S",
+      "codigo": "18-16-15",
+      "fonte": null,
+      "descricao": "BICICLETA DE CADEIRA INDIVIDUAL",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "ÁREA DE CONCIVÊNCIA E ATI'S",
+      "codigo": "04-01-41",
+      "fonte": null,
+      "descricao": "BLOCOS VAZADOS DE CONCRETO - 14CM",
+      "unidade": "M2",
+      "quantidade": 14.2,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "ÁREA DE CONCIVÊNCIA E ATI'S",
+      "codigo": "11-01-01",
+      "fonte": null,
+      "descricao": "CHAPISCO COMUM - ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 28.4,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "ÁREA DE CONCIVÊNCIA E ATI'S",
+      "codigo": "11-01-08",
+      "fonte": null,
+      "descricao": "EMBOÇO - ARGAMASSA MISTA DE CIMENTO, CAL E AREIA 1:4/12",
+      "unidade": "M2",
+      "quantidade": 28.4,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "ÁREA DE CONCIVÊNCIA E ATI'S",
+      "codigo": "11-03-13",
+      "fonte": null,
+      "descricao": "REBOCO EXTERNO - ARGAMASSA PRÉ-FABRICADA",
+      "unidade": "M2",
+      "quantidade": 28.4,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "ÁREA DE CONCIVÊNCIA E ATI'S",
+      "codigo": "15-03-10",
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO - ESQUADRIAS E PEÇAS DE SERRALHERIA",
+      "unidade": "M2",
+      "quantidade": 253.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "ÁREA DE CONCIVÊNCIA E ATI'S",
+      "codigo": "15-01-15",
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 330.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "ÁREA DE CONCIVÊNCIA E ATI'S",
+      "codigo": "04-01-98",
+      "fonte": null,
+      "descricao": "VERGAS, CINTAS E PILARETES DE CONCRETO",
+      "unidade": "M3",
+      "quantidade": 1.04,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "17-04-01",
+      "fonte": null,
+      "descricao": "LIMPEZA GERAL DA OBRA",
+      "unidade": "M2",
+      "quantidade": 330.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 23
+    }
+  ],
+  "apelido": "PRAÇA VILA SANTA CRUZ"
+}

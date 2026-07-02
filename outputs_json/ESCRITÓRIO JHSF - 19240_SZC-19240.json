@@ -1,0 +1,405 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "SZC-19240",
+    "numero_art": "92221220090588556 e 92221220090615406",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893",
+    "empresa_contratada": "THI Engenharia e Arquitetura Ltda",
+    "contratante": "Torres Engenharia e Construções Ltda.",
+    "cnpj_contratante": null,
+    "objeto": "Responsável Técnico por Execução na área da Engenharia Civil - Construção Parcial do Escritório da JHSF Participações S.A. Fachada na área Total 3.129,00m², incluindo os serviços de demolições, estruturas, esquadrias, alvenarias, revestimentos, cobertura, entre outros.",
+    "processo_administrativo": null,
+    "contrato": null,
+    "endereco_obra": "Av. Magalhães de Castro, 12.000 - Piso Jardim.",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2008-05-28",
+    "data_fim": "2008-12-27",
+    "area_m2": 3129.0,
+    "valor_contrato": 1273428.07
+  },
+  "servicos": [
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "1.1",
+      "fonte": null,
+      "descricao": "Fechamento do local da obra",
+      "unidade": "M2",
+      "quantidade": 150.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "1.2",
+      "fonte": null,
+      "descricao": "Proteção de ambiente em geral (paredes e pisos)",
+      "unidade": "VB",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "1.3",
+      "fonte": null,
+      "descricao": "Canteiro de obras - escritório",
+      "unidade": "VB",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "1.4",
+      "fonte": null,
+      "descricao": "Instalação Provisória energia e água",
+      "unidade": "VB",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "DEMOLIÇÕES E RETIRADAS",
+      "codigo": "2.1",
+      "fonte": null,
+      "descricao": "Demolição de parede de gesso acartonado",
+      "unidade": "M2",
+      "quantidade": 600.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "DEMOLIÇÕES E RETIRADAS",
+      "codigo": "2.2",
+      "fonte": null,
+      "descricao": "Desmontagem de estrutura metálica",
+      "unidade": "VB",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "DEMOLIÇÕES E RETIRADAS",
+      "codigo": "2.3",
+      "fonte": null,
+      "descricao": "Transporte horizontal e vertical de entulho (com utilização de equipamentos)",
+      "unidade": "VB",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "DEMOLIÇÕES E RETIRADAS",
+      "codigo": "2.4",
+      "fonte": null,
+      "descricao": "Remoção de entulho",
+      "unidade": "M3",
+      "quantidade": 325.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "ESTRUTURAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "FUNDAÇÃO – BALDRAMES E BLOCOS",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "ESTRUTURAS",
+      "codigo": "3.1",
+      "fonte": null,
+      "descricao": "Escavação, corte e escoramento",
+      "unidade": "M3",
+      "quantidade": 469.35,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "ESTRUTURAS",
+      "codigo": "3.2",
+      "fonte": null,
+      "descricao": "Forma em tábua de cedro 30 cm",
+      "unidade": "M2",
+      "quantidade": 273.6,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "ESTRUTURAS",
+      "codigo": "3.3",
+      "fonte": null,
+      "descricao": "Armadura CA 50 / CA 60",
+      "unidade": "KG",
+      "quantidade": 31290.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "ESTRUTURAS",
+      "codigo": "3.4",
+      "fonte": null,
+      "descricao": "Concreto FCK 30 Mpa - usinado",
+      "unidade": "M3",
+      "quantidade": 312.9,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "ESTRUTURAS",
+      "codigo": null,
+      "fonte": null,
+      "descricao": "SUPERESTRUTURA",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "ESTRUTURAS",
+      "codigo": "3.5",
+      "fonte": null,
+      "descricao": "Estrutura Metálica (Pilares, Vigas, Mezanino, estrutura de apoio para ar condicionado, Suportes, apoios, etc.)",
+      "unidade": "KG",
+      "quantidade": 32000.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "ESTRUTURAS",
+      "codigo": "3.6",
+      "fonte": null,
+      "descricao": "Escada metálica, corrimão, guarda-corpo metálico",
+      "unidade": "KG",
+      "quantidade": 4500.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "ESTRUTURAS",
+      "codigo": "3.7",
+      "fonte": null,
+      "descricao": "Proteção Passiva em estrutura metálica",
+      "unidade": "KG",
+      "quantidade": 32000.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "ESTRUTURAS",
+      "codigo": "3.8",
+      "fonte": null,
+      "descricao": "Pré-laje de concreto (Laje pré-moldada)",
+      "unidade": "M2",
+      "quantidade": 3129.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "ESTRUTURAS",
+      "codigo": "3.9",
+      "fonte": null,
+      "descricao": "Forma de madeira",
+      "unidade": "M2",
+      "quantidade": 228.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "ESTRUTURAS",
+      "codigo": "3.10",
+      "fonte": null,
+      "descricao": "Armadura CA 50 / CA 60",
+      "unidade": "KG",
+      "quantidade": 8745.56,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "ESTRUTURAS",
+      "codigo": "3.11",
+      "fonte": null,
+      "descricao": "Concreto 35 Mpa - usinado",
+      "unidade": "M3",
+      "quantidade": 375.48,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "ESTRUTURAS",
+      "codigo": "3.12",
+      "fonte": null,
+      "descricao": "Taxa de bomba (Locação)",
+      "unidade": "DIA",
+      "quantidade": 20.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "ESTRUTURAS",
+      "codigo": "3.13",
+      "fonte": null,
+      "descricao": "Acessórios (espaçadores, cimento, caixas de passagem, outros)",
+      "unidade": "VB",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "ESTRUTURAS",
+      "codigo": "3.14",
+      "fonte": null,
+      "descricao": "Acabamento de piso zero",
+      "unidade": "M2",
+      "quantidade": 3129.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "ESQUADRIAS",
+      "codigo": "4.1",
+      "fonte": null,
+      "descricao": "Execução de caixilhos metálicos",
+      "unidade": "M2",
+      "quantidade": 480.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "ESQUADRIAS",
+      "codigo": "4.2",
+      "fonte": null,
+      "descricao": "Instalação de esquadrias de madeira (com acabamentos)",
+      "unidade": "VB",
+      "quantidade": 3.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "ELEVADOR",
+      "codigo": "5.1",
+      "fonte": null,
+      "descricao": "Adaptação do elevador el",
+      "unidade": "VB",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "ELEVADOR",
+      "codigo": "5.2",
+      "fonte": null,
+      "descricao": "Readequação das estruturas para poço do elevador (metálica e concreto)",
+      "unidade": "VB",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "ELEVADOR",
+      "codigo": "5.3",
+      "fonte": null,
+      "descricao": "Apoio civil Otis",
+      "unidade": "VB",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "ALVENARIAS",
+      "codigo": "6.1",
+      "fonte": null,
+      "descricao": "Alvenaria estrutural - incluso armação e concreto \"grout\"",
+      "unidade": "M2",
+      "quantidade": 510.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "REVESTIMENTOS",
+      "codigo": "7.1",
+      "fonte": null,
+      "descricao": "Revestimento de paredes (chapisco, emboço, reboco)",
+      "unidade": "M2",
+      "quantidade": 1020.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "REVESTIMENTOS",
+      "codigo": "7.2",
+      "fonte": null,
+      "descricao": "Impermeabilização das jardineiras / wc's",
+      "unidade": "M2",
+      "quantidade": 290.4,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "REVESTIMENTOS",
+      "codigo": "7.3",
+      "fonte": null,
+      "descricao": "Contra - Piso com espessura de 10 cm, inclusive colocação de calha elétrica (contra-piso armado)",
+      "unidade": "M2",
+      "quantidade": 2480.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "REVESTIMENTOS",
+      "codigo": "7.4",
+      "fonte": null,
+      "descricao": "Forro de gesso acartonado, incluso tabica",
+      "unidade": "M2",
+      "quantidade": 45.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "REVESTIMENTOS",
+      "codigo": "7.5",
+      "fonte": null,
+      "descricao": "Execução de pintura látex acrílico (inclusive preparo da base)",
+      "unidade": "M2",
+      "quantidade": 185.5,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "INSTALAÇÕES ESPECIAIS",
+      "codigo": "8.1",
+      "fonte": null,
+      "descricao": "Execução de drenos para sistema de climatização",
+      "unidade": "VB",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "COBERTURA",
+      "codigo": "9.1",
+      "fonte": null,
+      "descricao": "Estrutura e telhas metálicas (aço galvanizado) para cobertura do canteiro de obras",
+      "unidade": "M2",
+      "quantidade": 436.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "LIMPEZA",
+      "codigo": "10.1",
+      "fonte": null,
+      "descricao": "Limpeza da obra",
+      "unidade": "M2",
+      "quantidade": 3129.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    }
+  ],
+  "apelido": "ESCRITÓRIO JHSF - 19240"
+}

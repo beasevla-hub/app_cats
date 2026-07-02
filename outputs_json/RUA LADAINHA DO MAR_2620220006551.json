@@ -1,0 +1,215 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620220006551",
+    "numero_art": "28027230221003987",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893 - SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA CIDADE ADEMAR",
+    "cnpj_contratante": "05.587.823/0001-89",
+    "objeto": "INFRAESTRUTURA",
+    "processo_administrativo": "6034.2020/0000.530-5",
+    "contrato": "CV014/SUB-AD/2020",
+    "endereco_obra": "Rua LADAINHA DO MAR, No.: 89",
+    "cidade": "SÃO PAULO",
+    "estado": "SP",
+    "data_inicio": "2020-08-17",
+    "data_fim": "2020-08-31",
+    "area_m2": 250.0,
+    "valor_contrato": 98376.94
+  },
+  "servicos": [
+    {
+      "grupo": "LIMPEZA DO TERRENO",
+      "codigo": "01-01-00",
+      "fonte": null,
+      "descricao": "LIMPEZA DO TERRENO",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "LIMPEZA DO TERRENO",
+      "codigo": "01-01-07",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 76.78,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "FUNDACOES",
+      "codigo": "02-00-00",
+      "fonte": null,
+      "descricao": "FUNDACOES",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "FUNDACOES",
+      "codigo": "02-02-01",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL COM PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 30.94,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "FUNDACOES",
+      "codigo": "02-02-10",
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 140.63,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "FUNDACOES",
+      "codigo": "02-03-04",
+      "fonte": null,
+      "descricao": "FORMA COMUM DE TÁBUAS DE PINUS - NÃO RECUPERÁVEL",
+      "unidade": "M2",
+      "quantidade": 81.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "ESTRUTURA",
+      "codigo": "03-00-00",
+      "fonte": null,
+      "descricao": "ESTRUTURA",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "ESTRUTURA",
+      "codigo": "03-03-30",
+      "fonte": null,
+      "descricao": "BOMBEAMENTO DE CONCRETO",
+      "unidade": "M3",
+      "quantidade": 28.13,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": "15-00-00",
+      "fonte": null,
+      "descricao": "PINTURA",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": "15-01-15",
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 187.5,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "SERV.COMPLEMENTARES",
+      "codigo": "17-00-00",
+      "fonte": null,
+      "descricao": "SERV.COMPLEMENTARES",
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "SERV.COMPLEMENTARES",
+      "codigo": "17-02-43",
+      "fonte": null,
+      "descricao": "PASSEIO DE CONCRETO ARMADO, FCK=25MPA, INCLUINDO PREPARO DA CAIXA E LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 28.13,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "SERV.COMPLEMENTARES",
+      "codigo": "17-02-50",
+      "fonte": null,
+      "descricao": "GUIA DE CONCRETO RETA OU CURVA, TIPO PMSP",
+      "unidade": "M",
+      "quantidade": null,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "SERV.COMPLEMENTARES",
+      "codigo": "17-02-52",
+      "fonte": null,
+      "descricao": "SARJETA DE CONCRETO, INCLUSIVE PREPARO DE CAIXA",
+      "unidade": "M3",
+      "quantidade": null,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "SERV.COMPLEMENTARES",
+      "codigo": "17-04-01",
+      "fonte": null,
+      "descricao": "LIMPEZA GERAL DA OBRA",
+      "unidade": "M2",
+      "quantidade": 250.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "SERV.COMPLEMENTARES",
+      "codigo": "17-05-25",
+      "fonte": null,
+      "descricao": "DP.05 - CORRIMÃO EM TUBO GALVANIZADO COM GUARDA CORPO",
+      "unidade": "M",
+      "quantidade": 100.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "SERV.COMPLEMENTARES",
+      "codigo": "17-50-21",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MANUAL DE CONCRETO ARMADO",
+      "unidade": "M3",
+      "quantidade": 28.13,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "SERV.COMPLEMENTARES",
+      "codigo": "17-50-45",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE GUIAS DE CONCRETO",
+      "unidade": "M",
+      "quantidade": null,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "SERV.COMPLEMENTARES",
+      "codigo": "17-50-48",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE SARJETAS DE CONCRETO",
+      "unidade": "M",
+      "quantidade": null,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 19
+    }
+  ],
+  "apelido": "RUA LADAINHA DO MAR"
+}

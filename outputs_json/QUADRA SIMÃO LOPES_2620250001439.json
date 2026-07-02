@@ -1,0 +1,455 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620250001439",
+    "numero_art": "28027230231540908",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA IPIRANGA",
+    "cnpj_contratante": "05.636.771/0001-93",
+    "objeto": "REVITALIZAÇÃO DE PRAÇA PÚBLICA COM EXECUÇÃO E ADEQUAÇÃO DE PISO, QUADRA POLIESPORTIVA, ALAMBRADO, INSTALAÇÃO DE APARELHO DE GINÁSTICA PARA 3ª IDADE, BRINQUEDOS, BANCOS E MESAS PARA JOGOS.",
+    "processo_administrativo": "6039.2023/0001385-8",
+    "contrato": "026/SUB-IP/2023",
+    "endereco_obra": "RUA SIMÃO LOPES, No.: 1010",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2023-08-21",
+    "data_fim": "2023-10-20",
+    "area_m2": null,
+    "valor_contrato": 272747.45
+  },
+  "servicos": [
+    {
+      "grupo": null,
+      "codigo": "01.01.07",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 14.82,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "01.05.40",
+      "fonte": null,
+      "descricao": "TELA PARA PROTEÇÃO DE OBRAS, MALHA 2MM",
+      "unidade": "M2",
+      "quantidade": 16.8,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "13.02.04",
+      "fonte": null,
+      "descricao": "ACABAMENTO DE PISO DE CONCRETO TIPO BAMBOLÊ",
+      "unidade": "M2",
+      "quantidade": 352.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "17.50.23",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MECANIZADA DE CONCRETO ARMADO",
+      "unidade": "M3",
+      "quantidade": 0.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "17.02.43",
+      "fonte": null,
+      "descricao": "PASSEIO DE CONCRETO ARMADO, FCK-25MPA, INCLUINDO PREPARADO DA CAIXA E LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 1.12,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "13.02.47",
+      "fonte": null,
+      "descricao": "PISO PODOTÁTIL, ALERTA OU DIRECIONAL, EM LADRILHO HIDRÁULICO",
+      "unidade": "M2",
+      "quantidade": 1.13,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "17.05.24",
+      "fonte": null,
+      "descricao": "DP.04 - CORRIMÃO EM TUBO GALVANIZADO",
+      "unidade": "M",
+      "quantidade": 22.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "17.02.54",
+      "fonte": null,
+      "descricao": "REBAIXAMENTO DE GUIA",
+      "unidade": "M",
+      "quantidade": 3.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "17.03.51",
+      "fonte": null,
+      "descricao": "QC. 02 - QUADRA POLESPORTIVA - PISO ARMADO",
+      "unidade": "M2",
+      "quantidade": 336.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "17.03.55",
+      "fonte": null,
+      "descricao": "QD.01 - DEMARCAÇÃO DE QUADRA COM TINTA BASE DE BORRACHA CLORADA - VOLEIBOL",
+      "unidade": "UNIDADE",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "17.03.56",
+      "fonte": null,
+      "descricao": "QD. 02 - DEMARCAÇÃO DE QUADRA COM TINTA A BASE DE BORRACHA CLORADA - FUTEBOL DE SALÃO",
+      "unidade": "UNIDADE",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "17.03.57",
+      "fonte": null,
+      "descricao": "QD.03 - DEMARCAÇÃO DE QUADRA COM TINTA A BASE DE BORRACHA - BASQUETE",
+      "unidade": "UNIDADE",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": "17.03.70",
+      "fonte": null,
+      "descricao": "DEMARCAÇÃO E PINTURA DE SUPERFÍCIE - BORRACHA CLORADA",
+      "unidade": "M2",
+      "quantidade": 336.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": null,
+      "codigo": "17.03.60",
+      "fonte": null,
+      "descricao": "POSTES PARA VOLEIBOL, INCLUSIVE PINTURA E REDE",
+      "unidade": "UNIDADE",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": null,
+      "codigo": "17.50.15",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE ALAMBRADO DE TELA GALVANIZADA",
+      "unidade": "M2",
+      "quantidade": 333.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": null,
+      "codigo": "17.01.29",
+      "fonte": null,
+      "descricao": "FP.03 - ALAMBRADO PARA QUADRAS DE ESPORTE - GP 6/EDIF - TG/4,5M",
+      "unidade": "M",
+      "quantidade": 74.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": null,
+      "codigo": "17.01.41",
+      "fonte": null,
+      "descricao": "PP.20/24 - PORTÃO EM FERRO PERFILADO COM TELA, 1 FOLHA",
+      "unidade": "M2",
+      "quantidade": 0.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": null,
+      "codigo": "17.03.61",
+      "fonte": null,
+      "descricao": "TRAVE PARA FUTEBOL DE SALÃO, INCLUSIVE PINTURA E REDE",
+      "unidade": "UNIDADE",
+      "quantidade": 2.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": null,
+      "codigo": "17.80.70",
+      "fonte": null,
+      "descricao": "TABELA DE BASQUETE, INCLUSIVE ARO E CESTA - MADEIRA PINTADA",
+      "unidade": "UNIDADE",
+      "quantidade": 0.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": null,
+      "codigo": "17.03.63",
+      "fonte": null,
+      "descricao": "TABELA PARA BASQUETE, ENGLOBANDO DESDE FUNDAÇÃO ATÉ A CESTA DE NYLON",
+      "unidade": "UNIDADE",
+      "quantidade": 2.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "ATI'S E BRINQUEDOS",
+      "codigo": "17.60.50",
+      "fonte": null,
+      "descricao": "RETIRADA DE BRINQUEDOS",
+      "unidade": "UNIDADE",
+      "quantidade": 4.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "ATI'S E BRINQUEDOS",
+      "codigo": "18.16.01",
+      "fonte": null,
+      "descricao": "SURF DUPLO CONJUGADO (EXERCITADOR PARA IDOSOS)",
+      "unidade": "UNIDADE",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "ATI'S E BRINQUEDOS",
+      "codigo": "18.16.07",
+      "fonte": null,
+      "descricao": "PRESSÃO DE PERNAS TRIPLO CONJUGADO",
+      "unidade": "UNIDADE",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "ATI'S E BRINQUEDOS",
+      "codigo": "18.16.08",
+      "fonte": null,
+      "descricao": "REMADA SENTADA",
+      "unidade": "UNIDADE",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "ATI'S E BRINQUEDOS",
+      "codigo": "18.16.09",
+      "fonte": null,
+      "descricao": "SIMULADOR DE CAMINHADA DUPLO CONJUGADO",
+      "unidade": "UNIDADE",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "ATI'S E BRINQUEDOS",
+      "codigo": "18.16.11",
+      "fonte": null,
+      "descricao": "ROTAÇÃO VERTICAL DUPLO",
+      "unidade": "UNIDADE",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "ATI'S E BRINQUEDOS",
+      "codigo": "18.16.19",
+      "fonte": null,
+      "descricao": "PLACA ORIENTADORA VERTICAL",
+      "unidade": "UNIDADE",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": null,
+      "codigo": "18.14.16",
+      "fonte": null,
+      "descricao": "BRINQUEDO TIPO BALANÇO FRONTAL DUPLO PARA CADEIRANTE COM ESTRUTURA EM TUBOS DE AÇO CARBONO - INSTALADO",
+      "unidade": "UNIDADE",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "18.14.45",
+      "fonte": null,
+      "descricao": "PLAYGROUND BRINQUEDOS DE MADEIRA - ESCORREGADOE (ALT.= 1,80M COMP.=3,00M)",
+      "unidade": "UNIDADE",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "18.14.46",
+      "fonte": null,
+      "descricao": "PLAYGROUND BRINQUEDOS DE MADEIARA - GANGORRA DUPLA",
+      "unidade": "UNIDADE",
+      "quantidade": 0.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "18.14.48",
+      "fonte": null,
+      "descricao": "PLAYGROUND BRINQUEDOS DE MADEIRA - BALANÇA DUPLA",
+      "unidade": "UNIDADE",
+      "quantidade": 0.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "MURETAS",
+      "codigo": "04.01.41",
+      "fonte": null,
+      "descricao": "BLOCOS VAZADOS DE CONCRETO - 14CM",
+      "unidade": "M2",
+      "quantidade": 4.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "MURETAS",
+      "codigo": "04.50.04",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE ALVENARIA EM GERAL (TIJOLOS OUBLOCOS)",
+      "unidade": "M3",
+      "quantidade": 0.56,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "MURETAS",
+      "codigo": "11.03.01",
+      "fonte": null,
+      "descricao": "CHAPISCO COMUM - ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 7.92,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "MURETAS",
+      "codigo": "11.03.09",
+      "fonte": null,
+      "descricao": "EMBOÇO EXTERNO DESEMPENADO PARA PINTURA - ARGAMASSA MISTA DE CIMENTO, CAL E AREIA 1:3/12",
+      "unidade": "M2",
+      "quantidade": 7.92,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "MURETAS",
+      "codigo": "11.03.13",
+      "fonte": null,
+      "descricao": "REBOCO EXTERNO - ARGAMASSA PRÉ-FABRICADA",
+      "unidade": "M2",
+      "quantidade": 113.68,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "MURETAS",
+      "codigo": "15.01.02",
+      "fonte": null,
+      "descricao": "AGUADA DE CAL - CONCRETO OU REBOLO SEM MASSA CORRIDA EXTERIOR",
+      "unidade": "M2",
+      "quantidade": 277.36,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "DEMAIS SERVIÇOS",
+      "codigo": "18.12.02",
+      "fonte": null,
+      "descricao": "LC.02 - CONJUNTO MESA E BANCOS EM CONCRETO",
+      "unidade": "CJ",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "DEMAIS SERVIÇOS",
+      "codigo": "18.12.04",
+      "fonte": null,
+      "descricao": "LC. 04 BANCO EM CONCRETO APARENTE - L=50CM",
+      "unidade": "M",
+      "quantidade": 6.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "DEMAIS SERVIÇOS",
+      "codigo": "17.30.02",
+      "fonte": null,
+      "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "DEMAIS SERVIÇOS",
+      "codigo": "20.03.60",
+      "fonte": null,
+      "descricao": "PROJETO BÁSICO (PRANCHA A1)",
+      "unidade": "UNIDADE",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "DEMAIS SERVIÇOS",
+      "codigo": "12.12.00",
+      "fonte": null,
+      "descricao": "ENCARREGADO",
+      "unidade": "H",
+      "quantidade": 264.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "DEMAIS SERVIÇOS",
+      "codigo": "12.13.00",
+      "fonte": null,
+      "descricao": "ENGENHEIRO DA OBRA",
+      "unidade": "H",
+      "quantidade": 40.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    }
+  ],
+  "apelido": "QUADRA SIMÃO LOPES"
+}

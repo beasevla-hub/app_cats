@@ -1,0 +1,3205 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620230009607",
+    "numero_art": "28027230231219449",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "PREFEITURA DO MUNICÍPIO DE JANDIRA",
+    "cnpj_contratante": "46.522.991/0001-73",
+    "objeto": "RETOMADA DE CONSTRUÇÃO DA UNIDADE DE PRONTO ATENDIMENTO - UPA",
+    "processo_administrativo": "1995/2017",
+    "contrato": "1995/17",
+    "endereco_obra": "AVENIDA ALBERTO RUFFOLO No.: 312",
+    "cidade": "Jandira",
+    "estado": "SP",
+    "data_inicio": "2017-08-14",
+    "data_fim": "2018-08-14",
+    "area_m2": 1604.0,
+    "valor_contrato": 2406835.21
+  },
+  "servicos": [
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "1.1.1",
+      "fonte": null,
+      "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
+      "unidade": "M2",
+      "quantidade": 9.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "1.1.2",
+      "fonte": null,
+      "descricao": "TAPUME DE CHAPA DE MADEIRA COMPENSADA, E=6MM, COM PINTURA A CAL E REAPROVEITAMENO DE 2X",
+      "unidade": "M2",
+      "quantidade": 127.6,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "1.1.3",
+      "fonte": null,
+      "descricao": "PORTÃO METÁLICO DE OBRA - 5M, PIVOTANTE, 2 FOLHAS, PARA TAPUME",
+      "unidade": "M2",
+      "quantidade": 10.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "1.1.4",
+      "fonte": null,
+      "descricao": "PORTÃO DE PEDESTRES - 1,15M, PARA TAPUME",
+      "unidade": "M2",
+      "quantidade": 2.2,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "1.1.5",
+      "fonte": null,
+      "descricao": "Andaime torre metálico (1,5 x 1,5 m) com piso metálico",
+      "unidade": "mxm ês",
+      "quantidade": 240.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "1.1.6",
+      "fonte": null,
+      "descricao": "Montagem e desmontagem de andaime torre metálica com altura até 10 m",
+      "unidade": "M",
+      "quantidade": 40.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "1.1.7",
+      "fonte": null,
+      "descricao": "Demolição manual de concreto armado",
+      "unidade": "M3",
+      "quantidade": 3.94,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "1.1.8",
+      "fonte": null,
+      "descricao": "Demolição de Alvenaria em Geral",
+      "unidade": "M3",
+      "quantidade": 17.21,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "1.1.9",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL COM PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 86.68,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "1.1.10",
+      "fonte": null,
+      "descricao": "CARGA MANUAL E REMOÇÃO DE TERRA, INCLUSIVE TRANSPORTE ATÉ 1KM",
+      "unidade": "M3",
+      "quantidade": 86.68,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "1.1.11",
+      "fonte": null,
+      "descricao": "TRANSPORTE DE TERRA POR CAMINHÃO BASCULANTE, A PARTIR DE 1KM",
+      "unidade": "M3X KM",
+      "quantidade": 2860.44,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "FUNDAÇÕES",
+      "codigo": "2.1.1",
+      "fonte": null,
+      "descricao": "BROCA DE CONCRETO - DIAMETRO DE 20CM",
+      "unidade": "M",
+      "quantidade": 18.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "ESTRUTURA",
+      "codigo": "3.1.1",
+      "fonte": null,
+      "descricao": "FORMA COMUM DE TÁBUAS DE PINUS - PLANA",
+      "unidade": "M2",
+      "quantidade": 42.86,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "ESTRUTURA",
+      "codigo": "3.1.2",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-50",
+      "unidade": "KG",
+      "quantidade": 372.47,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "ESTRUTURA",
+      "codigo": "3.1.3",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-60 - TELA",
+      "unidade": "KG",
+      "quantidade": 88.47,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "ESTRUTURA",
+      "codigo": "3.1.4",
+      "fonte": null,
+      "descricao": "CONCRETO FCK = 25,0MPA - USINADO E BOMBEÁVEL",
+      "unidade": "M3",
+      "quantidade": 58.76,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "ESTRUTURA",
+      "codigo": "3.1.5",
+      "fonte": null,
+      "descricao": "BOMBEAMENTO DE CONCRETO",
+      "unidade": "M3",
+      "quantidade": 58.76,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "ESTRUTURA",
+      "codigo": "3.1.8",
+      "fonte": null,
+      "descricao": "LAJE MISTA TRELIÇADA H-8CM COM CAPEAMENTO 4CM (12CM)",
+      "unidade": "M2",
+      "quantidade": 27.62,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "ESTRUTURA",
+      "codigo": "3.1.9",
+      "fonte": null,
+      "descricao": "PRÉ LAJE EM PAINEL PRÉ-FABRICADO TRELIÇADO, H=16 CM",
+      "unidade": "M2",
+      "quantidade": 25.16,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "ESTRUTURA",
+      "codigo": "3.1.10",
+      "fonte": null,
+      "descricao": "ESCORAMENTO METÁLICO PARA LAJES MALHA MENOR OU IGUAL 1,50X1,50",
+      "unidade": "M2",
+      "quantidade": 37.62,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "ESTRUTURA",
+      "codigo": "3.1.11",
+      "fonte": null,
+      "descricao": "FV.12/13-MURETA DE ARRIMO EM BLOCOS DE CONCRETO, H=1,00 M",
+      "unidade": "M",
+      "quantidade": 29.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "VEDAÇÃO",
+      "codigo": "3.2.1",
+      "fonte": null,
+      "descricao": "TIJOLOS CERÂMICOS FURADOS - 1/2 TIJOLO",
+      "unidade": "M2",
+      "quantidade": 424.19,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "VEDAÇÃO",
+      "codigo": "3.2.2",
+      "fonte": null,
+      "descricao": "Divisória em placas de granilite com espessura de 3 cm",
+      "unidade": "M2",
+      "quantidade": 79.19,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "VEDAÇÃO",
+      "codigo": "3.2.3",
+      "fonte": null,
+      "descricao": "VERGAS, CINTAS E PILARES DE CONCRETO",
+      "unidade": "M3",
+      "quantidade": 4.17,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "COBERTURAS",
+      "codigo": "4.1.1",
+      "fonte": null,
+      "descricao": "ESTRUTURA METALICA EM ACO ESTRUTURAL PERFIL I 12 X 5 1/4",
+      "unidade": "KG",
+      "quantidade": 700.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "COBERTURAS",
+      "codigo": "4.1.2",
+      "fonte": null,
+      "descricao": "MONTAGEM DE ESTRUTURA METÁLICA PARA COBERTURA",
+      "unidade": "KG",
+      "quantidade": 700.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "COBERTURAS",
+      "codigo": "4.1.3",
+      "fonte": null,
+      "descricao": "TELHA TRAPEZOIDAL DUPLA EM AÇO GALVANIZADO - E= 0,8MM, REVESTIMENTO B, H=40MM - PINTADA 1 FACE - MIOLO EM POLIURETANO E=30MM",
+      "unidade": "M2",
+      "quantidade": 47.62,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "COBERTURAS",
+      "codigo": "4.1.4",
+      "fonte": null,
+      "descricao": "Caixilho em alumínio fixo, sob medida",
+      "unidade": "M2",
+      "quantidade": 15.91,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "COBERTURAS",
+      "codigo": "4.1.5",
+      "fonte": null,
+      "descricao": "Telha ondulada translúcida em polipropileno",
+      "unidade": "M2",
+      "quantidade": 15.91,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "COBERTURAS",
+      "codigo": "4.1.6",
+      "fonte": null,
+      "descricao": "PROTENSAO DE TIRANTES DE BARRA DE ACO CA-50 EXCL MATERIAIS",
+      "unidade": "UN",
+      "quantidade": 4.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "COBERTURAS",
+      "codigo": "4.1.7",
+      "fonte": null,
+      "descricao": "IMPERMEABILIZAÇÃO DE SUPERFICIE COM MANTA ASFALTICA PROTEGIDA COM FILME DE ALUMINIO GOFRADO COM ESPESSURA DE 3MM",
+      "unidade": "M2",
+      "quantidade": 27.62,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "COBERTURAS",
+      "codigo": "4.1.8",
+      "fonte": null,
+      "descricao": "IMPERMEABILIZAÇÃO EM MEMBRANA A BASE DE POLIMEROS ACRILICOS, NA COR BRANCA E REFORÇO DE TELA EM POLIÉSTER",
+      "unidade": "M2",
+      "quantidade": 135.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "COBERTURAS",
+      "codigo": "4.1.9",
+      "fonte": null,
+      "descricao": "REVISÃO, ESCOVAÇÃO, INCLUSIVE TOMADA DE GOTEIRAS DE TELHADOS EM GERAL, EXCLUSIVE PARA TELHAS DE BARRO COZIDO OU VIDRO",
+      "unidade": "M2",
+      "quantidade": 628.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "ESQUADRIAS DE MADEIRA",
+      "codigo": "5.1.1",
+      "fonte": null,
+      "descricao": "PORTA LISA COM BATENTE MADEIRA 72X2010",
+      "unidade": "UN",
+      "quantidade": 10.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "ESQUADRIAS DE MADEIRA",
+      "codigo": "5.1.2",
+      "fonte": null,
+      "descricao": "PORTA LISA COM BATENTE MADEIRA 82X2010",
+      "unidade": "UN",
+      "quantidade": 39.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "ESQUADRIAS DE MADEIRA",
+      "codigo": "5.1.3",
+      "fonte": null,
+      "descricao": "PORTA LISA COM BATENTE MADEIRA 92X2010",
+      "unidade": "UN",
+      "quantidade": 20.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "ESQUADRIAS DE MADEIRA",
+      "codigo": "5.1.4",
+      "fonte": null,
+      "descricao": "PORTA LISA COM BATENTE MADEIRA 124X2010",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "ESQUADRIAS DE MADEIRA",
+      "codigo": "5.1.5",
+      "fonte": null,
+      "descricao": "PORTA LISA COM BATENTE MADEIRA 164X2010",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "ESQUADRIAS DE MADEIRA",
+      "codigo": "5.1.6",
+      "fonte": null,
+      "descricao": "PORTA LISA COM BATENTE MADEIRA 110X2010",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "ESQUADRIAS DE MADEIRA",
+      "codigo": "5.2.3",
+      "fonte": null,
+      "descricao": "Porta Rad. em Madeira/Madeira 1,44x2,12 m 1,5 mmPb",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "ESQUADRIAS DE MADEIRA",
+      "codigo": "5.1.7",
+      "fonte": null,
+      "descricao": "PM.49 - PORTA DE MADEIRA LISA COMUM/ENCABEÇADA, 2 FOLHAS - 204X210CM",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "ESQUADRIAS DE MADEIRA",
+      "codigo": "5.1.8",
+      "fonte": null,
+      "descricao": "EM.01 - BATENTE DE MADEIRA (14CM) - PARA PORTA DE 2 FOLHAS, SEM BANDEIRA",
+      "unidade": "JG",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "ESQUADRIAS DE MADEIRA",
+      "codigo": "5.1.9",
+      "fonte": null,
+      "descricao": "Ferragem completa com maçaneta tipo alavanca para porta interna com 1 folha",
+      "unidade": "UN",
+      "quantidade": 47.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "ESQUADRIAS DE MADEIRA",
+      "codigo": "5.1.10",
+      "fonte": null,
+      "descricao": "Ferragem completa com maçaneta tipo alavanca para porta interna com 2 folhas",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "ESQUADRIAS DE MADEIRA",
+      "codigo": "5.1.11",
+      "fonte": null,
+      "descricao": "FECHADURA DE EMBUTIR PARA PORTA DE BANHEIRO, COMPLETA, ACABAMENTO PADRÃO MÉDIO, INCLUSO EXECUÇÃO DE FURO - FORNECIMENTO E INSTALAÇÃO. AF_08/2015",
+      "unidade": "UN",
+      "quantidade": 16.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "ESQUADRIAS DE MADEIRA",
+      "codigo": "5.1.12",
+      "fonte": null,
+      "descricao": "PORTA CORTA-FOGO P90 - 1,05 X 2,10M, COM DOBRADIÇAS E MOLAS SEM FERRAGEM",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "ESQUADRIAS METALICAS",
+      "codigo": "5.2.1",
+      "fonte": null,
+      "descricao": "CA.09 - CAIXILHO EM ALUMÍNIO ANODIZADO - MAXIMAR",
+      "unidade": "M2",
+      "quantidade": 239.66,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "ESQUADRIAS METALICAS",
+      "codigo": "5.2.2",
+      "fonte": null,
+      "descricao": "Caixilho em alumínio fixo, sob medida",
+      "unidade": "M2",
+      "quantidade": 1.2,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "ESQUADRIAS METALICAS",
+      "codigo": "5.2.3",
+      "fonte": null,
+      "descricao": "PA.16 - PORTA EM ALUMÍNIO ANODIZADO, VENEZIANA - ABRIR, 1 FOLHA",
+      "unidade": "M2",
+      "quantidade": 8.82,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "ESQUADRIAS METALICAS",
+      "codigo": "5.2.4",
+      "fonte": null,
+      "descricao": "Porta Rad. em Madeira/Madeira 1,44x2,12 m 1,5 mmPb",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "ESQUADRIAS METALICAS",
+      "codigo": "5.2.5",
+      "fonte": null,
+      "descricao": "Janela Plumbífera Visor Radiológico Plumbífero de 300 x 400 mm - (Equiv. 2,0 mm Pb)",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": "ESQUADRIAS METALICAS",
+      "codigo": "5.2.6",
+      "fonte": null,
+      "descricao": "PA.16 - PORTA EM ALUMÍNIO ANODIZADO, VENEZIANA - ABRIR, 1 FOLHA",
+      "unidade": "M2",
+      "quantidade": 9.17,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": "ESQUADRIAS METALICAS",
+      "codigo": "5.2.7",
+      "fonte": null,
+      "descricao": "Brise metálico, espessura 0,5 mm em chapa microperfurada aluzinc, fixado sobre estrutura auxiliar, conforme projeto",
+      "unidade": "M",
+      "quantidade": 152.75,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 29
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "6.1.1",
+      "fonte": null,
+      "descricao": "Ae-22 abrigo e entrada de energia (caixa 1): cpfl",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 30
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "6.1.2",
+      "fonte": null,
+      "descricao": "DISJUNTOR TERMOMAGNÉTICO TRIPOLAR 300 A 400A FORNECIMENTO E INSTALAÇÃO",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 31
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "6.1.3",
+      "fonte": null,
+      "descricao": "CHAVE SECCIONADORA TRIPOLAR ABERTURA SOB CARGA SECA 400A/600V",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 32
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "6.1.4",
+      "fonte": null,
+      "descricao": "Cabo de cobre flexível blindado de 2 x 2,5 mm2, tensão de isolação 600v, isolação termoplástica em VC/E 105°c - classe 4, para detecção de incêndio.",
+      "unidade": "M",
+      "quantidade": 2500.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 33
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "6.1.5",
+      "fonte": null,
+      "descricao": "ELETRODUTO DE PVC FLEXÍVEL CORRUGADO DN 20 MM (3/4)",
+      "unidade": "M",
+      "quantidade": 1051.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 34
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "6.1.6",
+      "fonte": null,
+      "descricao": "ELETRODUTO DE PVC FLEXÍVEL CORRUGADO DN 25 MM (1\")",
+      "unidade": "M",
+      "quantidade": 50.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 35
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "6.1.7",
+      "fonte": null,
+      "descricao": "CABO 1,50MM2 - ISOLAMENTO PARA 0,7KV - CLASSE 4 – FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 2550.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "6.1.8",
+      "fonte": null,
+      "descricao": "CABO 2,50MM2 - ISOLAMENTO PARA 0,7KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 22160.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "6.1.9",
+      "fonte": null,
+      "descricao": "CABO 4,00MM2 - ISOLAMENTO PARA 0,7KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 7431.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "6.1.10",
+      "fonte": null,
+      "descricao": "CABO 6,00MM2 - ISOLAMENTO PARA 0,7KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 5943.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "6.1.11",
+      "fonte": null,
+      "descricao": "CABO 16,00MM2 - ISOLAMENTO PARA 0,7KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 700.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "6.1.12",
+      "fonte": null,
+      "descricao": "CABO 25,00MM2 - ISOLAMENTO PARA 0,7KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 400.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "6.1.13",
+      "fonte": null,
+      "descricao": "CABO 50,00MM2 - ISOLAMENTO PARA 0,7KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 250.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "6.1.14",
+      "fonte": null,
+      "descricao": "CABO 120,00MM2 - ISOLAMENTO PARA 0,7KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 25.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "6.1.15",
+      "fonte": null,
+      "descricao": "CABO 185,00MM2 - ISOLAMENTO PARA 0,7KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 68.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "6.1.16",
+      "fonte": null,
+      "descricao": "CABO 240,00MM2 - ISOLAMENTO PARA 0,7KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 204.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "6.1.17",
+      "fonte": null,
+      "descricao": "Cabo de cobre flexível 'PP' 3x2,5 mm², isolamento 750 V - isolação em PVC 70°C",
+      "unidade": "M",
+      "quantidade": 700.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "6.1.18",
+      "fonte": null,
+      "descricao": "INTERRUPTOR SIMPLES 1 TECLA",
+      "unidade": "UN",
+      "quantidade": 79.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "6.1.19",
+      "fonte": null,
+      "descricao": "INTERRUPTOR COM 2 TECLA SIMPLES E PLACA",
+      "unidade": "UN",
+      "quantidade": 7.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "6.1.20",
+      "fonte": null,
+      "descricao": "INTERRUPTOR COM 1 TECLA PARELELO E PLACA",
+      "unidade": "UN",
+      "quantidade": 335.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "6.1.21",
+      "fonte": null,
+      "descricao": "TOMADA 3P+T 30A-440V - FORNECIMENTO E INSTALACAO",
+      "unidade": "UN",
+      "quantidade": 319.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "6.1.22",
+      "fonte": null,
+      "descricao": "TOMADA 2P+T PADRAO NBR 14136 CORRENTE 10A-250V - ELETROD. PVC Ø 25MM",
+      "unidade": "UN",
+      "quantidade": 30.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "6.1.23",
+      "fonte": null,
+      "descricao": "Ponto seco para telefone - eletrod. pvc Ø25mm amarelo.",
+      "unidade": "UN",
+      "quantidade": 25.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "6.1.24",
+      "fonte": null,
+      "descricao": "CAIXA DE PVC INCLUSIVE ESPELHO - 4\"X2\"",
+      "unidade": "UN",
+      "quantidade": 329.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "6.1.25",
+      "fonte": null,
+      "descricao": "BARRAMENTO DE COBRE NU",
+      "unidade": "KG",
+      "quantidade": 6.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "6.1.26",
+      "fonte": null,
+      "descricao": "Vergalhão com rosca, porca e arruela de diâmetro 3/8' (tirante)",
+      "unidade": "KG",
+      "quantidade": 96.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "6.1.27",
+      "fonte": null,
+      "descricao": "Eletrocalha perfurada tipo 'U', galvanizada a fogo, 100x50mm, com acessórios",
+      "unidade": "M",
+      "quantidade": 264.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "6.1.28",
+      "fonte": null,
+      "descricao": "QUADRO DE DISTRIBUIÇÃO EM CHAPA METÁLICA - PARA ATÉ 24 DISJUNTORES",
+      "unidade": "UN",
+      "quantidade": 5.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "6.1.29",
+      "fonte": null,
+      "descricao": "CAIXA DE PASSAGEM EM CHAPA METÁLICA COM TAMPA PARAFUSADA - 10X10X8CM",
+      "unidade": "UN",
+      "quantidade": 11.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "6.1.30",
+      "fonte": null,
+      "descricao": "DISJUNTOR TERMOMAGNETICO BIPOLAR PADRAO NEMA (AMERICANO) 10 A 50A 240V, FORNECIMENTO E INSTALACAO",
+      "unidade": "UN",
+      "quantidade": 75.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "6.1.31",
+      "fonte": null,
+      "descricao": "DISJUNTOR TERMOMAGNETICO TRIPOLAR PADRAO NEMA (AMERICANO) 10 A 50A 240 V, FORNECIMENTO E INSTALACAO",
+      "unidade": "UN",
+      "quantidade": 17.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "6.1.32",
+      "fonte": null,
+      "descricao": "DISJUNTOR TERMOMAGNETICO TRIPOLAR PADRAO NEMA (AMERICANO) 60 A 100A 24 OV, FORNECIMENTO E INSTALACAO",
+      "unidade": "UN",
+      "quantidade": 5.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "6.1.33",
+      "fonte": null,
+      "descricao": "DISJUNTOR TERMOMAGNETICO TRIPOLAR EM CAIXA MOLDADA 250A 600V, FORNECIMENTO E INSTALACAO",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": "APARELHOS DE ILUMINAÇÃO",
+      "codigo": "6.2.1",
+      "fonte": null,
+      "descricao": "LUMINÁRIA COMERCIAL - 2 LÂMPADAS FLUORESCENTES 54W",
+      "unidade": "UN",
+      "quantidade": 254.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": "APARELHOS DE ILUMINAÇÃO",
+      "codigo": "6.3.1",
+      "fonte": null,
+      "descricao": "LUMINÁRIA BLINDADA EM ALUMÍNIO FUNDIDO DE EMBUTIR ATÉ 200W",
+      "unidade": "UN",
+      "quantidade": 6.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 29
+    },
+    {
+      "grupo": "APARELHOS DE ILUMINAÇÃO",
+      "codigo": "6.2.2",
+      "fonte": null,
+      "descricao": "PROJETOR DE ALUMÍNIO FUNDIDO COM VIDRO PARA LÂMPADA ATÉ 1000W",
+      "unidade": "UN",
+      "quantidade": 9.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "APARELHOS DE ILUMINAÇÃO",
+      "codigo": "6.3.2",
+      "fonte": null,
+      "descricao": "REATOR PARA LÂMPADA VAPOR METÁLICO - 400W/220V",
+      "unidade": "UN",
+      "quantidade": 9.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "APARELHOS DE ILUMINAÇÃO",
+      "codigo": "6.2.3",
+      "fonte": null,
+      "descricao": "LÂMPADA VAPOR DE SÓDIO ALTA PRESSÃO - 400W",
+      "unidade": "UN",
+      "quantidade": 9.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "EQUIPAMENTO DE EMERGÊNCIA E SEGURANÇA",
+      "codigo": "6.3.2",
+      "fonte": null,
+      "descricao": "CENTRAL DE ILUMINAÇÃO DE EMERGÊNCIA 1000W - 24V",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "EQUIPAMENTO DE EMERGÊNCIA E SEGURANÇA",
+      "codigo": "6.3.3",
+      "fonte": null,
+      "descricao": "LUMINÁRIA DE EMERGÊNCIA AUTÔNOMA COM LÂMPADA FLUORESCENTE 15W",
+      "unidade": "UN",
+      "quantidade": 33.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "EQUIPAMENTO DE EMERGÊNCIA E SEGURANÇA",
+      "codigo": "6.3.4",
+      "fonte": null,
+      "descricao": "BATERIA ESTACIONÁRIA CHUMBO/CÁLCIO 45A - 12V",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "EQUIPAMENTO DE EMERGÊNCIA E SEGURANÇA",
+      "codigo": "6.3.5",
+      "fonte": null,
+      "descricao": "CENTRAL DE ALARME DE INCÊNDIO ATÉ 12 LAÇOS",
+      "unidade": "UN",
+      "quantidade": 9.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "EQUIPAMENTO DE EMERGÊNCIA E SEGURANÇA",
+      "codigo": "6.3.6",
+      "fonte": null,
+      "descricao": "ACIONADOR LIGA-DESLIGA PARA BOMBA COM MARTELO QUEBRA VIDRO",
+      "unidade": "UN",
+      "quantidade": 9.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "EQUIPAMENTO DE EMERGÊNCIA E SEGURANÇA",
+      "codigo": "6.3.7",
+      "fonte": null,
+      "descricao": "SIRENE ELETRÔNICA BITONAL 24V-100 À 120DB, COM FLASH",
+      "unidade": "UN",
+      "quantidade": 6.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "EQUIPAMENTO DE EMERGÊNCIA E SEGURANÇA",
+      "codigo": "6.3.8",
+      "fonte": null,
+      "descricao": "DETECTOR ÓPTICO DE FUMAÇA PARA SISTEMAS ENDEREÇÁVEIS",
+      "unidade": "UN",
+      "quantidade": 62.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "EQUIPAMENTO DE EMERGÊNCIA E SEGURANÇA",
+      "codigo": "6.3.9",
+      "fonte": null,
+      "descricao": "PÁRA-RAIOS TIPO \"FRANKLIN\", EXCLUSIVE DESCIDA E ATERRAMENTO",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "EQUIPAMENTO DE EMERGÊNCIA E SEGURANÇA",
+      "codigo": "6.3.10",
+      "fonte": null,
+      "descricao": "CAIXA DE INSPEÇÃO DE ATERRAMENTO TIPO EMBUTIR COM TAMPA E ALÇA",
+      "unidade": "UN",
+      "quantidade": 10.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "EQUIPAMENTO DE EMERGÊNCIA E SEGURANÇA",
+      "codigo": "6.3.11",
+      "fonte": null,
+      "descricao": "LUZ DE OBSTÁCULO DUPLA COM FOTOCELULA SOLAR",
+      "unidade": "UN",
+      "quantidade": 4.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "EQUIPAMENTO DE EMERGÊNCIA E SEGURANÇA",
+      "codigo": "6.3.12",
+      "fonte": null,
+      "descricao": "HASTE DE AÇO GALVANIZADO, INCLUSIVE BASE E ESTAIS - 2\"/3M",
+      "unidade": "M",
+      "quantidade": 18.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "EQUIPAMENTO DE EMERGÊNCIA E SEGURANÇA",
+      "codigo": "6.3.13",
+      "fonte": null,
+      "descricao": "CORDOALHA DE COBRE NÚ, INCLUSIVE ISOLADORES - 35,00MM2",
+      "unidade": "M",
+      "quantidade": 170.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "EQUIPAMENTO DE EMERGÊNCIA E SEGURANÇA",
+      "codigo": "6.3.14",
+      "fonte": null,
+      "descricao": "Solda exotérmica conexão cabo-cabo horizontal em X, bitola do cabo de 95-70mm² a 95-95mm²",
+      "unidade": "um",
+      "quantidade": 21.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "EQUIPAMENTO DE EMERGÊNCIA E SEGURANÇA",
+      "codigo": "6.3.15",
+      "fonte": null,
+      "descricao": "BARRA CHATA DE ALUMÍNIO TIPO FITA 1/8\" X 7/8\" X 3M",
+      "unidade": "PÇ",
+      "quantidade": 205.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "EQUIPAMENTO DE EMERGÊNCIA E SEGURANÇA",
+      "codigo": "6.3.16",
+      "fonte": null,
+      "descricao": "QUADRO COMANDO PARA CONJUNTO MOTOR-BOMBA, MONOFÁSICO - ATÉ 5HP",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "EQUIPAMENTO DE EMERGÊNCIA E SEGURANÇA",
+      "codigo": "6.3.17",
+      "fonte": null,
+      "descricao": "Sensor de presença para teto, com fotocélula, para lâmpada qualquer",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRO-SANITÁRIAS",
+      "codigo": "7.1.1",
+      "fonte": null,
+      "descricao": "CAVALETE DE ENTRADA - 1\"",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRO-SANITÁRIAS",
+      "codigo": "7.1.2",
+      "fonte": null,
+      "descricao": "HV.09 - ABRIGO PARA CAVALETE ENTRADA, D=3/4\" OU 1\" EM ALVENARIA REVESTIDA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRO-SANITÁRIAS",
+      "codigo": "7.1.3",
+      "fonte": null,
+      "descricao": "ADAPTADOR CURTO COM BOLSA E ROSCA PARA REGISTRO, PVC, SOLDÁVEL, DN 25 MM X 3/4, INSTALADO EM RESERVAÇÃO DE ÁGUA DE EDIFICAÇÃO QUE POSSUA RESERVATÓRIO DE FIBRA/FIBROCIMENTO FORNECIMENTO E INSTALAÇÃO. AF_06/2016",
+      "unidade": "UN",
+      "quantidade": 138.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRO-SANITÁRIAS",
+      "codigo": "7.1.4",
+      "fonte": null,
+      "descricao": "ADAPTADOR CURTO COM BOLSA E ROSCA PARA REGISTRO, PVC, SOLDÁVEL, DN 32MM X 1, INSTALADO EM RESERVAÇÃO DE ÁGUA DE EDIFICAÇÃO QUE POSSUA RESERVATÓRIO DE FIBRA/FIBROCIMENTO FORNECIMENTO E INSTALAÇÃO. AF_06/2016",
+      "unidade": "UN",
+      "quantidade": 50.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRO-SANITÁRIAS",
+      "codigo": "7.1.5",
+      "fonte": null,
+      "descricao": "ADAPTADOR CURTO COM BOLSA E ROSCA PARA REGISTRO, PVC, SOLDÁVEL, DN 50MM X 1 1/2, INSTALADO EM RESERVAÇÃO DE ÁGUA DE EDIFICAÇÃO QUE POSSUA RESERVATÓRIO DE FIBRA/FIBROCIMENTO FORNECIMENTO E INSTALAÇÃO. AF_06/2016",
+      "unidade": "UN",
+      "quantidade": 10.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRO-SANITÁRIAS",
+      "codigo": "7.1.6",
+      "fonte": null,
+      "descricao": "JOELHO 90 GRAUS, PVC, SOLDÁVEL, DN 32 MM INSTALADO EM RESERVAÇÃO DE ÁGUA DE EDIFICAÇÃO QUE POSSUA RESERVATÓRIO DE FIBRA/FIBROCIMENTO FORNECIMENTO E INSTALAÇÃO. AF_06/2016",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRO-SANITÁRIAS",
+      "codigo": "7.1.7",
+      "fonte": null,
+      "descricao": "CURVA 90 GRAUS, PVC, SOLDÁVEL, DN 25 MM, INSTALADO EM RESERVAÇÃO DE ÁGUA DE EDIFICAÇÃO QUE POSSUA RESERVATÓRIO DE FIBRA/FIBROCIMENTO FORNECIMENTO E INSTALAÇÃO. AF_06/2016",
+      "unidade": "UN",
+      "quantidade": 130.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRO-SANITÁRIAS",
+      "codigo": "7.1.8",
+      "fonte": null,
+      "descricao": "JOELHO 90 GRAUS, PVC, SOLDÁVEL, DN 32 MM INSTALADO EM RESERVAÇÃO DE ÁGUA DE EDIFICAÇÃO QUE POSSUA RESERVATÓRIO DE FIBRA/FIBROCIMENTO FORNECIMENTO E INSTALAÇÃO. AF_06/2016",
+      "unidade": "UN",
+      "quantidade": 57.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRO-SANITÁRIAS",
+      "codigo": "7.1.9",
+      "fonte": null,
+      "descricao": "JOELHO 90 GRAUS, PVC, SOLDÁVEL, DN 50 MM INSTALADO EM RESERVAÇÃO DE ÁGUA DE EDIFICAÇÃO QUE POSSUA RESERVATÓRIO DE FIBRA/FIBROCIMENTO FORNECIMENTO E INSTALAÇÃO. AF_06/2016",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRO-SANITÁRIAS",
+      "codigo": "7.1.10",
+      "fonte": null,
+      "descricao": "LUVA DE REDUÇÃO, PVC, SOLDÁVEL, DN 32MM X 25MM, INSTALADO EM RAMAL OU SUB-RAMAL DE ÁGUA - FORNECIMENTO E INSTALAÇÃO. AF_12/2014",
+      "unidade": "UN",
+      "quantidade": 10.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRO-SANITÁRIAS",
+      "codigo": "7.1.11",
+      "fonte": null,
+      "descricao": "LUVA COM BUCHA DE LATÃO, PVC, SOLDÁVEL, DN 25MM X 3/4, INSTALADO EM RAMAL OU SUB-RAMAL DE ÁGUA - FORNECIMENTO E INSTALAÇÃO. AF_12/2014",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRO-SANITÁRIAS",
+      "codigo": "7.1.12",
+      "fonte": null,
+      "descricao": "LUVA, PVC, SOLDÁVEL, DN 25MM, INSTALADO EM RAMAL OU SUB-RAMAL DE ÁGUA- FORNECIMENTO E INSTALAÇÃO. AF_12/2014",
+      "unidade": "UN",
+      "quantidade": 29.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRO-SANITÁRIAS",
+      "codigo": "7.1.13",
+      "fonte": null,
+      "descricao": "ADAPTADOR CURTO COM BOLSA E ROSCA PARA REGISTRO, PVC, SOLDÁVEL, DN 20MM X 1/2, INSTALADO EM RAMAL OU SUB-RAMAL DE ÁGUA - FORNECIMENTO E INSTALAÇÃO. AF_12/2014",
+      "unidade": "UN",
+      "quantidade": 10.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRO-SANITÁRIAS",
+      "codigo": "7.1.14",
+      "fonte": null,
+      "descricao": "REGISTRO DE GAVETA, METAL AMARELO - 1\"",
+      "unidade": "UN",
+      "quantidade": 17.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRO-SANITÁRIAS",
+      "codigo": "7.1.15",
+      "fonte": null,
+      "descricao": "REGISTRO DE GAVETA, METAL CROMADO - 3/4\"",
+      "unidade": "UN",
+      "quantidade": 36.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRO-SANITÁRIAS",
+      "codigo": "7.1.16",
+      "fonte": null,
+      "descricao": "Registro de pressao c/ canopla cromada dn 15mm (1/2\")",
+      "unidade": "UN",
+      "quantidade": 10.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRO-SANITÁRIAS",
+      "codigo": "7.1.17",
+      "fonte": null,
+      "descricao": "TE, PVC, SOLDÁVEL, DN 25MM, INSTALADO EM RAMAL OU SUB-RAMAL DE ÁGUA FORNECIMENTO E INSTALAÇÃO. AF_12/2014",
+      "unidade": "UN",
+      "quantidade": 17.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRO-SANITÁRIAS",
+      "codigo": "7.1.18",
+      "fonte": null,
+      "descricao": "TE, PVC, SOLDÁVEL, DN 32MM, INSTALADO EM RAMAL OU SUB-RAMAL DE ÁGUA - FORNECIMENTO E INSTALAÇÃO. AF_12/2014",
+      "unidade": "UN",
+      "quantidade": 11.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRO-SANITÁRIAS",
+      "codigo": "7.1.19",
+      "fonte": null,
+      "descricao": "Tê normal em polipropileno PPR, DN=50 mm",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRO-SANITÁRIAS",
+      "codigo": "7.1.20",
+      "fonte": null,
+      "descricao": "TÊ DE REDUÇÃO, PVC, SOLDÁVEL, DN 25MM X 20MM, INSTALADO EM RAMAL OU SUB-RAMAL DE ÁGUA - FORNECIMENTO E INSTALAÇÃO. AF_12/2014",
+      "unidade": "UN",
+      "quantidade": 10.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRO-SANITÁRIAS",
+      "codigo": "7.1.21",
+      "fonte": null,
+      "descricao": "TÊ DE REDUÇÃO, PVC, SOLDÁVEL, DN 32MM X 25MM, INSTALADO EM RAMAL OU SUB-RAMAL DE ÁGUA - FORNECIMENTO E INSTALAÇÃO. AF_12/2014",
+      "unidade": "UN",
+      "quantidade": 21.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRO-SANITÁRIAS",
+      "codigo": "7.1.22",
+      "fonte": null,
+      "descricao": "TUBO DE PVC RÍGIDO, SOLDÁVEL (LINHA ÁGUA) - 25MM (1\")",
+      "unidade": "M",
+      "quantidade": 213.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRO-SANITÁRIAS",
+      "codigo": "7.1.23",
+      "fonte": null,
+      "descricao": "TUBO DE PVC RÍGIDO, SOLDÁVEL (LINHA ÁGUA) - 32MM (1\")",
+      "unidade": "M",
+      "quantidade": 118.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRO-SANITÁRIAS",
+      "codigo": "7.1.24",
+      "fonte": null,
+      "descricao": "TUBO DE PVC RÍGIDO, SOLDÁVEL (LINHA ÁGUA) - 50MM (1 1/2\")",
+      "unidade": "M",
+      "quantidade": 15.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRO-SANITÁRIAS",
+      "codigo": "7.1.25",
+      "fonte": null,
+      "descricao": "CONJUNTO MOTOR-BOMBA - ATÉ 5HP",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRO-SANITÁRIAS",
+      "codigo": "7.1.26",
+      "fonte": null,
+      "descricao": "TUBO DE AÇO-CARBONO GALVANIZADO, CL.MÉDIA (DIN2440) - 1\" (RECALQUE)",
+      "unidade": "M",
+      "quantidade": 13.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRO-SANITÁRIAS",
+      "codigo": "7.1.27",
+      "fonte": null,
+      "descricao": "TUBO DE AÇO-CARBONO GALVANIZADO, CL.MÉDIA (DIN2440) - 1 1/2\" (SUCÇÃO)",
+      "unidade": "M",
+      "quantidade": 11.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRO-SANITÁRIAS",
+      "codigo": "7.1.28",
+      "fonte": null,
+      "descricao": "REGISTRO DE GAVETA, METAL AMARELO - 1\"",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRO-SANITÁRIAS",
+      "codigo": "7.1.29",
+      "fonte": null,
+      "descricao": "REGISTRO DE GAVETA, METAL AMARELO - 1 1/2\"",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRO-SANITÁRIAS",
+      "codigo": "7.1.30",
+      "fonte": null,
+      "descricao": "VÁLVULA DE RETENÇÃO HORIZONTAL - 1 1/2\"",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "REDE DE GÁS",
+      "codigo": "8.1.1",
+      "fonte": null,
+      "descricao": "TUBO EM COBRE RÍGIDO, DN 22 CLASSE E, SEM ISOLAMENTO, INSTALADO EM RAMAL DE DISTRIBUIÇÃO - FORNECIMENTO E INSTALAÇÃO. AF_12/2015",
+      "unidade": "M",
+      "quantidade": 33.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "REDE DE GÁS",
+      "codigo": "8.1.2",
+      "fonte": null,
+      "descricao": "VÁLVULA ESFÉRICA MONOBLOCO EM LATÃO, 3/4\" NPT",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "REDE DE GÁS",
+      "codigo": "8.1.3",
+      "fonte": null,
+      "descricao": "HV.21 - ABRIGO PARA GÁS EM ALVENARIA REVESTIDA PARA 6 CILINDROS",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "REDE DE GÁS",
+      "codigo": "8.1.4",
+      "fonte": null,
+      "descricao": "HD.13 - INSTALAÇÃO PARA 6 CILINDROS GLP 45KG, EXCLUSIVE ABRIGO",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "REDE DE GÁS",
+      "codigo": "8.1.5",
+      "fonte": null,
+      "descricao": "CILINDRO DE G.L.P. DE 45KG COM CARGA",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "REDE DE GÁS",
+      "codigo": "8.1.6",
+      "fonte": null,
+      "descricao": "CAIXA COM COLETOR DE ÁGUA (SIFÃO) PARA REDE DE GÁS",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": "REDE DE GÁS",
+      "codigo": "8.1.7",
+      "fonte": null,
+      "descricao": "PROTEÇÃO ANTICORROSIVA PARA TUBULAÇÃO ENTERRADA",
+      "unidade": "M",
+      "quantidade": 33.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": "REDE DE GÁS",
+      "codigo": "8.1.8",
+      "fonte": null,
+      "descricao": "ENVELOPAMENTO DE TUBULAÇÃO ENTERRADA, COM CONCRETO",
+      "unidade": "M",
+      "quantidade": 8.47,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 29
+    },
+    {
+      "grupo": "REDE DE PREVENÇÃO E COMBATE A INCÊNDIOS",
+      "codigo": "9.1.1",
+      "fonte": null,
+      "descricao": "Joelho 87° 30' em ferro fundido, linha predial tradicional, DN= 75 mm",
+      "unidade": "UN",
+      "quantidade": 15.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "REDE DE PREVENÇÃO E COMBATE A INCÊNDIOS",
+      "codigo": "9.1.2",
+      "fonte": null,
+      "descricao": "Te sanitário 87° 30′ em ferro fundido, linha predial tradicional, DN= 75 x 50 mm",
+      "unidade": "UN",
+      "quantidade": 5.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "REDE DE PREVENÇÃO E COMBATE A INCÊNDIOS",
+      "codigo": "9.1.3",
+      "fonte": null,
+      "descricao": "Luva bolsa e bolsa em ferro fundido, linha predial tradicional, DN= 75 mm",
+      "unidade": "UN",
+      "quantidade": 6.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "REDE DE PREVENÇÃO E COMBATE A INCÊNDIOS",
+      "codigo": "9.1.4",
+      "fonte": null,
+      "descricao": "TUBO DE AÇO-CARBONO GALVANIZADO, CLASSE MÉDIA (DIN2440) - 4\"",
+      "unidade": "M",
+      "quantidade": 73.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "REDE DE PREVENÇÃO E COMBATE A INCÊNDIOS",
+      "codigo": "9.1.5",
+      "fonte": null,
+      "descricao": "REGISTRO DE GAVETA, METAL AMARELO - 4\"",
+      "unidade": "UN",
+      "quantidade": 4.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "REDE DE PREVENÇÃO E COMBATE A INCÊNDIOS",
+      "codigo": "9.1.6",
+      "fonte": null,
+      "descricao": "Válvula globo em bronze, classe 125 libras para vapor e classe 200 libras para água, óleo e gás, DN= 2'",
+      "unidade": "UN",
+      "quantidade": 6.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "REDE DE PREVENÇÃO E COMBATE A INCÊNDIOS",
+      "codigo": "9.1.7",
+      "fonte": null,
+      "descricao": "ABRIGO DE EMBUTIR PARA HIDRANTE E MANGUEIRA - CHAPA DE AÇO N.20",
+      "unidade": "UN",
+      "quantidade": 6.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "REDE DE PREVENÇÃO E COMBATE A INCÊNDIOS",
+      "codigo": "9.1.8",
+      "fonte": null,
+      "descricao": "RECALQUE DE PASSEIO COM UNIÃO ENGATE RÁPIDO - REGISTRO TIPO GLOBO 2 1/2\"",
+      "unidade": "UN",
+      "quantidade": 6.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "REDE DE PREVENÇÃO E COMBATE A INCÊNDIOS",
+      "codigo": "9.1.9",
+      "fonte": null,
+      "descricao": "HIDRANTE COM UNIÃO DE ENGATE RÁPIDO - REGISTRO TIPO GLOBO 2 1/2\"",
+      "unidade": "UN",
+      "quantidade": 6.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "REDE DE PREVENÇÃO E COMBATE A INCÊNDIOS",
+      "codigo": "9.1.10",
+      "fonte": null,
+      "descricao": "MANGUEIRA DE INCÊNDIO COM UNIÃO DE ENGATE RÁPIDO, 30M - 2 1/2\"",
+      "unidade": "UN",
+      "quantidade": 6.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "REDE DE PREVENÇÃO E COMBATE A INCÊNDIOS",
+      "codigo": "9.1.11",
+      "fonte": null,
+      "descricao": "ESGUICHO DE INCÊNDIO COM ENGATE RÁPIDO - 2 1/2\"X5/8\"",
+      "unidade": "UN",
+      "quantidade": 6.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "REDE DE PREVENÇÃO E COMBATE A INCÊNDIOS",
+      "codigo": "9.1.12",
+      "fonte": null,
+      "descricao": "EXTINTOR DE INCÊNDIO COM CARGA DE GÁS CARBÔNICO (CO2) - 6KG",
+      "unidade": "UN",
+      "quantidade": 9.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "REDE DE PREVENÇÃO E COMBATE A INCÊNDIOS",
+      "codigo": "9.1.13",
+      "fonte": null,
+      "descricao": "EXTINTOR DE INCÊNDIO COM CARGA DE ÁGUA PRESSURIZADA - 10L",
+      "unidade": "UN",
+      "quantidade": 9.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "REDE DE PREVENÇÃO E COMBATE A INCÊNDIOS",
+      "codigo": "9.1.14",
+      "fonte": null,
+      "descricao": "EXTINTOR DE INCÊNDIO COM CARGA DE PÓ QUÍMICO SECO - 4KG",
+      "unidade": "UN",
+      "quantidade": 9.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "REDE DE PREVENÇÃO E COMBATE A INCÊNDIOS",
+      "codigo": "9.1.15",
+      "fonte": null,
+      "descricao": "SETA PARA HIDRANTE/EXTINTOR DE INCÊNDIO",
+      "unidade": "UN",
+      "quantidade": 27.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "REDE DE ESGOTO SANITÁRIO - TUBULAÇÃO",
+      "codigo": "10.1.1",
+      "fonte": null,
+      "descricao": "LUVA SIMPLES, PVC, SERIE R, ÁGUA PLUVIAL, DN 100 MM, JUNTA ELÁSTICA, FORNECIDO E INSTALADO EM CONDUTORES VERTICAIS DE ÁGUAS PLUVIAIS. AF_12/2014",
+      "unidade": "UN",
+      "quantidade": 21.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "REDE DE ESGOTO SANITÁRIO - TUBULAÇÃO",
+      "codigo": "10.1.2",
+      "fonte": null,
+      "descricao": "BUCHA DE REDUÇÃO LONGA, PVC, SERIE R, ÁGUA PLUVIAL, DN 50 X 40MM, JUNTA ELÁSTICA, FORNECIDO E INSTALADO EM RAMAL DE ENCAMINHAMENTO. AF_12/2014",
+      "unidade": "UN",
+      "quantidade": 22.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "REDE DE ESGOTO SANITÁRIO - TUBULAÇÃO",
+      "codigo": "10.1.3",
+      "fonte": null,
+      "descricao": "CAIXA DE INSPEÇÃO 80X80X80CM EM ALVENARIA - EXECUÇÃO",
+      "unidade": "UN",
+      "quantidade": 17.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "REDE DE ESGOTO SANITÁRIO - TUBULAÇÃO",
+      "codigo": "10.1.4",
+      "fonte": null,
+      "descricao": "CURVA CURTA 90 GRAUS, PVC, SERIE NORMAL, ESGOTO PREDIAL, DN 100 MM, JUNTA ELÁSTICA, FORNECIDO E INSTALADO EM RAMAL DE DESCARGA OU RAMAL DE ESGOTO SANITÁRIO. AF_12/2014",
+      "unidade": "UN",
+      "quantidade": 20.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "REDE DE ESGOTO SANITÁRIO - TUBULAÇÃO",
+      "codigo": "10.1.5",
+      "fonte": null,
+      "descricao": "CAIXA SIFONADA DE PVC RÍGIDO - 100X150MM",
+      "unidade": "UN",
+      "quantidade": 26.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "REDE DE ESGOTO SANITÁRIO - TUBULAÇÃO",
+      "codigo": "10.1.6",
+      "fonte": null,
+      "descricao": "CAIXA SIFONADA DE PVC RÍGIDO-150X150MM",
+      "unidade": "UN",
+      "quantidade": 7.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "REDE DE ESGOTO SANITÁRIO - TUBULAÇÃO",
+      "codigo": "10.1.7",
+      "fonte": null,
+      "descricao": "JOELHO 45 GRAUS, PVC, SERIE NORMAL, ESGOTO PREDIAL, DN 40 MM, JUNTA SOLDÁVEL, FORNECIDO E INSTALADO EM RAMAL DE DESCARGA OU RAMAL DE ESGOTO SANITÁRIO. AF_12/2014",
+      "unidade": "UN",
+      "quantidade": 21.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "REDE DE ESGOTO SANITÁRIO - TUBULAÇÃO",
+      "codigo": "10.1.8",
+      "fonte": null,
+      "descricao": "JOELHO 45 GRAUS, PVC, SERIE NORMAL, ESGOTO PREDIAL, DN 50 MM, JUNTA ELÁSTICA, FORNECIDO E INSTALADO EM RAMAL DE DESCARGA OU RAMAL DE ESGOTO SANITÁRIO. AF_12/2014",
+      "unidade": "UN",
+      "quantidade": 15.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "REDE DE ESGOTO SANITÁRIO - TUBULAÇÃO",
+      "codigo": "10.1.9",
+      "fonte": null,
+      "descricao": "JOELHO 45 GRAUS, PVC, SERIE NORMAL, ESGOTO PREDIAL, DN 75 MM, JUNTA ELÁSTICA, FORNECIDO E INSTALADO EM RAMAL DE DESCARGA OU RAMAL DE ESGOTO SANITÁRIO. AF_12/2014",
+      "unidade": "UN",
+      "quantidade": 8.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "REDE DE ESGOTO SANITÁRIO - TUBULAÇÃO",
+      "codigo": "10.1.10",
+      "fonte": null,
+      "descricao": "JOELHO 45 GRAUS, PVC, SERIE NORMAL, ESGOTO PREDIAL, DN 100 MM, JUNTA E LÁSTICA, FORNECIDO E INSTALADO EM RAMAL DE DESCARGA OU RAMAL DE ESGOTO SANITÁRIO. AF_12/2014",
+      "unidade": "UN",
+      "quantidade": 7.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "REDE DE ESGOTO SANITÁRIO - TUBULAÇÃO",
+      "codigo": "10.1.11",
+      "fonte": null,
+      "descricao": "JOELHO 90 GRAUS, PVC, SERIE NORMAL, ESGOTO PREDIAL, DN 150 MM, JUNTA E LÁSTICA, FORNECIDO E INSTALADO EM SUBCOLETOR AÉREO DE ESGOTO SANITÁRIO. AF_12/2014",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "REDE DE ESGOTO SANITÁRIO - TUBULAÇÃO",
+      "codigo": "10.1.12",
+      "fonte": null,
+      "descricao": "JOELHO 45 GRAUS, PVC, SERIE R, ÁGUA PLUVIAL, DN 50 MM, JUNTA ELÁSTICA, FORNECIDO E INSTALADO EM RAMAL DE ENCAMINHAMENTO. AF_12/2014",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": null,
+      "codigo": "10.1.13",
+      "fonte": null,
+      "descricao": "JOELHO 45 GRAUS, PVC, SERIE R, ÁGUA PLUVIAL, DN 100 MM, JUNTA ELÁSTICA, FORNECIDO E INSTALADO EM RAMAL DE ENCAMINHAMENTO. AF_12/2014",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "10.1.14",
+      "fonte": null,
+      "descricao": "JOELHO 90 GRAUS, PVC, SERIE NORMAL, ESGOTO PREDIAL, DN 40 MM, JUNTA SOLDÁVEL, FORNECIDO E INSTALADO EM RAMAL DE DESCARGA OU RAMAL DE ESGOTO SANITÁRIO. AF_12/2014",
+      "unidade": "UN",
+      "quantidade": 146.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "10.1.15",
+      "fonte": null,
+      "descricao": "JOELHO 90 GRAUS, PVC, SERIE NORMAL, ESGOTO PREDIAL, DN 50 MM, JUNTA ELÁSTICA, FORNECIDO E INSTALADO EM RAMAL DE DESCARGA OU RAMAL DE ESGOTO SANITÁRIO. AF_12/2014",
+      "unidade": "UN",
+      "quantidade": 66.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "10.1.16",
+      "fonte": null,
+      "descricao": "JOELHO 90 GRAUS, PVC, SERIE NORMAL, ESGOTO PREDIAL, DN 75 MM, JUNTA ELÁSTICA, FORNECIDO E INSTALADO EM RAMAL DE DESCARGA OU RAMAL DE ESGOTO SANITÁRIO. AF_12/2014",
+      "unidade": "UN",
+      "quantidade": 9.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "10.1.17",
+      "fonte": null,
+      "descricao": "JOELHO 90 GRAUS, PVC, SERIE NORMAL, ESGOTO PREDIAL, DN 100 MM, JUNTA ELÁSTICA, FORNECIDO E INSTALADO EM RAMAL DE DESCARGA OU RAMAL DE ESGOTO SANITÁRIO. AF_12/2014",
+      "unidade": "UN",
+      "quantidade": 42.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "10.1.18",
+      "fonte": null,
+      "descricao": "JOELHO 45 GRAUS, PVC, SERIE NORMAL, ESGOTO PREDIAL, DN 150 MM, JUNTA E",
+      "unidade": "UN",
+      "quantidade": 14.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "10.1.19",
+      "fonte": null,
+      "descricao": "JOELHO 90 GRAUS, PVC, SERIE R, ÁGUA PLUVIAL, DN 150 MM, JUNTA ELÁSTICA, FORNECIDO E INSTALADO EM CONDUTORES VERTICAIS DE ÁGUAS PLUVIAIS. AF_12/2014",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "10.1.20",
+      "fonte": null,
+      "descricao": "JUNÇÃO SIMPLES, PVC, SERIE R, ÁGUA PLUVIAL, DN 100 X 75 MM, JUNTA ELÁSTICA, FORNECIDO E INSTALADO EM RAMAL DE ENCAMINHAMENTO. AF_12/2014",
+      "unidade": "UN",
+      "quantidade": 9.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "10.1.21",
+      "fonte": null,
+      "descricao": "LUVA SIMPLES, PVC, SERIE NORMAL, ESGOTO PREDIAL, DN 50 MM, JUNTA ELÁSTICA, FORNECIDO E INSTALADO EM RAMAL DE DESCARGA OU RAMAL DE ESGOTO SANITÁRIO. AF_12/2014",
+      "unidade": "UN",
+      "quantidade": 65.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "10.1.22",
+      "fonte": null,
+      "descricao": "LUVA SIMPLES, PVC, SERIE NORMAL, ESGOTO PREDIAL, DN 75 MM, JUNTA ELÁSTICA, FORNECIDO E INSTALADO EM RAMAL DE DESCARGA OU RAMAL DE ESGOTO SANITÁRIO. AF_12/2014",
+      "unidade": "UN",
+      "quantidade": 12.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "10.1.23",
+      "fonte": null,
+      "descricao": "LUVA SIMPLES, PVC, SERIE NORMAL, ESGOTO PREDIAL, DN 100 MM, JUNTA ELÁSTICA, FORNECIDO E INSTALADO EM RAMAL DE DESCARGA OU RAMAL DE ESGOTO SANITÁRIO. AF_12/2014",
+      "unidade": "UN",
+      "quantidade": 53.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "10.1.24",
+      "fonte": null,
+      "descricao": "LUVA SIMPLES, PVC, SÉRIE NORMAL, ESGOTO PREDIAL, DN 150 MM, JUNTA ELÁSTICA, FORNECIDO E INSTALADO EM SUBCOLETOR AÉREO DE ESGOTO SANITÁRIO. AF_12/2014",
+      "unidade": "UN",
+      "quantidade": 10.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": "10.1.25",
+      "fonte": null,
+      "descricao": "LUVA SIMPLES, PVC, SERIE R, ÁGUA PLUVIAL, DN 50 MM, JUNTA ELÁSTICA, FORNECIDO E INSTALADO EM RAMAL DE ENCAMINHAMENTO. AF_12/2014",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": null,
+      "codigo": "10.1.26",
+      "fonte": null,
+      "descricao": "LUVA SIMPLES, PVC, SERIE R, ÁGUA PLUVIAL, DN 75 MM, JUNTA ELÁSTICA, FORNECIDO E INSTALADO EM RAMAL DE ENCAMINHAMENTO. AF_12/2014",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": null,
+      "codigo": "10.1.27",
+      "fonte": null,
+      "descricao": "LUVA SIMPLES, PVC, SERIE R, ÁGUA PLUVIAL, DN 100 MM, JUNTA ELÁSTICA, FORNECIDO E INSTALADO EM RAMAL DE ENCAMINHAMENTO. AF_12/2014",
+      "unidade": "UN",
+      "quantidade": 4.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": null,
+      "codigo": "10.1.28",
+      "fonte": null,
+      "descricao": "LUVA SIMPLES, PVC, SERIE R, ÁGUA PLUVIAL, DN 150 MM, JUNTA ELÁSTICA, FORNECIDO E INSTALADO EM CONDUTORES VERTICAIS DE ÁGUAS PLUVIAIS. AF_12/2014",
+      "unidade": "UN",
+      "quantidade": 4.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": null,
+      "codigo": "10.1.29",
+      "fonte": null,
+      "descricao": "RALO SIFONADO, PVC, DN 100 X 40 MM, JUNTA SOLDÁVEL, FORNECIDO E INSTALADO EM RAMAL DE DESCARGA OU EM RAMAL DE ESGOTO SANITÁRIO. AF_12/2014",
+      "unidade": "UN",
+      "quantidade": 10.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": null,
+      "codigo": "10.1.30",
+      "fonte": null,
+      "descricao": "REDUÇÃO EXCÊNTRICA, PVC, SERIE R, ÁGUA PLUVIAL, DN 75 X 50 MM, JUNTA ELÁSTICA, FORNECIDO E INSTALADO EM RAMAL DE ENCAMINHAMENTO. AF_12/2014",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": null,
+      "codigo": "10.1.31",
+      "fonte": null,
+      "descricao": "REDUÇÃO EXCENTRICA, PVC, SERIE R, ÁGUA PLUVIAL, DN 100 X 75 MM, JUNTA ELÁSTICA, FORNECIDO E INSTALADO EM RAMAL DE ENCAMINHAMENTO. AF_12/2014",
+      "unidade": "UN",
+      "quantidade": 9.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": null,
+      "codigo": "10.1.32",
+      "fonte": null,
+      "descricao": "REDUÇÃO EXCENTRICA, PVC, SERIE R, ÁGUA PLUVIAL, DN 150 X 100 MM, JUNTA ELÁSTICA, FORNECIDO E INSTALADO EM CONDUTORES VERTICAIS DE ÁGUAS PLUVIAIS. AF_12/2014",
+      "unidade": "UN",
+      "quantidade": 5.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": null,
+      "codigo": "10.1.33",
+      "fonte": null,
+      "descricao": "TE, PVC, SERIE NORMAL, ESGOTO PREDIAL, DN 50 X 50 MM, JUNTA ELÁSTICA, FORNECIDO E INSTALADO EM RAMAL DE DESCARGA OU RAMAL DE ESGOTO SANITÁRIO. AF_12/2014",
+      "unidade": "UN",
+      "quantidade": 13.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "10.1.34",
+      "fonte": null,
+      "descricao": "TE DE REDUÇÃO, PVC, SOLDÁVEL, DN 75MM X 50MM, INSTALADO EM PRUMADA DE ÁGUA - FORNECIMENTO E INSTALAÇÃO. AF_12/2014",
+      "unidade": "UN",
+      "quantidade": 5.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "10.1.35",
+      "fonte": null,
+      "descricao": "TE, PVC, SERIE NORMAL, ESGOTO PREDIAL, DN 75 X 75 MM, JUNTA ELÁSTICA, FORNECIDO E INSTALADO EM RAMAL DE DESCARGA OU RAMAL DE ESGOTO SANITÁRIO. AF_12/2014",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "10.1.36",
+      "fonte": null,
+      "descricao": "TE, PVC, SERIE NORMAL, ESGOTO PREDIAL, DN 100 X 100 MM, JUNTA ELÁSTICA, FORNECIDO E INSTALADO EM RAMAL DE DESCARGA OU RAMAL DE ESGOTO SANITÁRIO. AF_12/2014",
+      "unidade": "UN",
+      "quantidade": 8.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "10.1.37",
+      "fonte": null,
+      "descricao": "TÊ, PVC, SERIE R, ÁGUA PLUVIAL, DN 150 X 100 MM, JUNTA ELÁSTICA, FORNECIDO E INSTALADO EM CONDUTORES VERTICAIS DE ÁGUAS PLUVIAIS. AF_12/2014",
+      "unidade": "UN",
+      "quantidade": 40.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "10.1.38",
+      "fonte": null,
+      "descricao": "TE, PVC, SERIE NORMAL, ESGOTO PREDIAL, DN 150 X 150 MM, JUNTA ELÁSTICA, FORNECIDO E INSTALADO EM SUBCOLETOR AÉREO DE ESGOTO SANITÁRIO. AF_12/2014",
+      "unidade": "UN",
+      "quantidade": 32.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "10.1.39",
+      "fonte": null,
+      "descricao": "JUNÇÃO SIMPLES, PVC, SERIE NORMAL, ESGOTO PREDIAL, DN 100 X 100 MM, JUNTA ELÁSTICA, FORNECIDO E INSTALADO EM PRUMADA DE ESGOTO SANITÁRIO OU VENTILAÇÃO. AF_12/2014",
+      "unidade": "UN",
+      "quantidade": 6.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "10.1.40",
+      "fonte": null,
+      "descricao": "TUBO PVC, SERIE NORMAL, ESGOTO PREDIAL, DN 40 MM, FORNECIDO E INSTALAO EM RAMAL DE DESCARGA OU RAMAL DE ESGOTO SANITÁRIO. AF_12/2014",
+      "unidade": "M",
+      "quantidade": 180.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "10.1.41",
+      "fonte": null,
+      "descricao": "TUBO PVC, SERIE NORMAL, ESGOTO PREDIAL, DN 50 MM, FORNECIDO E INSTALADO EM RAMAL DE DESCARGA OU RAMAL DE ESGOTO SANITÁRIO. AF_12/2014",
+      "unidade": "M",
+      "quantidade": 40.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "10.1.42",
+      "fonte": null,
+      "descricao": "TUBO PVC, SERIE NORMAL, ESGOTO PREDIAL, DN 75 MM, FORNECIDO E INSTALADO EM RAMAL DE DESCARGA OU RAMAL DE ESGOTO SANITÁRIO. AF_12/2014",
+      "unidade": "M",
+      "quantidade": 55.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "10.1.43",
+      "fonte": null,
+      "descricao": "TUBO PVC, SERIE NORMAL, ESGOTO PREDIAL, DN 100 MM, FORNECIDO E INSTALADO EM RAMAL DE DESCARGA OU RAMAL DE ESGOTO SANITÁRIO. AF_12/2014",
+      "unidade": "M",
+      "quantidade": 146.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "10.1.44",
+      "fonte": null,
+      "descricao": "TUBO PVC, SERIE NORMAL, ESGOTO PREDIAL, DN 150 MM, FORNECIDO E INSTALADO EM SUBCOLETOR AÉREO DE ESGOTO SANITÁRIO. AF_12/2014",
+      "unidade": "M",
+      "quantidade": 151.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": "10.1.45",
+      "fonte": null,
+      "descricao": "TUBO PVC ESGOTO SERIE R DN 150MM C/ ANEL DE BORR - FORNEC E INSTALACAO",
+      "unidade": "M",
+      "quantidade": 9.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "REDE DE ÁGUAS PLUVIAIS - CAPTAÇÃO",
+      "codigo": "10.2.1",
+      "fonte": null,
+      "descricao": "JOELHO 90 GRAUS, PVC, SERIE R, ÁGUA PLUVIAL, DN 100 MM, JUNTA ELÁSTICA, FORNECIDO E INSTALADO EM RAMAL DE ENCAMINHAMENTO. AF_12/2014",
+      "unidade": "UN",
+      "quantidade": 34.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "REDE DE ÁGUAS PLUVIAIS - CAPTAÇÃO",
+      "codigo": "10.2.2",
+      "fonte": null,
+      "descricao": "JOELHO 45 GRAUS, PVC, SERIE R, ÁGUA PLUVIAL, DN 100 MM, JUNTA ELÁSTICA, FORNECIDO E INSTALADO EM RAMAL DE ENCAMINHAMENTO. AF_12/2014",
+      "unidade": "UN",
+      "quantidade": 5.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "REDE DE ÁGUAS PLUVIAIS - CAPTAÇÃO",
+      "codigo": "10.2.3",
+      "fonte": null,
+      "descricao": "JOELHO 45 GRAUS, PVC, SERIE R, ÁGUA PLUVIAL, DN 50 MM, JUNTA ELÁSTICA, FORNECIDO E INSTALADO EM RAMAL DE ENCAMINHAMENTO. AF_12/2014",
+      "unidade": "UN",
+      "quantidade": 9.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "REDE DE ÁGUAS PLUVIAIS - CAPTAÇÃO",
+      "codigo": "10.2.4",
+      "fonte": null,
+      "descricao": "TUBO PVC, SÉRIE R, ÁGUA PLUVIAL, DN 50 MM, FORNECIDO E INSTALADO EM RAMAL DE ENCAMINHAMENTO. AF_12/2014",
+      "unidade": "UN",
+      "quantidade": 34.5,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "REDE DE ÁGUAS PLUVIAIS - CAPTAÇÃO",
+      "codigo": "10.2.5",
+      "fonte": null,
+      "descricao": "TUBO PVC, SÉRIE R, ÁGUA PLUVIAL, DN 100 MM, FORNECIDO E INSTALADO EM RAMAL DE ENCAMINHAMENTO. AF_12/2014",
+      "unidade": "UN",
+      "quantidade": 263.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "REDE DE ÁGUAS PLUVIAIS - CAPTAÇÃO",
+      "codigo": "10.2.6",
+      "fonte": null,
+      "descricao": "CAIXA DE INSPEÇÃO EM CONCRETO PRÉ-MOLDADO DN 60CM COM TAMPA H= 60CM FORNECIMENTO E INSTALACAO",
+      "unidade": "UN",
+      "quantidade": 12.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "REDE DE ÁGUAS PLUVIAIS - CAPTAÇÃO",
+      "codigo": "10.2.7",
+      "fonte": null,
+      "descricao": "CAIXA DE PASSAGEM 30X30X40 COM TAMPA E DRENO BRITA",
+      "unidade": "UN",
+      "quantidade": 5.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "REDE DE ÁGUAS PLUVIAIS - CAPTAÇÃO",
+      "codigo": "10.2.8",
+      "fonte": null,
+      "descricao": "CONDUTOR EM TUBO DE PVC RÍGIDO, PONTA E BOLSA - 150MM (6\")",
+      "unidade": "UN",
+      "quantidade": 47.43,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "REDE DE ÁGUAS PLUVIAIS - CAPTAÇÃO",
+      "codigo": "10.2.9",
+      "fonte": null,
+      "descricao": "CALHA EM ALUMÍNIO ESP. 1,0MM - DESENVOLVIMENTO 100CM",
+      "unidade": "UN",
+      "quantidade": 49.74,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "REDE DE ÁGUAS PLUVIAIS - CAPTAÇÃO",
+      "codigo": "10.2.10",
+      "fonte": null,
+      "descricao": "RUFO EM ALUMÍNIO ESP. 1,0MM - DESENVOLVIMENTO 50CM",
+      "unidade": "UN",
+      "quantidade": 55.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": null,
+      "codigo": "10.2.11",
+      "fonte": null,
+      "descricao": "GRELHA HEMISFÉRICA DE FERRO FUNDIDO 150MM",
+      "unidade": "UN",
+      "quantidade": 14.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "APARELHOS SANITÁRIOS E EQUIPAMENTOS",
+      "codigo": "11.1.1",
+      "fonte": null,
+      "descricao": "BACIA SANITÁRIA SIFONADA, DE LOUÇA BRANCA",
+      "unidade": "UN",
+      "quantidade": 15.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "APARELHOS SANITÁRIOS E EQUIPAMENTOS",
+      "codigo": "11.1.2",
+      "fonte": null,
+      "descricao": "BACIA SANITÁRIA ALTEADA PARA PORTADORES DE DEFICIÊNCIA FÍSICA",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "APARELHOS SANITÁRIOS E EQUIPAMENTOS",
+      "codigo": "11.1.3",
+      "fonte": null,
+      "descricao": "LAVATÓRIO DE LOUÇA BRANCA, SEM COLUNA, CAPACIDADE MÍNIMA 5L, EXCL TORNEIRA",
+      "unidade": "UN",
+      "quantidade": 22.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "APARELHOS SANITÁRIOS E EQUIPAMENTOS",
+      "codigo": "11.1.4",
+      "fonte": null,
+      "descricao": "LAVATÓRIO DE LOUÇA INDIVIDUAL PARA PORTADORES DE DEFICIÊNCIA FÍSICA",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "APARELHOS SANITÁRIOS E EQUIPAMENTOS",
+      "codigo": "11.1.5",
+      "fonte": null,
+      "descricao": "MICTÓRIO INDIVIDUAL DE LOUÇA BRANCA, TIPO BACIA - DE CENTRO",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "APARELHOS SANITÁRIOS E EQUIPAMENTOS",
+      "codigo": "11.1.6",
+      "fonte": null,
+      "descricao": "MICTÓRIO INDIVIDUAL DE LOUÇA, PARA DEFICIENTE",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "APARELHOS SANITÁRIOS E EQUIPAMENTOS",
+      "codigo": "11.1.7",
+      "fonte": null,
+      "descricao": "MICTÓRIO COLETIVO DE AÇO INOXIDÁVEL - COMPRIMENTO 0/2000MM",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "APARELHOS SANITÁRIOS E EQUIPAMENTOS",
+      "codigo": "11.1.8",
+      "fonte": null,
+      "descricao": "CONJUNTO ANTIVANDALISMO PARA MICTÓRIO VÁLVULA DE FECHAM AUTOM E RABICHO",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "APARELHOS SANITÁRIOS E EQUIPAMENTOS",
+      "codigo": "11.1.9",
+      "fonte": null,
+      "descricao": "CUBA SIMPLES DE AÇO INOXIDÁVEL CHAPA 20 - 500X400X250MM",
+      "unidade": "UN",
+      "quantidade": 21.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "APARELHOS SANITÁRIOS E EQUIPAMENTOS",
+      "codigo": "11.1.10",
+      "fonte": null,
+      "descricao": "TANQUE DE LOUÇA BRANCA, C/ COLUNA, CAPAC MÍNIMA 30L - EXCL TORNEIRA",
+      "unidade": "UN",
+      "quantidade": 6.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "APARELHOS SANITÁRIOS E EQUIPAMENTOS",
+      "codigo": "11.1.11",
+      "fonte": null,
+      "descricao": "FILTRO TIPO CUNO OU SIMILAR COM ELEMENTO FILTRANTE CEL./CARVAO/CEL. 360 L/H",
+      "unidade": "UN",
+      "quantidade": 4.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "APARELHOS SANITÁRIOS E EQUIPAMENTOS",
+      "codigo": "11.1.12",
+      "fonte": null,
+      "descricao": "VALVULA DESCARGA 1 1/2\" C/ REGISTRO, ACABAM METAL CR - FORNEC E INSTAL",
+      "unidade": "UN",
+      "quantidade": 4.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "METAIS SANITÁRIOS E ACESSÓRIOS",
+      "codigo": "11.2.1",
+      "fonte": null,
+      "descricao": "TORNEIRA CLÍNICA DE MESA - 12 CM - 1/2\"",
+      "unidade": "UN",
+      "quantidade": 5.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "METAIS SANITÁRIOS E ACESSÓRIOS",
+      "codigo": "11.2.2",
+      "fonte": null,
+      "descricao": "TORNEIRA ELETRÔNICA DE MESA, COM SENSOR E ACIONAMENTO ELÉTRICO",
+      "unidade": "UN",
+      "quantidade": 88.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "METAIS SANITÁRIOS E ACESSÓRIOS",
+      "codigo": "11.2.3",
+      "fonte": null,
+      "descricao": "TORNEIRA DE MESA COM ACIONAMENTO MANUAL E FECHAMENTO AUTOMÁTICO",
+      "unidade": "UN",
+      "quantidade": 11.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "METAIS SANITÁRIOS E ACESSÓRIOS",
+      "codigo": "11.2.4",
+      "fonte": null,
+      "descricao": "Torneira de mesa para pia com bica móvel e arejador em latão fundido cromado",
+      "unidade": "UN",
+      "quantidade": 33.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "METAIS SANITÁRIOS E ACESSÓRIOS",
+      "codigo": "11.2.5",
+      "fonte": null,
+      "descricao": "TORNEIRA CROMADA 1/2\" OU 3/4\" PARA TANQUE, PADRÃO MÉDIO - FORNECIMENTE INSTALAÇÃO. AF_12/2013",
+      "unidade": "UN",
+      "quantidade": 6.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "METAIS SANITÁRIOS E ACESSÓRIOS",
+      "codigo": "11.2.6",
+      "fonte": null,
+      "descricao": "BICA ALTA ARTICULÁVEL DE MESA - 1/2\"",
+      "unidade": "UN",
+      "quantidade": 6.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "METAIS SANITÁRIOS E ACESSÓRIOS",
+      "codigo": "11.2.7",
+      "fonte": null,
+      "descricao": "VÁLVULA FLUXÍVEL COM REGISTRO INCORPORADO - 1 1/2\"",
+      "unidade": "UN",
+      "quantidade": 7.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "METAIS SANITÁRIOS E ACESSÓRIOS",
+      "codigo": "11.2.8",
+      "fonte": null,
+      "descricao": "CHUVEIRO DUCHA MODELO JET-SET METÁLICA OU SIMILAR",
+      "unidade": "UN",
+      "quantidade": 4.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "METAIS SANITÁRIOS E ACESSÓRIOS",
+      "codigo": "11.2.9",
+      "fonte": null,
+      "descricao": "TAMPO PARA BANCADA ÚMIDA - GRANITO VERDE UBATUBA POLIDO - ESPESSURA 2CM",
+      "unidade": "UN",
+      "quantidade": 43.9,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "METAIS SANITÁRIOS E ACESSÓRIOS",
+      "codigo": "11.2.10",
+      "fonte": null,
+      "descricao": "SABONETEIRA PARA SABÃO LÍQUIDO",
+      "unidade": "UN",
+      "quantidade": 39.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "METAIS SANITÁRIOS E ACESSÓRIOS",
+      "codigo": "11.2.11",
+      "fonte": null,
+      "descricao": "PORTA TOALHA DE PAPEL INTER FOLHAS",
+      "unidade": "UN",
+      "quantidade": 39.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "METAIS SANITÁRIOS E ACESSÓRIOS",
+      "codigo": "11.2.12",
+      "fonte": null,
+      "descricao": "CUBA DE FIBRA DE VIDRO 600 X 500 X 200MM",
+      "unidade": "UN",
+      "quantidade": 6.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "SISTEMA DE GÁS MÉDICO",
+      "codigo": "12.1.1",
+      "fonte": null,
+      "descricao": "SIFÃO TIPO PESADO, METAL CROMADO - 1\"X1 1/2\"",
+      "unidade": "UN",
+      "quantidade": 39.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "SISTEMA DE GÁS MÉDICO",
+      "codigo": "12.1.2",
+      "fonte": null,
+      "descricao": "VALVULA AMERICANA DE METAL CROMADO - 1 1/2\"X3 3/4\"",
+      "unidade": "UN",
+      "quantidade": 39.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": "SISTEMA DE DISTR. DE OXIGÊNIO E AR COMPRIMIDO",
+      "codigo": "12.1.1",
+      "fonte": null,
+      "descricao": "SISTEMA DE DISTR. DE OXIGÊNIO E AR COMPRIMIDO",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SISTEMA DE DISTR. DE OXIGÊNIO E AR COMPRIMIDO",
+      "codigo": "12.1.2",
+      "fonte": null,
+      "descricao": "DESLOCAMENTO TUBULAÇÃO GASES MEDICINAL AR COMPRIMIDO E OXIGÊNCIO E CRIAÇÃO DE UM PONTO NOVO AR COMPRIMIDO E ONIGÊNIO",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SISTEMA DE DISTR. DE OXIGÊNIO E AR COMPRIMIDO",
+      "codigo": "12.1.3",
+      "fonte": null,
+      "descricao": "TUBULAÇÃO GASES MEDICINAIS AR COMPRIMIDO",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "REVESTIMENTOS",
+      "codigo": "13.1.1",
+      "fonte": null,
+      "descricao": "CHAPISCO COMUM - ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 1789.99,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "REVESTIMENTOS",
+      "codigo": "13.1.2",
+      "fonte": null,
+      "descricao": "EMBOÇO EXTERNO - ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 1523.31,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "REVESTIMENTOS",
+      "codigo": "13.1.3",
+      "fonte": null,
+      "descricao": "EMBOÇO INTERNO - ARGAMASSA MISTA DE CIMENTO, CAL E AREIA 1:4/12",
+      "unidade": "M2",
+      "quantidade": 2655.35,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "REVESTIMENTOS",
+      "codigo": "13.1.4",
+      "fonte": null,
+      "descricao": "REBOCO EXTERNO - ARGAMASSA PRÉ-FABRICADA",
+      "unidade": "M2",
+      "quantidade": 1523.31,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "REVESTIMENTOS",
+      "codigo": "13.1.5",
+      "fonte": null,
+      "descricao": "REBOCO INTERNO - ARGAMASSA PRÉ-FABRICADA",
+      "unidade": "M2",
+      "quantidade": 2655.35,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "REVESTIMENTOS",
+      "codigo": "13.1.6",
+      "fonte": null,
+      "descricao": "AZULEJOS, JUNTA AMARRAÇÃO OU A PRUMO - ASSENTES COM ARGAMASSA COLANTE",
+      "unidade": "M2",
+      "quantidade": 1315.71,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "REVESTIMENTOS",
+      "codigo": "13.1.7",
+      "fonte": null,
+      "descricao": "CANTONEIRA DE PROTEÇÃO PARA AZULEJOS - PERFIL \"TRIFACE\" DE ALUMÍNIO",
+      "unidade": "M",
+      "quantidade": 95.0,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "REVESTIMENTOS",
+      "codigo": "13.1.8",
+      "fonte": null,
+      "descricao": "PEITORIL DE GRANITO POLIDO - ESP=2CM",
+      "unidade": "M",
+      "quantidade": 139.0,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "REVESTIMENTOS",
+      "codigo": "13.1.9",
+      "fonte": null,
+      "descricao": "projeto (fisico) - blindagem/barreira - radiologia",
+      "unidade": null,
+      "quantidade": 116.0,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "REVESTIMENTOS",
+      "codigo": "13.1.10",
+      "fonte": null,
+      "descricao": "REBOCO COM BARITA",
+      "unidade": "M2",
+      "quantidade": 131.5,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "FORROS",
+      "codigo": "14.1.1",
+      "fonte": null,
+      "descricao": "FORRO DE GESSO ACARTONADO INCL ESTRUTURA",
+      "unidade": "M2",
+      "quantidade": 1574.06,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "FORROS",
+      "codigo": "14.1.2",
+      "fonte": null,
+      "descricao": "DIVISÓRIA EM PLACAS DE GESSO ACARTONADO, RESISTÊNCIA AO FOGO 30 MINUTOS, ESPESSURA 73/48mm - 1ST/1ST",
+      "unidade": "M2",
+      "quantidade": 70.71,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "REVESTIMENTO DE PISOS",
+      "codigo": "15.1.1",
+      "fonte": null,
+      "descricao": "CONCRETO MAGRO PARA LASTRO, TRAÇO 1:4,5:4,5 (CIMENTO/ AREIA MÉDIA/ BRITA 1) - PREPARO MECÂNICO COM BETONEIRA 400 L. AF_07/2016",
+      "unidade": "M3",
+      "quantidade": 106.8,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "REVESTIMENTO DE PISOS",
+      "codigo": "15.1.2",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-60 - TELA",
+      "unidade": "KG",
+      "quantidade": 1309.21,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "REVESTIMENTO DE PISOS",
+      "codigo": "15.1.3",
+      "fonte": null,
+      "descricao": "REGULARIZAÇÃO COM ARGAMASSA DE CIMENTO E AREIA - TRAÇO 1:3, ESPESSURA MÉDIA 30MM",
+      "unidade": "M2",
+      "quantidade": 1600.0,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "REVESTIMENTO DE PISOS",
+      "codigo": "15.1.4",
+      "fonte": null,
+      "descricao": "REVESTIMENTO CERÂMICO PARA PISO COM PLACAS TIPO GRÊS DE DIMENSÕES 60X60 CM APLICADA EM AMBIENTES DE ÁREA MAIOR QUE 10 M2. AF_06/2014",
+      "unidade": "M2",
+      "quantidade": 143.13,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "REVESTIMENTO DE PISOS",
+      "codigo": "15.1.5",
+      "fonte": null,
+      "descricao": "PISO VINILICO SEMIFLEXIVEL PADRAO LISO, ESPESSURA 3,2MM, FIXADO COM COLA",
+      "unidade": "M2",
+      "quantidade": 178.27,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "REVESTIMENTO DE PISOS",
+      "codigo": "15.1.6",
+      "fonte": null,
+      "descricao": "PISO EM GRANILITE, MARMORITE OU GRANITINA ESPESSURA 8 MM, INCLUSO JUNTAS DE DILATACAO PLASTICAS",
+      "unidade": "M2",
+      "quantidade": 1214.23,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "REVESTIMENTO DE PISOS",
+      "codigo": "15.1.7",
+      "fonte": null,
+      "descricao": "RODAPÉ QUALQUER EM GRANILITE MOLDADO NO LOCAL ATÉ 10 cm",
+      "unidade": "M",
+      "quantidade": 1282.8,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "REVESTIMENTO DE PISOS",
+      "codigo": "15.1.8",
+      "fonte": null,
+      "descricao": "DEGRAU EM GRANILITE MOLDADO NO LOCAL",
+      "unidade": "M",
+      "quantidade": 80.96,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "REVESTIMENTO DE PISOS",
+      "codigo": "15.1.9",
+      "fonte": null,
+      "descricao": "RODAPÉ CERÂMICO DE 7CM DE ALTURA COM PLACAS TIPO GRÊS DE DIMENSÕES 60X60CM. AF_06/2014",
+      "unidade": "M",
+      "quantidade": 180.69,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "REVESTIMENTO DE PISOS",
+      "codigo": "15.1.10",
+      "fonte": null,
+      "descricao": "RODAPE BORRACHA LISO, ALTURA 7CM, ESPESSURA 1MM, FIXADO COM COLA",
+      "unidade": "M",
+      "quantidade": 157.5,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "REVESTIMENTO DE PISOS",
+      "codigo": "15.1.11",
+      "fonte": null,
+      "descricao": "SOLEIRA PARA PORTA EM GRANITO CINZA SEM POLIMENTO (FOSCO)",
+      "unidade": "M",
+      "quantidade": 11.0,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "REVESTIMENTO DE PISOS",
+      "codigo": "15.1.12",
+      "fonte": null,
+      "descricao": "PISO PODOTÁTIL, ALERTA OU DIRECIONAL, EM BORRACHA SINTÉTICA ASSENTES COM ARGAMASSA",
+      "unidade": "M2",
+      "quantidade": 6.4,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": "REVESTIMENTO DE PISOS",
+      "codigo": "15.1.13",
+      "fonte": null,
+      "descricao": "PISO DE CONCRETO INTERTRAVADO, ESPESSURA 8CM",
+      "unidade": "M2",
+      "quantidade": 145.0,
+      "pagina_pdf": 13,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "REVESTIMENTO DE PISOS",
+      "codigo": "16.1.1",
+      "fonte": null,
+      "descricao": "Vidro liso laminado incolor de 6 mm",
+      "unidade": "M2",
+      "quantidade": 239.66,
+      "pagina_pdf": 13,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "REVESTIMENTO DE PISOS",
+      "codigo": "16.1.2",
+      "fonte": null,
+      "descricao": "Vidro liso transparente de 4 mm",
+      "unidade": "M2",
+      "quantidade": 1.2,
+      "pagina_pdf": 13,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "REVESTIMENTO DE PISOS",
+      "codigo": "16.1.3",
+      "fonte": null,
+      "descricao": "ESPELHO CRISTAL ESPESSURA 4MM, COM MOLDURA EM ALUMINIO E COMPENSADO 6MM PLASTIFICADO COLADO",
+      "unidade": "M2",
+      "quantidade": 9.18,
+      "pagina_pdf": 13,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": "17.1.1",
+      "fonte": null,
+      "descricao": "APLICAÇÃO MANUAL DE GESSO DESEMPENADO (SEM TALISCAS) EM PAREDES DE AMBIENTES DE ÁREA MAIOR QUE 10M², ESPESSURA DE 0,5 CM AF_06/2014",
+      "unidade": "M2",
+      "quantidade": 3782.26,
+      "pagina_pdf": 13,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": "17.1.2",
+      "fonte": null,
+      "descricao": "APLICAÇÃO DE FUNDO SELADOR LÁTEX PVA EM PAREDES, UMA DEMÃO. AF_06/2014",
+      "unidade": "M2",
+      "quantidade": 6587.66,
+      "pagina_pdf": 13,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": "17.1.3",
+      "fonte": null,
+      "descricao": "TINTA ESMALTE SINTÉTICO - CONCRETO OU REBOCO COM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 4787.37,
+      "pagina_pdf": 13,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": "17.1.4",
+      "fonte": null,
+      "descricao": "Textura acrílica para uso interno / externo, inclusive preparo",
+      "unidade": "M2",
+      "quantidade": 1631.66,
+      "pagina_pdf": 13,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": "17.1.5",
+      "fonte": null,
+      "descricao": "PINTURA ESMALTE ACETINADO EM MADEIRA, DUAS DEMAOS",
+      "unidade": "M2",
+      "quantidade": 314.62,
+      "pagina_pdf": 13,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": "17.1.6",
+      "fonte": null,
+      "descricao": "PINTURA EPOXI, DUAS DEMAOS",
+      "unidade": "M2",
+      "quantidade": 186.0,
+      "pagina_pdf": 13,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": "17.1.7",
+      "fonte": null,
+      "descricao": "Esmalte em superfície metálica, inclusive preparo",
+      "unidade": "M2",
+      "quantidade": 307.6,
+      "pagina_pdf": 13,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": "17.1.8",
+      "fonte": null,
+      "descricao": "PISO DE CONCRETO INTERTRAVADO, ESPESSURA 8CM",
+      "unidade": "M2",
+      "quantidade": 198.0,
+      "pagina_pdf": 13,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "FECHAMENTO",
+      "codigo": "18.1.1",
+      "fonte": null,
+      "descricao": "FP.02 - GRADIL DE FERRO PERFILADO, TIPO PARQUE C/ MURETA - GPM-1/DEPAVE",
+      "unidade": "M",
+      "quantidade": 58.4,
+      "pagina_pdf": 13,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "FECHAMENTO",
+      "codigo": "18.1.2",
+      "fonte": null,
+      "descricao": "PP.38 - PORTÃO DE FERRO PERFIL., TIPO PARQUE (GP.5/GPM1) 2,00M, 1 FOLHA",
+      "unidade": "UN",
+      "quantidade": 4.0,
+      "pagina_pdf": 13,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "FECHAMENTO",
+      "codigo": "18.1.3",
+      "fonte": null,
+      "descricao": "ISOLAMENTO ACUSTICO EM ESPUMA DE POLIURETANO ESPESSURA 20 MM, DENSIDADE 29KG/M3",
+      "unidade": "M2",
+      "quantidade": 100.41,
+      "pagina_pdf": 13,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "18.2.1",
+      "fonte": null,
+      "descricao": "CONCRETO SIMPLES DESEMPENADO E RIPADO, 200KG CIM/M3",
+      "unidade": "M3",
+      "quantidade": 20.7,
+      "pagina_pdf": 13,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "18.2.2",
+      "fonte": null,
+      "descricao": "CAMADA DRENANTE COM BRITA NUM 2",
+      "unidade": "M3",
+      "quantidade": 6.92,
+      "pagina_pdf": 13,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "18.2.3",
+      "fonte": null,
+      "descricao": "ASSENTAMENTO DE GUIA (MEIO-FIO) EM TRECHO RETO, CONFECCIONADA EM CONCRETO PRÉ-FABRICADO, DIMENSÕES 100X15X13X30 CM (COMPRIMENTO X BASE INFERIOR X BASE SUPERIOR X ALTURA), PARA VIAS URBANAS (USO VIÁRIO). AF_06/2016",
+      "unidade": "M",
+      "quantidade": 58.4,
+      "pagina_pdf": 13,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "18.3.1",
+      "fonte": null,
+      "descricao": "IP.03 - PLATAFORMA C/ 3 MASTROS DE BANDEIRA H.LIVRE=7,00M (EXCL ENGASTAMENTO)",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 13,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "18.3.2",
+      "fonte": null,
+      "descricao": "HV.15-ABRIGO P/ LIXO BLOCO DE CONCRETO APARENTE, REVEST INTERNO C/ AZULEJOS",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 13,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "18.4.1",
+      "fonte": null,
+      "descricao": "INSTALAÇÃO - AR CONDICIONADO A FRIO, TIPO SPLIT PAREDE, CAPACIDADE D 12.000 BTU/h",
+      "unidade": "UN",
+      "quantidade": 10.0,
+      "pagina_pdf": 13,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "18.4.2",
+      "fonte": null,
+      "descricao": "Tubo de cobre rígido, DN= 22,22 mm (7/8), inclusive conexões",
+      "unidade": "M",
+      "quantidade": 203.0,
+      "pagina_pdf": 13,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "18.4.3",
+      "fonte": null,
+      "descricao": "Isolamento térmico em espuma elastomérica, espessura em 19 a 26 mm, para tubulação de 7/8' (cobre) ou 1/2' (ferro)",
+      "unidade": "M",
+      "quantidade": 203.0,
+      "pagina_pdf": 13,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "PAVIMENTAÇÃO",
+      "codigo": "18.4.4",
+      "fonte": null,
+      "descricao": "Ar condicionado a frio, tipo split parede, capacidade de 12.000 BTU/h",
+      "unidade": "UN",
+      "quantidade": 5.0,
+      "pagina_pdf": 13,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": null,
+      "codigo": "18.4.5",
+      "fonte": null,
+      "descricao": "Ar condicionado a frio, tipo split parede, capacidade de 18.000 BTU/h",
+      "unidade": "UN",
+      "quantidade": 7.0,
+      "pagina_pdf": 14,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "18.4.6",
+      "fonte": null,
+      "descricao": "Ar condicionado a frio, tipo split parede, capacidade de 24.000 BTU/h",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 14,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "18.4.7",
+      "fonte": null,
+      "descricao": "Ar condicionado a frio, tipo split cassete, capacidade de 24.000 BTU/h",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 14,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "18.4.8",
+      "fonte": null,
+      "descricao": "Ar condicionado a frio, tipo split parede, capacidade de 30.000 BTU/h",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 14,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "18.4.9",
+      "fonte": null,
+      "descricao": "Ar condicionado a frio, tipo split cassete, capacidade de 36.000 BTU/h",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 14,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "Drenagem Ar Condicionado",
+      "codigo": "18.5.1",
+      "fonte": null,
+      "descricao": "JOELHO 90 GRAUS, PVC, SOLDÁVEL, DN 25MM, INSTALADO EM DRENO DE AR-CONDICIONADO - FORNECIMENTO E INSTALAÇÃO. AF_12/2014",
+      "unidade": "UN",
+      "quantidade": 85.0,
+      "pagina_pdf": 14,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "Drenagem Ar Condicionado",
+      "codigo": "18.5.2",
+      "fonte": null,
+      "descricao": "JOELHO 45 GRAUS, PVC, SOLDÁVEL, DN 25MM, INSTALADO EM DRENO DE AR-CONDICIONADO - FORNECIMENTO E INSTALAÇÃO. AF_12/2014",
+      "unidade": "UN",
+      "quantidade": 35.0,
+      "pagina_pdf": 14,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "Drenagem Ar Condicionado",
+      "codigo": "18.5.3",
+      "fonte": null,
+      "descricao": "LUVA, PVC, SOLDÁVEL, DN 25MM, INSTALADO EM DRENO DE AR-CONDICIONADO - FORNECIMENTO E INSTALAÇÃO. AF_12/2014",
+      "unidade": "UN",
+      "quantidade": 110.0,
+      "pagina_pdf": 14,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "Drenagem Ar Condicionado",
+      "codigo": "18.5.4",
+      "fonte": null,
+      "descricao": "TE, PVC, SOLDÁVEL, DN 25MM, INSTALADO EM DRENO DE AR-CONDICIONADO - FORNECIMENTO E INSTALAÇÃO. AF_12/2014",
+      "unidade": "UN",
+      "quantidade": 35.0,
+      "pagina_pdf": 14,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "Drenagem Ar Condicionado",
+      "codigo": "17.5.5",
+      "fonte": null,
+      "descricao": "TUBO, PVC, SOLDÁVEL, DN 25MM, INSTALADO EM RAMAL DE DISTRIBUIÇÃO DE ÁGUA - FORNECIMENTO E INSTALAÇÃO. AF_12/2014",
+      "unidade": "UN",
+      "quantidade": 130.0,
+      "pagina_pdf": 14,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "LIMPEZA",
+      "codigo": "18.6.1",
+      "fonte": null,
+      "descricao": "LIMPEZA GERAL DA OBRA",
+      "unidade": "M2",
+      "quantidade": 1604.0,
+      "pagina_pdf": 14,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "LIMPEZA",
+      "codigo": "18.6.2",
+      "fonte": null,
+      "descricao": "LIMPEZA PISO CERAMICO",
+      "unidade": "M2",
+      "quantidade": 1604.0,
+      "pagina_pdf": 14,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "LIMPEZA",
+      "codigo": "18.6.3",
+      "fonte": null,
+      "descricao": "LIMPEZA DE VIDROS EM GERAL, INCLUSIVE CAIXILHO",
+      "unidade": "M2",
+      "quantidade": 494.0,
+      "pagina_pdf": 14,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "LIMPEZA",
+      "codigo": "18.6.4",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO C/ CAÇAMBA MET, INCL CARGA MANUAL E DESC EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 70.99,
+      "pagina_pdf": 14,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "COMPLEMENTOS DO EDIFÍCIO",
+      "codigo": "18.7.1",
+      "fonte": null,
+      "descricao": "BARRA DE APOIO P/ DEFICIENTES L=90 CM (BARRAS C/ DIAMETRO ENTRE 3,0 E 4,5CM)",
+      "unidade": "UN",
+      "quantidade": 34.0,
+      "pagina_pdf": 14,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "COMPLEMENTOS DO EDIFÍCIO",
+      "codigo": "18.7.2",
+      "fonte": null,
+      "descricao": "CORRIMAO EM TUBO ACO GALVANIZADO 2 1/2\" COM BRACADEIRA",
+      "unidade": "M",
+      "quantidade": 68.0,
+      "pagina_pdf": 14,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "COMPLEMENTOS DO EDIFÍCIO",
+      "codigo": "18.7.3",
+      "fonte": null,
+      "descricao": "CORRIMÃO EM TUBO GALVANIZADO COM GUARDA CORPO",
+      "unidade": "M",
+      "quantidade": 59.24,
+      "pagina_pdf": 14,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "COMPLEMENTOS DO EDIFÍCIO",
+      "codigo": "18.7.4",
+      "fonte": null,
+      "descricao": "CHAPÉU CHINÊS PARA DUTO GALVANIZADO 35CM BIT.22 PARA EXAUSTÃO DE AR",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 14,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "COMPLEMENTOS DO EDIFÍCIO",
+      "codigo": "18.7.5",
+      "fonte": null,
+      "descricao": "DUTO EM CHAPA DE AÇO GALVANIZADO N.22 - DIAMETRO 35CM",
+      "unidade": "M",
+      "quantidade": 22.0,
+      "pagina_pdf": 14,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "COMPLEMENTOS DO EDIFÍCIO",
+      "codigo": "18.7.6",
+      "fonte": null,
+      "descricao": "CURVA P/DUTO EM CHAPA GALVAN 35CM BIT.22 PARA EXAUSTÃO AR RECR A CADA 10GR",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 14,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "COMPLEMENTOS DO EDIFÍCIO",
+      "codigo": "18.7.7",
+      "fonte": null,
+      "descricao": "CALHA DE BEIRAL, SEMICIRCULAR DE PVC, DIAMETRO 125 MM, INCLUINDO CABECEIRAS, EMENDAS, BOCAIS, SUPORTES E VEDAÇÕES, EXCLUINDO CONDUTORES, INCLUSO TRANSPORTE VERTICAL. AF_06/2016",
+      "unidade": "M",
+      "quantidade": 18.0,
+      "pagina_pdf": 14,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "COMPLEMENTOS DO EDIFÍCIO",
+      "codigo": "18.7.8",
+      "fonte": null,
+      "descricao": "GRELHA HEMISFÉRICA DE FERRO FUNDIDO - 150MM",
+      "unidade": "UN",
+      "quantidade": 9.0,
+      "pagina_pdf": 14,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "COMPLEMENTOS DO EDIFÍCIO",
+      "codigo": "18.7.9",
+      "fonte": null,
+      "descricao": "CAIXA DE PASSAGEM 30X30X40 COM TAMPA E DRENO BRITA",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 14,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "COMPLEMENTOS DO EDIFÍCIO",
+      "codigo": "18.7.10",
+      "fonte": null,
+      "descricao": "PROTETOR DE PAREDE BATE-MACA EM PVC, COM AMORTECIMENTO A IMPACTO, ALTURA DE 150 MM",
+      "unidade": "M",
+      "quantidade": 630.99,
+      "pagina_pdf": 14,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "COMPLEMENTOS DO EDIFÍCIO",
+      "codigo": "18.7.11",
+      "fonte": null,
+      "descricao": "DOCUMENTAÇÃO AVCB",
+      "unidade": "VB",
+      "quantidade": 1.0,
+      "pagina_pdf": 14,
+      "ordem_na_pagina": 25
+    }
+  ],
+  "apelido": "AV ALBERTO RUFFOLO - PREFEITURA DE JANDIRA"
+}

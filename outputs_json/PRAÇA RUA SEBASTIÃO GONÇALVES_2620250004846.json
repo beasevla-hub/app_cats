@@ -1,0 +1,685 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620250004846",
+    "numero_art": "28027230231457653",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA BUTANTÃ",
+    "cnpj_contratante": "05.546.795/0001-51",
+    "objeto": "CONTRATAÇÃO DE OBRAS DE REVITALIZAÇÃO DE E.L. MUNICIPAL LOCALIZADO À RUA SEBASTIÃO GONÇALVES X RUA BERGOGNONE - BUTANTÃ.",
+    "processo_administrativo": "6021.2023/0003069-4",
+    "contrato": "15/SUB-BT/SF/2023",
+    "endereco_obra": "RUA BERGOGNONE No.: 17",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2023-09-18",
+    "data_fim": "2023-12-16",
+    "area_m2": 400.0,
+    "valor_contrato": 318891.27
+  },
+  "servicos": [
+    {
+      "grupo": null,
+      "codigo": "01-01-07",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 44.06,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "01-05-01",
+      "fonte": null,
+      "descricao": "TAPUME CHAPA COMPENSADA 6MM",
+      "unidade": "M2",
+      "quantidade": 33.55,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "01-05-07",
+      "fonte": null,
+      "descricao": "PORTÃO DE PEDESTRES - 1,15M, PARA TAPUME",
+      "unidade": "M2",
+      "quantidade": 2.53,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "06-02-21",
+      "fonte": null,
+      "descricao": "TELHA ONDULADA CRFS 6MM",
+      "unidade": "M2",
+      "quantidade": 13.2,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "01-05-40",
+      "fonte": null,
+      "descricao": "TELA PARA PROTEÇÃO DE OBRAS, MALHA 2 MM",
+      "unidade": "M2",
+      "quantidade": 120.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "02-50-03",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MANUAL DE CONCRETO SIMPLES",
+      "unidade": "M3",
+      "quantidade": 32.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "04-50-04",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE ALVENARIA EM GERAL (TIJOLOS OU BLOCOS)",
+      "unidade": "M3",
+      "quantidade": 9.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "17-30-02",
+      "fonte": null,
+      "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "17-50-45",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE GUIAS DE CONCRETO",
+      "unidade": "M",
+      "quantidade": 34.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "17-50-48",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE SARJETAS DE CONCRETO",
+      "unidade": "M",
+      "quantidade": 34.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "17-60-96",
+      "fonte": null,
+      "descricao": "RETIRADA DE CERCA DE TELA GALVANIZADA E RESPECTIVOS MOURÕES (FC 04/05)",
+      "unidade": "M",
+      "quantidade": 120.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "03-01-04",
+      "fonte": null,
+      "descricao": "FORMA COMUM DE TÁBUAS DE PINUS - NÃO RECUPERÁVEL",
+      "unidade": "M2",
+      "quantidade": 18.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": "03-02-09",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-60 TELA",
+      "unidade": "KG",
+      "quantidade": 995.2,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": null,
+      "codigo": "13-01-10",
+      "fonte": null,
+      "descricao": "LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 16.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": null,
+      "codigo": "17-02-01",
+      "fonte": null,
+      "descricao": "CONCRETO SIMPLES DESEMPENADO E RIPADO, 200KG CIM/M3",
+      "unidade": "M3",
+      "quantidade": 22.4,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": null,
+      "codigo": "03-01-04",
+      "fonte": null,
+      "descricao": "FORMA COMUM DE TÁBUAS DE PINUS - NÃO RECUPERAVEL",
+      "unidade": "M2",
+      "quantidade": 17.76,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": null,
+      "codigo": "03-02-09",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-60 - TELA",
+      "unidade": "KG",
+      "quantidade": 273.68,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": null,
+      "codigo": "03-03-30",
+      "fonte": null,
+      "descricao": "BOMBEAMENTO DE CONCRETO",
+      "unidade": "M3",
+      "quantidade": 6.16,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": null,
+      "codigo": "13-01-10",
+      "fonte": null,
+      "descricao": "LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 4.4,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": null,
+      "codigo": "17-02-01",
+      "fonte": null,
+      "descricao": "CONCRETO SIMPLES DESEMPENADO E RIPADO, 200KG CIM/M3",
+      "unidade": "M3",
+      "quantidade": 6.16,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": null,
+      "codigo": "17-01-29",
+      "fonte": null,
+      "descricao": "FP.03 ALAMBRADO PARA QUADRAS DE ESPORTE-GP.6/EDIF-TG/4,5M",
+      "unidade": "M",
+      "quantidade": 39.6,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": null,
+      "codigo": "17-01-41",
+      "fonte": null,
+      "descricao": "PP.20/24-PORTÃO EM FERRO PERFILADO COM TELA, 1 FOLHA",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": null,
+      "codigo": "17-01-83",
+      "fonte": null,
+      "descricao": "MURETA EM BLOCOS DE CONCRETO H=0,50M (REVESTIDO)",
+      "unidade": "M",
+      "quantidade": 39.6,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": null,
+      "codigo": "15-01-15",
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA-CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 45.54,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": null,
+      "codigo": "17-03-56",
+      "fonte": null,
+      "descricao": "QD.02-DEMARCAÇÃO DE QUADRA COM TINTA A BASE DE BORRACHA CLORADA - FUTEBOL DE SALÃO",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": null,
+      "codigo": "17-03-61",
+      "fonte": null,
+      "descricao": "TRAVE PARA FUTEBOL DE SALÃO, INCLUSIVE PINTURA E REDE",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": null,
+      "codigo": "17-03-65",
+      "fonte": null,
+      "descricao": "TELA DE NYLON PARA COBERTURA DE QUADRA",
+      "unidade": "M2",
+      "quantidade": 85.76,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": null,
+      "codigo": "17-03-70",
+      "fonte": null,
+      "descricao": "DEMARCAÇÃO E PINTURA DE SUPERFÍCIES - BORRACHA CLORADA",
+      "unidade": "M2",
+      "quantidade": 85.76,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": null,
+      "codigo": "18-14-41",
+      "fonte": null,
+      "descricao": "PLAYGROUND BRINQUEDOS DE MADEIRA - CASA TARZAN COM RAMPA ESCALADA, ESCORREGADOR, PONTE E ESCADA MARINHEIRO",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 29
+    },
+    {
+      "grupo": null,
+      "codigo": "18-14-44",
+      "fonte": null,
+      "descricao": "PLAYGROUND BRINQUEDOS DE MADEIRA - DOIS CAVALINHOS E DUAS GANGORRAS",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 30
+    },
+    {
+      "grupo": null,
+      "codigo": "18-14-49",
+      "fonte": null,
+      "descricao": "PLAYGROUND BRINQUEDOS DE MADEIRA - ESCADA HORIZONTAL",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 31
+    },
+    {
+      "grupo": null,
+      "codigo": "18-16-03",
+      "fonte": null,
+      "descricao": "MULTI EXERCITADOR CONJUGADO COM 6 FUNÇÕES",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 32
+    },
+    {
+      "grupo": null,
+      "codigo": "18-16-07",
+      "fonte": null,
+      "descricao": "PRESSÃO DE PERNAS TRIPLO CONJUGADO",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 33
+    },
+    {
+      "grupo": null,
+      "codigo": "08-80-50",
+      "fonte": null,
+      "descricao": "FERRO TRABALHADO - CAIXILHOS E PEQUENAS PEÇAS DE SERRALHERIA",
+      "unidade": "KG",
+      "quantidade": 20.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 34
+    },
+    {
+      "grupo": null,
+      "codigo": "15-03-10",
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO-ESQUADRIAS E PEÇAS DE SERRALHERIA",
+      "unidade": "M2",
+      "quantidade": 16.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 35
+    },
+    {
+      "grupo": null,
+      "codigo": "17-60-50",
+      "fonte": null,
+      "descricao": "RETIRADA DE BRINQUEDOS",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 36
+    },
+    {
+      "grupo": null,
+      "codigo": "01-01-08",
+      "fonte": null,
+      "descricao": "LIMPEZA MANUAL GERAL INCLUSIVE REMOÇÃO DE COBERTURA VEGETAL-TRONCO ATÉ 10CM-SEM TRANSPORTE",
+      "unidade": "M2",
+      "quantidade": 80.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 37
+    },
+    {
+      "grupo": null,
+      "codigo": "01-01-07",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 8.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 38
+    },
+    {
+      "grupo": null,
+      "codigo": "01-02-02",
+      "fonte": null,
+      "descricao": "CORTE E ESPALHAMENTO DENTRO DA OBRA",
+      "unidade": "M3",
+      "quantidade": 32.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 39
+    },
+    {
+      "grupo": null,
+      "codigo": "02-01-01",
+      "fonte": null,
+      "descricao": "BROCA DE CONCRETO DIAMETRO DE 20CM",
+      "unidade": "M",
+      "quantidade": 20.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 40
+    },
+    {
+      "grupo": null,
+      "codigo": "04-01-98",
+      "fonte": null,
+      "descricao": "VERGAS, CINTAS E PILARETES DE CONCRETO",
+      "unidade": "M3",
+      "quantidade": 4.18,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 41
+    },
+    {
+      "grupo": null,
+      "codigo": "04-01-41",
+      "fonte": null,
+      "descricao": "BLOCOS VAZADOS DE CONCRETO - 14CM",
+      "unidade": "M2",
+      "quantidade": 41.76,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 42
+    },
+    {
+      "grupo": null,
+      "codigo": "04-01-96",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-60 PARA BLOCOS VAZADOS DE CONCRETO ESTRUTURAL",
+      "unidade": "KG",
+      "quantidade": 30.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 43
+    },
+    {
+      "grupo": null,
+      "codigo": "04-01-97",
+      "fonte": null,
+      "descricao": "CONCRETO \"GROUT\"",
+      "unidade": "M3",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 44
+    },
+    {
+      "grupo": null,
+      "codigo": "03-04-19",
+      "fonte": null,
+      "descricao": "LAJE MISTA TRELIÇADA H-8CM COM CAPEAMENTO 4CM (12CM)",
+      "unidade": "M2",
+      "quantidade": 31.32,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 45
+    },
+    {
+      "grupo": null,
+      "codigo": "13-02-02",
+      "fonte": null,
+      "descricao": "CIMENTADO COMUM, DESEMPENADO E ALISADO - ESPESSURA 20MM",
+      "unidade": "M2",
+      "quantidade": 31.32,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 46
+    },
+    {
+      "grupo": null,
+      "codigo": "01-01-08",
+      "fonte": null,
+      "descricao": "LIMPEZA MANUAL GERAL INCLUSIVE REMOÇÃO DE COBERTURA VEGETAL-TRONCO ATÉ 10CM - SEM TRANSPORTE",
+      "unidade": "M2",
+      "quantidade": 400.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 47
+    },
+    {
+      "grupo": null,
+      "codigo": "01-01-07",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 40.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 48
+    },
+    {
+      "grupo": null,
+      "codigo": "18-03-03",
+      "fonte": null,
+      "descricao": "GRAMA SÃO CARLOS EM PLACAS (ANOKONOPUS OBTUSIFOLIUS)",
+      "unidade": "M2",
+      "quantidade": 400.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 49
+    },
+    {
+      "grupo": null,
+      "codigo": "01-01-08",
+      "fonte": null,
+      "descricao": "LIMPEZA MANUAL GERAL INCLUSIVE REMOÇÃO DE COBERTURA VEGETAL-TRONCO ATÉ 10CM - SEM TRANSPORTE",
+      "unidade": "M2",
+      "quantidade": 163.2,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 50
+    },
+    {
+      "grupo": null,
+      "codigo": "01-04-01",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL, PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 32.64,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 51
+    },
+    {
+      "grupo": null,
+      "codigo": "01-01-07",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 32.64,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 52
+    },
+    {
+      "grupo": null,
+      "codigo": "03-01-04",
+      "fonte": null,
+      "descricao": "FORMA COMUM DE TÁBUAS DE PINUS - NÃO RECUPERÁVEL",
+      "unidade": "M2",
+      "quantidade": 20.4,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 53
+    },
+    {
+      "grupo": null,
+      "codigo": "03-02-09",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-60 - TELA",
+      "unidade": "KG",
+      "quantidade": 507.55,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 54
+    },
+    {
+      "grupo": null,
+      "codigo": "03-03-30",
+      "fonte": null,
+      "descricao": "BOMBEAMENTO DE CONCRETO",
+      "unidade": "M3",
+      "quantidade": 11.42,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 55
+    },
+    {
+      "grupo": null,
+      "codigo": "13-01-10",
+      "fonte": null,
+      "descricao": "LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 8.16,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 56
+    },
+    {
+      "grupo": null,
+      "codigo": "17-02-01",
+      "fonte": null,
+      "descricao": "CONCRETO SIMPLES DESEMPENADO E RIPADO, 200KG CIM/M3",
+      "unidade": "M3",
+      "quantidade": 11.42,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 57
+    },
+    {
+      "grupo": null,
+      "codigo": "17-02-30",
+      "fonte": null,
+      "descricao": "PEDRISCO COM COMPACTAÇÃO MANUAL - ESPESSURA SCM",
+      "unidade": "M2",
+      "quantidade": 40.5,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 58
+    },
+    {
+      "grupo": null,
+      "codigo": "18-10-56",
+      "fonte": null,
+      "descricao": "ORLA DE SEPARAÇÃO EM CONCRETO NC.26",
+      "unidade": "M",
+      "quantidade": 26.6,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 59
+    },
+    {
+      "grupo": null,
+      "codigo": "18-12-02",
+      "fonte": null,
+      "descricao": "IC.02-CONJUNTO MESA E BANCOS EM CONCRETO",
+      "unidade": "CJ",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 60
+    },
+    {
+      "grupo": null,
+      "codigo": "18-15-01",
+      "fonte": null,
+      "descricao": "APARELHOS DE GINÁTICA EM MADEIRA - BARRA DUPLA EM DOIS NIVEIS",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 61
+    },
+    {
+      "grupo": null,
+      "codigo": "18-15-03",
+      "fonte": null,
+      "descricao": "APARELHOS DE GINÁTICA EM MADEIRA - BARRAS PARALELAS",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 62
+    },
+    {
+      "grupo": null,
+      "codigo": "01-01-08",
+      "fonte": null,
+      "descricao": "LIMPEZA MANUAL GERAL INCLUSIVE REMOÇÃO DE COBERTURA VEGETAL-TRONCO ATÉ 10CM-SEM TRANSPORTE",
+      "unidade": "M2",
+      "quantidade": 286.8,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 63
+    },
+    {
+      "grupo": null,
+      "codigo": "01-01-07",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 28.68,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 64
+    },
+    {
+      "grupo": null,
+      "codigo": "18-03-05",
+      "fonte": null,
+      "descricao": "GRAMA ESMERALDA",
+      "unidade": "M2",
+      "quantidade": 286.8,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 65
+    },
+    {
+      "grupo": null,
+      "codigo": "20-03-21",
+      "fonte": null,
+      "descricao": "DESENVOLVIMENTO DE PRANCHA DE DESENHO TÉCNICO/ DETALHAMENTO FORMATO A1",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 66
+    }
+  ],
+  "apelido": "PRAÇA RUA SEBASTIÃO GONÇALVES"
+}

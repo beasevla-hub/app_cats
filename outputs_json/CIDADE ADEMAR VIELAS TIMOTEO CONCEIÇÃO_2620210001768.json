@@ -1,0 +1,24 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620210001768",
+    "numero_art": "28027230210229624",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUB CIDADE ADEMAR - VIELAS TIMÓTEO, CONCEIÇÃO E VALENTINA",
+    "cnpj_contratante": "05.587.823/0001-89",
+    "objeto": "CONTRATAÇÃO DE EMPRESA DE ENGENHARIA OU ARQUITETURA PARA OBRAS DE READEQUAÇÃO DE VIELAS, NA RUA ANTONIO PIRES DOS SANTOS, N° 112, TRAVESSA TIMÓTEO, N° 160, TRAVESSA CONCEIÇÃO, N° 179, TRAVESSA VALENTINA CIDADE ADEMAR - SP-AD.",
+    "processo_administrativo": null,
+    "contrato": "TP 003/SP-AD/2016",
+    "endereco_obra": "RUA ANTÔNIO PIRES DOS SANTOS, No.: 112, Complemento: TRAVESSAS TIMOTEO 160, CONCEIÇÃO 179, VALENTINA.",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2016-10-03",
+    "data_fim": "2019-12-31",
+    "area_m2": 280.0,
+    "valor_contrato": 295433.71
+  },
+  "servicos": [],
+  "apelido": "CIDADE ADEMAR, VIELAS TIMOTEO, CONCEIÇÃO"
+}

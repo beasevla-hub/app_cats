@@ -1,0 +1,415 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620230009547",
+    "numero_art": "28027230230905726",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA DE PINHEIROS",
+    "cnpj_contratante": "05.649.898/0001-47",
+    "objeto": "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DE OBRAS DE REQUALIFICAÇÃO DE CALÇADAS NA AV. DRa. RUTH CARDOSO ENTRE AV. PROFº FREDERICO HERMANN JUNIOR E PORTÃO DE PEDESTRE DO TERMINAL DE ÔNIBUS - SÃO PAULO - SP",
+    "processo_administrativo": "6050.2022/0019518-0",
+    "contrato": "031/SUB-PI/2022",
+    "endereco_obra": "AVENIDA DAS NAÇÕES UNIDAS TRECHO DA CALÇADA DA SUB-PINHEIROS / C.E.T, E DA CALÇADA DE ACESSO AO TERMINAL DE ÔNIBUS",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2022-12-21",
+    "data_fim": "2023-02-28",
+    "area_m2": 1190.18,
+    "valor_contrato": 550657.37
+  },
+  "servicos": [
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Placa de obra em chapa e aço galvanizado",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Levantamento planialtimétrico cadastral",
+      "unidade": "M2",
+      "quantidade": 1190.18,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Proteção para terceiros com tela de nylon",
+      "unidade": "M2",
+      "quantidade": 180.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Placa de aviso de poliestireno 30x40 e 2 MM",
+      "unidade": "UN",
+      "quantidade": 50.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Projeto executivo (prancha A1)",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Tapume chapa compensada 6 MM",
+      "unidade": "M2",
+      "quantidade": 347.6,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Remoção de entulho com caçamba metálica, inclusive carga manual e descarga em bota-fora",
+      "unidade": "M3",
+      "quantidade": 88.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Retirada de piso intertravado",
+      "unidade": "M2",
+      "quantidade": 669.86,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Demolição mecanizada de concreto armado",
+      "unidade": "M3",
+      "quantidade": 29.18,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Carga mecanizada e remoção de entulho inclusive transporte até 1 km",
+      "unidade": "M3",
+      "quantidade": 80.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Transporte de entulho por caminhão basculante a partir e 1 km",
+      "unidade": "M3XKM",
+      "quantidade": 1744.02,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Demolição manual de concreto armado",
+      "unidade": "M3",
+      "quantidade": 39.04,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Escavação manual para fundações e valas com profundidade igual ou inferior a 1,50 m",
+      "unidade": "M3",
+      "quantidade": 28.66,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Apiloamento do fundo de valas para simples regularização",
+      "unidade": "M2",
+      "quantidade": 1190.18,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Lastro de brita",
+      "unidade": "M3",
+      "quantidade": 69.35,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Forma comum de tábuas de pinus",
+      "unidade": "M2",
+      "quantidade": 49.05,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Armadura em aço CA-60 tela",
+      "unidade": "KG",
+      "quantidade": 7519.53,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Cura quimica",
+      "unidade": "M2",
+      "quantidade": 1190.18,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Concreto simples desempenado e ripado 200 kg cim/m3",
+      "unidade": "M3",
+      "quantidade": 142.82,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Corte superficial de concreto até 3 cm de profundidade",
+      "unidade": "M2",
+      "quantidade": 36.8,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Piso podotátil, alerta ou direcional, em ladrilho hidráulico",
+      "unidade": "M2",
+      "quantidade": 80.33,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Lona plástica preta, E=150 micra",
+      "unidade": "M2",
+      "quantidade": 1190.18,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Tubo de PVC rígido, ponta e bolsa (linha esgoto) – 75 mm (3\")",
+      "unidade": "M",
+      "quantidade": 25.13,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Ligação para despejo livre em sarjetas, com tubo de ferro fundido SMU-100 mm",
+      "unidade": "M",
+      "quantidade": 3.5,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Envelopamento de tubulação enterrada, com concreto",
+      "unidade": "M",
+      "quantidade": 25.13,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Retirada de guias de concreto",
+      "unidade": "M",
+      "quantidade": 18.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Guia de concreto reta ou curva tipo PMSP",
+      "unidade": "M",
+      "quantidade": 18.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Tinta PVA (látex)- concreto ou reboco sem massa corrida",
+      "unidade": "M2",
+      "quantidade": 106.52,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Levantamento ou rebaixamento de tampão de poço de visita",
+      "unidade": "UN",
+      "quantidade": 74.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Substituição de tampa de concreto para boca de lobo",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Limpeza e lavagem de piso por hidrojateamento",
+      "unidade": "M2",
+      "quantidade": 1190.18,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Terra preparada para o plantio",
+      "unidade": "M3",
+      "quantidade": 9.42,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Adubo químico NPK, 10:10:10",
+      "unidade": "KG",
+      "quantidade": 47.1,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Revolvimento e ajuste do solo",
+      "unidade": "M2",
+      "quantidade": 157.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Grama São Carlos em placas (anoxonopus obtusifolius)",
+      "unidade": "M2",
+      "quantidade": 150.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Vedelia (wedelia paludaris)",
+      "unidade": "DZ",
+      "quantidade": 12.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Clorofito (clorophytum cromossum)",
+      "unidade": "DZ",
+      "quantidade": 14.51,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Engenheiro/ arquiteto sênior",
+      "unidade": "H",
+      "quantidade": 45.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": "Encarregado",
+      "unidade": "H",
+      "quantidade": 450.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 6
+    }
+  ],
+  "apelido": "AV DAS NAÇÕES UNIDAS - PINHEIROS"
+}

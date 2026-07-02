@@ -1,0 +1,2845 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620250003230",
+    "numero_art": "2620250186826",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA PENHA",
+    "cnpj_contratante": "05.640.843/0001-76",
+    "objeto": "Requalificação de quadra poliesportiva e sala da administração do espaço público localizado junto ao endereço Av. Dalila, 705, Vila Dalila, no distrito de Vila Matilde",
+    "processo_administrativo": "6048.2023/0004950-9",
+    "contrato": "033/SUB-PE/2023",
+    "endereco_obra": "AVENIDA DALILA",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2023-12-29",
+    "data_fim": "2024-04-18",
+    "area_m2": 800.0,
+    "valor_contrato": 275038.37
+  },
+  "servicos": [
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": "INFRA",
+      "descricao": "PROTEÇÃO PARA TERCEIROS COM TELA DE NYLON",
+      "unidade": "M2",
+      "quantidade": 120.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "ANDAIMES METÁLICOS - FORNECIMENTO",
+      "unidade": "M3x MÊS",
+      "quantidade": 450.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "ANDAIMES METÁLICOS - MONTAGEM E DESMONTAGEM",
+      "unidade": "M3",
+      "quantidade": 67.5,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "SERVIÇO TÉCNICO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "PROJETO EXECUTIVO (PRANCHA A1)",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "ADMINISTRAÇÃO LOCAL",
+      "codigo": null,
+      "fonte": "INFRA",
+      "descricao": "ENCARREGADO",
+      "unidade": "H",
+      "quantidade": 270.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "ADMINISTRAÇÃO LOCAL",
+      "codigo": null,
+      "fonte": "INFRA",
+      "descricao": "ENGENHEIRO DA OBRA",
+      "unidade": "H",
+      "quantidade": 66.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "DEMOLIÇÃO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 64.18,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "VEDOS E FECHAMENTOS",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "TELHA ONDULADA CRFS 8MM",
+      "unidade": "M2",
+      "quantidade": 48.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "VEDOS E FECHAMENTOS",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "PP.20/24-PORTÃO EM FERRO PERFILADO COM TELA, 1 FOLHA",
+      "unidade": "M2",
+      "quantidade": 3.15,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "VEDOS E FECHAMENTOS",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "TELA GALVANIZADA PARA ALAMBRADO - MALHA 2\" FIO 10",
+      "unidade": "M2",
+      "quantidade": 58.5,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "VEDOS E FECHAMENTOS",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "EMBOÇO-ARGAMASSA MISTA DE CIMENTO, CAL E AREIA 1:4/12",
+      "unidade": "M2",
+      "quantidade": 120.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "PISO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "DEMOLIÇÃO MECANIZADA DE CONCRETO SIMPLES",
+      "unidade": "M3",
+      "quantidade": 2.46,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "PISO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "ESCAVAÇÃO MANUAL, PROFUNDIDADE SUPERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 5.4,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "PISO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "CIMENTADO COMUM, DESEMPENADO E ALISADO - ESPESSURA 20MM",
+      "unidade": "M2",
+      "quantidade": 200.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "LIMPEZA DE SUPERFÍCIES COM HIDROJATEAMENTO",
+      "unidade": "M2",
+      "quantidade": 800.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "LIXAMENTO MECÂNICO EM SUPERFÍCIES DE CONCRETO",
+      "unidade": "M2",
+      "quantidade": 800.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "DEMARCAÇÃO E PINTURA DE SUPERFÍCIES - BORRACHA CLORADA",
+      "unidade": "M2",
+      "quantidade": 800.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 464.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "ESMALTE SINTÉTICO - EXTERIOR DE CALHAS, RUFOS E CONDUTORES",
+      "unidade": "M",
+      "quantidade": 158.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "ESMALTE SINTÉTICO - ESTRUTURAS METÁLICAS",
+      "unidade": "M2",
+      "quantidade": 536.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "REMOÇÃO DE LUMINÁRIA EXTERNA INSTALADA EM BRAÇO DE FERRO",
+      "unidade": "UN",
+      "quantidade": 10.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "RECOLOCAÇÃO DE LUMINÁRIA EXTERNA INSTALADA EM BRAÇO DE FERRO",
+      "unidade": "UN",
+      "quantidade": 10.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "CRUZETA DE FERRO GALVANIZADO PARA 3 PROJETORES",
+      "unidade": "UN",
+      "quantidade": 10.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "PROJETOR PARA USO EXTERNO COM LÂMPADA LED DE 150W-COMPLETA",
+      "unidade": "UN",
+      "quantidade": 30.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "ELETRODUTO DE AÇO GALVANIZADO ELETROLÍTICO, TIPO LEVE 1-3/4\"",
+      "unidade": "M",
+      "quantidade": 200.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "CABO 6,00MM2-ISOLAMENTO PARA 1,0KV - CLASSE 4-FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 480.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "MINI DISJUNTOR - TIPO EUROPEU (IEC) - UNIPOLAR 6/25A",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "MINI DISJUNTOR - TIPO EUROPEU (IEC) - BIPOLAR 6/25A",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "DRENAGEM DE ÁGUAS PLUVIAIS",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "CALHA EM CHAPA DE AÇO GALVANIZADO N.24 - DESENVOLVIMENTO 33CM",
+      "unidade": "M",
+      "quantidade": 18.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "DRENAGEM DE ÁGUAS PLUVIAIS",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "CONDUTOR EM TUBO DE PVC RÍGIDO, PONTA E BOLSA - 100MM (4\")",
+      "unidade": "M",
+      "quantidade": 9.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "DRENAGEM DE ÁGUAS PLUVIAIS",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "HV.23-CANALETA DE ALVENARIA PARA GRELHA OU TAMPA DE CONCRETO L=40CM",
+      "unidade": "M",
+      "quantidade": 40.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "DRENAGEM DE ÁGUAS PLUVIAIS",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "HC.04-TAMPA DE CONCRETO PARA CANALETA DE A.P.L=0,40M",
+      "unidade": "M",
+      "quantidade": 40.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "POSTES PARA VOLEIBOL, INCLUSIVE PINTURA E REDE",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "TRAVE PARA FUTEBOL DE SALÃO, INCLUSIVE PINTURA E REDE",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "TELA DE NYLON PARA COBERTURA DE QUADRA",
+      "unidade": "M2",
+      "quantidade": 800.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "BLOCOS VAZADOS DE CONCRETO ESTRUTURAL - 14CM - 14MPA",
+      "unidade": "M2",
+      "quantidade": 60.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "CONCRETO \"GROUT\"",
+      "unidade": "M3",
+      "quantidade": 0.83,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "ARMADURA EM AÇO CA-50",
+      "unidade": "KG",
+      "quantidade": 41.25,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "ARMADURA EM AÇO CA-60",
+      "unidade": "KG",
+      "quantidade": 19.8,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "CP.13/22/23-CAIXILHO EM FERRO PERFILADO - BASCULANTE",
+      "unidade": "M2",
+      "quantidade": 1.86,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "VIDRO LISO COMUM, TRANSPARENTE INCOLOR - ESPESSURA 5MM",
+      "unidade": "M2",
+      "quantidade": 1.86,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "RECOLOCAÇÃO DE TELHAS DE CRF, CIMENTO AMIANTO, ALUMÍNIO OU PLÁSTICO - ONDULADA COMUM",
+      "unidade": "M2",
+      "quantidade": 11.28,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "RECOLOCAÇÃO DE FOLHAS DE PORTA DE PASSAGEM OU JANELA",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "LUMINÁRIA COMERCIAL DE SOBREPOR COM DIFUSOR TRANSPARENTE OU FOSCO PARA 2 LÂMPADAS TUBULARES DE LED 18/20W - COMPLETA",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "LÂMPADA DE LED TUBULAR T8-18/20W",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "PASSEIO DE CONCRETO, FCK=25MPA, INCLUINDO PREPARO DA CAIXA E LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 2.64,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "ELETRODUTO DE AÇO GALVANIZADO A FOGO, TIPO SEMI-PESADO/MÉDIO - 3/4\"",
+      "unidade": "M",
+      "quantidade": 15.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "CABO 2,50MM2 - ISOLAMENTO PARA 0,7KV - CLASSE 4-FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 21.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "CABO 6,00MM2 - ISOLAMENTO PARA 0,7KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 45.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "PONTO COM INTERRUPTOR SIMPLES-1TECLA, EM CONDULETE 3/4\"",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "PONTO COM TOMADA SIMPLES 110/220V - EM CONDULETE 3/4\"",
+      "unidade": "UN",
+      "quantidade": 8.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "PONTO DE LUZ - CONDULETE 3/4\"",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "TOMADA SIMPLES, 2P+T, 20A",
+      "unidade": "UN",
+      "quantidade": 8.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "MINI DISJUNTOR - TIPO EUROPEU (IEC) - UNIPOLAR 32/50A",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "MINI DISJUNTOR - TIPO EUROPEU (IEC) - BIPOLAR 32/50A",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 78.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "PISO CERÂMICO ESMALTADO (PEI-5) - ASSENTADO COM ARGAMASSA COMUM",
+      "unidade": "M2",
+      "quantidade": 10.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "FORRO EM RÉGUA DE PVC 200MM - INCLUSIVE PERFIS DE FIXAÇÃO E ACABAMENTO",
+      "unidade": "M2",
+      "quantidade": 10.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": "INFRA",
+      "descricao": "PROTEÇÃO PARA TERCEIROS COM TELA DE NYLON",
+      "unidade": "M2",
+      "quantidade": 120.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "ANDAIMES METÁLICOS - FORNECIMENTO",
+      "unidade": "M3x MÊS",
+      "quantidade": 450.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "ANDAIMES METÁLICOS - MONTAGEM E DESMONTAGEM",
+      "unidade": "M3",
+      "quantidade": 67.5,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "SERVIÇO TÉCNICO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "PROJETO EXECUTIVO (PRANCHA A1)",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "ADMINISTRAÇÃO LOCAL",
+      "codigo": null,
+      "fonte": "INFRA",
+      "descricao": "ENCARREGADO",
+      "unidade": "H",
+      "quantidade": 270.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "ADMINISTRAÇÃO LOCAL",
+      "codigo": null,
+      "fonte": "INFRA",
+      "descricao": "ENGENHEIRO DA OBRA",
+      "unidade": "H",
+      "quantidade": 66.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "DEMOLIÇÃO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 64.18,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "VEDOS E FECHAMENTOS",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "TELHA ONDULADA CRFS 8MM",
+      "unidade": "M2",
+      "quantidade": 48.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "VEDOS E FECHAMENTOS",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "PP.20/24-PORTÃO EM FERRO PERFILADO COM TELA, 1 FOLHA",
+      "unidade": "M2",
+      "quantidade": 3.15,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "VEDOS E FECHAMENTOS",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "TELA GALVANIZADA PARA ALAMBRADO - MALHA 2\" FIO 10",
+      "unidade": "M2",
+      "quantidade": 58.5,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "VEDOS E FECHAMENTOS",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "EMBOÇO-ARGAMASSA MISTA DE CIMENTO, CAL E AREIA 1:4/12",
+      "unidade": "M2",
+      "quantidade": 120.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "PISO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "DEMOLIÇÃO MECANIZADA DE CONCRETO SIMPLES",
+      "unidade": "M3",
+      "quantidade": 2.46,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "PISO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "ESCAVAÇÃO MANUAL, PROFUNDIDADE SUPERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 5.4,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "PISO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "CIMENTADO COMUM, DESEMPENADO E ALISADO - ESPESSURA 20MM",
+      "unidade": "M2",
+      "quantidade": 200.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "LIMPEZA DE SUPERFÍCIES COM HIDROJATEAMENTO",
+      "unidade": "M2",
+      "quantidade": 800.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "LIXAMENTO MECÂNICO EM SUPERFÍCIES DE CONCRETO",
+      "unidade": "M2",
+      "quantidade": 800.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "DEMARCAÇÃO E PINTURA DE SUPERFÍCIES - BORRACHA CLORADA",
+      "unidade": "M2",
+      "quantidade": 800.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 464.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "ESMALTE SINTÉTICO - EXTERIOR DE CALHAS, RUFOS E CONDUTORES",
+      "unidade": "M",
+      "quantidade": 158.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "ESMALTE SINTÉTICO - ESTRUTURAS METÁLICAS",
+      "unidade": "M2",
+      "quantidade": 536.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "REMOÇÃO DE LUMINÁRIA EXTERNA INSTALADA EM BRAÇO DE FERRO",
+      "unidade": "UN",
+      "quantidade": 10.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "RECOLOCAÇÃO DE LUMINÁRIA EXTERNA INSTALADA EM BRAÇO DE FERRO",
+      "unidade": "UN",
+      "quantidade": 10.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "CRUZETA DE FERRO GALVANIZADO PARA 3 PROJETORES",
+      "unidade": "UN",
+      "quantidade": 10.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "PROJETOR PARA USO EXTERNO COM LÂMPADA LED DE 150W-COMPLETA",
+      "unidade": "UN",
+      "quantidade": 30.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "ELETRODUTO DE AÇO GALVANIZADO ELETROLÍTICO, TIPO LEVE 1-3/4\"",
+      "unidade": "M",
+      "quantidade": 200.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "CABO 6,00MM2-ISOLAMENTO PARA 1,0KV - CLASSE 4-FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 480.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "MINI DISJUNTOR - TIPO EUROPEU (IEC) - UNIPOLAR 6/25A",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "MINI DISJUNTOR - TIPO EUROPEU (IEC) - BIPOLAR 6/25A",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "DRENAGEM DE ÁGUAS PLUVIAIS",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "CALHA EM CHAPA DE AÇO GALVANIZADO N.24 - DESENVOLVIMENTO 33CM",
+      "unidade": "M",
+      "quantidade": 18.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "DRENAGEM DE ÁGUAS PLUVIAIS",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "CONDUTOR EM TUBO DE PVC RÍGIDO, PONTA E BOLSA - 100MM (4\")",
+      "unidade": "M",
+      "quantidade": 9.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "DRENAGEM DE ÁGUAS PLUVIAIS",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "HV.23-CANALETA DE ALVENARIA PARA GRELHA OU TAMPA DE CONCRETO L=40CM",
+      "unidade": "M",
+      "quantidade": 40.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "DRENAGEM DE ÁGUAS PLUVIAIS",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "HC.04-TAMPA DE CONCRETO PARA CANALETA DE A.P.L=0,40M",
+      "unidade": "M",
+      "quantidade": 40.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "POSTES PARA VOLEIBOL, INCLUSIVE PINTURA E REDE",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "TRAVE PARA FUTEBOL DE SALÃO, INCLUSIVE PINTURA E REDE",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "TELA DE NYLON PARA COBERTURA DE QUADRA",
+      "unidade": "M2",
+      "quantidade": 800.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "BLOCOS VAZADOS DE CONCRETO ESTRUTURAL - 14CM - 14MPA",
+      "unidade": "M2",
+      "quantidade": 60.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "CONCRETO \"GROUT\"",
+      "unidade": "M3",
+      "quantidade": 0.83,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "ARMADURA EM AÇO CA-50",
+      "unidade": "KG",
+      "quantidade": 41.25,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "ARMADURA EM AÇO CA-60",
+      "unidade": "KG",
+      "quantidade": 19.8,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "CP.13/22/23-CAIXILHO EM FERRO PERFILADO - BASCULANTE",
+      "unidade": "M2",
+      "quantidade": 1.86,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "VIDRO LISO COMUM, TRANSPARENTE INCOLOR - ESPESSURA 5MM",
+      "unidade": "M2",
+      "quantidade": 1.86,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "RECOLOCAÇÃO DE TELHAS DE CRF, CIMENTO AMIANTO, ALUMÍNIO OU PLÁSTICO - ONDULADA COMUM",
+      "unidade": "M2",
+      "quantidade": 11.28,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "RECOLOCAÇÃO DE FOLHAS DE PORTA DE PASSAGEM OU JANELA",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "LUMINÁRIA COMERCIAL DE SOBREPOR COM DIFUSOR TRANSPARENTE OU FOSCO PARA 2 LÂMPADAS TUBULARES DE LED 18/20W - COMPLETA",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "LÂMPADA DE LED TUBULAR T8-18/20W",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "PASSEIO DE CONCRETO, FCK=25MPA, INCLUINDO PREPARO DA CAIXA E LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 2.64,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "ELETRODUTO DE AÇO GALVANIZADO A FOGO, TIPO SEMI-PESADO/MÉDIO - 3/4\"",
+      "unidade": "M",
+      "quantidade": 15.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "CABO 2,50MM2 - ISOLAMENTO PARA 0,7KV - CLASSE 4-FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 21.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "CABO 6,00MM2 - ISOLAMENTO PARA 0,7KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 45.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "PONTO COM INTERRUPTOR SIMPLES-1TECLA, EM CONDULETE 3/4\"",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "PONTO COM TOMADA SIMPLES 110/220V - EM CONDULETE 3/4\"",
+      "unidade": "UN",
+      "quantidade": 8.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "PONTO DE LUZ - CONDULETE 3/4\"",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "TOMADA SIMPLES, 2P+T, 20A",
+      "unidade": "UN",
+      "quantidade": 8.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "MINI DISJUNTOR - TIPO EUROPEU (IEC) - UNIPOLAR 32/50A",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "MINI DISJUNTOR - TIPO EUROPEU (IEC) - BIPOLAR 32/50A",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 78.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "PISO CERÂMICO ESMALTADO (PEI-5) - ASSENTADO COM ARGAMASSA COMUM",
+      "unidade": "M2",
+      "quantidade": 10.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "FORRO EM RÉGUA DE PVC 200MM - INCLUSIVE PERFIS DE FIXAÇÃO E ACABAMENTO",
+      "unidade": "M2",
+      "quantidade": 10.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": null,
+      "codigo": "7.6",
+      "fonte": "EDIF",
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 464.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "7.7",
+      "fonte": "EDIF",
+      "descricao": "ESMALTE SINTÉTICO - EXTERIOR DE CALHAS, RUFOS E CONDUTORES",
+      "unidade": "M",
+      "quantidade": 158.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "7.8",
+      "fonte": "EDIF",
+      "descricao": "ESMALTE SINTÉTICO - ESTRUTURAS METÁLICAS",
+      "unidade": "M2",
+      "quantidade": 536.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": "8.1",
+      "fonte": "EDIF",
+      "descricao": "REMOÇÃO DE LUMINÁRIA EXTERNA INSTALADA EM BRAÇO DE FERRO",
+      "unidade": "UN",
+      "quantidade": 10.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": "8.2",
+      "fonte": "EDIF",
+      "descricao": "RECOLOCAÇÃO DE LUMINÁRIA EXTERNA INSTALADA EM BRAÇO DE FERRO",
+      "unidade": "UN",
+      "quantidade": 10.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": "8.3",
+      "fonte": "EDIF",
+      "descricao": "CRUZETA DE FERRO GALVANIZADO PARA 3 PROJETORES",
+      "unidade": "UN",
+      "quantidade": 10.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": "8.4",
+      "fonte": "EDIF",
+      "descricao": "PROJETOR PARA USO EXTERNO COM LÂMPADA LED DE 150W-COMPLETA",
+      "unidade": "UN",
+      "quantidade": 30.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": "8.5",
+      "fonte": "EDIF",
+      "descricao": "ELETRODUTO DE AÇO GALVANIZADO ELETROLÍTICO, TIPO LEVE 1-3/4\"",
+      "unidade": "M",
+      "quantidade": 200.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": "8.6",
+      "fonte": "EDIF",
+      "descricao": "CABO 6,00MM2-ISOLAMENTO PARA 1,0KV - CLASSE 4-FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 480.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": "8.7",
+      "fonte": "EDIF",
+      "descricao": "MINI DISJUNTOR - TIPO EUROPEU (IEC) - UNIPOLAR 6/25A",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": "8.8",
+      "fonte": "EDIF",
+      "descricao": "MINI DISJUNTOR - TIPO EUROPEU (IEC) - BIPOLAR 6/25A",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "DRENNAGEM DE ÁGUAS PLUVIAIS",
+      "codigo": "9.1",
+      "fonte": "EDIF",
+      "descricao": "CALHA EM CHAPA DE AÇO GALVANIZADO N.24 - DESENVOLVIMENTO 33CM",
+      "unidade": "M",
+      "quantidade": 18.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "DRENNAGEM DE ÁGUAS PLUVIAIS",
+      "codigo": "9.2",
+      "fonte": "EDIF",
+      "descricao": "CONDUTOR EM TUBO DE PVC RÍGIDO, PONTA E BOLSA - 100MM (4\")",
+      "unidade": "M",
+      "quantidade": 9.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "DRENNAGEM DE ÁGUAS PLUVIAIS",
+      "codigo": "9.3",
+      "fonte": "EDIF",
+      "descricao": "HV.23-CANALETA DE ALVENARIA PARA GRELHA OU TAMPA DE CONCRETO L=40CM",
+      "unidade": "M",
+      "quantidade": 40.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "DRENNAGEM DE ÁGUAS PLUVIAIS",
+      "codigo": "9.4",
+      "fonte": "EDIF",
+      "descricao": "HC.04-TAMPA DE CONCRETO PARA CANALETA DE A.P.L=0,40M",
+      "unidade": "M",
+      "quantidade": 40.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "10.1",
+      "fonte": "EDIF",
+      "descricao": "POSTES PARA VOLEIBOL, INCLUSIVE PINTURA E REDE",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "10.2",
+      "fonte": "EDIF",
+      "descricao": "TRAVE PARA FUTEBOL DE SALÃO, INCLUSIVE PINTURA E REDE",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "10.3",
+      "fonte": "EDIF",
+      "descricao": "TELA DE NYLON PARA COBERTURA DE QUADRA",
+      "unidade": "M2",
+      "quantidade": 800.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": "11.1",
+      "fonte": "EDIF",
+      "descricao": "BLOCOS VAZADOS DE CONCRETO ESTRUTURAL - 14CM - 14MPA",
+      "unidade": "M2",
+      "quantidade": 60.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": "11.2",
+      "fonte": "EDIF",
+      "descricao": "CONCRETO \"GROUT\"",
+      "unidade": "M3",
+      "quantidade": 0.83,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": "11.3",
+      "fonte": "EDIF",
+      "descricao": "ARMADURA EM AÇO CA-50",
+      "unidade": "KG",
+      "quantidade": 41.25,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": "11.4",
+      "fonte": "EDIF",
+      "descricao": "ARMADURA EM AÇO CA-60",
+      "unidade": "KG",
+      "quantidade": 19.8,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": "11.5",
+      "fonte": "EDIF",
+      "descricao": "CP.13/22/23-CAIXILHO EM FERRO PERFILADO - BASCULANTE",
+      "unidade": "M2",
+      "quantidade": 1.86,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": "11.6",
+      "fonte": "EDIF",
+      "descricao": "VIDRO LISO COMUM, TRANSPARENTE INCOLOR - ESPESSURA 5MM",
+      "unidade": "M2",
+      "quantidade": 1.86,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": "11.7",
+      "fonte": "EDIF",
+      "descricao": "RECOLOCAÇÃO DE TELHAS DE CRF, CIMENTO AMIANTO, ALUMÍNIO OU PLÁSTICO - ONDULADA COMUM",
+      "unidade": "M2",
+      "quantidade": 11.28,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": "11.8",
+      "fonte": "EDIF",
+      "descricao": "RECOLOCAÇÃO DE FOLHAS DE PORTA DE PASSAGEM OU JANELA",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": "11.9",
+      "fonte": "EDIF",
+      "descricao": "LUMINÁRIA COMERCIAL DE SOBREPOR COM DIFUSOR TRANSPARENTE OU FOSCO PARA 2 LÂMPADAS TUBULARES DE LED 18/20W - COMPLETA",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": "11.10",
+      "fonte": "EDIF",
+      "descricao": "LÂMPADA DE LED TUBULAR T8-18/20W",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": "11.11",
+      "fonte": "EDIF",
+      "descricao": "PASSEIO DE CONCRETO, FCK=25MPA, INCLUINDO PREPARO DA CAIXA E LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 2.64,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": "11.12",
+      "fonte": "EDIF",
+      "descricao": "ELETRODUTO DE AÇO GALVANIZADO A FOGO, TIPO SEMI-PESADO/MÉDIO - 3/4\"",
+      "unidade": "M",
+      "quantidade": 15.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": "11.13",
+      "fonte": "EDIF",
+      "descricao": "CABO 2,50MM2 - ISOLAMENTO PARA 0,7KV - CLASSE 4-FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 21.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": "11.14",
+      "fonte": "EDIF",
+      "descricao": "CABO 6,00MM2 - ISOLAMENTO PARA 0,7KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 45.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": "11.15",
+      "fonte": "EDIF",
+      "descricao": "PONTO COM INTERRUPTOR SIMPLES-1TECLA, EM CONDULETE 3/4\"",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": "11.16",
+      "fonte": "EDIF",
+      "descricao": "PONTO COM TOMADA SIMPLES 110/220V - EM CONDULETE 3/4\"",
+      "unidade": "UN",
+      "quantidade": 8.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": "11.17",
+      "fonte": "EDIF",
+      "descricao": "PONTO DE LUZ - CONDULETE 3/4\"",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": "11.18",
+      "fonte": "EDIF",
+      "descricao": "TOMADA SIMPLES, 2P+T, 20A",
+      "unidade": "UN",
+      "quantidade": 8.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": "11.19",
+      "fonte": "EDIF",
+      "descricao": "MINI DISJUNTOR - TIPO EUROPEU (IEC) - UNIPOLAR 32/50A",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": "11.20",
+      "fonte": "EDIF",
+      "descricao": "MINI DISJUNTOR - TIPO EUROPEU (IEC) - BIPOLAR 32/50A",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": "11.21",
+      "fonte": "EDIF",
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 78.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": "11.22",
+      "fonte": "EDIF",
+      "descricao": "PISO CERÂMICO ESMALTADO (PEI-5) - ASSENTADO COM ARGAMASSA COMUM",
+      "unidade": "M2",
+      "quantidade": 10.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": "11.23",
+      "fonte": "EDIF",
+      "descricao": "FORRO EM RÉGUA DE PVC 200MM - INCLUSIVE PERFIS DE FIXAÇÃO E ACABAMENTO",
+      "unidade": "M2",
+      "quantidade": 10.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 464.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "ESMALTE SINTÉTICO - EXTERIOR DE CALHAS, RUFOS E CONDUTORES",
+      "unidade": "M",
+      "quantidade": 158.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "ESMALTE SINTÉTICO - ESTRUTURAS METÁLICAS",
+      "unidade": "M2",
+      "quantidade": 536.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "REMOÇÃO DE LUMINÁRIA EXTERNA INSTALADA EM BRAÇO DE FERRO",
+      "unidade": "UN",
+      "quantidade": 10.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "RECOLOCAÇÃO DE LUMINÁRIA EXTERNA INSTALADA EM BRAÇO DE FERRO",
+      "unidade": "UN",
+      "quantidade": 10.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "CRUZETA DE FERRO GALVANIZADO PARA 3 PROJETORES",
+      "unidade": "UN",
+      "quantidade": 10.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "PROJETOR PARA USO EXTERNO COM LÂMPADA LED DE 150W-COMPLETA",
+      "unidade": "UN",
+      "quantidade": 30.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "ELETRODUTO DE AÇO GALVANIZADO ELETROLÍTICO, TIPO LEVE 1-3/4\"",
+      "unidade": "M",
+      "quantidade": 200.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "CABO 6,00MM2-ISOLAMENTO PARA 1,0KV - CLASSE 4-FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 480.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "MINI DISJUNTOR - TIPO EUROPEU (IEC) - UNIPOLAR 6/25A",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "MINI DISJUNTOR - TIPO EUROPEU (IEC) - BIPOLAR 6/25A",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "DRENNAGEM DE ÁGUAS PLUVIAIS",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "CALHA EM CHAPA DE AÇO GALVANIZADO N.24 -DESENVOLVIMENTO 33CM",
+      "unidade": "M",
+      "quantidade": 18.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "CONDUTOR EM TUBO DE PVC RÍGIDO, PONTA E BOLSA -100MM (4\")",
+      "unidade": "M",
+      "quantidade": 9.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "HV.23-CANALETA DE ALVENARIA PARA GRELHA OU TAMPA DE CONCRETO L=40CM",
+      "unidade": "M",
+      "quantidade": 40.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "HC.04-TAMPA DE CONCRETO PARA CANALETA DE A.P.L=0,40M",
+      "unidade": "M",
+      "quantidade": 40.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "POSTES PARA VOLEIBOL, INCLUSIVE PINTURA E REDE",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "TRAVE PARA FUTEBOL DE SALÃO, INCLUSIVE PINTURA E REDE",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "TELA DE NYLON PARA COBERTURA DE QUADRA",
+      "unidade": "M2",
+      "quantidade": 800.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "BLOCOS VAZADOS DE CONCRETO ESTRUTURAL - 14CM - 14MPA",
+      "unidade": "M2",
+      "quantidade": 60.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "CONCRETO \"GROUT\"",
+      "unidade": "M3",
+      "quantidade": 0.83,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "ARMADURA EM AÇO CA-50",
+      "unidade": "KG",
+      "quantidade": 41.25,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "ARMADURA EM AÇO CA-60",
+      "unidade": "KG",
+      "quantidade": 19.8,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "CP.13/22/23-CAIXILHO EM FERRO PERFILADO - BASCULANTE",
+      "unidade": "M2",
+      "quantidade": 1.86,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "VIDRO LISO COMUM, TRANSPARENTE INCOLOR - ESPESSURA 5MM",
+      "unidade": "M2",
+      "quantidade": 1.86,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "RECOLOCAÇÃO DE TELHAS DE CRF, CIMENTO AMIANTO, ALUMÍNIO OU PLÁSTICO - ONDULADA COMUM",
+      "unidade": "M2",
+      "quantidade": 11.28,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "RECOLOCAÇÃO DE FOLHAS DE PORTA DE PASSAGEM OU JANELA",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "LUMINÁRIA COMERCIAL DE SOBREPOR COM DIFUSOR TRANSPARENTE OU FOSCO PARA 2 LÂMPADAS TUBULARES DE LED 18/20W - COMPLETA",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "LÂMPADA DE LED TUBULAR T8-18/20W",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "PASSEIO DE CONCRETO, FCK=25MPA, INCLUINDO PREPARO DA CAIXA E LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 2.64,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "ELETRODUTO DE AÇO GALVANIZADO A FOGO, TIPO SEMI-PESADO/MÉDIO - 3/4\"",
+      "unidade": "M",
+      "quantidade": 15.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "CABO 2,50MM2 - ISOLAMENTO PARA 0,7KV - CLASSE 4-FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 21.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "CABO 6,00MM2 - ISOLAMENTO PARA 0,7KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 45.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "PONTO COM INTERRUPTOR SIMPLES-1TECLA, EM CONDULETE 3/4\"",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "PONTO COM TOMADA SIMPLES 110/220V - EM CONDULETE 3/4\"",
+      "unidade": "UN",
+      "quantidade": 8.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "PONTO DE LUZ - CONDULETE 3/4\"",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "TOMADA SIMPLES, 2P+T, 20A",
+      "unidade": "UN",
+      "quantidade": 8.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "MINI DISJUNTOR - TIPO EUROPEU (IEC) - UNIPOLAR 32/50A",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "MINI DISJUNTOR - TIPO EUROPEU (IEC) - BIPOLAR 32/50A",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 78.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "PISO CERÂMICO ESMALTADO (PEI-5) - ASSENTADO COM ARGAMASSA COMUM",
+      "unidade": "M2",
+      "quantidade": 10.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "FORRO EM RÉGUA DE PVC 200MM - INCLUSIVE PERFIS DE FIXAÇÃO E ACABAMENTO",
+      "unidade": "M2",
+      "quantidade": 10.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 464.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "ESMALTE SINTÉTICO - EXTERIOR DE CALHAS, RUFOS E CONDUTORES",
+      "unidade": "M",
+      "quantidade": 158.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "EDIF",
+      "descricao": "ESMALTE SINTÉTICO - ESTRUTURAS METÁLICAS",
+      "unidade": "M2",
+      "quantidade": 536.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": null,
+      "fonte": "UN",
+      "descricao": "REMOÇÃO DE LUMINÁRIA EXTERNA INSTALADA EM BRAÇO DE FERRO",
+      "unidade": null,
+      "quantidade": 10.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "UN",
+      "descricao": "RECOLOCAÇÃO DE LUMINÁRIA EXTERNA INSTALADA EM BRAÇO DE FERRO",
+      "unidade": null,
+      "quantidade": 10.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "UN",
+      "descricao": "CRUZETA DE FERRO GALVANIZADO PARA 3 PROJETORES",
+      "unidade": null,
+      "quantidade": 10.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "UN",
+      "descricao": "PROJETOR PARA USO EXTERNO COM LÂMPADA LED DE 150W-COMPLETA",
+      "unidade": null,
+      "quantidade": 30.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "M",
+      "descricao": "ELETRODUTO DE AÇO GALVANIZADO ELETROLÍTICO, TIPO LEVE 1-3/4\"",
+      "unidade": null,
+      "quantidade": 200.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "M",
+      "descricao": "CABO 6,00MM2-ISOLAMENTO PARA 1,0KV - CLASSE 4-FLEXÍVEL",
+      "unidade": null,
+      "quantidade": 480.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "UN",
+      "descricao": "MINI DISJUNTOR - TIPO EUROPEU (IEC) - UNIPOLAR 6/25A",
+      "unidade": null,
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "UN",
+      "descricao": "MINI DISJUNTOR - TIPO EUROPEU (IEC) - BIPOLAR 6/25A",
+      "unidade": null,
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "DRENNAGEM DE ÁGUAS PLUVIAIS",
+      "codigo": null,
+      "fonte": "M",
+      "descricao": "CALHA EM CHAPA DE AÇO GALVANIZADO N.24 - DESENVOLVIMENTO 33CM",
+      "unidade": null,
+      "quantidade": 18.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "M",
+      "descricao": "CONDUTOR EM TUBO DE PVC RÍGIDO, PONTA E BOLSA - 100MM (4\")",
+      "unidade": null,
+      "quantidade": 9.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "M",
+      "descricao": "HV.23-CANALETA DE ALVENARIA PARA GRELHA OU TAMPA DE CONCRETO L=40CM",
+      "unidade": null,
+      "quantidade": 40.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "M",
+      "descricao": "HC.04-TAMPA DE CONCRETO PARA CANALETA DE A.P.L=0,40M",
+      "unidade": null,
+      "quantidade": 40.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": null,
+      "fonte": "UN",
+      "descricao": "POSTES PARA VOLEIBOL, INCLUSIVE PINTURA E REDE",
+      "unidade": null,
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "UN",
+      "descricao": "TRAVE PARA FUTEBOL DE SALÃO, INCLUSIVE PINTURA E REDE",
+      "unidade": null,
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "M2",
+      "descricao": "TELA DE NYLON PARA COBERTURA DE QUADRA",
+      "unidade": null,
+      "quantidade": 800.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": null,
+      "fonte": "M2",
+      "descricao": "BLOCOS VAZADOS DE CONCRETO ESTRUTURAL - 14CM - 14MPA",
+      "unidade": null,
+      "quantidade": 60.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "M3",
+      "descricao": "CONCRETO \"GROUT\"",
+      "unidade": null,
+      "quantidade": 0.83,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "KG",
+      "descricao": "ARMADURA EM AÇO CA-50",
+      "unidade": null,
+      "quantidade": 41.25,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "KG",
+      "descricao": "ARMADURA EM AÇO CA-60",
+      "unidade": null,
+      "quantidade": 19.8,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "M2",
+      "descricao": "CP.13/22/23-CAIXILHO EM FERRO PERFILADO - BASCULANTE",
+      "unidade": null,
+      "quantidade": 1.86,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "M2",
+      "descricao": "VIDRO LISO COMUM, TRANSPARENTE INCOLOR - ESPESSURA 5MM",
+      "unidade": null,
+      "quantidade": 1.86,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "M2",
+      "descricao": "RECOLOCAÇÃO DE TELHAS DE CRF, CIMENTO AMIANTO, ALUMÍNIO OU PLÁSTICO - ONDULADA COMUM",
+      "unidade": null,
+      "quantidade": 11.28,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "UN",
+      "descricao": "RECOLOCAÇÃO DE FOLHAS DE PORTA DE PASSAGEM OU JANELA",
+      "unidade": null,
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "UN",
+      "descricao": "LUMINÁRIA COMERCIAL DE SOBREPOR COM DIFUSOR TRANSPARENTE OU FOSCO PARA 2 LÂMPADAS TUBULARES DE LED 18/20W - COMPLETA",
+      "unidade": null,
+      "quantidade": 2.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "UN",
+      "descricao": "LÂMPADA DE LED TUBULAR T8-18/20W",
+      "unidade": null,
+      "quantidade": 2.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "M3",
+      "descricao": "PASSEIO DE CONCRETO, FCK=25MPA, INCLUINDO PREPARO DA CAIXA E LASTRO DE BRITA",
+      "unidade": null,
+      "quantidade": 2.64,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "M",
+      "descricao": "ELETRODUTO DE AÇO GALVANIZADO A FOGO, TIPO SEMI-PESADO/MÉDIO - 3/4\"",
+      "unidade": null,
+      "quantidade": 15.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "M",
+      "descricao": "CABO 2,50MM2 - ISOLAMENTO PARA 0,7KV - CLASSE 4-FLEXÍVEL",
+      "unidade": null,
+      "quantidade": 21.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "M",
+      "descricao": "CABO 6,00MM2 - ISOLAMENTO PARA 0,7KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": null,
+      "quantidade": 45.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "UN",
+      "descricao": "PONTO COM INTERRUPTOR SIMPLES-1TECLA, EM CONDULETE 3/4\"",
+      "unidade": null,
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "UN",
+      "descricao": "PONTO COM TOMADA SIMPLES 110/220V - EM CONDULETE 3/4\"",
+      "unidade": null,
+      "quantidade": 8.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "UN",
+      "descricao": "PONTO DE LUZ - CONDULETE 3/4\"",
+      "unidade": null,
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "UN",
+      "descricao": "TOMADA SIMPLES, 2P+T, 20A",
+      "unidade": null,
+      "quantidade": 8.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "UN",
+      "descricao": "MINI DISJUNTOR - TIPO EUROPEU (IEC) - UNIPOLAR 32/50A",
+      "unidade": null,
+      "quantidade": 3.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "UN",
+      "descricao": "MINI DISJUNTOR - TIPO EUROPEU (IEC) - BIPOLAR 32/50A",
+      "unidade": null,
+      "quantidade": 2.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "M2",
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": null,
+      "quantidade": 78.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "M2",
+      "descricao": "PISO CERÂMICO ESMALTADO (PEI-5) - ASSENTADO COM ARGAMASSA COMUM",
+      "unidade": null,
+      "quantidade": 10.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": "M2",
+      "descricao": "FORRO EM RÉGUA DE PVC 200MM - INCLUSIVE PERFIS DE FIXAÇÃO E ACABAMENTO",
+      "unidade": null,
+      "quantidade": 10.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": null,
+      "codigo": "15-01-15",
+      "fonte": "EDIF",
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 464.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "15-03-14",
+      "fonte": "EDIF",
+      "descricao": "ESMALTE SINTÉTICO - EXTERIOR DE CALHAS, RUFOS E CONDUTORES",
+      "unidade": "M",
+      "quantidade": 158.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "15-03-12",
+      "fonte": "EDIF",
+      "descricao": "ESMALTE SINTÉTICO - ESTRUTURAS METÁLICAS",
+      "unidade": "M2",
+      "quantidade": 536.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": "09-52-13",
+      "fonte": "EDIF",
+      "descricao": "REMOÇÃO DE LUMINÁRIA EXTERNA INSTALADA EM BRAÇO DE FERRO",
+      "unidade": "UN",
+      "quantidade": 10.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": "09-72-13",
+      "fonte": "EDIF",
+      "descricao": "RECOLOCAÇÃO DE LUMINÁRIA EXTERNA INSTALADA EM BRAÇO DE FERRO",
+      "unidade": "UN",
+      "quantidade": 10.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": "09-83-62",
+      "fonte": "EDIF",
+      "descricao": "CRUZETA DE FERRO GALVANIZADO PARA 3 PROJETORES",
+      "unidade": "UN",
+      "quantidade": 10.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": "09-09-39",
+      "fonte": "EDIF",
+      "descricao": "PROJETOR PARA USO EXTERNO COM LÂMPADA LED DE 150W-COMPLETA",
+      "unidade": "UN",
+      "quantidade": 30.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": "09-02-11",
+      "fonte": "EDIF",
+      "descricao": "ELETRODUTO DE AÇO GALVANIZADO ELETROLÍTICO, TIPO LEVE 1-3/4\"",
+      "unidade": "M",
+      "quantidade": 200.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": "09-03-31",
+      "fonte": "EDIF",
+      "descricao": "CABO 6,00MM2-ISOLAMENTO PARA 1,0KV - CLASSE 4-FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 480.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": "09-08-10",
+      "fonte": "EDIF",
+      "descricao": "MINI DISJUNTOR - TIPO EUROPEU (IEC) - UNIPOLAR 6/25A",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": "09-08-12",
+      "fonte": "EDIF",
+      "descricao": "MINI DISJUNTOR - TIPO EUROPEU (IEC) - BIPOLAR 6/25A",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "DRENNAGEM DE ÁGUAS PLUVIAIS",
+      "codigo": "10-11-01",
+      "fonte": "EDIF",
+      "descricao": "CALHA EM CHAPA DE AÇO GALVANIZADO N.24 - DESENVOLVIMENTO 33CM",
+      "unidade": "M",
+      "quantidade": 18.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "DRENNAGEM DE ÁGUAS PLUVIAIS",
+      "codigo": "10-12-16",
+      "fonte": "EDIF",
+      "descricao": "CONDUTOR EM TUBO DE PVC RÍGIDO, PONTA E BOLSA - 100MM (4\")",
+      "unidade": "M",
+      "quantidade": 9.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "DRENNAGEM DE ÁGUAS PLUVIAIS",
+      "codigo": "10-11-87",
+      "fonte": "EDIF",
+      "descricao": "HV.23-CANALETA DE ALVENARIA PARA GRELHA OU TAMPA DE CONCRETO L=40CM",
+      "unidade": "M",
+      "quantidade": 40.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "DRENNAGEM DE ÁGUAS PLUVIAIS",
+      "codigo": "10-11-97",
+      "fonte": "EDIF",
+      "descricao": "HC.04-TAMPA DE CONCRETO PARA CANALETA DE A.P.L=0,40M",
+      "unidade": "M",
+      "quantidade": 40.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "17-03-60",
+      "fonte": "EDIF",
+      "descricao": "POSTES PARA VOLEIBOL, INCLUSIVE PINTURA E REDE",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "17-03-61",
+      "fonte": "EDIF",
+      "descricao": "TRAVE PARA FUTEBOL DE SALÃO, INCLUSIVE PINTURA E REDE",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "17-03-65",
+      "fonte": "EDIF",
+      "descricao": "TELA DE NYLON PARA COBERTURA DE QUADRA",
+      "unidade": "M2",
+      "quantidade": 800.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": "04-01-34",
+      "fonte": "EDIF",
+      "descricao": "BLOCOS VAZADOS DE CONCRETO ESTRUTURAL - 14CM - 14MPA",
+      "unidade": "M2",
+      "quantidade": 60.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": "04-01-97",
+      "fonte": "EDIF",
+      "descricao": "CONCRETO \"GROUT\"",
+      "unidade": "M3",
+      "quantidade": 0.83,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": "03-02-04",
+      "fonte": "EDIF",
+      "descricao": "ARMADURA EM AÇO CA-50",
+      "unidade": "KG",
+      "quantidade": 41.25,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": "02-04-07",
+      "fonte": "EDIF",
+      "descricao": "ARMADURA EM AÇO CA-60",
+      "unidade": "KG",
+      "quantidade": 19.8,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": "08-02-13",
+      "fonte": "EDIF",
+      "descricao": "CP.13/22/23-CAIXILHO EM FERRO PERFILADO - BASCULANTE",
+      "unidade": "M2",
+      "quantidade": 1.86,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": "14-01-04",
+      "fonte": "EDIF",
+      "descricao": "VIDRO LISO COMUM, TRANSPARENTE INCOLOR - ESPESSURA 5MM",
+      "unidade": "M2",
+      "quantidade": 1.86,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": "06-70-25",
+      "fonte": "EDIF",
+      "descricao": "RECOLOCAÇÃO DE TELHAS DE CRF, CIMENTO AMIANTO, ALUMÍNIO OU PLÁSTICO - ONDULADA COMUM",
+      "unidade": "M2",
+      "quantidade": 11.28,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": "07-70-01",
+      "fonte": "EDIF",
+      "descricao": "RECOLOCAÇÃO DE FOLHAS DE PORTA DE PASSAGEM OU JANELA",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": "09-09-51",
+      "fonte": "EDIF",
+      "descricao": "LUMINÁRIA COMERCIAL DE SOBREPOR COM DIFUSOR TRANSPARENTE OU FOSCO PARA 2 LÂMPADAS TUBULARES DE LED 18/20W - COMPLETA",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": "09-82-81",
+      "fonte": "EDIF",
+      "descricao": "LÂMPADA DE LED TUBULAR T8-18/20W",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": "17-02-42",
+      "fonte": "EDIF",
+      "descricao": "PASSEIO DE CONCRETO, FCK=25MPA, INCLUINDO PREPARO DA CAIXA E LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 2.64,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": "09-02-21",
+      "fonte": "EDIF",
+      "descricao": "ELETRODUTO DE AÇO GALVANIZADO A FOGO, TIPO SEMI-PESADO/MÉDIO - 3/4\"",
+      "unidade": "M",
+      "quantidade": 15.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": "09-03-05",
+      "fonte": "EDIF",
+      "descricao": "CABO 2,50MM2 - ISOLAMENTO PARA 0,7KV - CLASSE 4-FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 21.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": "09-03-07",
+      "fonte": "EDIF",
+      "descricao": "CABO 6,00MM2 - ISOLAMENTO PARA 0,7KV - CLASSE 4-FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 45.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": "09-07-35",
+      "fonte": "EDIF",
+      "descricao": "PONTO COM INTERRUPTOR SIMPLES-1TECLA, EM CONDULETE 3/4\"",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": "09-07-61",
+      "fonte": "EDIF",
+      "descricao": "PONTO COM TOMADA SIMPLES 110/220V - EM CONDULETE 3/4\"",
+      "unidade": "UN",
+      "quantidade": 8.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": "09-07-95",
+      "fonte": "EDIF",
+      "descricao": "PONTO DE LUZ - CONDULETE 3/4\"",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": "09-82-18",
+      "fonte": "EDIF",
+      "descricao": "TOMADA SIMPLES, 2P+T, 20A",
+      "unidade": "UN",
+      "quantidade": 8.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": "09-08-11",
+      "fonte": "EDIF",
+      "descricao": "MINI DISJUNTOR - TIPO EUROPEU (IEC) - UNIPOLAR 32/50A",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": "09-08-13",
+      "fonte": "EDIF",
+      "descricao": "MINI DISJUNTOR - TIPO EUROPEU (IEC) - BIPOLAR 32/50A",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": "15-01-15",
+      "fonte": "EDIF",
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 78.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": "13-02-40",
+      "fonte": "EDIF",
+      "descricao": "PISO CERÂMICO ESMALTADO (PEI-5) - ASSENTADO COM ARGAMASSA COMUM",
+      "unidade": "M2",
+      "quantidade": 10.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "SALA ADMINISTRAÇÃO",
+      "codigo": "12-01-45",
+      "fonte": "EDIF",
+      "descricao": "FORRO EM RÉGUA DE PVC 200MM - INCLUSIVE PERFIS DE FIXAÇÃO E ACABAMENTO",
+      "unidade": "M2",
+      "quantidade": 10.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 15
+    }
+  ],
+  "apelido": "QUADRA AV. DALILA"
+}

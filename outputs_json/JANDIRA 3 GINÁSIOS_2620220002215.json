@@ -1,0 +1,225 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620220002215",
+    "numero_art": null,
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "PREFEITURA DO MUNICÍPIO DE JANDIRA",
+    "cnpj_contratante": "46.522.991/0001-73",
+    "objeto": "REPARO NAS INSTALAÇÕES FÍSICAS dos Ginásios de Esportes Severino Lopes de Souza (central), Everaldo Santana do Rosário (JD. Brotinho) e Gelson Aparecido Ferreira da Silva (Sagrado Coração).",
+    "processo_administrativo": "10.194/2018",
+    "contrato": "187/2018",
+    "endereco_obra": null,
+    "cidade": "Jandira",
+    "estado": "SP",
+    "data_inicio": "2018-10-22",
+    "data_fim": "2021-02-19",
+    "area_m2": null,
+    "valor_contrato": 80077.93
+  },
+  "servicos": [
+    {
+      "grupo": "GINÁSIO DO JD. BROTINHO \"EVERALDO SANTANA DO ROSÁRIO\"",
+      "codigo": "06.60.001",
+      "fonte": "FDE",
+      "descricao": "RETIRADA DE ESQUADRIAS METÁLICAS",
+      "unidade": "M2",
+      "quantidade": 33.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "GINÁSIO DO JD. BROTINHO \"EVERALDO SANTANA DO ROSÁRIO\"",
+      "codigo": "06.70.001",
+      "fonte": "FDE",
+      "descricao": "RECOLOCAÇÃO DE ESQUADRIAS METÁLICAS",
+      "unidade": "M2",
+      "quantidade": 33.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "GINÁSIO DO JD. BROTINHO \"EVERALDO SANTANA DO ROSÁRIO\"",
+      "codigo": "31098",
+      "fonte": "FDE",
+      "descricao": "VENEZIANA IND.ALETAS PVC MONT ACO GALV(REF 50)",
+      "unidade": "M2",
+      "quantidade": 33.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "GINÁSIO DO JD. BROTINHO \"EVERALDO SANTANA DO ROSÁRIO\"",
+      "codigo": "16.06.066",
+      "fonte": "FDE",
+      "descricao": "ANDAIME - TORRE - ALUGUEL MENSAL",
+      "unidade": "M",
+      "quantidade": 12.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "GINÁSIO DO JD. BROTINHO \"EVERALDO SANTANA DO ROSÁRIO\"",
+      "codigo": "16.06.076",
+      "fonte": "FDE",
+      "descricao": "FORNECIMENTO E INSTALAÇÃO DE PLACAS DE OBRA",
+      "unidade": "M2",
+      "quantidade": 3.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "GINÁSIO CENTRAL \"SEVERINO LOPES DE SOUZA\"",
+      "codigo": "13.60.001",
+      "fonte": "FDE",
+      "descricao": "RETIRADA DE PISO VINILICO E BORRACHA",
+      "unidade": "M2",
+      "quantidade": 720.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "GINÁSIO CENTRAL \"SEVERINO LOPES DE SOUZA\"",
+      "codigo": "16.80.097",
+      "fonte": "FDE",
+      "descricao": "FRESAMENTO DE PISO CIMENTADO",
+      "unidade": "M2",
+      "quantidade": 720.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "GINÁSIO CENTRAL \"SEVERINO LOPES DE SOUZA\"",
+      "codigo": "13.80.014",
+      "fonte": "FDE",
+      "descricao": "CAÇAMBA DE 4M3 PARA RETIRADA DE ENTULHO",
+      "unidade": "UNID.",
+      "quantidade": 2.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "GINÁSIO CENTRAL \"SEVERINO LOPES DE SOUZA\"",
+      "codigo": "16.35.019",
+      "fonte": "FDE",
+      "descricao": "LIMPEZA DO SUBSTRATO, COM JATO DE AR COMPRIMIDO",
+      "unidade": "M2",
+      "quantidade": 720.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "GINÁSIO CENTRAL \"SEVERINO LOPES DE SOUZA\"",
+      "codigo": "16.48.015",
+      "fonte": "FDE",
+      "descricao": "APLICACAO PINTURA IMPERM DUAS DEMAOS SITEMA DUPLO EPOXI POLIURETANO (INCLUINDO FAIXAS DEMARCATÓRIAS)",
+      "unidade": "M2",
+      "quantidade": 720.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "GINÁSIO CENTRAL \"SEVERINO LOPES DE SOUZA\"",
+      "codigo": "16.06.076",
+      "fonte": "FDE",
+      "descricao": "FORNECIMENTO E INSTALAÇÃO DE PLACAS DE OBRA",
+      "unidade": "M2",
+      "quantidade": 3.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "GINÁSIO SAGRADO CORAÇÃO \"GELSON APARECIDO FERREIRA DA SILVA\"",
+      "codigo": "08.12.033",
+      "fonte": "FDE",
+      "descricao": "RUFO EM CHAPA GALVANIZADA N 24 CORTE 0,33 M",
+      "unidade": "M",
+      "quantidade": 126.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "GINÁSIO SAGRADO CORAÇÃO \"GELSON APARECIDO FERREIRA DA SILVA\"",
+      "codigo": "08.12.008",
+      "fonte": "FDE",
+      "descricao": "LIGACAO CALHA CONDUTOR DE CHAPA ACO GALVANIZADO N.24 DIAMETRO DE 4\"",
+      "unidade": "UN",
+      "quantidade": 8.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "GINÁSIO SAGRADO CORAÇÃO \"GELSON APARECIDO FERREIRA DA SILVA\"",
+      "codigo": "08.12.015",
+      "fonte": "FDE",
+      "descricao": "CALHA OU AGUA FURTADA EM CHAPA GALV. N 24 - CORTE 0,33M",
+      "unidade": "M",
+      "quantidade": 3.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "GINÁSIO SAGRADO CORAÇÃO \"GELSON APARECIDO FERREIRA DA SILVA\"",
+      "codigo": "08.12.003",
+      "fonte": "FDE",
+      "descricao": "CONDUTOR DE CHAPA GALVANIZADA N 24 - DESENVOLVIMENTO DE 0,33",
+      "unidade": "M",
+      "quantidade": 48.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "GINÁSIO SAGRADO CORAÇÃO \"GELSON APARECIDO FERREIRA DA SILVA\"",
+      "codigo": "16.06.066",
+      "fonte": "FDE",
+      "descricao": "ANDAIME - TORRE - ALUGUEL MENSAL",
+      "unidade": "M",
+      "quantidade": 12.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "GINÁSIO SAGRADO CORAÇÃO \"GELSON APARECIDO FERREIRA DA SILVA\"",
+      "codigo": "07.80.019",
+      "fonte": "FDE",
+      "descricao": "PARAFUSO PARA FIXACAO DE TELHA ONDULADA CRFS",
+      "unidade": "UN",
+      "quantidade": 30.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "GINÁSIO SAGRADO CORAÇÃO \"GELSON APARECIDO FERREIRA DA SILVA\"",
+      "codigo": "16.06.076",
+      "fonte": "FDE",
+      "descricao": "FORNECIMENTO E INSTALAÇÃO DE PLACAS DE OBRA",
+      "unidade": "M2",
+      "quantidade": 3.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "GINÁSIO SAGRADO CORAÇÃO \"GELSON APARECIDO FERREIRA DA SILVA\"",
+      "codigo": "10118",
+      "fonte": "FDE",
+      "descricao": "ENCANADOR",
+      "unidade": "H",
+      "quantidade": 3.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "GINÁSIO SAGRADO CORAÇÃO \"GELSON APARECIDO FERREIRA DA SILVA\"",
+      "codigo": "24096",
+      "fonte": "FDE",
+      "descricao": "SILICONE",
+      "unidade": "KG",
+      "quantidade": 1.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 20
+    }
+  ],
+  "apelido": "JANDIRA 3 GINÁSIOS"
+}

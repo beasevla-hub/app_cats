@@ -1,0 +1,1535 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620260002291",
+    "numero_art": "2620260220131",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893 - SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA DE ITAQUERA",
+    "cnpj_contratante": "06.056.497/0001-46",
+    "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM ENGENHARIA PARA EXECUÇÃO DE OBRAS DE CONSTRUÇÃO DE GALERIA DE ÁGUAS PLUVIAIS E SERVIÇOS COMPLEMENTARES - LOCALIZADA NAS VIAS RUA PIERRE LESCOT, INÍCIO, PRÓXIMO AO N° 526 ATÉ A RUA . IJUCAPIRAMA - JD SANTA TERESINHA - CIDADE LÍDER DITAQUERA.",
+    "processo_administrativo": "6041.2024/0004238-9",
+    "contrato": "012/SUB-IQ/2025",
+    "endereco_obra": "Rua PIERRE LESCOT",
+    "cidade": "SÃO PAULO",
+    "estado": "SP",
+    "data_inicio": "2025-06-02",
+    "data_fim": "2025-10-06",
+    "area_m2": null,
+    "valor_contrato": 2645578.39
+  },
+  "servicos": [
+    {
+      "grupo": "SERVIÇOS DE PROJETO",
+      "codigo": "20-001-013",
+      "fonte": null,
+      "descricao": "LEVANTAMENTO PLANIALTIMÉTRICO DE ÁREAS - ATÉ 10.000M2",
+      "unidade": "GL",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS DE PROJETO",
+      "codigo": "03-052-001",
+      "fonte": null,
+      "descricao": "PLOTAGEM EM PAPEL SULFITE, TAMANHO A1, COLORIDA (ARQUIVO ORIGINAL COM EXTENSÃO \"PLT\")",
+      "unidade": "UN",
+      "quantidade": 15.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SERVIÇOS DE PROJETO",
+      "codigo": "03-053-018",
+      "fonte": null,
+      "descricao": "PROJETO EXECUTIVO (PRANCHA A1)",
+      "unidade": "UN",
+      "quantidade": 5.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "SERVIÇOS DE PROJETO",
+      "codigo": "02-001-001",
+      "fonte": null,
+      "descricao": "SONDAGEM A TRADO MANUAL",
+      "unidade": "M",
+      "quantidade": 50.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "SERVIÇOS DE PROJETO",
+      "codigo": "02-002-002",
+      "fonte": null,
+      "descricao": "MOBILIZAÇÃO E INSTALAÇÃO DE 1 EQUIPAMENTO",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "SERVIÇOS DE PROJETO",
+      "codigo": "02-002-004",
+      "fonte": null,
+      "descricao": "DESLOCAMENTO DE EQUIPAMENTO ENTRE FUROS EM TERRENO PLANO, CONSIDERANDO A DISTÂNCIA ATÉ 100M",
+      "unidade": "UN",
+      "quantidade": 5.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "CANTEIRO DE OBRA",
+      "codigo": "01-005-040",
+      "fonte": null,
+      "descricao": "TELA PARA PROTEÇÃO DE OBRAS, MALHA 2 MM",
+      "unidade": "M2",
+      "quantidade": 360.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "CANTEIRO DE OBRA",
+      "codigo": "01-005-005",
+      "fonte": null,
+      "descricao": "TAPUME METÁLICO COM TELHA METÁLICA, SEM PINTURA, TRAPEZOIDAL 40 ESP=0,43MM, COLUNAS, BASES E PARAFUSOS",
+      "unidade": "M2",
+      "quantidade": 35.2,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "CANTEIRO DE OBRA",
+      "codigo": "01-005-006",
+      "fonte": null,
+      "descricao": "PORTÃO METÁLICO DE OBRA - 5M, PIVOTANTE, 2 FOLHAS, PARA TAPUME",
+      "unidade": "M2",
+      "quantidade": 8.8,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "CANTEIRO DE OBRA",
+      "codigo": "02.02.140",
+      "fonte": null,
+      "descricao": "LOCAÇÃO DE CONTAINER TIPO SANITÁRIO COM 2 VASOS SANITÁRIOS, 2 LAVATÓRIOS, 2 MICTÓRIOS E 4 PONTOS PARA CHUVEIRO - ÁREA MÍNIMA DE 13,80 M²",
+      "unidade": "UNMES",
+      "quantidade": 4.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "CANTEIRO DE OBRA",
+      "codigo": "02.02.150",
+      "fonte": null,
+      "descricao": "LOCAÇÃO DE CONTAINER TIPO DEPÓSITO - ÁREA MÍNIMA DE 13,80 M²",
+      "unidade": "UNMES",
+      "quantidade": 4.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "CANTEIRO DE OBRA",
+      "codigo": "10-002-014",
+      "fonte": null,
+      "descricao": "CAIXA D'ÁGUA DE POLIETILENO 5000 LITROS",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "CANTEIRO DE OBRA",
+      "codigo": "10-016-003",
+      "fonte": null,
+      "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "GALERIA DE ÁGUAS PLUVIAIS E PAVIMENTAÇÃO",
+      "codigo": "06-071-000",
+      "fonte": null,
+      "descricao": "SERVIÇOS DE LIMPEZA MECÂNICA DOS SISTEMAS DE DRENAGEM (GALERIAS, BOCA DE LOBO, PV, ETC), COM UTILIZAÇÃO DE EQUIPAMENTO COMBINADO HIDROJATO/ SUGADOR",
+      "unidade": "H",
+      "quantidade": 32.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "GALERIA DE ÁGUAS PLUVIAIS E PAVIMENTAÇÃO",
+      "codigo": "01-001-001",
+      "fonte": null,
+      "descricao": "LIMPEZA MECANIZADA GERAL, INCLUSIVE REMOÇÃO DA COBERTURA VEGETAL - TRONCOS COM DIÂMETRO ATÉ 10CM - SEM TRANSPORTE",
+      "unidade": "M2",
+      "quantidade": 480.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "GALERIA DE ÁGUAS PLUVIAIS E PAVIMENTAÇÃO",
+      "codigo": "01-001-002",
+      "fonte": null,
+      "descricao": "DESTOCAMENTO, INCLUSIVE REMOÇÃO DAS RAÍZES - DIÂMETROS DE 10,01 À 30CM",
+      "unidade": "UN",
+      "quantidade": 10.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "GALERIA DE ÁGUAS PLUVIAIS E PAVIMENTAÇÃO",
+      "codigo": "05-004-000",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE PAVIMENTO ASFÁLTICO, INCLUSIVE CAPA, INCLUI CARGA NO CAMINHÃO",
+      "unidade": "M2",
+      "quantidade": 1690.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "GALERIA DE ÁGUAS PLUVIAIS E PAVIMENTAÇÃO",
+      "codigo": "08-051-000",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE CONCRETO ARMADO",
+      "unidade": "M3",
+      "quantidade": 20.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "GALERIA DE ÁGUAS PLUVIAIS E PAVIMENTAÇÃO",
+      "codigo": "05-003-000",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE PAVIMENTO DE CONCRETO, SARJETA OU SARJETÃO, INCLUI CARGA EM CAMINHÃO",
+      "unidade": "M2",
+      "quantidade": 120.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "GALERIA DE ÁGUAS PLUVIAIS E PAVIMENTAÇÃO",
+      "codigo": "05-001-000",
+      "fonte": null,
+      "descricao": "ARRANCAMENTO DE GUIAS, INCLUI CARGA EM CAMINHÃO",
+      "unidade": "M",
+      "quantidade": 300.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "GALERIA DE ÁGUAS PLUVIAIS E PAVIMENTAÇÃO",
+      "codigo": "08-080-000",
+      "fonte": null,
+      "descricao": "CARGA E REMOÇÃO DE ENTULHO ATÉ A DISTÂNCIA MÉDIA DE IDA E VOLTA DE 1KM",
+      "unidade": "M3",
+      "quantidade": 226.98,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "GALERIA DE ÁGUAS PLUVIAIS E PAVIMENTAÇÃO",
+      "codigo": "08-086-000",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO ALÉM DO PRIMEIRO KM",
+      "unidade": "M3XKM",
+      "quantidade": 5674.5,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "GALERIA DE ÁGUAS PLUVIAIS E PAVIMENTAÇÃO",
+      "codigo": "04-006-000",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL DE CÓRREGO",
+      "unidade": "M3",
+      "quantidade": 448.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "GALERIA DE ÁGUAS PLUVIAIS E PAVIMENTAÇÃO",
+      "codigo": "04-001-000",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL PARA FUNDAÇÕES E VALAS COM PROFUNDIDADE MÉDIA MENOR OU IGUAL À 1,50M",
+      "unidade": "M3",
+      "quantidade": 800.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "GALERIA DE ÁGUAS PLUVIAIS E PAVIMENTAÇÃO",
+      "codigo": "04-014-000",
+      "fonte": null,
+      "descricao": "CARGA E REMOÇÃO DE TERRA ATÉ A DISTÂNCIA MÉDIA DE 1,0KM, COM CAMINHÃO BASCULANTE DE 10M3",
+      "unidade": "M3",
+      "quantidade": 842.4,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "GALERIA DE ÁGUAS PLUVIAIS E PAVIMENTAÇÃO",
+      "codigo": "04-062-000",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE TERRA ALÉM DO PRIMEIRO KM, COM CAMINHÃO DE 10M3",
+      "unidade": "M3XKM",
+      "quantidade": 21060.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "GALERIA DE ÁGUAS PLUVIAIS E PAVIMENTAÇÃO",
+      "codigo": "04-064-000",
+      "fonte": null,
+      "descricao": "DISPOSIÇÃO FINAL DE SOLOS E RESÍDUOS, CLASSE II B - INERTES, EM ATERRO SANITÁRIO LICENCIADO",
+      "unidade": "Ton",
+      "quantidade": 1604.07,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "GALERIA DE ÁGUAS PLUVIAIS E PAVIMENTAÇÃO",
+      "codigo": "06-025-000",
+      "fonte": null,
+      "descricao": "DRENO DE AREIA",
+      "unidade": "M3",
+      "quantidade": 39.49,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "GALERIA DE ÁGUAS PLUVIAIS E PAVIMENTAÇÃO",
+      "codigo": "06-010-002",
+      "fonte": null,
+      "descricao": "FORNECIMENTO E ASSENTAMENTO DE TUBOS DE CONCRETO ARMADO, DIÂMETRO 60CM - TIPO PA-3",
+      "unidade": "M",
+      "quantidade": 42.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "GALERIA DE ÁGUAS PLUVIAIS E PAVIMENTAÇÃO",
+      "codigo": "06-012-002",
+      "fonte": null,
+      "descricao": "FORNECIMENTO E ASSENTAMENTO DE TUBOS DE CONCRETO ARMADO, DIÂMETRO 80CM - TIPO PA-3",
+      "unidade": "M",
+      "quantidade": 200.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "GALERIA DE ÁGUAS PLUVIAIS E PAVIMENTAÇÃO",
+      "codigo": "06-003-000",
+      "fonte": null,
+      "descricao": "ESCORAMENTO DESCONTÍNUO DE MADEIRA PARA CANALIZAÇÃO DE TUBOS",
+      "unidade": "M2",
+      "quantidade": 484.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "GALERIA DE ÁGUAS PLUVIAIS E PAVIMENTAÇÃO",
+      "codigo": "04-008-000",
+      "fonte": null,
+      "descricao": "REATERRO COMPACTADO DE FUNDAÇÃO",
+      "unidade": "M3",
+      "quantidade": 208.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "GALERIA DE ÁGUAS PLUVIAIS E PAVIMENTAÇÃO",
+      "codigo": "04-009-000",
+      "fonte": null,
+      "descricao": "REENCHIMENTO DE VALA COM COMPACTAÇÃO, SEM FORNECIMENTO DE TERRA",
+      "unidade": "M3",
+      "quantidade": 520.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": "GALERIA DE ÁGUAS PLUVIAIS E PAVIMENTAÇÃO",
+      "codigo": "06-018-002",
+      "fonte": null,
+      "descricao": "POÇO DE VISITA TIPO 2 - 1,60 X 1,60 X 1,60M",
+      "unidade": "UN",
+      "quantidade": 8.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": "GALERIA DE ÁGUAS PLUVIAIS E PAVIMENTAÇÃO",
+      "codigo": "06-019-000",
+      "fonte": null,
+      "descricao": "CHAMINÉ DE POÇO DE VISITA COM ALVENARIA DE UM TIJOLO COMUM",
+      "unidade": "M",
+      "quantidade": 8.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 29
+    },
+    {
+      "grupo": "GALERIA DE ÁGUAS PLUVIAIS E PAVIMENTAÇÃO",
+      "codigo": "06-020-022",
+      "fonte": null,
+      "descricao": "FORNECIMENTO DE TAMPÃO DE FERRO FUNDIDO DÚCTIL CLASSE MÍNIMA 400 (40T) D=600MM - NBR 10160 NÃO ARTICULADO - P/ GAL. ÁGUAS PLUV.",
+      "unidade": "UN",
+      "quantidade": 8.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 30
+    },
+    {
+      "grupo": "GALERIA DE ÁGUAS PLUVIAIS E PAVIMENTAÇÃO",
+      "codigo": "06-020-004",
+      "fonte": null,
+      "descricao": "INSTALAÇÃO DE TAMPÃO PARA GALERIA DE ÁGUAS PLUVIAIS - NÃO ARTICULADO, EXCETO FORNECIMENTO DE TAMPÃO",
+      "unidade": "UN",
+      "quantidade": 8.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 31
+    },
+    {
+      "grupo": "GALERIA DE ÁGUAS PLUVIAIS E PAVIMENTAÇÃO",
+      "codigo": "05-013-000",
+      "fonte": null,
+      "descricao": "BASE DE CONCRETO FCK=15,00MPA PARA GUIAS, SARJETAS OU SARJETÕES",
+      "unidade": "M3",
+      "quantidade": 15.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 32
+    },
+    {
+      "grupo": "GALERIA DE ÁGUAS PLUVIAIS E PAVIMENTAÇÃO",
+      "codigo": "05-014-001",
+      "fonte": null,
+      "descricao": "FORNECIMENTO E ASSENTAMENTO DE GUIAS TIPO PMSP 100, INCLUSIVE ENCOSTAMENTO DE TERRA - FCK=20,0MPA",
+      "unidade": "M",
+      "quantidade": 300.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 33
+    },
+    {
+      "grupo": "GALERIA DE ÁGUAS PLUVIAIS E PAVIMENTAÇÃO",
+      "codigo": "05-019-001",
+      "fonte": null,
+      "descricao": "CONSTRUÇÃO DE SARJETA OU SARJETÃO DE CONCRETO - FCK=25,0MPA",
+      "unidade": "M3",
+      "quantidade": 30.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 34
+    },
+    {
+      "grupo": "GALERIA DE ÁGUAS PLUVIAIS E PAVIMENTAÇÃO",
+      "codigo": "06-022-006",
+      "fonte": null,
+      "descricao": "BOCA DE LOBO QUÁDRUPLA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 35
+    },
+    {
+      "grupo": "GALERIA DE ÁGUAS PLUVIAIS E PAVIMENTAÇÃO",
+      "codigo": "06-023-001",
+      "fonte": null,
+      "descricao": "REFORMA DE BOCA DE LOBO SIMPLES",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 36
+    },
+    {
+      "grupo": "GALERIA DE ÁGUAS PLUVIAIS E PAVIMENTAÇÃO",
+      "codigo": "06-023-002",
+      "fonte": null,
+      "descricao": "REFORMA DE BOCA DE LOBO DUPLA",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 37
+    },
+    {
+      "grupo": "GALERIA DE ÁGUAS PLUVIAIS E PAVIMENTAÇÃO",
+      "codigo": "06-023-003",
+      "fonte": null,
+      "descricao": "REFORMA DE BOCA DE LOBO TRIPLA",
+      "unidade": "UN",
+      "quantidade": 6.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 38
+    },
+    {
+      "grupo": "GALERIA DE ÁGUAS PLUVIAIS E PAVIMENTAÇÃO",
+      "codigo": "02-001-003",
+      "fonte": null,
+      "descricao": "BROCA DE CONCRETO - DIÂMETRO DE 30CM",
+      "unidade": "M",
+      "quantidade": 24.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 39
+    },
+    {
+      "grupo": "GALERIA DE ÁGUAS PLUVIAIS E PAVIMENTAÇÃO",
+      "codigo": "08-013-000",
+      "fonte": null,
+      "descricao": "FORMA PARA SAPATAS E BALDRAMES",
+      "unidade": "M2",
+      "quantidade": 28.96,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 40
+    },
+    {
+      "grupo": "GALERIA DE ÁGUAS PLUVIAIS E PAVIMENTAÇÃO",
+      "codigo": "07-010-000",
+      "fonte": null,
+      "descricao": "FORNECIMENTO E APLICAÇÃO DE AÇO CA-50 - DIÂMETRO > OU = 1/2\"",
+      "unidade": "KG",
+      "quantidade": 171.2,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 41
+    },
+    {
+      "grupo": null,
+      "codigo": "07-011-000",
+      "fonte": null,
+      "descricao": "FORNECIMENTO E APLICAÇÃO DE AÇO CA-60",
+      "unidade": "KG",
+      "quantidade": 102.72,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "07-012-000",
+      "fonte": null,
+      "descricao": "FORNECIMENTO E APLICAÇÃO DE TELA DE AÇO",
+      "unidade": "KG",
+      "quantidade": 1566.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "08-014-001",
+      "fonte": null,
+      "descricao": "FORMA COMUM, INCLUSIVE CIMBRAMENTO",
+      "unidade": "M2",
+      "quantidade": 42.5,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "03-003-025",
+      "fonte": null,
+      "descricao": "CONCRETO FCK = 40,0MPA - USINADO E BOMBEÁVEL",
+      "unidade": "M3",
+      "quantidade": 29.52,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "08-034-000",
+      "fonte": null,
+      "descricao": "ALVENARIA EM BLOCOS DE CONCRETO 19 X 19 X 39CM",
+      "unidade": "M2",
+      "quantidade": 256.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "04-001-097",
+      "fonte": null,
+      "descricao": "CONCRETO \"GROUT\"",
+      "unidade": "M3",
+      "quantidade": 19.2,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "04-001-095",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-50 PARA BLOCOS VAZADOS DE CONCRETO ESTRUTURAL",
+      "unidade": "KG",
+      "quantidade": 768.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "08-037-000",
+      "fonte": null,
+      "descricao": "CHAPISCO COM ARGAMASSA DE CIMENTO E AREIA 1:6",
+      "unidade": "M2",
+      "quantidade": 128.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "08-039-000",
+      "fonte": null,
+      "descricao": "EMBOÇO COM ARGAMASSA DE CIMENTO, CAL E AREIA NO TRAÇO 1:2:8",
+      "unidade": "M2",
+      "quantidade": 128.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "08-040-000",
+      "fonte": null,
+      "descricao": "REBOCO",
+      "unidade": "M2",
+      "quantidade": 128.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "10-012-090",
+      "fonte": null,
+      "descricao": "CAIXA DE LIGAÇÃO OU INSPEÇÃO - ESCAVAÇÃO E APILOAMENTO",
+      "unidade": "M3",
+      "quantidade": 19.2,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "10-012-091",
+      "fonte": null,
+      "descricao": "CAIXA DE LIGAÇÃO OU INSPEÇÃO - LASTRO DE CONCRETO (FUNDO)",
+      "unidade": "M3",
+      "quantidade": 2.4,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": "10-012-093",
+      "fonte": null,
+      "descricao": "CAIXA DE LIGAÇÃO OU INSPEÇÃO - ALVENARIA DE 1 TIJOLO, REVESTIDA",
+      "unidade": "M2",
+      "quantidade": 38.4,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": null,
+      "codigo": "10-012-094",
+      "fonte": null,
+      "descricao": "CAIXA DE LIGAÇÃO OU INSPEÇÃO - TAMPA DE CONCRETO",
+      "unidade": "M2",
+      "quantidade": 12.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": null,
+      "codigo": "05-008-000",
+      "fonte": null,
+      "descricao": "REMANEJAMENTO DE RAMAL DOMICILIAR DE ÁGUA, INCLUSIVE ABERTURA E FECHAMENTO DE VALA",
+      "unidade": "M",
+      "quantidade": 80.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": null,
+      "codigo": "05-010-000",
+      "fonte": null,
+      "descricao": "ABERTURA DE CAIXA ATÉ 40CM, INCLUI ESCAVAÇÃO, COMPACTAÇÃO, TRANSPORTE E PREPARO DO SUB-LEITO",
+      "unidade": "M2",
+      "quantidade": 1834.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": null,
+      "codigo": "05-020-000",
+      "fonte": null,
+      "descricao": "FUNDAÇÃO DE RACHÃO",
+      "unidade": "M3",
+      "quantidade": 398.3,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": null,
+      "codigo": "05-047-000",
+      "fonte": null,
+      "descricao": "BASE DE BICA CORRIDA",
+      "unidade": "M3",
+      "quantidade": 91.7,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": null,
+      "codigo": "05-048-000",
+      "fonte": null,
+      "descricao": "BASE DE BRITA GRADUADA",
+      "unidade": "M3",
+      "quantidade": 123.2,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": null,
+      "codigo": "05-024-001",
+      "fonte": null,
+      "descricao": "BASE DE MACADAME BETUMINOSO",
+      "unidade": "M3",
+      "quantidade": 183.4,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": null,
+      "codigo": "05-025-002",
+      "fonte": null,
+      "descricao": "BASE DE BINDER DENSO (SEM TRANSPORTE)",
+      "unidade": "M3",
+      "quantidade": 91.7,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": null,
+      "codigo": "05-079-001",
+      "fonte": null,
+      "descricao": "CARGA, DESCARGA E TRANSPORTE DE BINDER ATÉ A DISTÂNCIA MÉDIA DE IDA E VOLTA DE 1KM",
+      "unidade": "M3",
+      "quantidade": 91.7,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": null,
+      "codigo": "05-079-007",
+      "fonte": null,
+      "descricao": "TRANSPORTE DE BINDER ALÉM DO PRIMEIRO KM",
+      "unidade": "M3XKM",
+      "quantidade": 2292.5,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": null,
+      "codigo": "05-026-000",
+      "fonte": null,
+      "descricao": "IMPRIMAÇÃO BETUMINOSA LIGANTE",
+      "unidade": "M2",
+      "quantidade": 1834.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": null,
+      "codigo": "05-027-000",
+      "fonte": null,
+      "descricao": "IMPRIMAÇÃO BETUMINOSA IMPERMEABILIZANTE",
+      "unidade": "M2",
+      "quantidade": 1834.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": null,
+      "codigo": "05-028-000",
+      "fonte": null,
+      "descricao": "REVESTIMENTO DE CONCRETO ASFÁLTICO (SEM TRANSPORTE)",
+      "unidade": "M3",
+      "quantidade": 101.5,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": null,
+      "codigo": "05-078-001",
+      "fonte": null,
+      "descricao": "CARGA, DESCARGA E TRANSPORTE DE CONCRETO ASFÁLTICO ATÉ A DISTÂNCIA MÉDIA DE IDA E VOLTA DE 1KM",
+      "unidade": "M3",
+      "quantidade": 101.5,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": null,
+      "codigo": "05-078-007",
+      "fonte": null,
+      "descricao": "TRANSPORTE DE CONCRETO ASFÁLTICO ALÉM DO PRIMEIRO KM",
+      "unidade": "M3XKM",
+      "quantidade": 2537.5,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": null,
+      "codigo": "05-092-002",
+      "fonte": null,
+      "descricao": "PISO/ PASSEIO DE CONCRETO ARMADO, INCLUINDO O PREPARO DA CAIXA, LASTRO DE BRITA, TELA METÁLICA E A MÃO DE OBRA REFERENTE AOS SERVIÇOS NO CONCRETO: LANÇAMENTO E ACABAMENTO (RIPADO E DESEMPENADO), EXCLUSIVE O FORNECIMENTO DO CONCRETO",
+      "unidade": "M3",
+      "quantidade": 24.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 29
+    },
+    {
+      "grupo": null,
+      "codigo": "06-005-000",
+      "fonte": null,
+      "descricao": "LASTRO DE BRITA E PÓ DE PEDRA",
+      "unidade": "M3",
+      "quantidade": 10.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 30
+    },
+    {
+      "grupo": null,
+      "codigo": "17-002-001",
+      "fonte": null,
+      "descricao": "CONCRETO SIMPLES DESEMPENADO E RIPADO, 200KG CIM/M3",
+      "unidade": "M3",
+      "quantidade": 24.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 31
+    },
+    {
+      "grupo": null,
+      "codigo": "06-049-000",
+      "fonte": null,
+      "descricao": "ESGOTAMENTO D'ÁGUA COM BOMBA SUBMERSA - POTÊNCIA ATÉ 5HP",
+      "unidade": "HPX H",
+      "quantidade": 1200.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 32
+    },
+    {
+      "grupo": null,
+      "codigo": "11-017-000",
+      "fonte": null,
+      "descricao": "ROLO COMPACTADOR PÉ DE CARNEIRO DE UM CIL. 12,2 TON",
+      "unidade": "H",
+      "quantidade": 56.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 33
+    },
+    {
+      "grupo": "ESCADA HIDRÁULICA",
+      "codigo": "01-001-001",
+      "fonte": null,
+      "descricao": "LIMPEZA MECANIZADA GERAL, INCLUSIVE REMOÇÃO DA COBERTURA VEGETAL - TRONCOS COM DIÂMETRO ATÉ 10CM - SEM TRANSPORTE",
+      "unidade": "M2",
+      "quantidade": 125.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 34
+    },
+    {
+      "grupo": "ESCADA HIDRÁULICA",
+      "codigo": "08-080-000",
+      "fonte": null,
+      "descricao": "CARGA E REMOÇÃO DE ENTULHO ATÉ A DISTÂNCIA MÉDIA DE IDA E VOLTA DE 1KM",
+      "unidade": "M3",
+      "quantidade": 16.25,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 35
+    },
+    {
+      "grupo": "ESCADA HIDRÁULICA",
+      "codigo": "08-086-000",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO ALÉM DO PRIMEIRO KM",
+      "unidade": "M3XKM",
+      "quantidade": 406.25,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 36
+    },
+    {
+      "grupo": "ESCADA HIDRÁULICA",
+      "codigo": "04-011-000",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MECÂNICA, CARGA E REMOÇÃO DE TERRA ATÉ A DISTÂNCIA MÉDIA DE 1,0KM COM CAMINHÃO BASCULANTE DE 14 M3",
+      "unidade": "M3",
+      "quantidade": 48.75,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 37
+    },
+    {
+      "grupo": "ESCADA HIDRÁULICA",
+      "codigo": "04-060-000",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE TERRA ALÉM DO PRIMEIRO KM COM CAMINHÃO DE 14 M3",
+      "unidade": "M3XKM",
+      "quantidade": 1300.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 38
+    },
+    {
+      "grupo": "ESCADA HIDRÁULICA",
+      "codigo": "01-004-001",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL, PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 3.25,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 39
+    },
+    {
+      "grupo": "ESCADA HIDRÁULICA",
+      "codigo": "04-064-000",
+      "fonte": null,
+      "descricao": "DISPOSIÇÃO FINAL DE SOLOS E RESÍDUOS, CLASSE II B - INERTES, EM ATERRO SANITÁRIO LICENCIADO",
+      "unidade": "Ton",
+      "quantidade": 68.25,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 40
+    },
+    {
+      "grupo": "ESCADA HIDRÁULICA",
+      "codigo": "01-004-010",
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 37.5,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 41
+    },
+    {
+      "grupo": "ESCADA HIDRÁULICA",
+      "codigo": "08-014-001",
+      "fonte": null,
+      "descricao": "FORMA COMUM, INCLUSIVE CIMBRAMENTO",
+      "unidade": "M2",
+      "quantidade": 34.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 42
+    },
+    {
+      "grupo": "ESCADA HIDRÁULICA",
+      "codigo": "07-010-000",
+      "fonte": null,
+      "descricao": "FORNECIMENTO E APLICAÇÃO DE AÇO CA-50 - DIÂMETRO > OU = 1/2\"",
+      "unidade": "KG",
+      "quantidade": 615.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 43
+    },
+    {
+      "grupo": "ESCADA HIDRÁULICA",
+      "codigo": "07-011-000",
+      "fonte": null,
+      "descricao": "FORNECIMENTO E APLICAÇÃO DE AÇO CA-60",
+      "unidade": "KG",
+      "quantidade": 369.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 44
+    },
+    {
+      "grupo": "ESCADA HIDRÁULICA",
+      "codigo": "07-012-000",
+      "fonte": null,
+      "descricao": "FORNECIMENTO E APLICAÇÃO DE TELA DE AÇO",
+      "unidade": "KG",
+      "quantidade": 246.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 45
+    },
+    {
+      "grupo": null,
+      "codigo": "03-003-025",
+      "fonte": null,
+      "descricao": "CONCRETO FCK = 40,0MPA - USINADO E BOMBEÁVEL",
+      "unidade": "M3",
+      "quantidade": 12.3,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "04-001-031",
+      "fonte": null,
+      "descricao": "ALVENARIA EM BLOCOS DE CONCRETO ESTRUTURAL 14 X 19 X 39CM - 8MPA",
+      "unidade": "M2",
+      "quantidade": 80.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "04-001-097",
+      "fonte": null,
+      "descricao": "CONCRETO \"GROUT\"",
+      "unidade": "M3",
+      "quantidade": 12.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "08-041-000",
+      "fonte": null,
+      "descricao": "IMPERMEABILIZAÇÃO DE CONCRETO EM CONTATO COM A TERRA",
+      "unidade": "M2",
+      "quantidade": 80.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "04-001-095",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-50 PARA BLOCOS VAZADOS DE CONCRETO ESTRUTURAL",
+      "unidade": "KG",
+      "quantidade": 480.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "11-001-001",
+      "fonte": null,
+      "descricao": "CHAPISCO COMUM - ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 80.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "11-003-010",
+      "fonte": null,
+      "descricao": "EMBOÇO EXTERNO - ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 80.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "11-003-013",
+      "fonte": null,
+      "descricao": "REBOCO EXTERNO - ARGAMASSA PRÉ-FABRICADA",
+      "unidade": "M2",
+      "quantidade": 80.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "17-004-014",
+      "fonte": null,
+      "descricao": "LIMPEZA E LAVAGEM DE PISO POR HIDROJATEAMENTO",
+      "unidade": "M2",
+      "quantidade": 40.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "06-049-000",
+      "fonte": null,
+      "descricao": "ESGOTAMENTO D'ÁGUA COM BOMBA SUBMERSA - POTÊNCIA ATÉ 5HP",
+      "unidade": "HPX H",
+      "quantidade": 1200.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "11-014-000",
+      "fonte": null,
+      "descricao": "RETROESCAVADEIRA CAP CAÇAMBA FRONTAL 0,76M3",
+      "unidade": "H",
+      "quantidade": 240.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "11-023-000",
+      "fonte": null,
+      "descricao": "CAMINHÃO BASCULANTE 10M3",
+      "unidade": "H",
+      "quantidade": 240.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "CONTENÇÃO EM CORTINA ATIRANTADA ",
+      "codigo": "02-001-051",
+      "fonte": null,
+      "descricao": "ESTACAS ESCAVADAS MECANICAMENTE - DIÂMETRO DE 25CM",
+      "unidade": "M",
+      "quantidade": 120.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "CONTENÇÃO EM CORTINA ATIRANTADA ",
+      "codigo": "02-001-048",
+      "fonte": null,
+      "descricao": "ARRASAMENTO DE ESTACA",
+      "unidade": "Unid.",
+      "quantidade": 12.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "CONTENÇÃO EM CORTINA ATIRANTADA ",
+      "codigo": "01-004-001",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL, PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 0.65,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "CONTENÇÃO EM CORTINA ATIRANTADA ",
+      "codigo": "02-003-004",
+      "fonte": null,
+      "descricao": "FORMA COMUM DE TÁBUAS DE PINUS - NÃO RECUPERÁVEL",
+      "unidade": "M2",
+      "quantidade": 6.5,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "CONTENÇÃO EM CORTINA ATIRANTADA ",
+      "codigo": "01-004-010",
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 5.2,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "CONTENÇÃO EM CORTINA ATIRANTADA ",
+      "codigo": "01-004-015",
+      "fonte": null,
+      "descricao": "LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 0.26,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "CONTENÇÃO EM CORTINA ATIRANTADA ",
+      "codigo": "03-003-020",
+      "fonte": null,
+      "descricao": "CONCRETO FCK = 30,0MPA - USINADO",
+      "unidade": "M3",
+      "quantidade": 1.3,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "CONTENÇÃO EM CORTINA ATIRANTADA ",
+      "codigo": "24-15-09",
+      "fonte": null,
+      "descricao": "DRENO HORIZONTAL PROFUNDO",
+      "unidade": "M",
+      "quantidade": 13.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "CONTENÇÃO EM CORTINA ATIRANTADA ",
+      "codigo": "01-004-075",
+      "fonte": null,
+      "descricao": "MANTA GEOTÊXTIL",
+      "unidade": "M2",
+      "quantidade": 200.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "CONTENÇÃO EM CORTINA ATIRANTADA ",
+      "codigo": "07-009-000",
+      "fonte": null,
+      "descricao": "FORNECIMENTO E APLICAÇÃO DE AÇO CA-50 - DIÂMETRO < 1/2\"",
+      "unidade": "KG",
+      "quantidade": 150.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "CONTENÇÃO EM CORTINA ATIRANTADA ",
+      "codigo": "07-010-000",
+      "fonte": null,
+      "descricao": "FORNECIMENTO E APLICAÇÃO DE AÇO CA-50 - DIÂMETRO > OU = 1/2\"",
+      "unidade": "KG",
+      "quantidade": 600.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "CONTENÇÃO EM CORTINA ATIRANTADA ",
+      "codigo": "25.08.15.01",
+      "fonte": null,
+      "descricao": "TIRANTE 40TF 5 FIOS D=1/2\" FORN. E INST",
+      "unidade": "M",
+      "quantidade": 252.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "CONTENÇÃO EM CORTINA ATIRANTADA ",
+      "codigo": "08-066-000",
+      "fonte": null,
+      "descricao": "ANCORAGEM ATIVA SÉRIE V-6 -0 = 1/2\"",
+      "unidade": "Unid.",
+      "quantidade": 21.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "CONTENÇÃO EM CORTINA ATIRANTADA ",
+      "codigo": "02-003-011",
+      "fonte": null,
+      "descricao": "PERFURAÇÃO EM SOLOS OU ROCHAS DECOMPOSTAS HX",
+      "unidade": "M",
+      "quantidade": 252.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "CONTENÇÃO EM CORTINA ATIRANTADA ",
+      "codigo": "10-002-062",
+      "fonte": null,
+      "descricao": "TUBO DE PVC RÍGIDO, SOLDÁVEL (LINHA ÁGUA) - 32MM (1\")",
+      "unidade": "M",
+      "quantidade": 252.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": "CONTENÇÃO EM CORTINA ATIRANTADA ",
+      "codigo": "10-012-000",
+      "fonte": null,
+      "descricao": "CALDA DE CIMENTO PARA INKEÇÃO - FORNECIMENTO, PREPARO E APLICAÇÃO",
+      "unidade": "L",
+      "quantidade": 23940.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 28
+    },
+    {
+      "grupo": "CONTENÇÃO EM CORTINA ATIRANTADA ",
+      "codigo": "10-007-004",
+      "fonte": null,
+      "descricao": "FORNECIMENTO, PREPARO E APLICAÇÃO DE CONCRETO PROJETADO, MEDINDO NO PROJETO - FCK = 30MPA - EM OBRAS DE CONTENÇÃO",
+      "unidade": "M3",
+      "quantidade": 22.03,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 29
+    },
+    {
+      "grupo": "CONTENÇÃO EM CORTINA ATIRANTADA ",
+      "codigo": "02-004-009",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-60 PARA TELA",
+      "unidade": "KG",
+      "quantidade": 2753.88,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 30
+    },
+    {
+      "grupo": "CONTENÇÃO EM CORTINA ATIRANTADA ",
+      "codigo": "06-070-003",
+      "fonte": null,
+      "descricao": "FORNECIMENTO E APLICAÇÃO DE GEOCOMPOSTO FORMADO POR NÚCLEO TRIDIMENSIONAL, FLEXÍVEL DE FILAMENTO DE POLIPROPILENO, ASSOCIADO ÀS SUAS DUAS SUPERFÍCIES GEOTEXTEIS NÃO TECIDOS",
+      "unidade": "M2",
+      "quantidade": 110.18,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 31
+    },
+    {
+      "grupo": "CONTENÇÃO EM CORTINA ATIRANTADA ",
+      "codigo": "10-011-076",
+      "fonte": null,
+      "descricao": "CANALETA MEIA CANA EM CONCRETO D=30CM",
+      "unidade": "M",
+      "quantidade": 15.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 32
+    },
+    {
+      "grupo": "CONTENÇÃO EM CORTINA ATIRANTADA ",
+      "codigo": "17-001-028",
+      "fonte": null,
+      "descricao": "ALAMBRADO EM TUBO GALVANIZADO E TELA GALVANIZADA H=1,00M",
+      "unidade": "M",
+      "quantidade": 15.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 33
+    },
+    {
+      "grupo": "CONTENÇÃO EM CORTINA ATIRANTADA ",
+      "codigo": "08-080-050",
+      "fonte": null,
+      "descricao": "FERRO TRABALHADO - CAIXILHOS E PEQUENAS PEÇAS DE SERRALHERIA",
+      "unidade": "KG",
+      "quantidade": 245.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 34
+    },
+    {
+      "grupo": "CONTENÇÃO EM CORTINA ATIRANTADA ",
+      "codigo": "02-001-001",
+      "fonte": null,
+      "descricao": "BROCA DE CONCRETO - DIÂMETRO DE 20CM",
+      "unidade": "M",
+      "quantidade": 16.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 35
+    },
+    {
+      "grupo": "VIELA EM CONCRETO ARMADO",
+      "codigo": "02-050-006",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MECANIZADA DE CONCRETO ARMADO",
+      "unidade": "M3",
+      "quantidade": 37.8,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 36
+    },
+    {
+      "grupo": "VIELA EM CONCRETO ARMADO",
+      "codigo": "01-004-001",
+      "fonte": null,
+      "descricao": "ESCAVAÇÃO MANUAL, PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 113.4,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 37
+    },
+    {
+      "grupo": "VIELA EM CONCRETO ARMADO",
+      "codigo": "08-080-000",
+      "fonte": null,
+      "descricao": "CARGA E REMOÇÃO DE ENTULHO ATÉ A DISTÂNCIA MÉDIA DE IDA E VOLTA DE 1KM",
+      "unidade": "M3",
+      "quantidade": 196.56,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 38
+    },
+    {
+      "grupo": "VIELA EM CONCRETO ARMADO",
+      "codigo": "08-086-000",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO ALÉM DO PRIMEIRO KM",
+      "unidade": "M3XKM",
+      "quantidade": 4914.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 39
+    },
+    {
+      "grupo": "VIELA EM CONCRETO ARMADO",
+      "codigo": "04-064-000",
+      "fonte": null,
+      "descricao": "DISPOSIÇÃO FINAL DE SOLOS E RESÍDUOS, CLASSE II B - INERTES, EM ATERRO SANITÁRIO LICENCIADO",
+      "unidade": "Ton",
+      "quantidade": 196.56,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 40
+    },
+    {
+      "grupo": "VIELA EM CONCRETO ARMADO",
+      "codigo": "05-064-000",
+      "fonte": null,
+      "descricao": "REFORÇO DE SUB-LEITO/SUB-BASE DE SOLO MELHORADO COM BRITA 40% EM VOLUME",
+      "unidade": "M3",
+      "quantidade": 63.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 41
+    },
+    {
+      "grupo": "VIELA EM CONCRETO ARMADO",
+      "codigo": "17-002-032",
+      "fonte": null,
+      "descricao": "PEDRA BRITADA N.2 COM COMPACTAÇÃO MANUAL - 5CM",
+      "unidade": "M2",
+      "quantidade": 315.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 42
+    },
+    {
+      "grupo": "VIELA EM CONCRETO ARMADO",
+      "codigo": "01-004-010",
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 315.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 43
+    },
+    {
+      "grupo": "VIELA EM CONCRETO ARMADO",
+      "codigo": "02-003-004",
+      "fonte": null,
+      "descricao": "FORMA COMUM DE TÁBUAS DE PINUS - NÃO RECUPERÁVEL",
+      "unidade": "M2",
+      "quantidade": 1.5,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 44
+    },
+    {
+      "grupo": "VIELA EM CONCRETO ARMADO",
+      "codigo": "01-004-015",
+      "fonte": null,
+      "descricao": "LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 25.2,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 45
+    },
+    {
+      "grupo": "VIELA EM CONCRETO ARMADO",
+      "codigo": "17-002-001",
+      "fonte": null,
+      "descricao": "CONCRETO SIMPLES DESEMPENADO E RIPADO, 200KG CIM/M3",
+      "unidade": "M3",
+      "quantidade": 47.25,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 46
+    },
+    {
+      "grupo": "VIELA EM CONCRETO ARMADO",
+      "codigo": "02-004-009",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-60 - TELA",
+      "unidade": "KG",
+      "quantidade": 2126.25,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 47
+    },
+    {
+      "grupo": null,
+      "codigo": "10-004-000",
+      "fonte": null,
+      "descricao": "CORTE E REMOÇÃO SUPERFICIAL DE CONCRETO ATÉ 3 CM DE PROFUNDIDADE",
+      "unidade": "M2",
+      "quantidade": 4.73,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "01-004-048",
+      "fonte": null,
+      "descricao": "CAIXA DE LIGAÇÃO OU INSPEÇÃO - ESCAVAÇÃO E APILOAMENTO",
+      "unidade": "M3",
+      "quantidade": 3.07,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "01-004-049",
+      "fonte": null,
+      "descricao": "CAIXA DE LIGAÇÃO OU INSPEÇÃO - LASTRO DE CONCRETO (FUNDO)",
+      "unidade": "M3",
+      "quantidade": 0.38,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "01-004-051",
+      "fonte": null,
+      "descricao": "CAIXA DE LIGAÇÃO OU INSPEÇÃO - ALVENARIA DE 1 TIJOLO, REVESTIDA",
+      "unidade": "M2",
+      "quantidade": 15.36,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "01-004-052",
+      "fonte": null,
+      "descricao": "CAIXA DE LIGAÇÃO OU INSPEÇÃO - TAMPA DE CONCRETO",
+      "unidade": "M2",
+      "quantidade": 3.84,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "10-004-062",
+      "fonte": null,
+      "descricao": "TUBO DE PVC RÍGIDO, SOLDÁVEL (LINHA ÁGUA) - 25MM (3/4\")",
+      "unidade": "M",
+      "quantidade": 150.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "10-009-033",
+      "fonte": null,
+      "descricao": "TUBO DE PVC RÍGIDO, PONTA E BOLSA (LINHA ESGOTO) - 100MM (4\")",
+      "unidade": "M",
+      "quantidade": 150.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "10-009-098",
+      "fonte": null,
+      "descricao": "ENVELOPAMENTO DE TUBULAÇÃO ENTERRADA, COM CONCRETO",
+      "unidade": "M",
+      "quantidade": 300.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "ADMINISTRAÇÃO LOCAL",
+      "codigo": "12-012-000",
+      "fonte": null,
+      "descricao": "ENCARREGADO",
+      "unidade": "H",
+      "quantidade": 480.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "ADMINISTRAÇÃO LOCAL",
+      "codigo": "20-003-004",
+      "fonte": null,
+      "descricao": "ENGENHEIRO/ ARQUITETO PLENO",
+      "unidade": "H",
+      "quantidade": 360.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "ADMINISTRAÇÃO LOCAL",
+      "codigo": "20-003-008",
+      "fonte": null,
+      "descricao": "CONSULTOR",
+      "unidade": "H",
+      "quantidade": 40.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "ADMINISTRAÇÃO LOCAL",
+      "codigo": "20-003-001",
+      "fonte": null,
+      "descricao": "COORDENADOR GERAL",
+      "unidade": "H",
+      "quantidade": 50.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 12
+    }
+  ],
+  "apelido": "RUA PIERRE LESCOT"
+}

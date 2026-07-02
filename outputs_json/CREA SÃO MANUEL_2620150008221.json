@@ -1,0 +1,2465 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620150008221",
+    "numero_art": "92221220140857583",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DO ESTADO DE SÃO",
+    "cnpj_contratante": "60985017000177",
+    "objeto": "EXECUÇÃO DOS SERVIÇOS E OBRAS DE ENGENHARIA DE UM AUDITORIO NA UNIDADE OPERACIONAL DE INSPETORIA DO CREA SP NA CIDADE DE SÃO MANUEL/SP",
+    "processo_administrativo": "L-064/2014",
+    "contrato": "C036/2014 SUP JUR",
+    "endereco_obra": "AVENIDA IRMÃO ALDO MARINE",
+    "cidade": "São Manuel",
+    "estado": "SP",
+    "data_inicio": "2014-06-30",
+    "data_fim": "2014-12-27",
+    "area_m2": 106.8,
+    "valor_contrato": 1108000.0
+  },
+  "servicos": [
+    {
+      "grupo": "SERVIÇOS INICIAIS, SERVIÇOS GERAIS DE CANTEIRO E SUPERVISÃO E CONTROLE (demais serviços necessários a execução das obras deverão ser inclusos nas Despesas Indiretas)",
+      "codigo": "1.1.1",
+      "fonte": "74220 SINAPI",
+      "descricao": "Tapume em chapa de madeira compensada com pintura",
+      "unidade": "m²",
+      "quantidade": 44.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS INICIAIS, SERVIÇOS GERAIS DE CANTEIRO E SUPERVISÃO E CONTROLE (demais serviços necessários a execução das obras deverão ser inclusos nas Despesas Indiretas)",
+      "codigo": "1.1.2",
+      "fonte": "85422 SINAPI",
+      "descricao": "Preparo manual de terreno",
+      "unidade": "m²",
+      "quantidade": 1000.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SERVIÇOS INICIAIS, SERVIÇOS GERAIS DE CANTEIRO E SUPERVISÃO E CONTROLE (demais serviços necessários a execução das obras deverão ser inclusos nas Despesas Indiretas)",
+      "codigo": "1.1.3",
+      "fonte": "72209 SINAPI",
+      "descricao": "Carga manual e remoção de entulho com transporte até 1Km em caminhão basculante",
+      "unidade": "m³",
+      "quantidade": 100.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "SERVIÇOS INICIAIS, SERVIÇOS GERAIS DE CANTEIRO E SUPERVISÃO E CONTROLE (demais serviços necessários a execução das obras deverão ser inclusos nas Despesas Indiretas)",
+      "codigo": "1.1.4",
+      "fonte": "01.01.10 Siurb",
+      "descricao": "Transporte de entulho por caminhão basculante, a partir de 1km",
+      "unidade": "m³xkm",
+      "quantidade": 300.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "SERVIÇOS INICIAIS, SERVIÇOS GERAIS DE CANTEIRO E SUPERVISÃO E CONTROLE (demais serviços necessários a execução das obras deverão ser inclusos nas Despesas Indiretas)",
+      "codigo": "1.1.5",
+      "fonte": "73683 SINAPI",
+      "descricao": "Instalação de gambiarra para sinalização",
+      "unidade": "vb",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "SERVIÇOS INICIAIS, SERVIÇOS GERAIS DE CANTEIRO E SUPERVISÃO E CONTROLE (demais serviços necessários a execução das obras deverão ser inclusos nas Despesas Indiretas)",
+      "codigo": "1.1.6",
+      "fonte": "74209/001 SINAPI",
+      "descricao": "Aquisição e assentamento de placa de obra",
+      "unidade": "m²",
+      "quantidade": 4.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "SERVIÇOS INICIAIS, SERVIÇOS GERAIS DE CANTEIRO E SUPERVISÃO E CONTROLE (demais serviços necessários a execução das obras deverão ser inclusos nas Despesas Indiretas)",
+      "codigo": "1.1.7",
+      "fonte": "73847/003 SINAPI",
+      "descricao": "Aluguel de container sanitário c/ 2 vasos/01 lavatório/1 mict/ chuveiros inclus. Instalação exclusive transporte/carga/descarga",
+      "unidade": "mês",
+      "quantidade": 4.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "SERVIÇOS INICIAIS, SERVIÇOS GERAIS DE CANTEIRO E SUPERVISÃO E CONTROLE (demais serviços necessários a execução das obras deverão ser inclusos nas Despesas Indiretas)",
+      "codigo": "1.1.8",
+      "fonte": "PINI",
+      "descricao": "Mobilização e desmobilização do container",
+      "unidade": "un",
+      "quantidade": 2.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "INFRAESTRUTURA DE CONCRETO ARMADO ( movimento de terra e fundações incluindo escoramentos, travamentos, bota-fora, transporte do material, licenças e taxas do bota-fora e outros necessários para execução dos serviços.",
+      "codigo": "1.2.1",
+      "fonte": "73992/001 SINAPI",
+      "descricao": "Locação convencional da obra, através de gabaritos de tábuas corridas sem reaproveitamento",
+      "unidade": "m²",
+      "quantidade": 115.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "INFRAESTRUTURA DE CONCRETO ARMADO ( movimento de terra e fundações incluindo escoramentos, travamentos, bota-fora, transporte do material, licenças e taxas do bota-fora e outros necessários para execução dos serviços.",
+      "codigo": "1.3.1",
+      "fonte": "72733 SINAPI",
+      "descricao": "Mobilização de desmobilização de equipamento de sondagem a percussão",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "INFRAESTRUTURA DE CONCRETO ARMADO ( movimento de terra e fundações incluindo escoramentos, travamentos, bota-fora, transporte do material, licenças e taxas do bota-fora e outros necessários para execução dos serviços.",
+      "codigo": "1.3.2",
+      "fonte": "72872 SINAPI",
+      "descricao": "Mobilização e instalação de um equipamento de sondagem, distância até 10 km",
+      "unidade": "un",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "INFRAESTRUTURA DE CONCRETO ARMADO ( movimento de terra e fundações incluindo escoramentos, travamentos, bota-fora, transporte do material, licenças e taxas do bota-fora e outros necessários para execução dos serviços.",
+      "codigo": "1.4.1",
+      "fonte": "DATA FOLHA* LS 80%",
+      "descricao": "Engenheiro de campo civil, padrão pleno, com experiência mínima de 5 anos exercendo a função, dedicação parcial",
+      "unidade": "mês",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "INFRAESTRUTURA DE CONCRETO ARMADO ( movimento de terra e fundações incluindo escoramentos, travamentos, bota-fora, transporte do material, licenças e taxas do bota-fora e outros necessários para execução dos serviços.",
+      "codigo": "1.4.2",
+      "fonte": "DATA FOLHA* LS 80%",
+      "descricao": "Técnico de segurança, com experiência mínima de 5 anos exercendo a função e dedicação em tempo integral a obra.",
+      "unidade": "mês",
+      "quantidade": 4.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "INFRAESTRUTURA DE CONCRETO ARMADO ( movimento de terra e fundações incluindo escoramentos, travamentos, bota-fora, transporte do material, licenças e taxas do bota-fora e outros necessários para execução dos serviços.",
+      "codigo": "1.4.3",
+      "fonte": "DATA FOLHA* LS 80%",
+      "descricao": "Mestre de Obras, com experiência mínima de 5 anos exercendo a função e dedicação em tempo integral a obra.",
+      "unidade": "mês",
+      "quantidade": 4.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "INFRAESTRUTURA DE CONCRETO ARMADO ( movimento de terra e fundações incluindo escoramentos, travamentos, bota-fora, transporte do material, licenças e taxas do bota-fora e outros necessários para execução dos serviços.",
+      "codigo": "1.4.4",
+      "fonte": "DATA FOLHA* LS 80%",
+      "descricao": "Almoxarife, com experiência mínima de 02 anos, exercendo a função e dedicação em tempo integral a obra.",
+      "unidade": "mês",
+      "quantidade": 3.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "INFRAESTRUTURA DE CONCRETO ARMADO ( movimento de terra e fundações incluindo escoramentos, travamentos, bota-fora, transporte do material, licenças e taxas do bota-fora e outros necessários para execução dos serviços.",
+      "codigo": "2.1.1",
+      "fonte": "73965 SINAPI",
+      "descricao": "Escavação manual do solo, prof até 1,5 m",
+      "unidade": "m³",
+      "quantidade": 27.84,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "INFRAESTRUTURA DE CONCRETO ARMADO ( movimento de terra e fundações incluindo escoramentos, travamentos, bota-fora, transporte do material, licenças e taxas do bota-fora e outros necessários para execução dos serviços.",
+      "codigo": "2.1.2",
+      "fonte": "74015/001 SINAPI",
+      "descricao": "Reaterro e compactação mecânica de vala com compactador manual",
+      "unidade": "m³",
+      "quantidade": 18.48,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "INFRAESTRUTURA DE CONCRETO ARMADO ( movimento de terra e fundações incluindo escoramentos, travamentos, bota-fora, transporte do material, licenças e taxas do bota-fora e outros necessários para execução dos serviços.",
+      "codigo": "2.1.3",
+      "fonte": "79483",
+      "descricao": "Apiloamento de fundo de vala",
+      "unidade": "m²",
+      "quantidade": 34.23,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "INFRAESTRUTURA DE CONCRETO ARMADO ( movimento de terra e fundações incluindo escoramentos, travamentos, bota-fora, transporte do material, licenças e taxas do bota-fora e outros necessários para execução dos serviços.",
+      "codigo": "2.2.1",
+      "fonte": "120602 CPOS",
+      "descricao": "Estaca tipo strauss- diâmetro de 25 cm até 20t",
+      "unidade": "m",
+      "quantidade": 140.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "INFRAESTRUTURA DE CONCRETO ARMADO ( movimento de terra e fundações incluindo escoramentos, travamentos, bota-fora, transporte do material, licenças e taxas do bota-fora e outros necessários para execução dos serviços.",
+      "codigo": "2.2.2",
+      "fonte": "120601 CPOS",
+      "descricao": "Taxa de mobilização para estaca tipo Strauss",
+      "unidade": "tx",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "INFRAESTRUTURA DE CONCRETO ARMADO ( movimento de terra e fundações incluindo escoramentos, travamentos, bota-fora, transporte do material, licenças e taxas do bota-fora e outros necessários para execução dos serviços.",
+      "codigo": "2.2.3",
+      "fonte": "83532 SINAPI",
+      "descricao": "Lastro de concreto, preparo mecânico",
+      "unidade": "m³",
+      "quantidade": 1.71,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "INFRAESTRUTURA DE CONCRETO ARMADO ( movimento de terra e fundações incluindo escoramentos, travamentos, bota-fora, transporte do material, licenças e taxas do bota-fora e outros necessários para execução dos serviços.",
+      "codigo": "2.2.4",
+      "fonte": "090102 CPOS",
+      "descricao": "Forma em madeira comum para fundação",
+      "unidade": "m²",
+      "quantidade": 44.3,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "INFRAESTRUTURA DE CONCRETO ARMADO ( movimento de terra e fundações incluindo escoramentos, travamentos, bota-fora, transporte do material, licenças e taxas do bota-fora e outros necessários para execução dos serviços.",
+      "codigo": "2.2.5",
+      "fonte": "74254 SINAPI",
+      "descricao": "Armação CA50, 6,3mm a 12,5 mm, fornecimento, corte, dobra e colocação",
+      "unidade": "kg",
+      "quantidade": 565.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "INFRAESTRUTURA DE CONCRETO ARMADO ( movimento de terra e fundações incluindo escoramentos, travamentos, bota-fora, transporte do material, licenças e taxas do bota-fora e outros necessários para execução dos serviços.",
+      "codigo": "2.2.6",
+      "fonte": "110116 CPOS",
+      "descricao": "Concreto usinado, fck = 30,0 Mpa",
+      "unidade": "m³",
+      "quantidade": 8.4,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "INFRAESTRUTURA DE CONCRETO ARMADO ( movimento de terra e fundações incluindo escoramentos, travamentos, bota-fora, transporte do material, licenças e taxas do bota-fora e outros necessários para execução dos serviços.",
+      "codigo": "2.2.7",
+      "fonte": "111604 CPOS",
+      "descricao": "Lançamento e adensamento de concreto ou massa em fundação",
+      "unidade": "m³",
+      "quantidade": 8.4,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "INFRAESTRUTURA DE CONCRETO ARMADO ( movimento de terra e fundações incluindo escoramentos, travamentos, bota-fora, transporte do material, licenças e taxas do bota-fora e outros necessários para execução dos serviços.",
+      "codigo": "2.2.8",
+      "fonte": "02.01.02 SIURB",
+      "descricao": "Broca de concreto, D= 20 cm",
+      "unidade": "m",
+      "quantidade": 12.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "INFRAESTRUTURA DE CONCRETO ARMADO ( movimento de terra e fundações incluindo escoramentos, travamentos, bota-fora, transporte do material, licenças e taxas do bota-fora e outros necessários para execução dos serviços.",
+      "codigo": "2.2.9",
+      "fonte": "03.04.19 SIURB",
+      "descricao": "Laje mista treliçada H=8 cm com capeamento H=4 cm (H=12 cm)",
+      "unidade": "m²",
+      "quantidade": 1.2,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "SUPERESTRUTURA, conforme projeto",
+      "codigo": "3.1.1",
+      "fonte": "03.60.02 SIURB",
+      "descricao": "Fornecimento e montagem de estrutura metálica vertical Patinável",
+      "unidade": "kg",
+      "quantidade": 12878.8,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SUPERESTRUTURA, conforme projeto",
+      "codigo": "3.1.1",
+      "fonte": "090103 CPOS",
+      "descricao": "Forma em madeira comum para estrutura",
+      "unidade": "m²",
+      "quantidade": 182.2,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SUPERESTRUTURA, conforme projeto",
+      "codigo": "3.1.2",
+      "fonte": "74254 SINAPI",
+      "descricao": "Armação CA50, 6,3mm a 12,5 mm, fornecimento, corte, dobra e colocação",
+      "unidade": "kg",
+      "quantidade": 1298.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "SUPERESTRUTURA, conforme projeto",
+      "codigo": "3.1.3",
+      "fonte": "110132 CPOS",
+      "descricao": "Concreto usinado, fck = 30,0 MPa para bombeamento",
+      "unidade": "m³",
+      "quantidade": 16.1,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "SUPERESTRUTURA, conforme projeto",
+      "codigo": "3.1.4",
+      "fonte": "111658 CPOS",
+      "descricao": "Lançamento e adensamento de concreto ou massa por bombeamento",
+      "unidade": "m³",
+      "quantidade": 16.1,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "SUPERESTRUTURA, conforme projeto",
+      "codigo": "3.1.5",
+      "fonte": "03.04.21 SIURB",
+      "descricao": "Laje mista treliçada H=12 cm com capeamento H=4 cm (H=16 cm)",
+      "unidade": "m²",
+      "quantidade": 105.85,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "SUPERESTRUTURA, conforme projeto",
+      "codigo": "3.3.1",
+      "fonte": "COTAÇÃO",
+      "descricao": "Painel Wall 40mm 44,6 m2 - (placas de 1,2x2,5 m)",
+      "unidade": "placa",
+      "quantidade": 8.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "ALVENARIA, VEDAÇÕES, DIVISÓRIAS, (inclusive juntas de dilatação, encunhamento, vergas, contra-vergas, amarrações, armações, andaimes, cantoneiras de alumínio e demais acessórios para a perfeita execução dos serviços)",
+      "codigo": "4.1.1",
+      "fonte": "02.01.01 SIURB",
+      "descricao": "Broca de concreto, D= 20 cm",
+      "unidade": "m",
+      "quantidade": 327.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "ALVENARIA, VEDAÇÕES, DIVISÓRIAS, (inclusive juntas de dilatação, encunhamento, vergas, contra-vergas, amarrações, armações, andaimes, cantoneiras de alumínio e demais acessórios para a perfeita execução dos serviços)",
+      "codigo": "4.1.2",
+      "fonte": "17.01.91 SIURB",
+      "descricao": "Gradil de ferro galvanizado eletrofundido, com pintura",
+      "unidade": "m²",
+      "quantidade": 217.12,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "ALVENARIA, VEDAÇÕES, DIVISÓRIAS, (inclusive juntas de dilatação, encunhamento, vergas, contra-vergas, amarrações, armações, andaimes, cantoneiras de alumínio e demais acessórios para a perfeita execução dos serviços)",
+      "codigo": "4.1.3",
+      "fonte": "17.60.96 SIURB",
+      "descricao": "Retirada de cerca de Tela Galvanizada e respectivos Mourões",
+      "unidade": "m",
+      "quantidade": 108.56,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "ALVENARIA, VEDAÇÕES, DIVISÓRIAS, (inclusive juntas de dilatação, encunhamento, vergas, contra-vergas, amarrações, armações, andaimes, cantoneiras de alumínio e demais acessórios para a perfeita execução dos serviços)",
+      "codigo": "4.1.4",
+      "fonte": "72209 SINAPI",
+      "descricao": "Carga manual e remoção de entulho com transporte até 1Km em caminhão basculante",
+      "unidade": "m³",
+      "quantidade": 32.57,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "ALVENARIA, VEDAÇÕES, DIVISÓRIAS, (inclusive juntas de dilatação, encunhamento, vergas, contra-vergas, amarrações, armações, andaimes, cantoneiras de alumínio e demais acessórios para a perfeita execução dos serviços)",
+      "codigo": "4.1.5",
+      "fonte": "01.01.10 Siurb",
+      "descricao": "Transporte de entulho por caminhão basculante, a partir de 1km",
+      "unidade": "m³xkm",
+      "quantidade": 97.71,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "ALVENARIA, VEDAÇÕES, DIVISÓRIAS, (inclusive juntas de dilatação, encunhamento, vergas, contra-vergas, amarrações, armações, andaimes, cantoneiras de alumínio e demais acessórios para a perfeita execução dos serviços)",
+      "codigo": "4.2.1",
+      "fonte": "143026 CPOS",
+      "descricao": "Divisória em placas de gesso acartonado, resistência ao fogo de 30 minutos,",
+      "unidade": "m²",
+      "quantidade": 75.65,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "ALVENARIA, VEDAÇÕES, DIVISÓRIAS, (inclusive juntas de dilatação, encunhamento, vergas, contra-vergas, amarrações, armações, andaimes, cantoneiras de alumínio e demais acessórios para a perfeita execução dos serviços)",
+      "codigo": "4.2.2",
+      "fonte": "143088 CPOS",
+      "descricao": "Divisória em placas de gesso acartonado, resistência ao fogo de 60 minutos, resistência a umidade",
+      "unidade": "m²",
+      "quantidade": 53.74,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "ALVENARIA, VEDAÇÕES, DIVISÓRIAS, (inclusive juntas de dilatação, encunhamento, vergas, contra-vergas, amarrações, armações, andaimes, cantoneiras de alumínio e demais acessórios para a perfeita execução dos serviços)",
+      "codigo": "4.2.3",
+      "fonte": "76627 SINAPI",
+      "descricao": "Tapa vista - Divisória em granito esp 3cm assentado com argamassa traço 1:4 - cimento e areia, arremate de cimento branco",
+      "unidade": "m²",
+      "quantidade": 0.32,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "ALVENARIA, VEDAÇÕES, DIVISÓRIAS, (inclusive juntas de dilatação, encunhamento, vergas, contra-vergas, amarrações, armações, andaimes, cantoneiras de alumínio e demais acessórios para a perfeita execução dos serviços)",
+      "codigo": "4.2.4",
+      "fonte": "143044 CPOS",
+      "descricao": "Fechamento/divisória em placas duplas de gesso acartonado, resistência ao fogo 60 minutos, espessura total de 12 cm, miolo em la de vidro",
+      "unidade": "m²",
+      "quantidade": 16.28,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "COBERTURA, (incluindo fornecimento, montagem e desmontagem de andaimes, balancim, fachadeiros, furações, encaixes, suportes, estruturas auxiliares de fixação, arremates e demais elementos necessários a perfeita execução dos serviços)",
+      "codigo": "5.1",
+      "fonte": "73867/001 SINAPI",
+      "descricao": "Estrutura metálica, fornecimento e montagem",
+      "unidade": "m²",
+      "quantidade": 106.8,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "COBERTURA, (incluindo fornecimento, montagem e desmontagem de andaimes, balancim, fachadeiros, furações, encaixes, suportes, estruturas auxiliares de fixação, arremates e demais elementos necessários a perfeita execução dos serviços)",
+      "codigo": "5.2",
+      "fonte": "06.02.49 SIURB",
+      "descricao": "Telha trapezoidal dup. Aço galvanizado e=0,5mm, revestimento B, h=40 mm, pintura, miolo poliuretano e=30mm",
+      "unidade": "m²",
+      "quantidade": 106.8,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "COBERTURA, (incluindo fornecimento, montagem e desmontagem de andaimes, balancim, fachadeiros, furações, encaixes, suportes, estruturas auxiliares de fixação, arremates e demais elementos necessários a perfeita execução dos serviços)",
+      "codigo": "5.3",
+      "fonte": "163304 CPOS",
+      "descricao": "Calha, rufo, afins em chapa galvanizada nº 24 - corte 0,50 m",
+      "unidade": "m",
+      "quantidade": 20.9,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "ESQUADRIAS DE MADEIRA/ VIDRO/ METÁLICA",
+      "codigo": "6.1.1",
+      "fonte": "230410 CPOS",
+      "descricao": "Porta em laminado fenólico melamínico com acabamento liso, batente de madeira sem revestimento - 82 x 210 cm",
+      "unidade": "pç",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "ESQUADRIAS DE MADEIRA/ VIDRO/ METÁLICA",
+      "codigo": "6.1.2",
+      "fonte": "230411 CPOS",
+      "descricao": "Porta em laminado fenólico melamínico com acabamento liso, batente de madeira sem revestimento - 92 x 210 cm",
+      "unidade": "pç",
+      "quantidade": 2.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "ESQUADRIAS DE MADEIRA/ VIDRO/ METÁLICA",
+      "codigo": "6.1.3",
+      "fonte": "230414 CPOS",
+      "descricao": "Porta em laminado fenólico melamínico com acabamento liso, batente de madeira sem revestimento - 220 x 210 cm",
+      "unidade": "pç",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "ESQUADRIAS DE MADEIRA/ VIDRO/ METÁLICA",
+      "codigo": "6.2.1.1",
+      "fonte": "PINI",
+      "descricao": "Porta de vidro temperado, duas folhas, com bandeira, com ferragem e mola hidráulica, espessura 10 mm / vão 2000 x 2900 mm",
+      "unidade": "pç",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "ESQUADRIAS DE MADEIRA/ VIDRO/ METÁLICA",
+      "codigo": "6.2.1.3",
+      "fonte": "250221 CPOS",
+      "descricao": "Porta veneziana de abrir em alumínio, sob medida - Porta veneziana com bandeira - 0,90x2,60",
+      "unidade": "m²",
+      "quantidade": 0.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "ESQUADRIAS DE MADEIRA/ VIDRO/ METÁLICA",
+      "codigo": "6.2.1.4",
+      "fonte": "250136 CPOS",
+      "descricao": "Caixilho em alumínio maximar com vidro, cor branco (Caixilho de alumínio anodizado e vidros fixos e maximar 1,00x1,20)",
+      "unidade": "m²",
+      "quantidade": 12.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "ESQUADRIAS DE MADEIRA/ VIDRO/ METÁLICA",
+      "codigo": "6.2.1.5",
+      "fonte": "08-80-51 SIURB",
+      "descricao": "Caixilho em chapa perfurada para ventilação - Alumínio trabalhado - caixilhos e pequenas peças de serralheria",
+      "unidade": "kg",
+      "quantidade": 24.75,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "ESQUADRIAS DE MADEIRA/ VIDRO/ METÁLICA",
+      "codigo": "6.2.1.6",
+      "fonte": "08-80-51 SIURB",
+      "descricao": "Anteparo em chapa perfurada com estrutura Metalon - Alumínio extrudado - Caixilhos e pequenas peças de serralheria",
+      "unidade": "kg",
+      "quantidade": 41.25,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "ESQUADRIAS DE MADEIRA/ VIDRO/ METÁLICA",
+      "codigo": "6.2.1.7",
+      "fonte": "22608 CPOS",
+      "descricao": "Brise metálico, espessura 0,5 mm em chapa microperfurada aluzinc, fixado sobre estrutura auxiliar",
+      "unidade": "m²",
+      "quantidade": 12.47,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "ESQUADRIAS DE MADEIRA/ VIDRO/ METÁLICA",
+      "codigo": "6.2.1.8",
+      "fonte": "09-14-48 SIURB",
+      "descricao": "Grelha com tela para saída do ar quente - Janela para ventilação permanente tipo chicana- inclusive tela",
+      "unidade": "m²",
+      "quantidade": 0.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "ESQUADRIAS DE MADEIRA/ VIDRO/ METÁLICA",
+      "codigo": "6.2.2.1",
+      "fonte": "08.02.53 SIURB",
+      "descricao": "CA.04 Caixilho em alumínio anodizado, fixo, com ventilação permanente",
+      "unidade": "m²",
+      "quantidade": 4.65,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "ESQUADRIAS DE MADEIRA/ VIDRO/ METÁLICA",
+      "codigo": "6.2.2.2",
+      "fonte": "08.02.81 SIURB",
+      "descricao": "EP.11 Tela mosquiteiro em arame galvanizado malha, inclusive requadro",
+      "unidade": "m²",
+      "quantidade": 4.65,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "ESQUADRIAS DE MADEIRA/ VIDRO/ METÁLICA",
+      "codigo": "6.2.2.3",
+      "fonte": "250145 CPOS",
+      "descricao": "Caixilho em alumínio para pele de vidro, tipo fachada",
+      "unidade": "m²",
+      "quantidade": 55.5,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "ESQUADRIAS DE MADEIRA/ VIDRO/ METÁLICA",
+      "codigo": "6.2.2.4",
+      "fonte": "260121 CPOS",
+      "descricao": "Vidro liso laminado incolor de 8 mm",
+      "unidade": "m²",
+      "quantidade": 67.45,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "ESQUADRIAS DE MADEIRA/ VIDRO/ METÁLICA",
+      "codigo": "6.2.2.5",
+      "fonte": "COTAÇÃO",
+      "descricao": "Película da marca Suntek, modelo Ultravision 70\" ou marca 3M, modelo Prestige 70",
+      "unidade": "m²",
+      "quantidade": 61.35,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "ESQUADRIAS DE MADEIRA/ VIDRO/ METÁLICA",
+      "codigo": "6.2.2.6",
+      "fonte": "08.3.20 SIURB",
+      "descricao": "PP.50 - Alçapão em ferro perfilado com chapa",
+      "unidade": "m²",
+      "quantidade": 0.36,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "REVESTIMENTOS DE PAREDES INTERNOS/EXTERNOS (inclusive fornecimento, montagem e desmontagem de andaimes, limpeza e demais acessórios necessários para a perfeita execução dos serviços)",
+      "codigo": "7.1.1",
+      "fonte": "73912/002-SINAPI",
+      "descricao": "Revestimento com cerâmica esmaltada 20x20 cm - 1a, linha padrão alto, assentado com argamassa de cimento colante e rejuntamento com cimento branco",
+      "unidade": "m²",
+      "quantidade": 50.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "REVESTIMENTOS DE PAREDES INTERNOS/EXTERNOS (inclusive fornecimento, montagem e desmontagem de andaimes, limpeza e demais acessórios necessários para a perfeita execução dos serviços)",
+      "codigo": "7.1.2",
+      "fonte": "COTAÇÃO",
+      "descricao": "Placa cimentícia, incluindo todos os materiais e acessórios necessários para a execução dos serviços.",
+      "unidade": "m²",
+      "quantidade": 215.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "REVESTIMENTOS DE PAREDES INTERNOS/EXTERNOS (inclusive fornecimento, montagem e desmontagem de andaimes, limpeza e demais acessórios necessários para a perfeita execução dos serviços)",
+      "codigo": "7.1.3",
+      "fonte": "73833/001 - SINAPI",
+      "descricao": "Isolamento térmico com manta de la de vidro 2,5 m",
+      "unidade": "m²",
+      "quantidade": 81.6,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "REVESTIMENTOS DE TETOS E FORROS (incluindo fornecimento, montagem e desmontagem de andaimes, balancim, fachadeiros, aberturas para luminárias, furações, dutos para grelha, encaixes, suportes, difusores entre outros, estruturas auxiliares de fixação, tabicas metálicas, arremates e demais elementos necessários a perfeita execução dos serviços)",
+      "codigo": "8.1",
+      "fonte": "12.1.43 SIURB",
+      "descricao": "Forro de gesso acartonado tipo FGE - Fornecimento e instalação",
+      "unidade": "m²",
+      "quantidade": 14.2,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "REVESTIMENTOS DE TETOS E FORROS (incluindo fornecimento, montagem e desmontagem de andaimes, balancim, fachadeiros, aberturas para luminárias, furações, dutos para grelha, encaixes, suportes, difusores entre outros, estruturas auxiliares de fixação, tabicas metálicas, arremates e demais elementos necessários a perfeita execução dos serviços)",
+      "codigo": "8.2",
+      "fonte": "220314 CPOS",
+      "descricao": "Forro em fibra mineral com placas acústicas removíveis de 625 x 625mm",
+      "unidade": "m²",
+      "quantidade": 87.4,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "REVESTIMENTOS DE TETOS E FORROS (incluindo fornecimento, montagem e desmontagem de andaimes, balancim, fachadeiros, aberturas para luminárias, furações, dutos para grelha, encaixes, suportes, difusores entre outros, estruturas auxiliares de fixação, tabicas metálicas, arremates e demais elementos necessários a perfeita execução dos serviços)",
+      "codigo": "8.3",
+      "fonte": "220307 CPOS",
+      "descricao": "Forro em lâmina de PVC",
+      "unidade": "m²",
+      "quantidade": 13.4,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "REVESTIMENTOS DE TETOS E FORROS (incluindo fornecimento, montagem e desmontagem de andaimes, balancim, fachadeiros, aberturas para luminárias, furações, dutos para grelha, encaixes, suportes, difusores entre outros, estruturas auxiliares de fixação, tabicas metálicas, arremates e demais elementos necessários a perfeita execução dos serviços)",
+      "codigo": "8.4",
+      "fonte": "222009 CPOS",
+      "descricao": "Abertura para vão de luminária em forro de PVC modular",
+      "unidade": "un",
+      "quantidade": 3.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "CONTRAPISOS, PISOS, DEGRAUS, RODAPÉS E SOLEIRAS - INTERNOS/EXTERNOS, inclusive preparação de base, regularizações, juntas de dilatação e movimentação e demais serviços para a perfeita colocação dos revestimentos",
+      "codigo": "9.1.1",
+      "fonte": "74078/007 SINAPI",
+      "descricao": "Lastro de concreto, espessura 3 cm com impermeabilizante",
+      "unidade": "m²",
+      "quantidade": 115.25,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "CONTRAPISOS, PISOS, DEGRAUS, RODAPÉS E SOLEIRAS - INTERNOS/EXTERNOS, inclusive preparação de base, regularizações, juntas de dilatação e movimentação e demais serviços para a perfeita colocação dos revestimentos",
+      "codigo": "9.1.2",
+      "fonte": "72183 SINAPI",
+      "descricao": "Piso em concreto, 20 Mpa, preparo mecânico, espessura 7cm com armação e tela soldada",
+      "unidade": "m²",
+      "quantidade": 115.25,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "CONTRAPISOS, PISOS, DEGRAUS, RODAPÉS E SOLEIRAS - INTERNOS/EXTERNOS, inclusive preparação de base, regularizações, juntas de dilatação e movimentação e demais serviços para a perfeita colocação dos revestimentos",
+      "codigo": "9.2.1",
+      "fonte": "84190 SINAPI",
+      "descricao": "Piso em granito assentado sobre argamassa de cimento, cal, areia - traço 1:0, 25:3, inclusive rejunte",
+      "unidade": "m²",
+      "quantidade": 115.25,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "CONTRAPISOS, PISOS, DEGRAUS, RODAPÉS E SOLEIRAS - INTERNOS/EXTERNOS, inclusive preparação de base, regularizações, juntas de dilatação e movimentação e demais serviços para a perfeita colocação dos revestimentos",
+      "codigo": "9.2.2",
+      "fonte": "190132 CPOS",
+      "descricao": "Rodapé em granito com altura de 7,1 a 10 cm",
+      "unidade": "m",
+      "quantidade": 78.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "CONTRAPISOS, PISOS, DEGRAUS, RODAPÉS E SOLEIRAS - INTERNOS/EXTERNOS, inclusive preparação de base, regularizações, juntas de dilatação e movimentação e demais serviços para a perfeita colocação dos revestimentos",
+      "codigo": "9.2.3",
+      "fonte": "190139 CPOS",
+      "descricao": "Peitoril e/ou soleira em granito, espessura de 2 cm e largura de 21 até 30 cm",
+      "unidade": "m",
+      "quantidade": 7.4,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "CONTRAPISOS, PISOS, DEGRAUS, RODAPÉS E SOLEIRAS - INTERNOS/EXTERNOS, inclusive preparação de base, regularizações, juntas de dilatação e movimentação e demais serviços para a perfeita colocação dos revestimentos",
+      "codigo": "9.2.4",
+      "fonte": "17.02.61 SIURB",
+      "descricao": "Pavimentação em blocos de concreto, espessura de 8cm, assentados sobre colchão de areia",
+      "unidade": "m²",
+      "quantidade": 223.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "CONTRAPISOS, PISOS, DEGRAUS, RODAPÉS E SOLEIRAS - INTERNOS/EXTERNOS, inclusive preparação de base, regularizações, juntas de dilatação e movimentação e demais serviços para a perfeita colocação dos revestimentos",
+      "codigo": "9.2.5",
+      "fonte": "13.02.47 SIURB",
+      "descricao": "Piso podotátil, alerta ou direcional, em ladrilho hidráulico",
+      "unidade": "m²",
+      "quantidade": 0.56,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "CONTRAPISOS, PISOS, DEGRAUS, RODAPÉS E SOLEIRAS - INTERNOS/EXTERNOS, inclusive preparação de base, regularizações, juntas de dilatação e movimentação e demais serviços para a perfeita colocação dos revestimentos",
+      "codigo": "9.2.6",
+      "fonte": "13.02.29 SIURB",
+      "descricao": "Pedrisco- fornecimento e espalhamento com compactação mecânica",
+      "unidade": "m³",
+      "quantidade": 43.35,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "PINTURA E TRATAMENTO, incluindo montagem e desmontagem de andaimes, preparo de base, lixamento, tratamentos, limpeza e demais serviços necessários a perfeita execução dos serviços",
+      "codigo": "10.1",
+      "fonte": "73954/001 SINAPI",
+      "descricao": "Pintura látex acrílica - três demãos",
+      "unidade": "m²",
+      "quantidade": 466.6,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "PINTURA E TRATAMENTO, incluindo montagem e desmontagem de andaimes, preparo de base, lixamento, tratamentos, limpeza e demais serviços necessários a perfeita execução dos serviços",
+      "codigo": "10.2",
+      "fonte": "6067 SINAPI",
+      "descricao": "Pintura esmalte em esquadrias metálicas 02 demãos inclusive proteção",
+      "unidade": "m²",
+      "quantidade": 135.2,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "PINTURA E TRATAMENTO, incluindo montagem e desmontagem de andaimes, preparo de base, lixamento, tratamentos, limpeza e demais serviços necessários a perfeita execução dos serviços",
+      "codigo": "10.3",
+      "fonte": "15.03.04 SIURB",
+      "descricao": "Tinta betuminosa interior calhas e rufos",
+      "unidade": "m",
+      "quantidade": 20.9,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "PINTURA E TRATAMENTO, incluindo montagem e desmontagem de andaimes, preparo de base, lixamento, tratamentos, limpeza e demais serviços necessários a perfeita execução dos serviços",
+      "codigo": "10.4",
+      "fonte": "15.03.34 SIURB",
+      "descricao": "Tinta grafite - exterior de calhas e rufos",
+      "unidade": "m",
+      "quantidade": 20.9,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "PINTURA E TRATAMENTO, incluindo montagem e desmontagem de andaimes, preparo de base, lixamento, tratamentos, limpeza e demais serviços necessários a perfeita execução dos serviços",
+      "codigo": "10.5",
+      "fonte": "330902 CPOS",
+      "descricao": "Borracha clorada para faixas demarcatórias",
+      "unidade": "m",
+      "quantidade": 108.1,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "PINTURA E TRATAMENTO, incluindo montagem e desmontagem de andaimes, preparo de base, lixamento, tratamentos, limpeza e demais serviços necessários a perfeita execução dos serviços",
+      "codigo": "10.6",
+      "fonte": "17.80.34 SIURB",
+      "descricao": "Esmalte Sintético - Repintura de Esquadrias Metálicas",
+      "unidade": "m²",
+      "quantidade": 4.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "Instalações hidráulicas, esgoto e pluviais, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas vigentes e da segurança, que deverão ter seus custos incluídos nos itens apontados nesta planilha)",
+      "codigo": "11.1",
+      "fonte": "450102 CPOS",
+      "descricao": "Entrada completa de água com abrigo e registro de gaveta, DN= 3/4",
+      "unidade": "cj",
+      "quantidade": 1.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "Instalações hidráulicas, esgoto e pluviais, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas vigentes e da segurança, que deverão ter seus custos incluídos nos itens apontados nesta planilha)",
+      "codigo": "11.2",
+      "fonte": "74124/008- SINAPI",
+      "descricao": "Poço de visita - águas pluviais em concreto armado",
+      "unidade": "cj",
+      "quantidade": 2.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "Instalações hidráulicas, esgoto e pluviais, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas vigentes e da segurança, que deverão ter seus custos incluídos nos itens apontados nesta planilha)",
+      "codigo": "11.3.1",
+      "fonte": "10.10.94 SIURB",
+      "descricao": "Caixa de ligação ou inspeção escavação e apiloamento",
+      "unidade": "m³",
+      "quantidade": 2.8,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "Instalações hidráulicas, esgoto e pluviais, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas vigentes e da segurança, que deverão ter seus custos incluídos nos itens apontados nesta planilha)",
+      "codigo": "11.3.2",
+      "fonte": "10.10.95 SIURB",
+      "descricao": "Caixa de ligação ou inspeção - Lastro de concreto (fundo)",
+      "unidade": "m³",
+      "quantidade": 0.25,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "Instalações hidráulicas, esgoto e pluviais, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas vigentes e da segurança, que deverão ter seus custos incluídos nos itens apontados nesta planilha)",
+      "codigo": "11.3.3",
+      "fonte": "10.10.97 SIURB",
+      "descricao": "Caixa de ligação ou inspeção - Alvenaria de 1 tijolo, revestida",
+      "unidade": "m²",
+      "quantidade": 9.3,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "Instalações hidráulicas, esgoto e pluviais, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas vigentes e da segurança, que deverão ter seus custos incluídos nos itens apontados nesta planilha)",
+      "codigo": "11.3.4",
+      "fonte": "10.10.98 SIURB",
+      "descricao": "Caixa de ligação ou inspeção - Tampa de concreto",
+      "unidade": "m²",
+      "quantidade": 4.25,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "Instalações hidráulicas, esgoto e pluviais, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas vigentes e da segurança, que deverão ter seus custos incluídos nos itens apontados nesta planilha)",
+      "codigo": "11.3.5",
+      "fonte": "7405/001 SINAPI",
+      "descricao": "Caixa de gordura em concreto com tampa e instalação",
+      "unidade": "pç",
+      "quantidade": 1.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "Instalações hidráulicas, esgoto e pluviais, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas vigentes e da segurança, que deverão ter seus custos incluídos nos itens apontados nesta planilha)",
+      "codigo": "11.4.1",
+      "fonte": "470202 CPOS",
+      "descricao": "Registro de gaveta em latão fundido cromado com canopla, DN= 3/4' - linha especial",
+      "unidade": "un",
+      "quantidade": 6.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "Instalações hidráulicas, esgoto e pluviais, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas vigentes e da segurança, que deverão ter seus custos incluídos nos itens apontados nesta planilha)",
+      "codigo": "11.4.2",
+      "fonte": "470102 CPOS",
+      "descricao": "Registro de gaveta em latão fundido sem acabamento, DN= 3/4'",
+      "unidade": "un",
+      "quantidade": 6.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "Instalações hidráulicas, esgoto e pluviais, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas vigentes e da segurança, que deverão ter seus custos incluídos nos itens apontados nesta planilha)",
+      "codigo": "11.4.3",
+      "fonte": "470103 CPOS",
+      "descricao": "Registro de gaveta em latão fundido sem acabamento, DN= 1",
+      "unidade": "un",
+      "quantidade": 2.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "Instalações hidráulicas, esgoto e pluviais, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas vigentes e da segurança, que deverão ter seus custos incluídos nos itens apontados nesta planilha)",
+      "codigo": "11.4.4",
+      "fonte": "4701051 CPOS",
+      "descricao": "Registro de gaveta em latão fundido sem acabamento, DN= 1 1/2'",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "Instalações hidráulicas, esgoto e pluviais, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas vigentes e da segurança, que deverão ter seus custos incluídos nos itens apontados nesta planilha)",
+      "codigo": "11.4.5",
+      "fonte": "480501 CPOS",
+      "descricao": "Torneira de bóia, DN= 3/4",
+      "unidade": "un",
+      "quantidade": 3.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "Instalações hidráulicas, esgoto e pluviais, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas vigentes e da segurança, que deverão ter seus custos incluídos nos itens apontados nesta planilha)",
+      "codigo": "11.5.1",
+      "fonte": "73775/001-SINAPI",
+      "descricao": "Extintor de água pressurizada 10l inclusive suporte",
+      "unidade": "cj",
+      "quantidade": 2.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "Instalações hidráulicas, esgoto e pluviais, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas vigentes e da segurança, que deverão ter seus custos incluídos nos itens apontados nesta planilha)",
+      "codigo": "11.5.2",
+      "fonte": "73775/002 - SINAPI",
+      "descricao": "Extintor de pó químico 4kg inclusive suporte",
+      "unidade": "cj",
+      "quantidade": 2.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "Instalações hidráulicas, esgoto e pluviais, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas vigentes e da segurança, que deverão ter seus custos incluídos nos itens apontados nesta planilha)",
+      "codigo": "1.1.6.1",
+      "fonte": "460102 CPOS",
+      "descricao": "Tubo de PVC rígido, (3/4\"), inclusive conexões",
+      "unidade": "m",
+      "quantidade": 123.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "Instalações hidráulicas, esgoto e pluviais, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas vigentes e da segurança, que deverão ter seus custos incluídos nos itens apontados nesta planilha)",
+      "codigo": "1.1.6.2",
+      "fonte": "460103 CPOS",
+      "descricao": "Tubo de PVC rígido, (1\"), inclusive conexões",
+      "unidade": "m",
+      "quantidade": 4.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "Instalações hidráulicas, esgoto e pluviais, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas vigentes e da segurança, que deverão ter seus custos incluídos nos itens apontados nesta planilha)",
+      "codigo": "1.1.6.3",
+      "fonte": "460105 CPOS",
+      "descricao": "Tubo de PVC rígido, (1 1/2\"), inclusive conexões",
+      "unidade": "m",
+      "quantidade": 4.0,
+      "pagina_pdf": 8,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "Tubos de PVC rígido, reforçado, série \"R\", do tipo soldável, de acordo com a NBR 5688, incluindo todas as conexões em PVC rígido soldável, solução limpadora para PVC, adesivo para tubo de PVC, pintura, suportes compatíveis com o peso a ser suportado e demais acessórios necessários a funcionalidade do sistema.",
+      "codigo": "11.7.1",
+      "fonte": "460305 CPOS",
+      "descricao": "Tubo de PVC rígido série R, tipo PxB com anel de borracha, DN= 100 mm, inclusive conexões",
+      "unidade": "m",
+      "quantidade": 8.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "Tubos de PVC rígido, reforçado, série \"R\", do tipo soldável, de acordo com a NBR 5688, incluindo todas as conexões em PVC rígido soldável, solução limpadora para PVC, adesivo para tubo de PVC, pintura, suportes compatíveis com o peso a ser suportado e demais acessórios necessários a funcionalidade do sistema.",
+      "codigo": "11.7.2",
+      "fonte": "460308 CPOS",
+      "descricao": "Tubo de PVC rígido série R, ponta lisa, DN= 40 mm, inclusive conexões",
+      "unidade": "m",
+      "quantidade": 6.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "Tubos de PVC rígido, reforçado, série \"R\", do tipo soldável, de acordo com a NBR 5688, incluindo todas as conexões em PVC rígido soldável, solução limpadora para PVC, adesivo para tubo de PVC, pintura, suportes compatíveis com o peso a ser suportado e demais acessórios necessários a funcionalidade do sistema.",
+      "codigo": "11.7.3",
+      "fonte": "460309 CPOS",
+      "descricao": "Tubo de PVC rígido série R, tipo PxB com anel de borracha, DN= 50 mm, inclusive conexões",
+      "unidade": "m",
+      "quantidade": 10.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "Tubos de PVC rígido, reforçado, série \"R\", do tipo soldável, de acordo com a NBR 5688, incluindo todas as conexões em PVC rígido soldável, solução limpadora para PVC, adesivo para tubo de PVC, pintura, suportes compatíveis com o peso a ser suportado e demais acessórios necessários a funcionalidade do sistema.",
+      "codigo": "11.7.4",
+      "fonte": "460304 CPOS",
+      "descricao": "Tubo de PVC rígido série R, tipo PxB com anel de borracha, DN= 75 mm, inclusive conexões",
+      "unidade": "m",
+      "quantidade": 15.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "Ralos de PVC, incluindo todas as conexões, anel e grelhas com dispositivo de fechamento, suportes compatíveis com 0 peso a ser suportado e demais acessórios necessários a funcionalidade do sistema.",
+      "codigo": "11.8.1",
+      "fonte": "40777 SINAPI",
+      "descricao": "Caixa sifonada PVC com grelha",
+      "unidade": "pç",
+      "quantidade": 3.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "Ralos de PVC, incluindo todas as conexões, anel e grelhas com dispositivo de fechamento, suportes compatíveis com 0 peso a ser suportado e demais acessórios necessários a funcionalidade do sistema.",
+      "codigo": "11.10.1",
+      "fonte": "10.02.13 SIURB",
+      "descricao": "Caixa d'água de polietileno 1000 litros",
+      "unidade": "cjto",
+      "quantidade": 3.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "Ralos de PVC, incluindo todas as conexões, anel e grelhas com dispositivo de fechamento, suportes compatíveis com 0 peso a ser suportado e demais acessórios necessários a funcionalidade do sistema.",
+      "codigo": "11.10.2",
+      "fonte": "490601 CPOS",
+      "descricao": "Grelha hemisférica em ferro fundido de 4'",
+      "unidade": "un",
+      "quantidade": 2.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "Ralos de PVC, incluindo todas as conexões, anel e grelhas com dispositivo de fechamento, suportes compatíveis com 0 peso a ser suportado e demais acessórios necessários a funcionalidade do sistema.",
+      "codigo": "11.10.3",
+      "fonte": "10.09.12 SIURB",
+      "descricao": "Tubo de ferro fundido para esgoto, LINHA SMU 100MM",
+      "unidade": "m",
+      "quantidade": 10.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "Ralos de PVC, incluindo todas as conexões, anel e grelhas com dispositivo de fechamento, suportes compatíveis com 0 peso a ser suportado e demais acessórios necessários a funcionalidade do sistema.",
+      "codigo": "11.10.4",
+      "fonte": "431132 CPOS",
+      "descricao": "Conjunto motor-bomba submersível vertical para esgoto, Q= 4,8 a 25,8 m³/h, Hmam 19 a 5 mca, potência 1 cv, diâmetro de sólidos até 20 mm",
+      "unidade": "un",
+      "quantidade": 2.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "Ralos de PVC, incluindo todas as conexões, anel e grelhas com dispositivo de fechamento, suportes compatíveis com 0 peso a ser suportado e demais acessórios necessários a funcionalidade do sistema.",
+      "codigo": "11.10.5",
+      "fonte": "431137 CPOS",
+      "descricao": "Conjunto motor-bomba submersível vertical para águas residuais, Q= 3 a 20 m³/h, Hman= 13 a 5 mca, potência de 1 cv",
+      "unidade": "un",
+      "quantidade": 2.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "Ralos de PVC, incluindo todas as conexões, anel e grelhas com dispositivo de fechamento, suportes compatíveis com 0 peso a ser suportado e demais acessórios necessários a funcionalidade do sistema.",
+      "codigo": "11.10.6",
+      "fonte": "10.03.75 SIURB",
+      "descricao": "Válvula de Retenção Vertical- 2\"",
+      "unidade": "un",
+      "quantidade": 2.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "Ralos de PVC, incluindo todas as conexões, anel e grelhas com dispositivo de fechamento, suportes compatíveis com 0 peso a ser suportado e demais acessórios necessários a funcionalidade do sistema.",
+      "codigo": "11.10.7",
+      "fonte": "10.03.77 SIURB",
+      "descricao": "Válvula de Retenção Vertical- 3\"",
+      "unidade": "un",
+      "quantidade": 2.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "Ralos de PVC, incluindo todas as conexões, anel e grelhas com dispositivo de fechamento, suportes compatíveis com 0 peso a ser suportado e demais acessórios necessários a funcionalidade do sistema.",
+      "codigo": "11.10.8",
+      "fonte": "10.05.06 SIURB",
+      "descricao": "Registro de Gaveta, metal amarelo - 2\"",
+      "unidade": "un",
+      "quantidade": 2.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "Ralos de PVC, incluindo todas as conexões, anel e grelhas com dispositivo de fechamento, suportes compatíveis com 0 peso a ser suportado e demais acessórios necessários a funcionalidade do sistema.",
+      "codigo": "11.10.9",
+      "fonte": "10.05.08 SIURB",
+      "descricao": "Registro de Gaveta, metal amarelo - 3\"",
+      "unidade": "un",
+      "quantidade": 2.0,
+      "pagina_pdf": 9,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra especializada, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas e de Segurança vigentes)",
+      "codigo": "12.1.1",
+      "fonte": "411443 CPOS",
+      "descricao": "Luminária fluorescente quadrada de embutir com aletas com pintura branca",
+      "unidade": "cj",
+      "quantidade": 15.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra especializada, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas e de Segurança vigentes)",
+      "codigo": "12.1.2",
+      "fonte": "09.09.25 SIURB",
+      "descricao": "Luminária para 01 lâmpada fluorescente compacta 30w",
+      "unidade": "cj",
+      "quantidade": 4.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra especializada, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas e de Segurança vigentes)",
+      "codigo": "12.1.3.1",
+      "fonte": "09.10.23 SIURB",
+      "descricao": "Luminária de emergência autônoma com lâmpada fluorescente",
+      "unidade": "cj",
+      "quantidade": 4.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra especializada, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas e de Segurança vigentes)",
+      "codigo": "12.1.4",
+      "fonte": "COTAÇÃO",
+      "descricao": "Luminária de embutir no piso com 01 lâmpada de vapor metálico 70W",
+      "unidade": "cj",
+      "quantidade": 1.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra especializada, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas e de Segurança vigentes)",
+      "codigo": "12.1.5",
+      "fonte": "09.09.42-SIURB",
+      "descricao": "Luminária blindada em alumínio fundido tipo tartaruga até 200W",
+      "unidade": "cj",
+      "quantidade": 3.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra especializada, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas e de Segurança vigentes)",
+      "codigo": "12.1.6",
+      "fonte": "411432 CPOS",
+      "descricao": "Luminária tipo Spot orientável retangular para 1 lâmpada de vapor metálico de 70/150W",
+      "unidade": "cj",
+      "quantidade": 3.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra especializada, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas e de Segurança vigentes)",
+      "codigo": "12.1.7.1",
+      "fonte": "410744 CPOS",
+      "descricao": "Lâmpada fluorescente compacta",
+      "unidade": "un",
+      "quantidade": 4.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra especializada, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas e de Segurança vigentes)",
+      "codigo": "12.1.7.2",
+      "fonte": "410703 CPOS",
+      "descricao": "Lâmpada fluorescente para luminária quadrada 16W",
+      "unidade": "un",
+      "quantidade": 60.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra especializada, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas e de Segurança vigentes)",
+      "codigo": "12.1.7.3",
+      "fonte": "410842 CPOS",
+      "descricao": "Reator eletromagnético de alto fator de potência, para lâmpada vapor metálico 70 W / 220 V",
+      "unidade": "un",
+      "quantidade": 4.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra especializada, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas e de Segurança vigentes)",
+      "codigo": "12.1.7.4",
+      "fonte": "410972 CPOS",
+      "descricao": "Reator eletrônico de alto fator de potência com partida instantânea, para duas lâmpadas fluorescentes tubulares, base bipino bilateral, 16 W - 127 V / 220 V",
+      "unidade": "un",
+      "quantidade": 30.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra especializada, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas e de Segurança vigentes)",
+      "codigo": "12.1.7.5",
+      "fonte": "COTAÇÃO",
+      "descricao": "Lâmpada PL 45 W",
+      "unidade": "un",
+      "quantidade": 10.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra especializada, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas e de Segurança vigentes)",
+      "codigo": "12.1.8",
+      "fonte": "COTAÇÃO",
+      "descricao": "Mangueira de Led",
+      "unidade": "m",
+      "quantidade": 100.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra especializada, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas e de Segurança vigentes)",
+      "codigo": "12.1.9",
+      "fonte": "COTAÇÃO",
+      "descricao": "Poste metálico reto, h=2,5 m para duas lâmpadas PL 45 W",
+      "unidade": "cj",
+      "quantidade": 5.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra especializada, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas e de Segurança vigentes)",
+      "codigo": "12.2.1",
+      "fonte": "380106 CPOS",
+      "descricao": "Eletroduto de PVC rígido roscável de 1' com acessórios",
+      "unidade": "m",
+      "quantidade": 60.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra especializada, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas e de Segurança vigentes)",
+      "codigo": "12.2.2",
+      "fonte": "380104 CPOS",
+      "descricao": "Eletroduto de PVC rígido roscável de 3/4' com acessórios",
+      "unidade": "m",
+      "quantidade": 289.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra especializada, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas e de Segurança vigentes)",
+      "codigo": "12.2.3",
+      "fonte": "380108 CPOS",
+      "descricao": "Eletroduto de PVC rígido roscável de 1 1/4' com acessórios",
+      "unidade": "m",
+      "quantidade": 6.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra especializada, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas e de Segurança vigentes)",
+      "codigo": "12.2.4",
+      "fonte": "09.02.11 SIURB",
+      "descricao": "Eletroduto de ferro galvanizado de 3/4\" com acessórios",
+      "unidade": "m",
+      "quantidade": 186.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra especializada, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas e de Segurança vigentes)",
+      "codigo": "12.2.5",
+      "fonte": "09.02.12 SIURB",
+      "descricao": "Eletroduto de ferro galvanizado de 1\" com acessórios",
+      "unidade": "m",
+      "quantidade": 15.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra especializada, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas e de Segurança vigentes)",
+      "codigo": "12.2.6.1",
+      "fonte": "400508 CPOS",
+      "descricao": "Interruptor simples",
+      "unidade": "cj",
+      "quantidade": 7.0,
+      "pagina_pdf": 10,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra especializada, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas e de Segurança vigentes)",
+      "codigo": "12.2.6.2",
+      "fonte": "400517 CPOS",
+      "descricao": "Interruptor bipolar",
+      "unidade": "cj",
+      "quantidade": 6.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra especializada, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas e de Segurança vigentes)",
+      "codigo": "12.2.6.3",
+      "fonte": "400701 CPOS",
+      "descricao": "Caixa em PVC de 4\" x 2\"",
+      "unidade": "pç",
+      "quantidade": 7.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra especializada, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas e de Segurança vigentes)",
+      "codigo": "12.2.6.4",
+      "fonte": "402014 CPOS",
+      "descricao": "Placa de 4\" x 2\"",
+      "unidade": "pç",
+      "quantidade": 7.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra especializada, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas e de Segurança vigentes)",
+      "codigo": "12.2.6.5",
+      "fonte": "83566 SINAPI",
+      "descricao": "Tomada de embutir 2P+T de 20 A - 250 V, com placa - Fornecimento e instalação",
+      "unidade": "cj",
+      "quantidade": 31.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra especializada, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas e de Segurança vigentes)",
+      "codigo": "12.2.6.6",
+      "fonte": "400244 CPOS",
+      "descricao": "Caixa de passagem de alumínio 15x15x10 com tampa - piso",
+      "unidade": "cj",
+      "quantidade": 5.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra especializada, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas e de Segurança vigentes)",
+      "codigo": "12.2.6.7",
+      "fonte": "833760 CPOS",
+      "descricao": "Caixa/Quadro de distribuição de telefone - 40x40x12",
+      "unidade": "cj",
+      "quantidade": 2.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra especializada, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas e de Segurança vigentes)",
+      "codigo": "12.2.6.8",
+      "fonte": "833760 CPOS",
+      "descricao": "Quadro de Lógica -40x40x12",
+      "unidade": "cj",
+      "quantidade": 1.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra especializada, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas e de Segurança vigentes)",
+      "codigo": "12.2.6.9",
+      "fonte": "400206 CPOS",
+      "descricao": "Caixa - 20x20x12 para CFTV",
+      "unidade": "cj",
+      "quantidade": 1.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra especializada, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas e de Segurança vigentes)",
+      "codigo": "12.2.6.10",
+      "fonte": "400702 CPOS",
+      "descricao": "Caixa 4x4x2",
+      "unidade": "cj",
+      "quantidade": 34.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra especializada, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas e de Segurança vigentes)",
+      "codigo": "12.2.6.11",
+      "fonte": "420538 CPOS",
+      "descricao": "Caixa de equipotencialização 20x20 h=20 cm, com barramento para 06 terminais, Caixa de equalização de embutir, em aço com barramento, de 200 x 200 mm e tampa",
+      "unidade": "cj",
+      "quantidade": 1.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra especializada, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas e de Segurança vigentes)",
+      "codigo": "12.2.6.12",
+      "fonte": "381603 CPOS",
+      "descricao": "Rodapé técnico triplo e tampa com pintura eletrostática",
+      "unidade": "m",
+      "quantidade": 20.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra especializada, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas e de Segurança vigentes)",
+      "codigo": "12.2.6.13",
+      "fonte": "09.05.29 SIURB",
+      "descricao": "Condulete de alumínio com tampa - 3/4\"",
+      "unidade": "un",
+      "quantidade": 8.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra especializada, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas e de Segurança vigentes)",
+      "codigo": "12.2.6.14",
+      "fonte": "09.84.45 SIURB",
+      "descricao": "Caixa de tomada para perfilado",
+      "unidade": "un",
+      "quantidade": 6.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra especializada, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas e de Segurança vigentes)",
+      "codigo": "12.2.6.15",
+      "fonte": "09.13.07 SIURB",
+      "descricao": "Perfilado perfurado 38x38 mm com tampa com acessórios",
+      "unidade": "m",
+      "quantidade": 72.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra especializada, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas e de Segurança vigentes)",
+      "codigo": "12.2.6.16",
+      "fonte": "10.03.90 SIURB",
+      "descricao": "Chave de bóia",
+      "unidade": "un",
+      "quantidade": 4.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra especializada, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas e de Segurança vigentes)",
+      "codigo": "12.2.6.17",
+      "fonte": "09.01.53 SIURB",
+      "descricao": "Entrada aérea de energia e telefone - 6 a 12 KVA",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra especializada, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas e de Segurança vigentes)",
+      "codigo": "12.2.6.18",
+      "fonte": "09.17.01 SIURB",
+      "descricao": "Dispositivo de proteção contra surtos 40 kA",
+      "unidade": "un",
+      "quantidade": 4.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra especializada, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas e de Segurança vigentes)",
+      "codigo": "12.3.1",
+      "fonte": "83417 SINAPI",
+      "descricao": "Cabo de cobre isolamento termoplástico 0,6/1KVA 2,5mm2 antichama, Fornecimento e instalação",
+      "unidade": "m",
+      "quantidade": 1900.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra especializada, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas e de Segurança vigentes)",
+      "codigo": "12.3.2",
+      "fonte": "83418 SINAPI",
+      "descricao": "Cabo de cobre isolamento termoplástico 0,6/1KVA 4mm2 antichama, Fornecimento e instalação",
+      "unidade": "m",
+      "quantidade": 280.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra especializada, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas e de Segurança vigentes)",
+      "codigo": "12.3.3",
+      "fonte": "83420 SINAPI",
+      "descricao": "Cabo de cobre isolamento termoplástico 0,6/1KVA 10mm2 antichama, Fornecimento e instalação",
+      "unidade": "m",
+      "quantidade": 10.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra especializada, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas e de Segurança vigentes)",
+      "codigo": "12.3.4",
+      "fonte": "09.03.31 SIURB",
+      "descricao": "Cabo de cobre isolamento termoplástico 0,6/1KVA 6mm2 antichama, Fornecimento e instalação",
+      "unidade": "m",
+      "quantidade": 140.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra especializada, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas e de Segurança vigentes)",
+      "codigo": "12.3.5",
+      "fonte": "83421 SINAPI",
+      "descricao": "Cabo de cobre isolamento termoplástico 0,6/1KVA 16mm2 antichama, Fornecimento e instalação",
+      "unidade": "m",
+      "quantidade": 30.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS, (incluindo todos os materiais, equipamentos, instrumentos e mão-de-obra especializada, detalhados ou não nos projetos, memoriais e nesta planilha, mas necessários à perfeita execução, funcionamento e operação do sistema, dentro das Normas Técnicas e de Segurança vigentes)",
+      "codigo": "12.3.6",
+      "fonte": "09.03.28 SIURB",
+      "descricao": "Cabo de cobre isolamento termoplástico 0,6/1KVA 1,5mm2 antichama, Fornecimento e instalação",
+      "unidade": "m",
+      "quantidade": 120.0,
+      "pagina_pdf": 11,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "Quadros de distribuição, conforme NBR 6808, incluindo chaves seccionadora, \"DPS\", disjuntores, barramentos, contatoras, réguas de bornes, fios e cabos, medidor digital, montados em trilhos de engate rápido de 35mm, conforme DIN 50022, com placa de montagem em seu fundo, dimensionados à perfeita ventilação dos componentes elétricos, grau de proteção conforme indicado em projetos, deverão também possuir espaço reserva de no mínimo 20% do total dos circuitos, conter documentação e identificação, sinalização, porta espelho, elementos de manobra e proteção, pintura e todos os demais acessórios necessários. a funcionalidade do sistema",
+      "codigo": "12.4.2",
+      "fonte": "09.05.14 SIURB",
+      "descricao": "Quadro de distribuição em chapa metálica - para até 34 disjuntores",
+      "unidade": "cj",
+      "quantidade": 1.0,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "Quadros de distribuição, conforme NBR 6808, incluindo chaves seccionadora, \"DPS\", disjuntores, barramentos, contatoras, réguas de bornes, fios e cabos, medidor digital, montados em trilhos de engate rápido de 35mm, conforme DIN 50022, com placa de montagem em seu fundo, dimensionados à perfeita ventilação dos componentes elétricos, grau de proteção conforme indicado em projetos, deverão também possuir espaço reserva de no mínimo 20% do total dos circuitos, conter documentação e identificação, sinalização, porta espelho, elementos de manobra e proteção, pintura e todos os demais acessórios necessários. a funcionalidade do sistema",
+      "codigo": "12.4.4",
+      "fonte": "37.13.60 SIURB",
+      "descricao": "Disjuntor termomagnético, unipolar 127/220 V, corrente de 10 A até 30 A",
+      "unidade": "un",
+      "quantidade": 16.0,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "Quadros de distribuição, conforme NBR 6808, incluindo chaves seccionadora, \"DPS\", disjuntores, barramentos, contatoras, réguas de bornes, fios e cabos, medidor digital, montados em trilhos de engate rápido de 35mm, conforme DIN 50022, com placa de montagem em seu fundo, dimensionados à perfeita ventilação dos componentes elétricos, grau de proteção conforme indicado em projetos, deverão também possuir espaço reserva de no mínimo 20% do total dos circuitos, conter documentação e identificação, sinalização, porta espelho, elementos de manobra e proteção, pintura e todos os demais acessórios necessários. a funcionalidade do sistema",
+      "codigo": "12.4.5",
+      "fonte": "37.13.63 SIURB",
+      "descricao": "Disjuntor termomagnético, bipolar 220/380 V, corrente de 10 A até 50 A",
+      "unidade": "un",
+      "quantidade": 8.0,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "Quadros de distribuição, conforme NBR 6808, incluindo chaves seccionadora, \"DPS\", disjuntores, barramentos, contatoras, réguas de bornes, fios e cabos, medidor digital, montados em trilhos de engate rápido de 35mm, conforme DIN 50022, com placa de montagem em seu fundo, dimensionados à perfeita ventilação dos componentes elétricos, grau de proteção conforme indicado em projetos, deverão também possuir espaço reserva de no mínimo 20% do total dos circuitos, conter documentação e identificação, sinalização, porta espelho, elementos de manobra e proteção, pintura e todos os demais acessórios necessários. a funcionalidade do sistema",
+      "codigo": "12.4.6",
+      "fonte": "37.13.64 SIURB",
+      "descricao": "Disjuntor termomagnético, bipolar 220/380 V, corrente de 60 A até 100 A",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "Quadros de distribuição, conforme NBR 6808, incluindo chaves seccionadora, \"DPS\", disjuntores, barramentos, contatoras, réguas de bornes, fios e cabos, medidor digital, montados em trilhos de engate rápido de 35mm, conforme DIN 50022, com placa de montagem em seu fundo, dimensionados à perfeita ventilação dos componentes elétricos, grau de proteção conforme indicado em projetos, deverão também possuir espaço reserva de no mínimo 20% do total dos circuitos, conter documentação e identificação, sinalização, porta espelho, elementos de manobra e proteção, pintura e todos os demais acessórios necessários. a funcionalidade do sistema",
+      "codigo": "12.4.7",
+      "fonte": "09.04.02 SIURB",
+      "descricao": "Sinalizador luminoso diâmetro 22 mm com lâmpada",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "Quadros de distribuição, conforme NBR 6808, incluindo chaves seccionadora, \"DPS\", disjuntores, barramentos, contatoras, réguas de bornes, fios e cabos, medidor digital, montados em trilhos de engate rápido de 35mm, conforme DIN 50022, com placa de montagem em seu fundo, dimensionados à perfeita ventilação dos componentes elétricos, grau de proteção conforme indicado em projetos, deverão também possuir espaço reserva de no mínimo 20% do total dos circuitos, conter documentação e identificação, sinalização, porta espelho, elementos de manobra e proteção, pintura e todos os demais acessórios necessários. a funcionalidade do sistema",
+      "codigo": "12.4.8",
+      "fonte": "09.04.60 SIURB",
+      "descricao": "Dispositivo de proteção contra surtos 15 kA",
+      "unidade": "un",
+      "quantidade": 4.0,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "Quadros de distribuição, conforme NBR 6808, incluindo chaves seccionadora, \"DPS\", disjuntores, barramentos, contatoras, réguas de bornes, fios e cabos, medidor digital, montados em trilhos de engate rápido de 35mm, conforme DIN 50022, com placa de montagem em seu fundo, dimensionados à perfeita ventilação dos componentes elétricos, grau de proteção conforme indicado em projetos, deverão também possuir espaço reserva de no mínimo 20% do total dos circuitos, conter documentação e identificação, sinalização, porta espelho, elementos de manobra e proteção, pintura e todos os demais acessórios necessários. a funcionalidade do sistema",
+      "codigo": "12.4.9",
+      "fonte": "09.04.68 SIURB",
+      "descricao": "Interruptor diferencial residual bipolar 25 A",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "Quadros de distribuição, conforme NBR 6808, incluindo chaves seccionadora, \"DPS\", disjuntores, barramentos, contatoras, réguas de bornes, fios e cabos, medidor digital, montados em trilhos de engate rápido de 35mm, conforme DIN 50022, com placa de montagem em seu fundo, dimensionados à perfeita ventilação dos componentes elétricos, grau de proteção conforme indicado em projetos, deverão também possuir espaço reserva de no mínimo 20% do total dos circuitos, conter documentação e identificação, sinalização, porta espelho, elementos de manobra e proteção, pintura e todos os demais acessórios necessários. a funcionalidade do sistema",
+      "codigo": "12.4.10",
+      "fonte": "09.04.72 SIURB",
+      "descricao": "Interruptor diferencial tetrapolar 25 A",
+      "unidade": "un",
+      "quantidade": 2.0,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "Quadros de distribuição, conforme NBR 6808, incluindo chaves seccionadora, \"DPS\", disjuntores, barramentos, contatoras, réguas de bornes, fios e cabos, medidor digital, montados em trilhos de engate rápido de 35mm, conforme DIN 50022, com placa de montagem em seu fundo, dimensionados à perfeita ventilação dos componentes elétricos, grau de proteção conforme indicado em projetos, deverão também possuir espaço reserva de no mínimo 20% do total dos circuitos, conter documentação e identificação, sinalização, porta espelho, elementos de manobra e proteção, pintura e todos os demais acessórios necessários. a funcionalidade do sistema",
+      "codigo": "12.4.11",
+      "fonte": "09.06.49 SIURB",
+      "descricao": "Fusível tipo Diazed 4A",
+      "unidade": "un",
+      "quantidade": 2.0,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "Quadros de distribuição, conforme NBR 6808, incluindo chaves seccionadora, \"DPS\", disjuntores, barramentos, contatoras, réguas de bornes, fios e cabos, medidor digital, montados em trilhos de engate rápido de 35mm, conforme DIN 50022, com placa de montagem em seu fundo, dimensionados à perfeita ventilação dos componentes elétricos, grau de proteção conforme indicado em projetos, deverão também possuir espaço reserva de no mínimo 20% do total dos circuitos, conter documentação e identificação, sinalização, porta espelho, elementos de manobra e proteção, pintura e todos os demais acessórios necessários. a funcionalidade do sistema",
+      "codigo": "12.4.12",
+      "fonte": "09.10.55 SIURB",
+      "descricao": "Acionador manual tipo quebre o vidro",
+      "unidade": "un",
+      "quantidade": 2.0,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "Quadros de distribuição, conforme NBR 6808, incluindo chaves seccionadora, \"DPS\", disjuntores, barramentos, contatoras, réguas de bornes, fios e cabos, medidor digital, montados em trilhos de engate rápido de 35mm, conforme DIN 50022, com placa de montagem em seu fundo, dimensionados à perfeita ventilação dos componentes elétricos, grau de proteção conforme indicado em projetos, deverão também possuir espaço reserva de no mínimo 20% do total dos circuitos, conter documentação e identificação, sinalização, porta espelho, elementos de manobra e proteção, pintura e todos os demais acessórios necessários. a funcionalidade do sistema",
+      "codigo": "12.4.13",
+      "fonte": "09.10.2 SIURB",
+      "descricao": "Sirene eletrônica com flash",
+      "unidade": "un",
+      "quantidade": 2.0,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "Quadros de distribuição, conforme NBR 6808, incluindo chaves seccionadora, \"DPS\", disjuntores, barramentos, contatoras, réguas de bornes, fios e cabos, medidor digital, montados em trilhos de engate rápido de 35mm, conforme DIN 50022, com placa de montagem em seu fundo, dimensionados à perfeita ventilação dos componentes elétricos, grau de proteção conforme indicado em projetos, deverão também possuir espaço reserva de no mínimo 20% do total dos circuitos, conter documentação e identificação, sinalização, porta espelho, elementos de manobra e proteção, pintura e todos os demais acessórios necessários. a funcionalidade do sistema",
+      "codigo": "12.4.14",
+      "fonte": "09.12.50 SIURB",
+      "descricao": "Quadro de comando para conjunto motor bomba monofásica até 5 HP",
+      "unidade": "un",
+      "quantidade": 2.0,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "SPDA",
+      "codigo": "12.5.1.1",
+      "fonte": "09.06.95 SIURB",
+      "descricao": "Cabo de cobre Nu # 50",
+      "unidade": "m",
+      "quantidade": 175.0,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "SPDA",
+      "codigo": "12.5.1.2",
+      "fonte": "420435 CPOS",
+      "descricao": "Barra condutora chata em cobre, 3/4 x 3/16' - inclusive acessórios de fixação",
+      "unidade": "m",
+      "quantidade": 100.0,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "SPDA",
+      "codigo": "12.5.1.3",
+      "fonte": "422029 CPOS",
+      "descricao": "Conexão com solda exotérmica",
+      "unidade": "cj",
+      "quantidade": 4.0,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "SPDA",
+      "codigo": "12.5.1.4",
+      "fonte": "422022 CPOS",
+      "descricao": "Solda exotérmica conexão cabo-haste em T, bitola do cabo de 50 mm² a 95mm² para haste de 5/8 e 3/4",
+      "unidade": "cj",
+      "quantidade": 4.0,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "SPDA",
+      "codigo": "12.5.1.5.1",
+      "fonte": "420564 CPOS",
+      "descricao": "Tampão/tampa em ferro fundido de 300 x 300 mm",
+      "unidade": "un",
+      "quantidade": 4.0,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "SPDA",
+      "codigo": "12.5.1.5.2",
+      "fonte": "420532 CPOS",
+      "descricao": "Caixa de inspeção do terra cilíndrica em PVC rígido, diâmetro de 300 mm h= 400 mm",
+      "unidade": "un",
+      "quantidade": 4.0,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "SPDA",
+      "codigo": "12.5.1.5.3",
+      "fonte": "420519 CPOS",
+      "descricao": "Haste de aterramento de 3/4' x 3,00 m",
+      "unidade": "un",
+      "quantidade": 4.0,
+      "pagina_pdf": 12,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "Sistema de Sonorização",
+      "codigo": "12.5.1.6",
+      "fonte": "420512 CPOS",
+      "descricao": "Conexão da barra de cobre com o pilar metálico - conector de 4 furos",
+      "unidade": "un",
+      "quantidade": 41.0,
+      "pagina_pdf": 13,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "Sistema de Sonorização",
+      "codigo": "12.5.2.1",
+      "fonte": "COTAÇÃO",
+      "descricao": "Receiver/ Amplificador e seus periféricos, referência modelo Slim 3000 USB FM Marca Onkyo ou equivalente de mesmo padrão de qualidade",
+      "unidade": "cj",
+      "quantidade": 0.0,
+      "pagina_pdf": 13,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "Sistema de Sonorização",
+      "codigo": "12.5.2.2",
+      "fonte": "COTAÇÃO",
+      "descricao": "Computador",
+      "unidade": "cj",
+      "quantidade": 0.0,
+      "pagina_pdf": 13,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "Sistema de Sonorização",
+      "codigo": "12.5.2.3",
+      "fonte": "COTAÇÃO",
+      "descricao": "Microfone modelo Perception Wireless Presenter Set C3 Marca AKG ou equivalente do mesmo padrão de qualidade",
+      "unidade": "cj",
+      "quantidade": 0.0,
+      "pagina_pdf": 13,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "Sistema de Sonorização",
+      "codigo": "12.5.2.4",
+      "fonte": "COTAÇÃO",
+      "descricao": "Tela de Projeção - modelo Authentic LX, Retrátil, 84\" marca Projetelas ou equivalente de mesmo padrão de qualidade",
+      "unidade": "cj",
+      "quantidade": 0.0,
+      "pagina_pdf": 13,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "Sistema de Sonorização",
+      "codigo": "12.5.2.5",
+      "fonte": "COTAÇÃO",
+      "descricao": "Projetor -Modelo Power Lite W12 Marca Epson ou equivalente do mesmo padrão de qualidade",
+      "unidade": "cj",
+      "quantidade": 0.0,
+      "pagina_pdf": 13,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "Sistema de Sonorização",
+      "codigo": "12.5.2.6",
+      "fonte": "COTAÇÃO",
+      "descricao": "Auto Falantes - Modelo ES90BK marca JBL ou equivalente do mesmo padrão de qualidade",
+      "unidade": "cj",
+      "quantidade": 0.0,
+      "pagina_pdf": 13,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "Sistema de Sonorização",
+      "codigo": "12.5.2.7",
+      "fonte": "COTAÇÃO",
+      "descricao": "Cabo para auto falante",
+      "unidade": "m",
+      "quantidade": 0.0,
+      "pagina_pdf": 13,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "Sistema de Lógica",
+      "codigo": "12.5.3.1",
+      "fonte": "690626 CPOS",
+      "descricao": "Pach Painel 24p",
+      "unidade": "pç",
+      "quantidade": 1.0,
+      "pagina_pdf": 13,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "Sistema de Lógica",
+      "codigo": "12.5.3.2",
+      "fonte": "COTAÇÃO",
+      "descricao": "Conector macho",
+      "unidade": "pç",
+      "quantidade": 9.0,
+      "pagina_pdf": 13,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "Sistema de Lógica",
+      "codigo": "12.5.3.3",
+      "fonte": "400435 CPOS",
+      "descricao": "Tomada RJ45",
+      "unidade": "pç",
+      "quantidade": 9.0,
+      "pagina_pdf": 13,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "Sistema de Lógica",
+      "codigo": "12.5.3.4",
+      "fonte": "400701 CPOS",
+      "descricao": "Caixa em PVC de 4' x 2'",
+      "unidade": "pç",
+      "quantidade": 6.0,
+      "pagina_pdf": 13,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "Sistema de Lógica",
+      "codigo": "12.5.3.5",
+      "fonte": "402014 CPOS",
+      "descricao": "Placa de 4' x 2'",
+      "unidade": "pç",
+      "quantidade": 6.0,
+      "pagina_pdf": 13,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "Sistema de Lógica",
+      "codigo": "12.5.3.6",
+      "fonte": "391812 CPOS",
+      "descricao": "Cabo para rede U/UTP 23 AWG com 4 pares - categoria 6A",
+      "unidade": "m",
+      "quantidade": 250.0,
+      "pagina_pdf": 13,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "Sistema de CFTV",
+      "codigo": "12.5.4.1",
+      "fonte": "COTAÇÃO",
+      "descricao": "DVR Stand alone",
+      "unidade": "pç",
+      "quantidade": 1.0,
+      "pagina_pdf": 13,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "Sistema de CFTV",
+      "codigo": "12.5.4.2",
+      "fonte": "COTAÇÃO",
+      "descricao": "Computador",
+      "unidade": "pç",
+      "quantidade": 1.0,
+      "pagina_pdf": 13,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "Sistema de CFTV",
+      "codigo": "12.5.4.3",
+      "fonte": "COTAÇÃO",
+      "descricao": "Câmera Interna CCD 1/3\"",
+      "unidade": "pç",
+      "quantidade": 3.0,
+      "pagina_pdf": 13,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "Sistema de CFTV",
+      "codigo": "12.5.4.4",
+      "fonte": "COTAÇÃO",
+      "descricao": "Câmera Externa CCD 1/3\"",
+      "unidade": "pç",
+      "quantidade": 1.0,
+      "pagina_pdf": 13,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "Sistema de CFTV",
+      "codigo": "12.5.4.5",
+      "fonte": "391801 CPOS",
+      "descricao": "Cabo coaxial tipo RG 59",
+      "unidade": "m",
+      "quantidade": 20.0,
+      "pagina_pdf": 13,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "Sistema de Alarme",
+      "codigo": "12.5.5.1",
+      "fonte": "660250 CPOS",
+      "descricao": "Central de alarme microprocessada, para até 125 zonas",
+      "unidade": "pç",
+      "quantidade": 1.0,
+      "pagina_pdf": 13,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "Sistema de Alarme",
+      "codigo": "12.5.5.2",
+      "fonte": "402011 CPOS",
+      "descricao": "Alarme sonoro bitonal 220 V para painel de comando",
+      "unidade": "pç",
+      "quantidade": 1.0,
+      "pagina_pdf": 13,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "Sistema de Alarme",
+      "codigo": "12.5.5.4",
+      "fonte": "COTAÇÃO",
+      "descricao": "Sensor magnético de modelo porta - Modelo Sensor Magnético Genno com fio",
+      "unidade": "pç",
+      "quantidade": 2.0,
+      "pagina_pdf": 13,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "Sistema Telefonia/Lógico",
+      "codigo": "12.5.6.1",
+      "fonte": "660810 CPOS",
+      "descricao": "Rack fechado padrão metálico, 19 x 12 Us x 470 mm",
+      "unidade": "pç",
+      "quantidade": 1.0,
+      "pagina_pdf": 13,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "Sistema Telefonia/Lógico",
+      "codigo": "12.5.6.2",
+      "fonte": "69202 CPOS",
+      "descricao": "Bandeja fixa para rack, 19' x 500 mm",
+      "unidade": "pç",
+      "quantidade": 1.0,
+      "pagina_pdf": 13,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "Sistema Telefonia/Lógico",
+      "codigo": "12.5.6.3.1",
+      "fonte": "400435 CPOS",
+      "descricao": "Tomada RJ45",
+      "unidade": "pç",
+      "quantidade": 6.0,
+      "pagina_pdf": 13,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "Sistema Telefonia/Lógico",
+      "codigo": "12.5.6.3.2",
+      "fonte": "402014 CPOS",
+      "descricao": "Placa de 4' x 2'",
+      "unidade": "pç",
+      "quantidade": 6.0,
+      "pagina_pdf": 13,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "Sistema Telefonia/Lógico",
+      "codigo": "12.5.6.3.3",
+      "fonte": "400701 CPOS",
+      "descricao": "Caixa em PVC de 4' x 2'",
+      "unidade": "pç",
+      "quantidade": 6.0,
+      "pagina_pdf": 13,
+      "ordem_na_pagina": 27
+    },
+    {
+      "grupo": "LOUÇAS, METAIS E ACESSÓRIOS - SANITÁRIOS e COZINHA, incluindo execução e adequação de pontos de alimentação e descarga para água e esgoto, interligação e alimentação de energia onde necessário, quebra e reconstituição do piso, contrapiso, revestimentos e parede, interligação nos ramais de água e esgoto existentes, fixações, conexões, flexíveis, assento, parafusos, arruelas, rejuntamento e demais acessórios e materiais, instrumentos e mão de obra necessários para o perfeito funcionamento do sistema.",
+      "codigo": "12.5.6.3.4",
+      "fonte": "400409 CPOS",
+      "descricao": "Tomada RJ 11 para telefone, sem placa",
+      "unidade": "pç",
+      "quantidade": 9.0,
+      "pagina_pdf": 14,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "LOUÇAS, METAIS E ACESSÓRIOS - SANITÁRIOS e COZINHA, incluindo execução e adequação de pontos de alimentação e descarga para água e esgoto, interligação e alimentação de energia onde necessário, quebra e reconstituição do piso, contrapiso, revestimentos e parede, interligação nos ramais de água e esgoto existentes, fixações, conexões, flexíveis, assento, parafusos, arruelas, rejuntamento e demais acessórios e materiais, instrumentos e mão de obra necessários para o perfeito funcionamento do sistema.",
+      "codigo": "12.5.6.3.5",
+      "fonte": "73768 SINAPI",
+      "descricao": "Cabo Cci 2 pares 0,4mm",
+      "unidade": "m",
+      "quantidade": 200.0,
+      "pagina_pdf": 14,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "LOUÇAS, METAIS E ACESSÓRIOS - SANITÁRIOS e COZINHA, incluindo execução e adequação de pontos de alimentação e descarga para água e esgoto, interligação e alimentação de energia onde necessário, quebra e reconstituição do piso, contrapiso, revestimentos e parede, interligação nos ramais de água e esgoto existentes, fixações, conexões, flexíveis, assento, parafusos, arruelas, rejuntamento e demais acessórios e materiais, instrumentos e mão de obra necessários para o perfeito funcionamento do sistema.",
+      "codigo": "13.1.1",
+      "fonte": "300801 CPOS",
+      "descricao": "Bacia sifonada de louça sem tampa, para pessoas com mobilidade reduzida - 6 litros",
+      "unidade": "cj",
+      "quantidade": 2.0,
+      "pagina_pdf": 14,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "LOUÇAS, METAIS E ACESSÓRIOS - SANITÁRIOS e COZINHA, incluindo execução e adequação de pontos de alimentação e descarga para água e esgoto, interligação e alimentação de energia onde necessário, quebra e reconstituição do piso, contrapiso, revestimentos e parede, interligação nos ramais de água e esgoto existentes, fixações, conexões, flexíveis, assento, parafusos, arruelas, rejuntamento e demais acessórios e materiais, instrumentos e mão de obra necessários para o perfeito funcionamento do sistema.",
+      "codigo": "13.1.2",
+      "fonte": "300802 CPOS",
+      "descricao": "Assento para bacia sanitária com abertura frontal, para pessoas com mobilidade reduzida",
+      "unidade": "cj",
+      "quantidade": 2.0,
+      "pagina_pdf": 14,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "LOUÇAS, METAIS E ACESSÓRIOS - SANITÁRIOS e COZINHA, incluindo execução e adequação de pontos de alimentação e descarga para água e esgoto, interligação e alimentação de energia onde necessário, quebra e reconstituição do piso, contrapiso, revestimentos e parede, interligação nos ramais de água e esgoto existentes, fixações, conexões, flexíveis, assento, parafusos, arruelas, rejuntamento e demais acessórios e materiais, instrumentos e mão de obra necessários para o perfeito funcionamento do sistema.",
+      "codigo": "13.1.3",
+      "fonte": "300804 CPOS",
+      "descricao": "Lavatório de louça para canto sem coluna para pessoas com mobilidade reduzida",
+      "unidade": "cj",
+      "quantidade": 2.0,
+      "pagina_pdf": 14,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "LOUÇAS, METAIS E ACESSÓRIOS - SANITÁRIOS e COZINHA, incluindo execução e adequação de pontos de alimentação e descarga para água e esgoto, interligação e alimentação de energia onde necessário, quebra e reconstituição do piso, contrapiso, revestimentos e parede, interligação nos ramais de água e esgoto existentes, fixações, conexões, flexíveis, assento, parafusos, arruelas, rejuntamento e demais acessórios e materiais, instrumentos e mão de obra necessários para o perfeito funcionamento do sistema.",
+      "codigo": "13.1.4",
+      "fonte": "74234/0001 CPOS",
+      "descricao": "Mictório sifonado de louça branca com pertences, com registro de pressão 1/2\", canopla cromada com acabamento simples e conjunto de fixação Fornecimento e Instalação",
+      "unidade": "cj",
+      "quantidade": 1.0,
+      "pagina_pdf": 14,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "LOUÇAS, METAIS E ACESSÓRIOS - SANITÁRIOS e COZINHA, incluindo execução e adequação de pontos de alimentação e descarga para água e esgoto, interligação e alimentação de energia onde necessário, quebra e reconstituição do piso, contrapiso, revestimentos e parede, interligação nos ramais de água e esgoto existentes, fixações, conexões, flexíveis, assento, parafusos, arruelas, rejuntamento e demais acessórios e materiais, instrumentos e mão de obra necessários para o perfeito funcionamento do sistema.",
+      "codigo": "13.1.5",
+      "fonte": "440630 CPOS",
+      "descricao": "Cuba em aço inoxidável simples de 400x340x140mm",
+      "unidade": "pç",
+      "quantidade": 1.0,
+      "pagina_pdf": 14,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "LOUÇAS, METAIS E ACESSÓRIOS - SANITÁRIOS e COZINHA, incluindo execução e adequação de pontos de alimentação e descarga para água e esgoto, interligação e alimentação de energia onde necessário, quebra e reconstituição do piso, contrapiso, revestimentos e parede, interligação nos ramais de água e esgoto existentes, fixações, conexões, flexíveis, assento, parafusos, arruelas, rejuntamento e demais acessórios e materiais, instrumentos e mão de obra necessários para o perfeito funcionamento do sistema.",
+      "codigo": "13.2.1",
+      "fonte": "440348 CPOS",
+      "descricao": "Torneira de mesa para lavatório compacta, acionamento hidromecânico, em latão cromado, DN= 1/2'",
+      "unidade": "cj",
+      "quantidade": 2.0,
+      "pagina_pdf": 14,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "LOUÇAS, METAIS E ACESSÓRIOS - SANITÁRIOS e COZINHA, incluindo execução e adequação de pontos de alimentação e descarga para água e esgoto, interligação e alimentação de energia onde necessário, quebra e reconstituição do piso, contrapiso, revestimentos e parede, interligação nos ramais de água e esgoto existentes, fixações, conexões, flexíveis, assento, parafusos, arruelas, rejuntamento e demais acessórios e materiais, instrumentos e mão de obra necessários para o perfeito funcionamento do sistema.",
+      "codigo": "13.2.2",
+      "fonte": "440359 CPOS",
+      "descricao": "Torneira de mesa para pia com bica móvel e arejador em latão fundido cromado",
+      "unidade": "pç",
+      "quantidade": 1.0,
+      "pagina_pdf": 14,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "LOUÇAS, METAIS E ACESSÓRIOS - SANITÁRIOS e COZINHA, incluindo execução e adequação de pontos de alimentação e descarga para água e esgoto, interligação e alimentação de energia onde necessário, quebra e reconstituição do piso, contrapiso, revestimentos e parede, interligação nos ramais de água e esgoto existentes, fixações, conexões, flexíveis, assento, parafusos, arruelas, rejuntamento e demais acessórios e materiais, instrumentos e mão de obra necessários para o perfeito funcionamento do sistema.",
+      "codigo": "13.2.3",
+      "fonte": "440345 CPOS",
+      "descricao": "Torneira longa sem rosca para uso geral, em latão fundido cromado",
+      "unidade": "pç",
+      "quantidade": 2.0,
+      "pagina_pdf": 14,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "LOUÇAS, METAIS E ACESSÓRIOS - SANITÁRIOS e COZINHA, incluindo execução e adequação de pontos de alimentação e descarga para água e esgoto, interligação e alimentação de energia onde necessário, quebra e reconstituição do piso, contrapiso, revestimentos e parede, interligação nos ramais de água e esgoto existentes, fixações, conexões, flexíveis, assento, parafusos, arruelas, rejuntamento e demais acessórios e materiais, instrumentos e mão de obra necessários para o perfeito funcionamento do sistema.",
+      "codigo": "13.2.4",
+      "fonte": "470402 CPOS",
+      "descricao": "Válvula de descarga com registro próprio, duplo acionamento limitador de fluxo,",
+      "unidade": "pç",
+      "quantidade": 2.0,
+      "pagina_pdf": 14,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "LOUÇAS, METAIS E ACESSÓRIOS - SANITÁRIOS e COZINHA, incluindo execução e adequação de pontos de alimentação e descarga para água e esgoto, interligação e alimentação de energia onde necessário, quebra e reconstituição do piso, contrapiso, revestimentos e parede, interligação nos ramais de água e esgoto existentes, fixações, conexões, flexíveis, assento, parafusos, arruelas, rejuntamento e demais acessórios e materiais, instrumentos e mão de obra necessários para o perfeito funcionamento do sistema.",
+      "codigo": "13.2.5",
+      "fonte": "470410 CPOS",
+      "descricao": "Válvula de mictório padrão, vazão automática, DN= 3/4'",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 14,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "LOUÇAS, METAIS E ACESSÓRIOS - SANITÁRIOS e COZINHA, incluindo execução e adequação de pontos de alimentação e descarga para água e esgoto, interligação e alimentação de energia onde necessário, quebra e reconstituição do piso, contrapiso, revestimentos e parede, interligação nos ramais de água e esgoto existentes, fixações, conexões, flexíveis, assento, parafusos, arruelas, rejuntamento e demais acessórios e materiais, instrumentos e mão de obra necessários para o perfeito funcionamento do sistema.",
+      "codigo": "13.2.6",
+      "fonte": "18.10.90 SIURB",
+      "descricao": "Torneira para Jardim HD.16",
+      "unidade": "un",
+      "quantidade": 3.0,
+      "pagina_pdf": 14,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "LOUÇAS, METAIS E ACESSÓRIOS - SANITÁRIOS e COZINHA, incluindo execução e adequação de pontos de alimentação e descarga para água e esgoto, interligação e alimentação de energia onde necessário, quebra e reconstituição do piso, contrapiso, revestimentos e parede, interligação nos ramais de água e esgoto existentes, fixações, conexões, flexíveis, assento, parafusos, arruelas, rejuntamento e demais acessórios e materiais, instrumentos e mão de obra necessários para o perfeito funcionamento do sistema.",
+      "codigo": "13.3.1",
+      "fonte": "440309 CPOS",
+      "descricao": "Cabide cromado para banheiro",
+      "unidade": "un",
+      "quantidade": 2.0,
+      "pagina_pdf": 14,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "LOUÇAS, METAIS E ACESSÓRIOS - SANITÁRIOS e COZINHA, incluindo execução e adequação de pontos de alimentação e descarga para água e esgoto, interligação e alimentação de energia onde necessário, quebra e reconstituição do piso, contrapiso, revestimentos e parede, interligação nos ramais de água e esgoto existentes, fixações, conexões, flexíveis, assento, parafusos, arruelas, rejuntamento e demais acessórios e materiais, instrumentos e mão de obra necessários para o perfeito funcionamento do sistema.",
+      "codigo": "13.3.2",
+      "fonte": "440305 CPOS",
+      "descricao": "Dispenser papel higiênico em ABS para rolão 300/600m, com visor",
+      "unidade": "un",
+      "quantidade": 2.0,
+      "pagina_pdf": 14,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "LOUÇAS, METAIS E ACESSÓRIOS - SANITÁRIOS e COZINHA, incluindo execução e adequação de pontos de alimentação e descarga para água e esgoto, interligação e alimentação de energia onde necessário, quebra e reconstituição do piso, contrapiso, revestimentos e parede, interligação nos ramais de água e esgoto existentes, fixações, conexões, flexíveis, assento, parafusos, arruelas, rejuntamento e demais acessórios e materiais, instrumentos e mão de obra necessários para o perfeito funcionamento do sistema.",
+      "codigo": "13.3.3",
+      "fonte": "440318 CPOS",
+      "descricao": "Dispenser toalheiro em ABS, para folhas",
+      "unidade": "un",
+      "quantidade": 2.0,
+      "pagina_pdf": 14,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "LOUÇAS, METAIS E ACESSÓRIOS - SANITÁRIOS e COZINHA, incluindo execução e adequação de pontos de alimentação e descarga para água e esgoto, interligação e alimentação de energia onde necessário, quebra e reconstituição do piso, contrapiso, revestimentos e parede, interligação nos ramais de água e esgoto existentes, fixações, conexões, flexíveis, assento, parafusos, arruelas, rejuntamento e demais acessórios e materiais, instrumentos e mão de obra necessários para o perfeito funcionamento do sistema.",
+      "codigo": "13.3.4",
+      "fonte": "440318 CPOS",
+      "descricao": "Dispenser toalheiro em ABS, para folhas",
+      "unidade": "un",
+      "quantidade": 2.0,
+      "pagina_pdf": 14,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "Barra de apoio, corrimãos e guarda-corpos em aço inox incluindo fixações e demais acessórios e elementos necessários para 0 perfeito funcionamento das peças e total atendimento as Normas Técnicas aplicáveis concernentes à fabricação, montagem, fixação, dimensionamento e resistência dos elementos e conjuntos relativos à impacto, apoio, fixação e durabilidade.",
+      "codigo": "13.3.5",
+      "fonte": "74125/002 SINAPI",
+      "descricao": "Espelho cristal espessura de 4 mm com moldura em alumínio e compensado 6 mm plastificado e colado( 0,60X0,90M)",
+      "unidade": "m²",
+      "quantidade": 0.9,
+      "pagina_pdf": 15,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "Barra de apoio, corrimãos e guarda-corpos em aço inox incluindo fixações e demais acessórios e elementos necessários para 0 perfeito funcionamento das peças e total atendimento as Normas Técnicas aplicáveis concernentes à fabricação, montagem, fixação, dimensionamento e resistência dos elementos e conjuntos relativos à impacto, apoio, fixação e durabilidade.",
+      "codigo": "13.3.6",
+      "fonte": "440206 CPOS",
+      "descricao": "Tampo/bancada em granito espessura de 3 cm",
+      "unidade": "m²",
+      "quantidade": 0.88,
+      "pagina_pdf": 15,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "Barra de apoio, corrimãos e guarda-corpos em aço inox incluindo fixações e demais acessórios e elementos necessários para 0 perfeito funcionamento das peças e total atendimento as Normas Técnicas aplicáveis concernentes à fabricação, montagem, fixação, dimensionamento e resistência dos elementos e conjuntos relativos à impacto, apoio, fixação e durabilidade.",
+      "codigo": "13.3.7",
+      "fonte": "10.14.73 SIURB",
+      "descricao": "Frontão ou testeira em granito - H. ATÉ 10 CM",
+      "unidade": "m",
+      "quantidade": 4.5,
+      "pagina_pdf": 15,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "Barra de apoio, corrimãos e guarda-corpos em aço inox incluindo fixações e demais acessórios e elementos necessários para 0 perfeito funcionamento das peças e total atendimento as Normas Técnicas aplicáveis concernentes à fabricação, montagem, fixação, dimensionamento e resistência dos elementos e conjuntos relativos à impacto, apoio, fixação e durabilidade.",
+      "codigo": "13.3.8",
+      "fonte": "300606 CPOS",
+      "descricao": "Dispositivo de sinalização de emergência, visual e sonora",
+      "unidade": "pç",
+      "quantidade": 2.0,
+      "pagina_pdf": 15,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "Barra de apoio, corrimãos e guarda-corpos em aço inox incluindo fixações e demais acessórios e elementos necessários para 0 perfeito funcionamento das peças e total atendimento as Normas Técnicas aplicáveis concernentes à fabricação, montagem, fixação, dimensionamento e resistência dos elementos e conjuntos relativos à impacto, apoio, fixação e durabilidade.",
+      "codigo": "13.3.9.1",
+      "fonte": "17.05.20 SIURB",
+      "descricao": "Barra de apoio para deficientes = 45 cm (Barras com diâmetro entre 3,0 E 4,5cm)",
+      "unidade": "pç",
+      "quantidade": 2.0,
+      "pagina_pdf": 15,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "Barra de apoio, corrimãos e guarda-corpos em aço inox incluindo fixações e demais acessórios e elementos necessários para 0 perfeito funcionamento das peças e total atendimento as Normas Técnicas aplicáveis concernentes à fabricação, montagem, fixação, dimensionamento e resistência dos elementos e conjuntos relativos à impacto, apoio, fixação e durabilidade.",
+      "codigo": "13.3.9.2",
+      "fonte": "300113 CPOS",
+      "descricao": "Barra de proteção para lavatório, para pessoas com mobilidade reduzida",
+      "unidade": "pç",
+      "quantidade": 2.0,
+      "pagina_pdf": 15,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "Barra de apoio, corrimãos e guarda-corpos em aço inox incluindo fixações e demais acessórios e elementos necessários para 0 perfeito funcionamento das peças e total atendimento as Normas Técnicas aplicáveis concernentes à fabricação, montagem, fixação, dimensionamento e resistência dos elementos e conjuntos relativos à impacto, apoio, fixação e durabilidade.",
+      "codigo": "13.3.9.3",
+      "fonte": "17.05.21 SIURB",
+      "descricao": "Barra de apoio para deficientes = 80 cm (Barras com diâmetro entre 3,0 E 4,5cm)",
+      "unidade": "pç",
+      "quantidade": 4.0,
+      "pagina_pdf": 15,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "Barra de apoio, corrimãos e guarda-corpos em aço inox incluindo fixações e demais acessórios e elementos necessários para 0 perfeito funcionamento das peças e total atendimento as Normas Técnicas aplicáveis concernentes à fabricação, montagem, fixação, dimensionamento e resistência dos elementos e conjuntos relativos à impacto, apoio, fixação e durabilidade.",
+      "codigo": "13.3.9.4",
+      "fonte": "06.03.023 FDE",
+      "descricao": "CO-15 Guarda-corpo tubular H=1,10 m",
+      "unidade": "m",
+      "quantidade": 6.6,
+      "pagina_pdf": 15,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "Barra de apoio, corrimãos e guarda-corpos em aço inox incluindo fixações e demais acessórios e elementos necessários para 0 perfeito funcionamento das peças e total atendimento as Normas Técnicas aplicáveis concernentes à fabricação, montagem, fixação, dimensionamento e resistência dos elementos e conjuntos relativos à impacto, apoio, fixação e durabilidade.",
+      "codigo": "13.4.1",
+      "fonte": "430103 CPOS",
+      "descricao": "Bebedouro elétrico de pressão em aço inoxidável, capacidade 4 l/h - conjugado",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 15,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "SERVIÇOS FINAIS",
+      "codigo": "14.1",
+      "fonte": "COTAÇÃO",
+      "descricao": "Totem em aço carbono",
+      "unidade": "pç",
+      "quantidade": 1.0,
+      "pagina_pdf": 15,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "SERVIÇOS FINAIS",
+      "codigo": "14.2.1",
+      "fonte": "85179-SINAPI",
+      "descricao": "Grama São Carlos, plantio de grama inclusive preparo do solo",
+      "unidade": "m²",
+      "quantidade": 300.0,
+      "pagina_pdf": 15,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "SERVIÇOS FINAIS",
+      "codigo": "14.2.2",
+      "fonte": "18.10.56 SIURB",
+      "descricao": "Orla de separação em concreto",
+      "unidade": "m",
+      "quantidade": 113.5,
+      "pagina_pdf": 15,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "SERVIÇOS FINAIS",
+      "codigo": "14.2.3",
+      "fonte": "18.70.40 SIURB",
+      "descricao": "Transplante de árvore com DAP até 30 cm",
+      "unidade": "un",
+      "quantidade": 1.0,
+      "pagina_pdf": 15,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "SERVIÇOS FINAIS",
+      "codigo": "14.2.4",
+      "fonte": "18.03.65 SIURB",
+      "descricao": "Alamanda (ALLAMANDA NERIIFOLIA)",
+      "unidade": "un",
+      "quantidade": 40.0,
+      "pagina_pdf": 15,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "SERVIÇOS FINAIS",
+      "codigo": "14.3.1",
+      "fonte": "9537-SINAPI",
+      "descricao": "Limpeza final da obra",
+      "unidade": "m²",
+      "quantidade": 142.06,
+      "pagina_pdf": 15,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "SERVIÇOS FINAIS",
+      "codigo": "14.3.2",
+      "fonte": "73948 SINAPI",
+      "descricao": "Limpeza de vidros",
+      "unidade": "m²",
+      "quantidade": 67.45,
+      "pagina_pdf": 15,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "SERVIÇOS FINAIS",
+      "codigo": "14.4.1",
+      "fonte": "20.05.30 SIURB",
+      "descricao": "Parecer técnico de fundação para área construída até 2.000m2",
+      "unidade": "gl",
+      "quantidade": 1.0,
+      "pagina_pdf": 15,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "SERVIÇOS FINAIS",
+      "codigo": "14.4.2",
+      "fonte": "20.03.19 SIURB",
+      "descricao": "Projeto Fundação - Desenvolvimento de prancha de desenho técnico / detalhamento FORMATO A1",
+      "unidade": "un",
+      "quantidade": 3.0,
+      "pagina_pdf": 15,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "SERVIÇOS FINAIS",
+      "codigo": "14.4.3",
+      "fonte": "20.03.17 SIURB",
+      "descricao": "\"AS BUILT\" Formato A1",
+      "unidade": "un",
+      "quantidade": 5.0,
+      "pagina_pdf": 16,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS FINAIS",
+      "codigo": "14.5",
+      "fonte": "17.05.97 SIURB",
+      "descricao": "Placa para porta WC c/ desenho universal acessibilidade",
+      "unidade": "un",
+      "quantidade": 2.0,
+      "pagina_pdf": 16,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SERVIÇOS FINAIS",
+      "codigo": "14.6.1",
+      "fonte": "83532 SINAPI",
+      "descricao": "Lastro de concreto, preparo mecânico",
+      "unidade": "m³",
+      "quantidade": 0.25,
+      "pagina_pdf": 16,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "SERVIÇOS FINAIS",
+      "codigo": "14.6.2",
+      "fonte": "090102 CPOS",
+      "descricao": "Forma em madeira comum para fundação",
+      "unidade": "m²",
+      "quantidade": 40.32,
+      "pagina_pdf": 16,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "SERVIÇOS FINAIS",
+      "codigo": "14.6.3",
+      "fonte": "74254 SINAPI",
+      "descricao": "Armação CA50, 6,3mm a 12,5mm, fornecimento, corte, dobra e colocação",
+      "unidade": "kg",
+      "quantidade": 18.12,
+      "pagina_pdf": 16,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "SERVIÇOS FINAIS",
+      "codigo": "14.6.4",
+      "fonte": "110116 CPOS",
+      "descricao": "Concreto usinado, fck = 30,0 Mpa",
+      "unidade": "m³",
+      "quantidade": 3.02,
+      "pagina_pdf": 16,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "SERVIÇOS FINAIS",
+      "codigo": "14.6.5",
+      "fonte": "111604 CPOS",
+      "descricao": "Lançamento e adensamento de concreto ou massa em fundação",
+      "unidade": "m³",
+      "quantidade": 3.02,
+      "pagina_pdf": 16,
+      "ordem_na_pagina": 7
+    }
+  ],
+  "apelido": "CREA SÃO MANUEL"
+}

@@ -1,0 +1,545 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620250001211",
+    "numero_art": "2620242228344",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "SUBPREFEITURA PARELHEIROS",
+    "cnpj_contratante": "05494401000169",
+    "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA DE ENGENHARIA OU ARQUITETURA PARA REVITALIZAÇÃO E REURBANIZAÇÃO DE ÁREA PÚBLICA.",
+    "processo_administrativo": "6047.2023/0001907-8",
+    "contrato": "065/SUB-PA/2023",
+    "endereco_obra": "RUA DR. JOÃO BAPTISTA GOMES DE SIQUEIRA ALTURA N.º 80, E RUA AUGUSTO GOMES DE SIQUEIRA ALTURA Nº 132",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2023-12-21",
+    "data_fim": "2024-01-19",
+    "area_m2": 1026.0,
+    "valor_contrato": 572160.06
+  },
+  "servicos": [
+    {
+      "grupo": "LIMPEZA DO TERRENO",
+      "codigo": "01-01-07",
+      "fonte": "EDIF",
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 483.44,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "LIMPEZA DO TERRENO",
+      "codigo": "01-01-08",
+      "fonte": "EDIF",
+      "descricao": "LIMPEZA MANUAL GERAL INCLUSIVE REMOÇÃO DE COBERTURA VEGETAL - TRONCO ATÉ 10CM - SEM TRANSPORTE",
+      "unidade": "M2",
+      "quantidade": 1026.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "LIMPEZA DO TERRENO",
+      "codigo": "01-03-05",
+      "fonte": "EDIF",
+      "descricao": "FORNECIMENTO DE TERRA, INCLUSIVE CORTE, CARGA, DESCARGA E TRANSPORTE ATÉ 1KM",
+      "unidade": "M3",
+      "quantidade": 70.85,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "01-03-10",
+      "fonte": "EDIF",
+      "descricao": "TRANSPORTE DE TERRA POR CAMINHÃO BASCULANTE, A PARTIR DE 1KM",
+      "unidade": "M3XKM",
+      "quantidade": 2692.3,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "01-05-40",
+      "fonte": "EDIF",
+      "descricao": "TELA PARA PROTEÇÃO DE OBRAS, MALHA 2 MM",
+      "unidade": "M2",
+      "quantidade": 120.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "FUNDACOES",
+      "codigo": "02-01-01",
+      "fonte": "EDIF",
+      "descricao": "BROCA DE CONCRETO - DIÂMETRO DE 20CM",
+      "unidade": "M",
+      "quantidade": 13.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "FUNDACOES",
+      "codigo": "02-02-01",
+      "fonte": "EDIF",
+      "descricao": "ESCAVAÇÃO MANUAL COM PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 155.38,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "FUNDACOES",
+      "codigo": "02-02-10",
+      "fonte": "EDIF",
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 572.5,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "FUNDACOES",
+      "codigo": "02-03-04",
+      "fonte": "EDIF",
+      "descricao": "FORMA COMUM DE TÁBUAS DE PINUS - NÃO RECUPERÁVEL",
+      "unidade": "M2",
+      "quantidade": 25.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "ESTRUTURA",
+      "codigo": "03-03-30",
+      "fonte": "EDIF",
+      "descricao": "BOMBEAMENTO DE CONCRETO",
+      "unidade": "M3",
+      "quantidade": 99.5,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "ESTRUTURA",
+      "codigo": "03-02-09",
+      "fonte": "EDIF",
+      "descricao": "ARMADURA EM AÇO CA-60 - TELA",
+      "unidade": "KG",
+      "quantidade": 1099.77,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "INSTALACOES ELETRICAS",
+      "codigo": "09-02-53",
+      "fonte": "EDIF",
+      "descricao": "ELETRODUTO DE POLIETILENO FLEXÍVEL, ALTA RESISTÊNCIA - 2\"",
+      "unidade": "M",
+      "quantidade": 50.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "INSTALACOES ELETRICAS",
+      "codigo": "09-02-98",
+      "fonte": "EDIF",
+      "descricao": "ENVELOPAMENTO DE ELETRODUTO ENTERRADO, COM CONCRETO",
+      "unidade": "M",
+      "quantidade": 50.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "INSTALACOES ELETRICAS",
+      "codigo": "09-03-31",
+      "fonte": "EDIF",
+      "descricao": "CABO 6,00MM2 - ISOLAMENTO PARA 1,0KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 486.9,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "INSTALACOES ELETRICAS",
+      "codigo": "09-09-39",
+      "fonte": "EDIF",
+      "descricao": "PROJETOR PARA USO EXTERNO COM LÂMPADA LED DE 150W - COMPLETA",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "INSTALACOES ELETRICAS",
+      "codigo": "09-20-35",
+      "fonte": "EDIF",
+      "descricao": "POSTE GALVANIZADO, RETO, FLANGEADO, H=5M COM LUMINÁRIA HERMÉTICA TIPO LED DE 150W COM APROVAÇÃO DE ILUME/PMSP, INCLUSIVE CAIXA DE INSPEÇÃO DE ALVENARIA 40X40X40CM DE 1 TIJOLO COM TAMPA DE CONCRETO",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "INST.HIDRO-SANITARIAS",
+      "codigo": "10-01-98",
+      "fonte": "EDIF",
+      "descricao": "ENVELOPAMENTO DE TUBULAÇÃO ENTERRADA, COM CONCRETO",
+      "unidade": "M",
+      "quantidade": 300.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "INST.HIDRO-SANITARIAS",
+      "codigo": "10-10-94",
+      "fonte": "EDIF",
+      "descricao": "CAIXA DE LIGAÇÃO OU INSPEÇÃO - ESCAVAÇÃO E APILOAMENTO",
+      "unidade": "M3",
+      "quantidade": 1.72,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "INST.HIDRO-SANITARIAS",
+      "codigo": "10-10-95",
+      "fonte": "EDIF",
+      "descricao": "CAIXA DE LIGAÇÃO OU INSPEÇÃO - LASTRO DE CONCRETO (FUNDO)",
+      "unidade": "M3",
+      "quantidade": 0.14,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "INST.HIDRO-SANITARIAS",
+      "codigo": "10-10-97",
+      "fonte": "EDIF",
+      "descricao": "CAIXA DE LIGAÇÃO OU INSPEÇÃO - ALVENARIA DE 1 TIJOLO, REVESTIDA",
+      "unidade": "M2",
+      "quantidade": 11.51,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "INST.HIDRO-SANITARIAS",
+      "codigo": "10-10-98",
+      "fonte": "EDIF",
+      "descricao": "CAIXA DE LIGAÇÃO OU INSPEÇÃO - TAMPA DE CONCRETO",
+      "unidade": "M2",
+      "quantidade": 2.88,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "INST.HIDRO-SANITARIAS",
+      "codigo": "10-12-15",
+      "fonte": "EDIF",
+      "descricao": "CONDUTOR EM TUBO DE PVC RÍGIDO, PONTA E BOLSA - 75MM (3\")",
+      "unidade": "M",
+      "quantidade": 150.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "INST.HIDRO-SANITARIAS",
+      "codigo": "10-12-16",
+      "fonte": "EDIF",
+      "descricao": "CONDUTOR EM TUBO DE PVC RÍGIDO, PONTA E BOLSA - 100MM (4\")",
+      "unidade": "M",
+      "quantidade": 150.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "REVESTIMENTOS",
+      "codigo": "11-03-01",
+      "fonte": "EDIF",
+      "descricao": "CHAPISCO COMUM - ARGAMASSA DE CIMENTO E AREIA 1:3",
+      "unidade": "M2",
+      "quantidade": 100.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "REVESTIMENTOS",
+      "codigo": "11-03-08",
+      "fonte": "EDIF",
+      "descricao": "EMBOÇO EXTERNO - ARGAMASSA MISTA DE CIMENTO, CAL E AREIA 1:4/12",
+      "unidade": "M2",
+      "quantidade": 100.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "REVESTIMENTOS",
+      "codigo": "11-03-13",
+      "fonte": "EDIF",
+      "descricao": "REBOCO EXTERNO - ARGAMASSA PRÉ-FABRICADA",
+      "unidade": "M2",
+      "quantidade": 100.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "PISOS",
+      "codigo": "13-02-04",
+      "fonte": "EDIF",
+      "descricao": "ACABAMENTO DE PISO DE CONCRETO TIPO BAMBOLÊ",
+      "unidade": "M2",
+      "quantidade": 572.25,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": "15-01-15",
+      "fonte": "EDIF",
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 300.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "SERV.COMPLEMENTARES",
+      "codigo": "17-02-30",
+      "fonte": "EDIF",
+      "descricao": "PEDRISCO COM COMPACTAÇÃO MANUAL - ESPESSURA 5CM",
+      "unidade": "M2",
+      "quantidade": 272.4,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "SERV.COMPLEMENTARES",
+      "codigo": "17-02-31",
+      "fonte": "EDIF",
+      "descricao": "PÓ DE BRITA COM COMPACTAÇÃO MECÂNICA - ESPESSURA 10CM",
+      "unidade": "M2",
+      "quantidade": 272.4,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "SERV.COMPLEMENTARES",
+      "codigo": "17-02-43",
+      "fonte": "EDIF",
+      "descricao": "PASSEIO DE CONCRETO ARMADO, FCK=25MPA, INCLUINDO PREPARO DA CAIXA E LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 99.5,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "SERV.COMPLEMENTARES",
+      "codigo": "17-02-50",
+      "fonte": "EDIF",
+      "descricao": "GUIA DE CONCRETO RETA OU CURVA, TIPO PMSP",
+      "unidade": "M",
+      "quantidade": 65.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "SERV.COMPLEMENTARES",
+      "codigo": "17-02-52",
+      "fonte": "EDIF",
+      "descricao": "SARJETA DE CONCRETO, INCLUSIVE PREPARO DE CAIXA",
+      "unidade": "M3",
+      "quantidade": 0.59,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "SERV.COMPLEMENTARES",
+      "codigo": "17-04-01",
+      "fonte": "EDIF",
+      "descricao": "LIMPEZA GERAL DA OBRA",
+      "unidade": "M2",
+      "quantidade": 572.48,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "SERV.COMPLEMENTARES",
+      "codigo": "17-04-14",
+      "fonte": "EDIF",
+      "descricao": "LIMPEZA E LAVAGEM DE PISO POR HIDROJATEAMENTO",
+      "unidade": "M2",
+      "quantidade": 300.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "SERV.COMPLEMENTARES",
+      "codigo": "17-05-25",
+      "fonte": "EDIF",
+      "descricao": "DP.05 - CORRIMÃO EM TUBO GALVANIZADO COM GUARDA CORPO",
+      "unidade": "M",
+      "quantidade": 100.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "SERV.COMPLEMENTARES",
+      "codigo": "17-50-21",
+      "fonte": "EDIF",
+      "descricao": "DEMOLIÇÃO MANUAL DE CONCRETO ARMADO",
+      "unidade": "M3",
+      "quantidade": 114.4,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "SERV.COMPLEMENTARES",
+      "codigo": "17-50-45",
+      "fonte": "EDIF",
+      "descricao": "DEMOLIÇÃO DE GUIAS DE CONCRETO",
+      "unidade": "M",
+      "quantidade": 10.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "SERV.COMPLEMENTARES",
+      "codigo": "17-50-48",
+      "fonte": "EDIF",
+      "descricao": "DEMOLIÇÃO DE SARJETAS DE CONCRETO",
+      "unidade": "M",
+      "quantidade": 10.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "SERV.COMPLEMENTARES",
+      "codigo": "20-03-24",
+      "fonte": "EDIF",
+      "descricao": "DESENHISTA CADISTA",
+      "unidade": "H",
+      "quantidade": 2.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "SERV.COMPLEMENTARES",
+      "codigo": "20-03-59",
+      "fonte": "EDIF",
+      "descricao": "ENGENHEIRO DA OBRA",
+      "unidade": "H",
+      "quantidade": 12.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": "18-03-05",
+      "fonte": "EDIF",
+      "descricao": "GRAMA ESMERALDA",
+      "unidade": "M2",
+      "quantidade": 100.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": "18-03-67",
+      "fonte": "EDIF",
+      "descricao": "AZALÉA (RHODODENDRON INDICUM)",
+      "unidade": "UN",
+      "quantidade": 220.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": "18-03-73",
+      "fonte": "EDIF",
+      "descricao": "CAMARÃO (BELOPERONE GUTATA)",
+      "unidade": "UN",
+      "quantidade": 220.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": "18-14-42",
+      "fonte": "EDIF",
+      "descricao": "PLAYGROUND BRINQUEDOS DE MADEIRA - CASA TARZAN COM RAMPA ESCALADA, ESCORREGADOR E ESCADA MARINHEIRO",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": "18-14-46",
+      "fonte": "EDIF",
+      "descricao": "PLAYGROUND BRINQUEDOS DE MADEIRA - GANGORRA DUPLA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "PAISAGISMO",
+      "codigo": "18-14-48",
+      "fonte": "EDIF",
+      "descricao": "PLAYGROUND BRINQUEDOS DE MADEIRA - BALANÇA DUPLA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": null,
+      "codigo": "18-16-05",
+      "fonte": "EDIF",
+      "descricao": "SIMULADOR DE CAVALGADA TRIPLO",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "18-16-10",
+      "fonte": "EDIF",
+      "descricao": "SIMULADOR DE CAMINHADA TRIPLO CONJUGADO",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "18-16-12",
+      "fonte": "EDIF",
+      "descricao": "ROTAÇÃO VERTICAL TRIPLO CONJUGADO",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "18-16-14",
+      "fonte": "EDIF",
+      "descricao": "ESQUI TRIPLO CONJUGADO",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "18-16-19",
+      "fonte": "EDIF",
+      "descricao": "PLACA ORIENTADORA VERTICAL",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 5
+    }
+  ],
+  "apelido": "RUA DR JOAO BATISTA"
+}

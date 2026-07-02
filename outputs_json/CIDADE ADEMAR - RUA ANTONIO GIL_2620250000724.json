@@ -1,0 +1,75 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620250000724",
+    "numero_art": "2620242218760",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893-SP",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "Subprefeitura Cidade Ademar",
+    "cnpj_contratante": "05.587.823/0001-89",
+    "objeto": "Contratação de empresa de engenharia ou arquitetura para obras de readequação de área pública municipal localizada na Rua Antonio Gil, do nº 706 - São Paulo-SP.",
+    "processo_administrativo": "6034.2019/0002.390-5",
+    "contrato": "032/SUB-AD/2019",
+    "endereco_obra": "RUA ANTÔNIO GIL, No.: 706",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2019-12-30",
+    "data_fim": "2020-01-28",
+    "area_m2": 120.0,
+    "valor_contrato": 18952.18
+  },
+  "servicos": [
+    {
+      "grupo": "LIMPEZA DO TERRENO",
+      "codigo": "01-01-07",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
+      "unidade": "M3",
+      "quantidade": 12.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "LIMPEZA DO TERRENO",
+      "codigo": "01-01-08",
+      "fonte": null,
+      "descricao": "LIMPEZA MANUAL GERAL INCLUSIVE REMOÇÃO DE COBERTURA VEGETAL - TRONCO ATÉ 10CM - SEM TRANSPORTE",
+      "unidade": "M2",
+      "quantidade": 120.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": "15-50-21",
+      "fonte": null,
+      "descricao": "REMOÇÃO DE PINTURA EM ESQUADRIAS E PEÇAS DE SERRALHERIA - REMOVEDOR",
+      "unidade": "M2",
+      "quantidade": 260.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": "15-03-10",
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO - ESQUADRIAS E PEÇAS DE SERRALHERIA",
+      "unidade": "M2",
+      "quantidade": 260.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": "15-01-15",
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 52.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    }
+  ],
+  "apelido": "CIDADE ADEMAR - RUA ANTONIO GIL"
+}

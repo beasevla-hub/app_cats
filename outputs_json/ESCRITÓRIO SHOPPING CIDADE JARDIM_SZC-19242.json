@@ -1,0 +1,185 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "SZC-19242",
+    "numero_art": "92221220090589464 e 92221220090615347",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893",
+    "empresa_contratada": "THI Engenharia e Arquitetura Ltda.",
+    "contratante": "Torres Engenharia e Construções Ltda.",
+    "cnpj_contratante": null,
+    "objeto": "Responsável Técnico por Execução na área da Engenharia Civil - Construção parcial de escritório no Shopping Cidade Jardim, incluindo os serviços de estrutura, vedos, esquadria metálica, forros e pintura.",
+    "processo_administrativo": null,
+    "contrato": null,
+    "endereco_obra": "Marginal Pinheiros, 12000",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2008-10-15",
+    "data_fim": "2008-12-30",
+    "area_m2": null,
+    "valor_contrato": 738137.84
+  },
+  "servicos": [
+    {
+      "grupo": "ESTRUTURA",
+      "codigo": "1.1",
+      "fonte": null,
+      "descricao": "Tratamento de concreto aparente (polimento, limpeza, estucamento, lixamento e aplicação de resina/verniz)",
+      "unidade": "m²",
+      "quantidade": 718.8,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "VEDOS",
+      "codigo": "2.1",
+      "fonte": null,
+      "descricao": "Execução de parede em gesso acartonado Dry Wall (estrutura, chapa dupla, la de rocha e acabamentos)",
+      "unidade": "m²",
+      "quantidade": 515.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "VEDOS",
+      "codigo": "2.2",
+      "fonte": null,
+      "descricao": "Fechamento vertical / Horizontal / Faixas",
+      "unidade": "m",
+      "quantidade": 537.88,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "VEDOS",
+      "codigo": "2.3",
+      "fonte": null,
+      "descricao": "Execução de parede e forro em gesso acartonado Dry Wall na escadaria do 2º ao 5º Pav. (estrutura, chapa dupla, lã de rocha e acabamentos)",
+      "unidade": "m²",
+      "quantidade": 272.3,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "ESQUADRIAS METÁLICAS (SERRALHERIA)",
+      "codigo": "3.1",
+      "fonte": null,
+      "descricao": "Fechamento em chapa de aço da laje de concreto do 4º e 5º pav. (caixilhos)",
+      "unidade": "VB",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "ESQUADRIAS METÁLICAS (SERRALHERIA)",
+      "codigo": "3.2",
+      "fonte": null,
+      "descricao": "Fechamento em chapa de aço das vedações em Dry Wall na escada do 2º ao 5º Pav. (incluso corte, dobra das chapas e pintura)",
+      "unidade": "VB",
+      "quantidade": 1.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "ESQUADRIAS METÁLICAS (SERRALHERIA)",
+      "codigo": "3.3",
+      "fonte": null,
+      "descricao": "Instalação de cantoneiras metálicas para apoio do forro em gesso acartonado Dry Wall",
+      "unidade": "m",
+      "quantidade": 3660.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "FORROS",
+      "codigo": "4.1",
+      "fonte": null,
+      "descricao": "Execução de forro de gesso acartonado Dry Wall incluso estrutura auxiliar para instalação",
+      "unidade": "m²",
+      "quantidade": 1520.02,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": "5.1",
+      "fonte": null,
+      "descricao": "Pintura em esmalte sintético em caixilhos (incluso preparo de base – lixamento, fundo preparador)",
+      "unidade": "m²",
+      "quantidade": 960.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": "5.2",
+      "fonte": null,
+      "descricao": "Pintura com tinta automotiva em escada metálica / guarda-corpo / corrimão, inclusive preparo da base, aplicado com compressor e pistola de auto-pressão",
+      "unidade": "m²",
+      "quantidade": 209.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": "5.3",
+      "fonte": null,
+      "descricao": "Pintura com tinta automotiva em estrutura metálica para ar condicionado, inclusive preparo da base",
+      "unidade": "m²",
+      "quantidade": 379.5,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": "5.4",
+      "fonte": null,
+      "descricao": "Pintura de forro em látex acrílico – inclusive preparo da base (aplicação de seladora, massa corrida, lixamento)",
+      "unidade": "m²",
+      "quantidade": 1520.02,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": "5.5",
+      "fonte": null,
+      "descricao": "Pintura de paredes em látex acrílico – inclusive preparo da base (aplicação de seladora, massa corrida, lixamento)",
+      "unidade": "m²",
+      "quantidade": 3437.5,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": "5.6",
+      "fonte": null,
+      "descricao": "Pintura em esmalte sintético em estrutura metálica vigas e pilares – incluso preparo de base, aplicado com compressor e pistola de auto-pressão",
+      "unidade": "m²",
+      "quantidade": 707.33,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "PINTURA",
+      "codigo": "5.7",
+      "fonte": null,
+      "descricao": "Pintura de laje de concreto – incluso preparo de base, aplicado com compressor e pistola de auto-pressão",
+      "unidade": "m²",
+      "quantidade": 926.45,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "5.8",
+      "fonte": null,
+      "descricao": "Montagem e desmontagem de Andaimes",
+      "unidade": "m³",
+      "quantidade": 3215.49,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    }
+  ],
+  "apelido": "ESCRITÓRIO SHOPPING CIDADE JARDIM"
+}

@@ -1,0 +1,475 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "SZC-19666",
+    "numero_art": "92221220090809727 e 92221220090867398",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893",
+    "empresa_contratada": "THI Engenharia e Arquitetura Ltda",
+    "contratante": "Sivercon Construtora Ltda.",
+    "cnpj_contratante": null,
+    "objeto": "Serviços de impermeabilização, pisos, piso elevado, serviços técnicos entre outros no Condomínio Edifício Atlanta Office Center.",
+    "processo_administrativo": null,
+    "contrato": null,
+    "endereco_obra": "Rua Prof. Aprígio Gonzaga, 78",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2009-02-25",
+    "data_fim": "2009-05-30",
+    "area_m2": null,
+    "valor_contrato": 976519.88
+  },
+  "servicos": [
+    {
+      "grupo": "IMPERMEABILIZAÇÕES",
+      "codigo": "1.1",
+      "fonte": null,
+      "descricao": "REGULARIZAÇÃO COM ARGAMASSA DE CIMENTO E AREIA - TRAÇO 1:3, ESPESSURA MEDIA 30MM",
+      "unidade": "M2",
+      "quantidade": 296.18,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "IMPERMEABILIZAÇÕES",
+      "codigo": "1.2",
+      "fonte": null,
+      "descricao": "MANTA ASFALTICA ESPESSURA DE 4MM COM VÉU DE POLIÉSTER COLADA A MAÇARICO",
+      "unidade": "M2",
+      "quantidade": 296.18,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "IMPERMEABILIZAÇÕES",
+      "codigo": "1.37",
+      "fonte": null,
+      "descricao": "PROTEÇÃO MECÂNICA COM ARGAMASSA DE CIMENTO E AREIA - TRAÇO 1:7, ESPESSURA MÉDIA 30MM",
+      "unidade": "M2",
+      "quantidade": 296.18,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "PISOS",
+      "codigo": "2.1",
+      "fonte": null,
+      "descricao": "CIMENTADO COMUM, DESEMPENADO - ESPESSURA 30MM",
+      "unidade": "M2",
+      "quantidade": 296.18,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "PISOS",
+      "codigo": "2.2",
+      "fonte": null,
+      "descricao": "PISO CERÂMICO ESMALTADO ANTIDERRAPANTE (PEI-5) - ASSENTADO COM ARGAMASSA COLANTE",
+      "unidade": "M2",
+      "quantidade": 296.18,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "PISOS",
+      "codigo": "2.3",
+      "fonte": null,
+      "descricao": "RODAPÉ CERÂMICO ESMALTADO 7CM À 10CM",
+      "unidade": "M",
+      "quantidade": 479.2,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "PISO ELEVADO (SOLUÇÃO INTEGRADA)",
+      "codigo": "3.1",
+      "fonte": null,
+      "descricao": "PISO ELEVADO COM SOLUÇÃO INTEGRADA DE ELÉTRICA, LÓGICA E TELEFONIA - COMPREENDENDO AS INSTALAÇÕES COMPLETAS PARTINDO DOS RESPECTIVOS QUADROS ATÉ OS PONTOS DE CONEXÃO",
+      "unidade": "M2",
+      "quantidade": 4750.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "PISO ELEVADO (SOLUÇÃO INTEGRADA)",
+      "codigo": "3.2",
+      "fonte": null,
+      "descricao": "CIMENTADO COMUM, DESEMPENADO E ALISADO - ESPESSURA 20MM - PARA REGULARIZAÇÃO DA BASE",
+      "unidade": "M2",
+      "quantidade": 4750.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "4.1",
+      "fonte": null,
+      "descricao": "ELETRODUTO DE PVC RÍGIDO, ROSCÁVEL - 25MM (3/4\")",
+      "unidade": "M",
+      "quantidade": 1238.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "4.2",
+      "fonte": null,
+      "descricao": "FIO 2,50MM2 - ISOLAMENTO PARA 0,7KV",
+      "unidade": "M",
+      "quantidade": 7800.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "4.3",
+      "fonte": null,
+      "descricao": "FIO 4,00MM2 - ISOLAMENTO PARA 0,7KV",
+      "unidade": "M",
+      "quantidade": 1200.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "4.4",
+      "fonte": null,
+      "descricao": "FIO 6,00MM2 - ISOLAMENTO PARA 0,7KV",
+      "unidade": "M",
+      "quantidade": 800.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "4.5",
+      "fonte": null,
+      "descricao": "PONTO SECO PARA TELEFONE CAIXA 4\"X4\"",
+      "unidade": "UN",
+      "quantidade": 260.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "4.6",
+      "fonte": null,
+      "descricao": "DISJUNTOR CAIXA MOLDADA UNIPOLAR 10/30A TIPO AMERICANO",
+      "unidade": "UN",
+      "quantidade": 160.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "4.7",
+      "fonte": null,
+      "descricao": "DISJUNTOR CAIXA MOLDADA UNIPOLAR 35/50A TIPO AMERICANO",
+      "unidade": "UN",
+      "quantidade": 80.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "4.8",
+      "fonte": null,
+      "descricao": "DISJUNTOR CAIXA MOLDADA BIPOLAR 10/30A TIPO AMERICANO",
+      "unidade": "UN",
+      "quantidade": 40.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "4.9",
+      "fonte": null,
+      "descricao": "DISJUNTOR CAIXA MOLDADA BIPOLAR 35/50A TIPO AMERICANO",
+      "unidade": "UN",
+      "quantidade": 40.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "4.10",
+      "fonte": null,
+      "descricao": "LUMINÁRIA COMERCIAL - 2 LÂMPADAS FLUORESCENTES 32/40W",
+      "unidade": "UN",
+      "quantidade": 612.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "4.11",
+      "fonte": null,
+      "descricao": "LUMINÁRIA DE EMERGÊNCIA AUTÔNOMA COM LAMPADA FLUORESCENTE 11W/15W - AUTONOMIA MÍNIMA DE 1H",
+      "unidade": "UN",
+      "quantidade": 82.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "4.12",
+      "fonte": null,
+      "descricao": "ELETROCALHA LISA GALVANIZADA ELETROLÍTICA CHAPA 14 - 150X50MM COM TAMPA E INSTALAÇÃO",
+      "unidade": "M",
+      "quantidade": 96.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "4.13",
+      "fonte": null,
+      "descricao": "INTERRUPTOR SIMPLES 1 TECLA COMPLETO",
+      "unidade": "UN",
+      "quantidade": 184.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "4.14",
+      "fonte": null,
+      "descricao": "INTERRUPTOR SIMPLES 2 TECLAS - COMPLETO",
+      "unidade": "UN",
+      "quantidade": 78.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "4.15",
+      "fonte": null,
+      "descricao": "INTERRUPTOR SIMPLES 3 TECLAS COMPLETO",
+      "unidade": "UN",
+      "quantidade": 46.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "4.16",
+      "fonte": null,
+      "descricao": "TOMADA PARA TELEFONE DE 4 POLOS PADRÃO TELEBRÁS",
+      "unidade": "UN",
+      "quantidade": 260.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "4.17",
+      "fonte": null,
+      "descricao": "TOMADA SIMPLES DE EMBUTIR - 110/220V",
+      "unidade": "UN",
+      "quantidade": 364.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "4.18",
+      "fonte": null,
+      "descricao": "CAIXA DE PASSAGEM EM CHAPA, COM TAMPA PARAFUSADA, 100x100x80 MM",
+      "unidade": "UN",
+      "quantidade": 32.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "4.19",
+      "fonte": null,
+      "descricao": "TOMADA UNIVERSAL 2P + T, 15 A-125/250V, COM PLACA",
+      "unidade": "UN",
+      "quantidade": 94.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "4.20",
+      "fonte": null,
+      "descricao": "MINUTEIRA INDIVIDUAL 110/220 V, PARA LAMPADAS INCANDESCENTES COM PULSADOR LUMINOSO E PLACA",
+      "unidade": "CJ.",
+      "quantidade": 40.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "4.21",
+      "fonte": null,
+      "descricao": "LUMINÁRIA TIPO GLOBO LEITOSO PARA 1 LÂMPADA INCANDESCENTE ATÉ 150 W",
+      "unidade": "UN",
+      "quantidade": 28.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "SISTEMAS DE PÁRA - RAIOS",
+      "codigo": "5.1",
+      "fonte": null,
+      "descricao": "PÁRA-RAIOS TIPO \"FRANKLIN\", INCLUSIVE DESCIDA",
+      "unidade": "UN",
+      "quantidade": 8.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "SISTEMAS DE PÁRA - RAIOS",
+      "codigo": "5.2",
+      "fonte": null,
+      "descricao": "CAPTOR TIPO TERMINAL AÉREO, H = 600MM, DIÂMETRO DE 3/8', GALVANIZADO A FOGO",
+      "unidade": "UN",
+      "quantidade": 4.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "SISTEMAS DE PÁRA - RAIOS",
+      "codigo": "5.3",
+      "fonte": null,
+      "descricao": "ISOLADOR GALVANIZADO PARA MASTRO DE DIAMETRO 2, REFORÇADO COM 1 DESCIDA",
+      "unidade": "UN",
+      "quantidade": 36.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "SISTEMAS DE PÁRA - RAIOS",
+      "codigo": "5.4",
+      "fonte": null,
+      "descricao": "CAIXA DE INSPEÇÃO DE ATERRAMENTO TIPO EMBUTIR COM TAMPA E ALÇA",
+      "unidade": "UN",
+      "quantidade": 12.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "SISTEMAS DE PÁRA - RAIOS",
+      "codigo": "5.5",
+      "fonte": null,
+      "descricao": "CORDOALHA DE COBRE NÚ, INCLUSIVE ISOLADORES - 35,00 MM2",
+      "unidade": "M",
+      "quantidade": 240.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "SISTEMAS DE PÁRA - RAIOS",
+      "codigo": "5.6",
+      "fonte": null,
+      "descricao": "TUBO DE PVC PARA PROTEÇÃO DE CORDOALHA – 2\"X3M",
+      "unidade": "UN",
+      "quantidade": 48.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "SISTEMAS DE PÁRA - RAIOS",
+      "codigo": "5.7",
+      "fonte": null,
+      "descricao": "BRAÇADEIRA DE CONTRAVENTAGEM PARA MASTRO DE DIÂMETRO 2",
+      "unidade": "UN",
+      "quantidade": 40.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "SISTEMAS DE PÁRA - RAIOS",
+      "codigo": "5.8",
+      "fonte": null,
+      "descricao": "APOIO PARA MASTRO DE DIÂMETRO 2' CORDOALHAS / TUBO PVC",
+      "unidade": "UN",
+      "quantidade": 32.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": "SISTEMAS DE PÁRA - RAIOS",
+      "codigo": "5.9",
+      "fonte": null,
+      "descricao": "CONTRAVENTAGEM COM CABO PARA MASTRO DE DIAMETRO DE 2'",
+      "unidade": "UN",
+      "quantidade": 32.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 20
+    },
+    {
+      "grupo": "SISTEMAS DE PÁRA - RAIOS",
+      "codigo": "5.10",
+      "fonte": null,
+      "descricao": "MASTRO SIMPLES GALVANIZADA DE DIAMETRO 2'",
+      "unidade": "UN",
+      "quantidade": 32.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 21
+    },
+    {
+      "grupo": "SISTEMAS DE PÁRA - RAIOS",
+      "codigo": "5.11",
+      "fonte": null,
+      "descricao": "CONECTOR GRAMPO CABO/HASTE DE 3/4'",
+      "unidade": "UN",
+      "quantidade": 70.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 22
+    },
+    {
+      "grupo": "SISTEMAS DE PÁRA - RAIOS",
+      "codigo": "5.12",
+      "fonte": null,
+      "descricao": "ESTICADOR EM LATÃO PARA CABO E COBRE",
+      "unidade": "UN",
+      "quantidade": 120.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 23
+    },
+    {
+      "grupo": "SISTEMAS DE PÁRA - RAIOS",
+      "codigo": "5.13",
+      "fonte": null,
+      "descricao": "HASTE DE AÇO GALVANIZADO, INCLUSIVE BASE E ESTAIS - 2\"/3M",
+      "unidade": "UN",
+      "quantidade": 8.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 24
+    },
+    {
+      "grupo": "SISTEMAS DE PÁRA - RAIOS",
+      "codigo": "5.14",
+      "fonte": null,
+      "descricao": "PROJETO PARA SISTEMA DE DESCARGA ATMOSFÉRICA - PARA-RAIOS",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 25
+    },
+    {
+      "grupo": "SERVIÇOS TÉCNICOS",
+      "codigo": "6.1",
+      "fonte": null,
+      "descricao": "AS BUILT FORMATO A1",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 26
+    },
+    {
+      "grupo": "LIMPEZA DA OBRA",
+      "codigo": "7.1",
+      "fonte": null,
+      "descricao": "LIMPEZA GERAL DA OBRA",
+      "unidade": "M2",
+      "quantidade": 4750.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 27
+    }
+  ],
+  "apelido": "CONDOMÍNIO EDIFÍCIO ATLANTA OFFICE CENTER"
+}

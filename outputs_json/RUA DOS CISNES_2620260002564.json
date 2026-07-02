@@ -1,0 +1,795 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620260002564",
+    "numero_art": "2620260202054",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893",
+    "empresa_contratada": "THI ENGENHARIA E ARQUITETURA LTDA",
+    "contratante": "Subprefeitura Jabaquara",
+    "cnpj_contratante": "05.659.015/0001-80",
+    "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM ENGENHARIA PARA EXECUÇÃO DE SERVIÇOS COMUNS DE REVITALIZAÇÃO DE ÁREA PÚBLICA",
+    "processo_administrativo": "6042.2024/0002589-7",
+    "contrato": "15/SUB-JA/2024",
+    "endereco_obra": "Rua dos Cisnes, S/N",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2024-10-21",
+    "data_fim": "2025-03-19",
+    "area_m2": 300.0,
+    "valor_contrato": 672677.94
+  },
+  "servicos": [
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "1.1",
+      "fonte": null,
+      "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "1.2",
+      "fonte": null,
+      "descricao": "CARGA MANUAL E REMOÇÃO DE ENTULHO, INCLUSIVE TRANSPORTE ATÉ 1 KM",
+      "unidade": "M3",
+      "quantidade": 130.18,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "1.3",
+      "fonte": null,
+      "descricao": "TRANSPORTE DE ENTULHO POR CAMINHÃO BASCULANTE, A PARTIR DE 1KM",
+      "unidade": "M3XKM",
+      "quantidade": 1282.26,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "1.4",
+      "fonte": null,
+      "descricao": "RETIRADA DE ALAMBRADO EM TELA INCLUSIVE ESTRUTURA DE SUSTENTAÇÃO (FP.04)",
+      "unidade": "M",
+      "quantidade": 79.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "1.5",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO DE ALVENARIA EM GERAL (TIJOLOS OU BLOCOS)",
+      "unidade": "M3",
+      "quantidade": 3.84,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "1.5.1",
+      "fonte": null,
+      "descricao": "TRADO MANUAL",
+      "unidade": "M",
+      "quantidade": 17.4,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "1.5.2",
+      "fonte": null,
+      "descricao": "MOBILIZAÇÃO E INSTALAÇÃO DE 1 EQUIPAMENTO PARA EXECUÇÃO DE SONDAGEM A PERCUSSÃO",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "1.5.3",
+      "fonte": null,
+      "descricao": "RETIRADA DE PISO INTERTRAVADO",
+      "unidade": "M2",
+      "quantidade": 90.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "1.5.4",
+      "fonte": null,
+      "descricao": "PROJETO BÁSICO (PRANCHA A1)",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "1.5.5",
+      "fonte": null,
+      "descricao": "DEMOLIÇÃO MECANIZADA DE CONCRETO ARMADO",
+      "unidade": "M3",
+      "quantidade": 11.2,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "1.5.6",
+      "fonte": null,
+      "descricao": "RETROESCAVADEIRA CAP CAÇAMBA FRONTAL 0,76M3",
+      "unidade": "H",
+      "quantidade": 40.0,
+      "pagina_pdf": 3,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "1.5.7",
+      "fonte": null,
+      "descricao": "PARECER TÉCNICO DE FUNDAÇÃO PARA ÁREA CONSTRUÍDA ATÉ 2000M2",
+      "unidade": "GL",
+      "quantidade": 1.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "FUNDAÇÃO, ESTRUTURAS E FECHAMENTOS",
+      "codigo": "2.1",
+      "fonte": null,
+      "descricao": "HD.23 - ESCAVAÇÃO MANUAL, PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
+      "unidade": "M3",
+      "quantidade": 56.8,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "FUNDAÇÃO, ESTRUTURAS E FECHAMENTOS",
+      "codigo": "2.2",
+      "fonte": null,
+      "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
+      "unidade": "M2",
+      "quantidade": 196.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "FUNDAÇÃO, ESTRUTURAS E FECHAMENTOS",
+      "codigo": "2.4",
+      "fonte": null,
+      "descricao": "FORMA COMUM DE TÁBUAS DE PINUS",
+      "unidade": "M2",
+      "quantidade": 14.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "FUNDAÇÃO, ESTRUTURAS E FECHAMENTOS",
+      "codigo": "2.5",
+      "fonte": null,
+      "descricao": "LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 9.8,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "FUNDAÇÃO, ESTRUTURAS E FECHAMENTOS",
+      "codigo": "2.6.1",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-50",
+      "unidade": "KG",
+      "quantidade": 1568.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "FUNDAÇÃO, ESTRUTURAS E FECHAMENTOS",
+      "codigo": "2.6.2",
+      "fonte": null,
+      "descricao": "ARMADURA EM AÇO CA-60 - TELA",
+      "unidade": "KG",
+      "quantidade": 611.52,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "FUNDAÇÃO, ESTRUTURAS E FECHAMENTOS",
+      "codigo": "2.6.3",
+      "fonte": null,
+      "descricao": "CONCRETO FCK = 30,0MPA - USINADO E BOMBEÁVEL",
+      "unidade": "M3",
+      "quantidade": 39.2,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "FUNDAÇÃO, ESTRUTURAS E FECHAMENTOS",
+      "codigo": "2.6.4",
+      "fonte": null,
+      "descricao": "IMPERMEABILIZAÇÃO DO RESPALDO DA FUNDAÇÃO - ARGAMASSA IMPERMEÁVEL",
+      "unidade": "M2",
+      "quantidade": 11.2,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "FUNDAÇÃO, ESTRUTURAS E FECHAMENTOS",
+      "codigo": "2.9",
+      "fonte": null,
+      "descricao": "VB.02 - ALVENARIA EM BLOCOS DE CONCRETO ESTRUTURAL 19 X 19 X 39CM - 14MPA",
+      "unidade": "M2",
+      "quantidade": 260.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "FUNDAÇÃO, ESTRUTURAS E FECHAMENTOS",
+      "codigo": "2.9.1",
+      "fonte": null,
+      "descricao": "VB.02 - CONCRETO \"GROUT\"",
+      "unidade": "M3",
+      "quantidade": 17.75,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "FUNDAÇÃO, ESTRUTURAS E FECHAMENTOS",
+      "codigo": "2.9.2",
+      "fonte": null,
+      "descricao": "VB.02 - ARMADURA EM AÇO CA-50 PARA BLOCOS VAZADOS DE CONCRETO ESTRUTURAL",
+      "unidade": "KG",
+      "quantidade": 485.05,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "FUNDAÇÃO, ESTRUTURAS E FECHAMENTOS",
+      "codigo": "2.11",
+      "fonte": null,
+      "descricao": "VA.01 - ELEMENTOS VAZADOS DE TIJOLOS CERÂMICOS",
+      "unidade": "M2",
+      "quantidade": 52.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "FUNDAÇÃO, ESTRUTURAS E FECHAMENTOS",
+      "codigo": "2.12",
+      "fonte": null,
+      "descricao": "FORNECIMENTO DE ESTRUTURA METÁLICA PARA COBERTURA",
+      "unidade": "KG",
+      "quantidade": 2087.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "FUNDAÇÃO, ESTRUTURAS E FECHAMENTOS",
+      "codigo": "2.13",
+      "fonte": null,
+      "descricao": "MONTAGEM DE ESTRUTURA METÁLICA PARA COBERTURA",
+      "unidade": "KG",
+      "quantidade": 2087.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "FUNDAÇÃO, ESTRUTURAS E FECHAMENTOS",
+      "codigo": "2.14.1",
+      "fonte": null,
+      "descricao": "TELHA TRAPEZOIDAL DUPLA EM AÇO GALVANIZADO - E= 0,8MM, REVESTIMENTO B, H=40MM - PINTADA 1 FACE - MIOLO EM POLIURETANO E=30MM",
+      "unidade": "M2",
+      "quantidade": 169.0,
+      "pagina_pdf": 4,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": null,
+      "codigo": "2.15",
+      "fonte": null,
+      "descricao": "DY.01 - CUMEEIRA TRAPEZOIDAL EM AÇO GALVANIZADO ESP=0,5MM, REVESTIMENTO B, H=40MM, L=0,60 M",
+      "unidade": "M",
+      "quantidade": 13.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "2.16",
+      "fonte": null,
+      "descricao": "DY.01 CALHA EM CHAPA DE AÇO GALVANIZADO N.24 DESENVOLVIMENTO 50CM",
+      "unidade": "M",
+      "quantidade": 26.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "2.17",
+      "fonte": null,
+      "descricao": "CONDUTOR EM TUBO DE PVC RÍGIDO, PONTA E BOLSA - 200MM (8\")",
+      "unidade": "M",
+      "quantidade": 40.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": null,
+      "codigo": "2.18",
+      "fonte": null,
+      "descricao": "HA.01 - CAIXA DE LIGAÇÃO OU INSPEÇÃO ESCAVAÇÃO E APILOAMENTO",
+      "unidade": "M3",
+      "quantidade": 0.86,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": null,
+      "codigo": "2.19",
+      "fonte": null,
+      "descricao": "HA.01 CAIXA DE LIGAÇÃO OU INSPEÇÃO LAStro DE CONCRETO (FUNDO)",
+      "unidade": "M3",
+      "quantidade": 0.07,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": null,
+      "codigo": "2.20",
+      "fonte": null,
+      "descricao": "HA.01 - CAIXA DE LIGAÇÃO OU INSPEÇÃO - ALVENARIA DE 1/2 TIJOLO, REVESTIDA",
+      "unidade": "M2",
+      "quantidade": 4.8,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": null,
+      "codigo": "2.21",
+      "fonte": null,
+      "descricao": "HA.01 CAIXA DE LIGAÇÃO OU INSPEÇÃO - TAMPA DE CONCRETO",
+      "unidade": "M2",
+      "quantidade": 1.44,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": null,
+      "codigo": "2.22",
+      "fonte": null,
+      "descricao": "HV.22/23 CANALETA DE ALVENARIA PARA GRELHA OU TAMPA DE CONCRETO L=40CM",
+      "unidade": "M",
+      "quantidade": 56.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": null,
+      "codigo": "2.23",
+      "fonte": null,
+      "descricao": "HC.04 TAMPA DE CONCRETO PARA CANALETA DE A.P.L=0,40M",
+      "unidade": "M",
+      "quantidade": 56.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": null,
+      "codigo": "2.24",
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 1171.7,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": null,
+      "codigo": "2.24.1",
+      "fonte": null,
+      "descricao": "PINTURA COM SELADOR PARA TINTA ACRILICA",
+      "unidade": "M2",
+      "quantidade": 520.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": null,
+      "codigo": "2.25",
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO ESQUADRIAS E PEÇAS DE SERRALHERIA",
+      "unidade": "M2",
+      "quantidade": 37.02,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": null,
+      "codigo": "2.26",
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO - ESTRUTURAS METÁLICAS",
+      "unidade": "M2",
+      "quantidade": 169.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": null,
+      "codigo": "2.27",
+      "fonte": null,
+      "descricao": "ESMALTE SINTÉTICO EXTERIOR DE CALHAS, RUFOS E CONDUTORES",
+      "unidade": "M",
+      "quantidade": 26.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": null,
+      "codigo": "2.28",
+      "fonte": null,
+      "descricao": "PP.25/34 PORTÃO EM FERRO PERFILADO COM CHAPA, 2 FOLHAS",
+      "unidade": "M2",
+      "quantidade": 37.02,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "3.1",
+      "fonte": null,
+      "descricao": "ELETRODUTO DE AÇO GALVANIZADO ELETROLÍTICO, TIPO LEVE I - 3/4\"",
+      "unidade": "M",
+      "quantidade": 140.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "3.2",
+      "fonte": null,
+      "descricao": "CABO 6,00MM2 ISOLAMENTO PARA 0,7KV - CLASSE 4 - FLEXÍVEL",
+      "unidade": "M",
+      "quantidade": 870.0,
+      "pagina_pdf": 5,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "3.3",
+      "fonte": null,
+      "descricao": "QUADRO DE DISTRIBUIÇÃO EM CHAPA METÁLICA - PARA ATÉ 16 DISJUNTORES",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "3.4",
+      "fonte": null,
+      "descricao": "CAIXA DE PASSAGEM TIPO CONDULETE - 3/4\"",
+      "unidade": "UN",
+      "quantidade": 65.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "3.5.1",
+      "fonte": null,
+      "descricao": "PONTO COM TOMADA SIMPLES 110/220V - EM CONDULETE 3/4\"",
+      "unidade": "UN",
+      "quantidade": 10.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "3.5.2",
+      "fonte": null,
+      "descricao": "PONTO COM INTERRUPTOR SIMPLES - 2 TECLAS, EM CONDULETE 3/4\"",
+      "unidade": "UN",
+      "quantidade": 3.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "3.6",
+      "fonte": null,
+      "descricao": "MINI DISJUNTOR - TIPO EUROPEU (IEC) - BIPOLAR 32/50A",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "3.6.1",
+      "fonte": null,
+      "descricao": "MINI DISJUNTOR - TIPO EUROPEU (IEC) - UNIPOLAR 32/50A",
+      "unidade": "UN",
+      "quantidade": 4.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "3.6.2",
+      "fonte": null,
+      "descricao": "MINI DISJUNTOR - TIPO EUROPEU (IEC) - BIPOLAR 80A",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "3.7",
+      "fonte": null,
+      "descricao": "PROJETOR DE ALUMÍNIO REPUXADO COM VIDRO PARA LÂMPADA ATÉ 400W",
+      "unidade": "UN",
+      "quantidade": 16.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "3.9",
+      "fonte": null,
+      "descricao": "TOMADA DE TERRA COMPLETA",
+      "unidade": "UN",
+      "quantidade": 6.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "3.10",
+      "fonte": null,
+      "descricao": "BARRA CHATA DE ALUMÍNIO TIPO FITA 1/4\" X 3/4\"",
+      "unidade": "M",
+      "quantidade": 127.2,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "3.10.1",
+      "fonte": null,
+      "descricao": "CABO DE COBRE NÚ, PARA ATERRAMENTO - 50,00MM2",
+      "unidade": "M",
+      "quantidade": 48.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "INSTALAÇÕES ELÉTRICAS",
+      "codigo": "3.10.2",
+      "fonte": null,
+      "descricao": "TUBO DE PVC PARA PROTEÇÃO DE CORDOALHA - 2\"X3M",
+      "unidade": "UN",
+      "quantidade": 12.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRÁULICAS",
+      "codigo": "4.1",
+      "fonte": null,
+      "descricao": "ENVELOPAMENTO DE TUBULAÇÃO ENTERRADA, COM CONCRETO",
+      "unidade": "M",
+      "quantidade": 20.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRÁULICAS",
+      "codigo": "4.2",
+      "fonte": null,
+      "descricao": "HD.21 - REGISTRO DE GAVETA, METAL AMARELO - 3/4\"",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 14
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRÁULICAS",
+      "codigo": "4.3",
+      "fonte": null,
+      "descricao": "HD.21 TUBO DE PVC RÍGIDO, SOLDÁVEL (LINHA ÁGUA) - 25MM (3/4\")",
+      "unidade": "M",
+      "quantidade": 30.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 15
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRÁULICAS",
+      "codigo": "4.4",
+      "fonte": null,
+      "descricao": "TUBO DE PVC RÍGIDO, PONTA E BOLSA (LINHA ESGOTO) - 100MM (4\")",
+      "unidade": "M",
+      "quantidade": 50.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 16
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRÁULICAS",
+      "codigo": "4.6",
+      "fonte": null,
+      "descricao": "TORNEIRA DE PRESSÃO PARA PIA, COM CORPO LONGO E AERADOR - 3/4\"",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 17
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRÁULICAS",
+      "codigo": "4.7",
+      "fonte": null,
+      "descricao": "MR.12 - TAMPO PARA BANCADA ÚMIDA - GRANITO CINZA MAUA POLIDO ESPESSURA 2CM",
+      "unidade": "M2",
+      "quantidade": 2.4,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 18
+    },
+    {
+      "grupo": "INSTALAÇÕES HIDRÁULICAS",
+      "codigo": "4.7.1",
+      "fonte": null,
+      "descricao": "MX.05/06 CUBA SIMPLES DE AÇO INOXIDÁVEL CHAPA 20 500X400X200MM",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 6,
+      "ordem_na_pagina": 19
+    },
+    {
+      "grupo": null,
+      "codigo": "4.7.2",
+      "fonte": null,
+      "descricao": "BACIA SANITÁRIA SIFONADA, DE LOUÇA BRANCA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "4.7.3",
+      "fonte": null,
+      "descricao": "LAVATÓRIO DE LOUÇA BRANCA, SEM COLUNA, CAPACIDADE MÍNIMA 5L, EXCLUSIVE TORNEIRA",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 2
+    },
+    {
+      "grupo": null,
+      "codigo": "4.7.4",
+      "fonte": null,
+      "descricao": "TORNEIRA DE PRESSÃO PARA PIA, COM CORPO LONGO E AERADOR - 3/4\"",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 3
+    },
+    {
+      "grupo": "PISOS",
+      "codigo": "5.1.2",
+      "fonte": null,
+      "descricao": "NC.28 PISO DE CONCRETO INTERTRAVADO DRENANTE, ESPESSURA 8CM",
+      "unidade": "M2",
+      "quantidade": 87.5,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 4
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "6.1",
+      "fonte": null,
+      "descricao": "BOMBEAMENTO DE CONCRETO",
+      "unidade": "M3",
+      "quantidade": 50.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 5
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "6.2",
+      "fonte": null,
+      "descricao": "ANDAIMES METÁLICOS FORNECIMENTO",
+      "unidade": "M3xMÊS",
+      "quantidade": 180.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 6
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "6.3",
+      "fonte": null,
+      "descricao": "ANDAIMES METÁLICOS - MONTAGEM E DESMONTAGEM",
+      "unidade": "M3",
+      "quantidade": 180.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 7
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "6.6",
+      "fonte": null,
+      "descricao": "FV.12/14 MURETA DE ARRIMO EM BLOCOS DE CONCRETO, H=1,00 M",
+      "unidade": "M",
+      "quantidade": 35.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 8
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "6.6.1",
+      "fonte": null,
+      "descricao": "HD.23 TUBO DE PEAD CORRUGADO E PERFURADO PARA DRENAGEM DIÂMETRO 4,0\" (EM ACORDO COM AS NORMAS DNIT 093/06, NBR 15073 E NBR 14692)",
+      "unidade": "M",
+      "quantidade": 35.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 9
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "6.6.2",
+      "fonte": null,
+      "descricao": "HD.23 - LASTRO DE BRITA",
+      "unidade": "M3",
+      "quantidade": 1.4,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 10
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "6.7",
+      "fonte": null,
+      "descricao": "FP.03 - ALAMBRADO PARA QUADRAS DE ESPORTE - GP.6/EDIF - TG/4,5M",
+      "unidade": "M",
+      "quantidade": 79.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 11
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "6.8",
+      "fonte": null,
+      "descricao": "TINTA ACRÍLICA CONCRETO OU REBOCO SEM MASSA CORRIDA",
+      "unidade": "M2",
+      "quantidade": 42.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 12
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "7.1",
+      "fonte": null,
+      "descricao": "ENGENHEIRO/ ARQUITETO PLENO",
+      "unidade": "H",
+      "quantidade": 178.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 13
+    },
+    {
+      "grupo": "SERVIÇOS COMPLEMENTARES",
+      "codigo": "7.2",
+      "fonte": null,
+      "descricao": "ENCARREGADO",
+      "unidade": "H",
+      "quantidade": 514.0,
+      "pagina_pdf": 7,
+      "ordem_na_pagina": 14
+    }
+  ],
+  "apelido": "RUA DOS CISNES"
+}

@@ -1,0 +1,45 @@
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "SZC-21590",
+    "numero_art": "9222122010177880",
+    "profissional": "MANOELSON MACEDO DE SOUZA",
+    "registro_crea": "5062126893",
+    "empresa_contratada": "THI Engenharia e Arquitetura Ltda.",
+    "contratante": "Prefeitura do Município de São Paulo - Subprefeitura Vila Prudente/Sapopemba.",
+    "cnpj_contratante": null,
+    "objeto": "Execução de muro de arrimo, em área pública localizada na Rua Rogerio Hermita Calvo.",
+    "processo_administrativo": null,
+    "contrato": null,
+    "endereco_obra": "Rua Rogério Hermita Calvo, 71",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_inicio": "2008-12-17",
+    "data_fim": "2008-12-31",
+    "area_m2": null,
+    "valor_contrato": 14869.13
+  },
+  "servicos": [
+    {
+      "grupo": "EDIF/SIURB",
+      "codigo": "17-01-70",
+      "fonte": null,
+      "descricao": "MURO DE ARRIMO H=1,40M, COM DRENAGEM - CONF DET EDIF",
+      "unidade": "M",
+      "quantidade": 13.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    },
+    {
+      "grupo": null,
+      "codigo": "17-04-01",
+      "fonte": null,
+      "descricao": "LIMPEZA GERAL DA OBRA",
+      "unidade": "M2",
+      "quantidade": 19.5,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 2
+    }
+  ],
+  "apelido": "HERMITA CALVO"
+}
