@@ -1,2 +1,28 @@
+# Pastas de dados pesados
 sources_pdf/
 pdfs_normalizados/
+debug_errors/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# Node / Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/.env.local
+frontend/out/
+
+# Backend env
+backend/.env
+
+# Sistema
+.DS_Store
+Thumbs.db
