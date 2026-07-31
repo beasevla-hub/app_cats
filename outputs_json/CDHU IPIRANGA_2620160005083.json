@@ -455,7 +455,7 @@
       "codigo": "ATI 01",
       "fonte": null,
       "descricao": "MULTI-EXERCITADOR CONJUGADO COM 6 (SEIS) FUNÇÕES DISTINTAS, SENDO: 1°) Flexor de Fernas; 2°) Extensor de Pernas; 3°) Supino Reto Sentado; 4°) Supino Inclinado Sentado; 5°) Rotação Vertical Individual; 6°) Puxada Alta.",
-      "unidade": "Equipamento",
+      "unidade": "EQUIPAMENTO",
       "quantidade": 1.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 25
@@ -465,7 +465,7 @@
       "codigo": "ATI 03",
       "fonte": null,
       "descricao": "SIMULADOR DE CAVALGADA TRIPLO CONJUGADO.",
-      "unidade": "Equipamento",
+      "unidade": "EQUIPAMENTO",
       "quantidade": 1.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 26
@@ -475,7 +475,7 @@
       "codigo": "ATI 03",
       "fonte": null,
       "descricao": "SIMULADOR DE CAVALGADA TRIPLO CONJUGADO.",
-      "unidade": "Equipamento",
+      "unidade": "EQUIPAMENTO",
       "quantidade": 1.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 27
@@ -485,7 +485,7 @@
       "codigo": "ATI 07",
       "fonte": null,
       "descricao": "SIMULADOR DE CAMINHADA TRIPLO CONJUGADO",
-      "unidade": "Equipamento",
+      "unidade": "EQUIPAMENTO",
       "quantidade": 1.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 28
@@ -495,7 +495,7 @@
       "codigo": "ATI 09",
       "fonte": null,
       "descricao": "ESQUI TRIPLO CONJUGADO",
-      "unidade": "Equipamento",
+      "unidade": "EQUIPAMENTO",
       "quantidade": 1.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 29
@@ -505,7 +505,7 @@
       "codigo": "ATI 11",
       "fonte": null,
       "descricao": "ROTAÇÃO VERTICAL - APARELHO TRIPLO CONJUGADO",
-      "unidade": "Equipamento",
+      "unidade": "EQUIPAMENTO",
       "quantidade": 1.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 30
@@ -515,7 +515,7 @@
       "codigo": "ATI 13",
       "fonte": null,
       "descricao": "ROTAÇÃO DIAGONAL DUPLA - APARELHO TRIPLO CONJUGADO",
-      "unidade": "Equipamento",
+      "unidade": "EQUIPAMENTO",
       "quantidade": 1.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 31
@@ -525,7 +525,7 @@
       "codigo": "ATI 16",
       "fonte": null,
       "descricao": "SIMULADOR DE REMO",
-      "unidade": "Equipamento",
+      "unidade": "EQUIPAMENTO",
       "quantidade": 1.0,
       "pagina_pdf": 4,
       "ordem_na_pagina": 1

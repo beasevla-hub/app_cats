@@ -345,7 +345,7 @@
       "codigo": "08-53-00",
       "fonte": null,
       "descricao": "CORTE DE PERFIL DE AÇO 10'",
-      "unidade": "UM",
+      "unidade": "UN",
       "quantidade": 19.0,
       "pagina_pdf": 4,
       "ordem_na_pagina": 5
@@ -555,7 +555,7 @@
       "codigo": "18-03-15",
       "fonte": null,
       "descricao": "CLOROFITO (CLOROPHYTUM CROMOSSUM)",
-      "unidade": "DUZIA",
+      "unidade": "DZ",
       "quantidade": 90.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 6
@@ -565,7 +565,7 @@
       "codigo": "18-03-23",
       "fonte": null,
       "descricao": "MARIA SEM VERGONHA (IMPATIENS SSP)",
-      "unidade": "DUZIA",
+      "unidade": "DZ",
       "quantidade": 70.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 7

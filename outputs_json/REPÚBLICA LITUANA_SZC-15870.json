@@ -55,7 +55,7 @@
       "codigo": "01-25-00",
       "fonte": null,
       "descricao": "CADASTRO E AMARRAÇÃO DE BOCA DE LOBO OU LEÃO",
-      "unidade": "UNID",
+      "unidade": "UN",
       "quantidade": 7.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 4
@@ -65,7 +65,7 @@
       "codigo": "01-26-00",
       "fonte": null,
       "descricao": "CADASTRO E AMARRAÇÃO DE PV",
-      "unidade": "UNID",
+      "unidade": "UN",
       "quantidade": 12.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 5
@@ -85,7 +85,7 @@
       "codigo": "03-20-00",
       "fonte": null,
       "descricao": "CÓPIA XEROX EM TAMANHO OFICIO, UMA FACE, PRETO E BRANCO",
-      "unidade": "UNID",
+      "unidade": "UN",
       "quantidade": 4.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 7
@@ -95,7 +95,7 @@
       "codigo": "03-52-00",
       "fonte": null,
       "descricao": "SERVIÇO DE PLOTAGEM EM PAPEL SULFITE, TAMANHO A1, PRETO E BRANCO",
-      "unidade": "UNID",
+      "unidade": "UN",
       "quantidade": 4.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 1

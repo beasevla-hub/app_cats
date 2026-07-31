@@ -45,7 +45,7 @@
       "codigo": null,
       "fonte": "EDIF",
       "descricao": "ANDAIMES METÁLICOS - FORNECIMENTO",
-      "unidade": "M3x MÊS",
+      "unidade": "M3XMES",
       "quantidade": 450.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 3
@@ -635,7 +635,7 @@
       "codigo": null,
       "fonte": "EDIF",
       "descricao": "ANDAIMES METÁLICOS - FORNECIMENTO",
-      "unidade": "M3x MÊS",
+      "unidade": "M3XMES",
       "quantidade": 450.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 3

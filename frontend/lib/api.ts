@@ -29,8 +29,23 @@ export interface PaginatedServicos {
   items: Servico[];
 }
 
+export interface ServicosQueryParams {
+  busca?: string;
+  grupo?: string;
+  unidade?: string;
+  contratante?: string;
+  numero_cat?: string;
+  apelido?: string;
+  ano_inicio?: number;
+  ano_fim?: number;
+  ordenar_quantidade?: "asc" | "desc";
+  page?: number;
+  page_size?: number;
+}
+
 export interface Cat {
   id: number;
+  tipo_documento?: string | null;
   numero_cat: string | null;
   apelido: string | null;
   contratante: string | null;
@@ -44,6 +59,65 @@ export interface Cat {
   total_servicos: number | null;
 }
 
+export interface CatsQueryParams {
+  busca?: string;
+  objeto?: string;
+  contratante?: string;
+  cidade?: string;
+  ano_inicio?: number;
+  ano_fim?: number;
+  skip?: number;
+  limit?: number;
+}
+
+export interface ServicoDetalhe {
+  grupo: string | null;
+  codigo: string | null;
+  fonte: string | null;
+  descricao: string | null;
+  unidade: string | null;
+  quantidade: number | null;
+  pagina_pdf: number | null;
+  ordem_na_pagina: number | null;
+}
+
+export interface CatDetalhe extends Cat {
+  tipo_documento: string | null;
+  numero_art: string | null;
+  profissional: string | null;
+  registro_crea: string | null;
+  empresa_contratada: string | null;
+  cnpj_contratante: string | null;
+  processo_administrativo: string | null;
+  contrato: string | null;
+  endereco_obra: string | null;
+  servicos: ServicoDetalhe[];
+  created_at: string | null;
+}
+
+export interface CatUpdatePayload {
+  tipo_documento: string | null;
+  numero_cat: string | null;
+  numero_art: string | null;
+  profissional: string | null;
+  registro_crea: string | null;
+  empresa_contratada: string | null;
+  contratante: string | null;
+  cnpj_contratante: string | null;
+  objeto: string | null;
+  processo_administrativo: string | null;
+  contrato: string | null;
+  endereco_obra: string | null;
+  cidade: string | null;
+  estado: string | null;
+  data_inicio: string | null;
+  data_fim: string | null;
+  area_m2: number | null;
+  valor_contrato: number | null;
+  apelido: string | null;
+  servicos: ServicoDetalhe[];
+}
+
 export interface DashboardStats {
   total_cats: number;
   total_servicos: number;
@@ -55,7 +129,7 @@ export interface DashboardStats {
   top_contratantes: { contratante: string; total: number }[];
 }
 
-export const fetchServicos = (params: Record<string, unknown>) =>
+export const fetchServicos = (params: ServicosQueryParams) =>
   api.get<PaginatedServicos>("/servicos", { params }).then((r) => r.data);
 
 export const fetchGrupos = () =>
@@ -64,8 +138,14 @@ export const fetchGrupos = () =>
 export const fetchUnidades = () =>
   api.get<string[]>("/servicos/unidades").then((r) => r.data);
 
-export const fetchCats = (params?: Record<string, unknown>) =>
+export const fetchCats = (params?: CatsQueryParams) =>
   api.get<Cat[]>("/cats", { params }).then((r) => r.data);
+
+export const fetchCatById = (id: number) =>
+  api.get<CatDetalhe>(`/cats/${id}`).then((r) => r.data);
+
+export const updateCatById = (id: number, payload: CatUpdatePayload) =>
+  api.put<CatDetalhe>(`/cats/${id}`, payload).then((r) => r.data);
 
 export const fetchDashboard = () =>
   api.get<DashboardStats>("/dashboard/stats").then((r) => r.data);

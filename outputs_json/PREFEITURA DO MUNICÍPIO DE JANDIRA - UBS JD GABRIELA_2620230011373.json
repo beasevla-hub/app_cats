@@ -245,7 +245,7 @@
       "codigo": "4.1.3",
       "fonte": "AF_12/2015",
       "descricao": "ARMAÇÃO DE PILAR OU VIGA DE UMA ESTRUTURA CONVENCIONAL DE CONCRETO ARMADO EM UMA EDIFICAÇÃO TÉRREA OU SOBRADO UTILIZANDO AÇO CA-60 DE 5,0 MM- MONTAGEM.",
-      "unidade": "kG",
+      "unidade": "KG",
       "quantidade": 11.52,
       "pagina_pdf": 5,
       "ordem_na_pagina": 1
@@ -385,7 +385,7 @@
       "codigo": "6.2.3",
       "fonte": null,
       "descricao": "AL-01 ABRIGO PARA LIXO",
-      "unidade": "UNID",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 6,
       "ordem_na_pagina": 7
@@ -485,7 +485,7 @@
       "codigo": "7.3.6",
       "fonte": null,
       "descricao": "ACO CA 50 (A OU B) FYK= 500 M PA",
-      "unidade": "kG",
+      "unidade": "KG",
       "quantidade": 6.56,
       "pagina_pdf": 7,
       "ordem_na_pagina": 5

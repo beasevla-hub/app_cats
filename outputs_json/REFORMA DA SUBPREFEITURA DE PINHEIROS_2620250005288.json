@@ -65,7 +65,7 @@
       "codigo": null,
       "fonte": null,
       "descricao": "ANDAIMES METALICOS - FORNECIMENTO",
-      "unidade": "M3xMÊS",
+      "unidade": "M3XMES",
       "quantidade": 324.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 5
@@ -2065,7 +2065,7 @@
       "codigo": null,
       "fonte": null,
       "descricao": "MARIA SEM VERGONHA (IMPATIENS SPP)",
-      "unidade": "DUZIA",
+      "unidade": "DZ",
       "quantidade": 50.0,
       "pagina_pdf": 6,
       "ordem_na_pagina": 32

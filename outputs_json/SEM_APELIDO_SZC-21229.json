@@ -65,7 +65,7 @@
       "codigo": "01-03-10",
       "fonte": null,
       "descricao": "TRANSPORTE POR CAMINHÃO BASCULANTE, A PARTIR DE 1KM",
-      "unidade": "M3XK",
+      "unidade": "M3XKM",
       "quantidade": 25815.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 5
@@ -255,7 +255,7 @@
       "codigo": "18-14-08",
       "fonte": null,
       "descricao": "ESCORREGADOR COMP=3,00 H=1,80-ESTRUTURA METÁLICA",
-      "unidade": "UND",
+      "unidade": "UN",
       "quantidade": 2.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 16
@@ -265,7 +265,7 @@
       "codigo": "18-14-11",
       "fonte": null,
       "descricao": "GANGORRA COM 3 PRANCHAS COMPR=3,00M H=0,70M- ESTRUTURA",
-      "unidade": "UND",
+      "unidade": "UN",
       "quantidade": 2.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 17
@@ -275,7 +275,7 @@
       "codigo": "18.14.15",
       "fonte": null,
       "descricao": "BALANÇO DE 3 LUGARES COMPNEUS COMPR=4,50M H=2,50M ESTRUTURA METÁLICA",
-      "unidade": "UND",
+      "unidade": "UN",
       "quantidade": 2.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 18
@@ -305,7 +305,7 @@
       "codigo": "18-80-01",
       "fonte": null,
       "descricao": "REVOLVIMENTO E AJUSTE DO SOLO",
-      "unidade": "und",
+      "unidade": "UN",
       "quantidade": 225.6,
       "pagina_pdf": 4,
       "ordem_na_pagina": 1

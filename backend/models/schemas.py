@@ -57,6 +57,29 @@ class CatResponse(CatBase):
 class CatDetalhe(CatResponse):
     servicos: List[ServicoBase] = []
 
+
+class CatUpdatePayload(BaseModel):
+    tipo_documento: Optional[str] = None
+    numero_cat: Optional[str] = None
+    numero_art: Optional[str] = None
+    profissional: Optional[str] = None
+    registro_crea: Optional[str] = None
+    empresa_contratada: Optional[str] = None
+    contratante: Optional[str] = None
+    cnpj_contratante: Optional[str] = None
+    objeto: Optional[str] = None
+    processo_administrativo: Optional[str] = None
+    contrato: Optional[str] = None
+    endereco_obra: Optional[str] = None
+    cidade: Optional[str] = None
+    estado: Optional[str] = None
+    data_inicio: Optional[date] = None
+    data_fim: Optional[date] = None
+    area_m2: Optional[float] = None
+    valor_contrato: Optional[float] = None
+    apelido: Optional[str] = None
+    servicos: List[ServicoBase] = []
+
 class DashboardStats(BaseModel):
     total_cats: int
     total_servicos: int

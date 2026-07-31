@@ -65,7 +65,7 @@
       "codigo": "02.02.120",
       "fonte": null,
       "descricao": "Locação de container tipo alojamento - área mínima de 13,80 m²",
-      "unidade": "UNIMES",
+      "unidade": "UNXMES",
       "quantidade": 3.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 2
@@ -75,7 +75,7 @@
       "codigo": "02.02.140",
       "fonte": null,
       "descricao": "Locação de container tipo sanitário com 2 vasos sanitários, 2 lavatórios, 2 mictórios e 4 pontos para chuveiro - área mínima de 13,80 m²",
-      "unidade": "UNIMES",
+      "unidade": "UNXMES",
       "quantidade": 3.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 3
@@ -165,7 +165,7 @@
       "codigo": "00-00-01",
       "fonte": null,
       "descricao": "TAXA DESCARTE RESÍDUOS SÓLIDOS",
-      "unidade": "TON",
+      "unidade": "T",
       "quantidade": 132.61,
       "pagina_pdf": 3,
       "ordem_na_pagina": 12
@@ -365,7 +365,7 @@
       "codigo": "00-00-01",
       "fonte": null,
       "descricao": "TAXA DESCARTE RESÍDUOS SÓLIDOS",
-      "unidade": "TON",
+      "unidade": "T",
       "quantidade": 11.29,
       "pagina_pdf": 4,
       "ordem_na_pagina": 17

@@ -1,0 +1,605 @@
+ESCOPO TÉCNICO DO PROJETO — SISTEMA DE ACERVOS / CATs / ATESTADOS
+1) Objetivo do projeto
+
+Quero construir uma aplicação web interna para gestão de acervos técnicos (CATs CREA e Atestados de Capacidade Técnica) da empresa.
+
+Hoje o acervo está controlado em uma planilha Excel grande (~16 mil linhas), alimentada manualmente ao longo dos anos. O objetivo é substituir essa planilha por um sistema web com:
+
+banco de dados estruturado;
+importação de PDFs de CAT/atestado;
+extração automática dos serviços de cada CAT via IA;
+pesquisa e filtros avançados;
+dashboard gerencial;
+visualização dos PDFs;
+no futuro, montagem semiautomática de acervo para licitações.
+
+O sistema será usado internamente pela empresa e deverá rodar em uma VPS, com múltiplos usuários acessando via navegador.
+
+2) Problema atual
+
+Hoje a empresa possui cerca de 250 PDFs de CATs/atestados e uma planilha Excel com cerca de 16.000 linhas de serviços.
+
+Problemas do cenário atual:
+
+pesquisa manual lenta;
+Excel limitado e difícil de manter;
+risco de esquecer CATs relevantes;
+dificuldade para montar acervo para licitações;
+informação distribuída em PDFs e planilha;
+crescimento contínuo da base;
+pouca rastreabilidade do vínculo entre item da planilha e documento original.
+3) Objetivo funcional do sistema
+
+O sistema deve permitir:
+
+3.1. Base central de acervos
+
+Cada CAT/atestado será armazenado como:
+
+PDF original
+metadados da CAT
+lista estruturada dos serviços executados
+3.2. Busca por serviços
+
+O usuário poderá buscar serviços como:
+
+armadura
+alvenaria
+drenagem
+concreto
+piso intertravado
+grama sintética
+muro de arrimo
+
+e encontrar todos os CATs que possuem esses serviços.
+
+3.3. Somatória de quantitativos
+
+O usuário poderá selecionar serviços e o sistema somará as quantidades disponíveis nos CATs.
+
+Exemplo:
+
+preciso comprovar 10.000 kg de armadura
+o sistema lista os CATs com armadura
+soma os quantitativos
+informa se atende ou não
+3.4. Abrir o PDF certo
+
+Ao clicar em um serviço, o sistema deve abrir o PDF do CAT na página correta onde o serviço aparece.
+
+3.5. Futuro highlight / grifo automático
+
+No futuro, quando o usuário escolher quais serviços quer usar no acervo de uma licitação, o sistema deverá:
+
+identificar os CATs selecionados;
+abrir os PDFs;
+grifar visualmente os serviços utilizados.
+4) Escopo do MVP
+
+O MVP deve ter 4 blocos principais:
+
+4.1. Importação e extração dos CATs
+
+Receber os PDFs e transformá-los em JSON estruturado.
+
+4.2. Banco de dados
+
+Salvar CATs, serviços e metadados em banco relacional.
+
+4.3. Interface web
+
+Dashboard + tela de consulta dos serviços + visualizador do PDF.
+
+4.4. Pesquisa e composição
+
+Permitir buscar serviços, filtrar, somar quantitativos e abrir o documento correspondente.
+
+5) Tipo de documento de entrada
+
+Os documentos de entrada são principalmente:
+
+CAT CREA
+Atestado de Capacidade Técnica
+documentos escaneados antigos
+documentos com carimbos, autenticações, selos e OCR ruim
+
+Há dois tipos principais:
+
+CATs novas, digitais, mais legíveis;
+CATs antigas escaneadas, muitas vezes com qualidade ruim.
+
+Por isso a extração não será baseada em OCR clássico puro; será baseada em modelo multimodal (Gemini 2.5 Flash via OpenRouter).
+
+6) Estratégia de extração
+6.1. O problema não é “OCR puro”
+
+O sistema não quer apenas “extrair texto do PDF”.
+
+Ele precisa extrair estrutura de acervo técnico, ou seja:
+
+dados da CAT;
+dados da obra;
+lista de serviços;
+unidade;
+quantidade;
+página do PDF em que o serviço aparece.
+6.2. Estratégia escolhida
+
+Usar Gemini 2.5 Flash via OpenRouter para ler o PDF e retornar um JSON estruturado.
+
+A extração será feita CAT por CAT.
+
+7) JSON padrão da extração
+
+O formato final da extração ficou definido assim:
+
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": null,
+    "numero_art": null,
+    "profissional": null,
+    "registro_crea": null,
+    "empresa_contratada": null,
+    "contratante": null,
+    "cnpj_contratante": null,
+    "objeto": null,
+    "processo_administrativo": null,
+    "contrato": null,
+    "endereco_obra": null,
+    "cidade": null,
+    "estado": null,
+    "data_inicio": null,
+    "data_fim": null,
+    "area_m2": null,
+    "valor_contrato": null
+  },
+  "servicos": [
+    {
+      "grupo": null,
+      "codigo": null,
+      "fonte": null,
+      "descricao": null,
+      "unidade": null,
+      "quantidade": null,
+      "pagina_pdf": null,
+      "ordem_na_pagina": null
+    }
+  ]
+}
+8) Significado dos campos
+8.1. Bloco cat
+
+Representa os metadados gerais do documento:
+
+numero_cat: número da CAT
+numero_art: ART associada
+profissional: responsável técnico
+registro_crea: CREA do profissional
+empresa_contratada: empresa executora
+contratante: cliente / órgão / contratante
+cnpj_contratante: CNPJ do contratante
+objeto: descrição da obra / objeto do contrato
+processo_administrativo: processo, se existir
+contrato: número do contrato, se existir
+endereco_obra: endereço da obra
+cidade: cidade
+estado: UF
+data_inicio: data de início no formato YYYY-MM-DD
+data_fim: data de término no formato YYYY-MM-DD
+area_m2: área total da obra, como número
+valor_contrato: valor do contrato, como número
+8.2. Bloco servicos
+
+Cada linha representa um serviço individual da CAT:
+
+grupo: grupo da tabela (ex.: DRENAGEM, ESTRUTURA, FUNDAÇÕES)
+codigo: código do item na tabela (ex.: 2.1, 03-02-09)
+fonte: SIURB / EDIF / INFRA / outra, se existir
+descricao: descrição exata do serviço
+unidade: unidade exata (M2, M3, KG, H, GL etc.)
+quantidade: quantitativo numérico
+pagina_pdf: página física do PDF em que o item aparece
+ordem_na_pagina: ordem visual do item naquela página
+9) Regras de extração definidas
+
+A IA deve obedecer estas regras:
+
+analisar todas as páginas do PDF;
+ignorar autenticações digitais, cartoriais, CENAD, carimbos, selos e textos jurídicos sem relevância técnica;
+extrair todos os serviços;
+não resumir;
+não agrupar serviços;
+não corrigir descrições;
+preservar descrição, unidade, código e grupo como aparecem;
+se um grupo continuar na página seguinte, os itens devem herdar o grupo anterior até aparecer um novo grupo;
+campos ausentes devem retornar null;
+quantidades, área e valor devem ser retornados como número;
+datas devem vir em YYYY-MM-DD.
+10) Prompt de extração do PDF
+
+O sistema já tem um prompt definido para mandar ao Gemini/OpenRouter. O comportamento esperado é:
+
+entrada: PDF de CAT/atestado;
+saída: JSON no schema acima.
+
+Esse prompt é a base da fase de ingestão da base histórica.
+
+11) Outra entrada paralela: planilha de apelidos / nomes internos
+
+Existe também uma lista manual com:
+
+número da CAT
+apelido interno / nome informal do atestado
+
+Exemplo:
+
+2620230014076 -> ARENAS INTER LTDA
+SZC-21230 -> SARGENTO EDESIO
+2620250002352 -> AV. JOSÉ JOAQUIM SEABRA
+
+Essa lista também será convertida para JSON, em um formato como:
+
+[
+  {
+    "numero_cat": "2620230014076",
+    "apelido": "ARENAS INTER LTDA"
+  }
+]
+
+Esses apelidos poderão ser vinculados às CATs no banco.
+
+12) Arquitetura geral do sistema
+12.1. Stack recomendada
+Backend
+Python
+FastAPI
+Banco de dados
+PostgreSQL
+Frontend
+React + Next.js
+ou
+React puro com uma biblioteca de UI
+ORM / acesso ao banco
+SQLAlchemy
+ou SQLModel
+Processamento assíncrono / filas
+
+Opcional no começo:
+
+Celery / RQ / background tasks do FastAPI
+Visualização de PDF
+pdf.js / react-pdf / viewer equivalente
+Infra
+Docker
+VPS Linux
+Nginx
+domínio próprio
+13) Estrutura de banco de dados sugerida
+13.1. Tabela cats
+
+Armazena o documento principal.
+
+Campos sugeridos:
+
+id
+tipo_documento
+numero_cat
+numero_art
+profissional
+registro_crea
+empresa_contratada
+contratante
+cnpj_contratante
+objeto
+processo_administrativo
+contrato
+endereco_obra
+cidade
+estado
+data_inicio
+data_fim
+area_m2
+valor_contrato
+apelido
+arquivo_pdf
+caminho_pdf
+created_at
+updated_at
+13.2. Tabela servicos
+
+Armazena cada linha de serviço vinculada a uma CAT.
+
+Campos sugeridos:
+
+id
+cat_id (FK para cats)
+grupo
+codigo
+fonte
+descricao
+unidade
+quantidade
+pagina_pdf
+ordem_na_pagina
+13.3. Tabela opcional aliases / apelidos
+
+Se quiser separar apelidos da CAT:
+
+id
+cat_id
+apelido
+origem
+13.4. Tabela opcional usuarios
+
+Para login:
+
+id
+nome
+email
+senha_hash
+perfil
+ativo
+14) Fluxo de ingestão da base
+14.1. Fase de carga histórica
+
+A empresa tem ~250 PDFs. O pipeline deve ser:
+
+listar todos os PDFs da pasta;
+enviar cada PDF para o Gemini 2.5 Flash;
+receber o JSON estruturado;
+validar o JSON;
+salvar o PDF original em storage;
+salvar os metadados da CAT na tabela cats;
+salvar cada serviço na tabela servicos;
+vincular apelidos da planilha, se houver correspondência.
+14.2. Validação do JSON
+
+Antes de gravar no banco:
+
+verificar se o JSON tem o schema correto;
+normalizar datas;
+normalizar números;
+tratar null;
+registrar logs de erro.
+15) Funcionalidades da aplicação web
+15.1. Dashboard
+
+Tela inicial com indicadores básicos que “chefe gosta de ver”.
+
+Sugestões:
+
+total de CATs
+total de serviços cadastrados
+total de contratantes
+total de órgãos
+área total executada
+valor total de contratos
+top contratantes
+top grupos de serviços
+top tipos de obra
+CATs por ano
+CATs por órgão / subprefeitura / cliente
+15.2. Tela principal de consulta
+
+Será o equivalente moderno da planilha Excel.
+
+Recursos:
+
+tabela com serviços;
+filtros;
+ordenação;
+paginação;
+exportação;
+busca por texto;
+filtro por CAT;
+filtro por contratante;
+filtro por grupo;
+filtro por unidade;
+filtro por período;
+filtro por cidade / órgão / responsável técnico.
+15.3. Tela de detalhe da CAT
+
+Ao clicar em uma CAT:
+
+mostrar metadados da CAT;
+mostrar todos os serviços daquele documento;
+botão para abrir o PDF.
+15.4. Visualizador de PDF
+
+Ao abrir o documento:
+
+exibir o PDF dentro do app;
+permitir navegar página por página;
+abrir diretamente na pagina_pdf do serviço clicado;
+no futuro, grifar o item.
+16) Funcionalidade principal de negócio: montagem de acervo
+
+Essa é a função mais importante do sistema no futuro.
+
+16.1. Cenário
+
+O usuário recebe um edital ou uma lista de itens necessários para comprovação técnica, por exemplo:
+
+armadura 10.000 kg
+concreto 250 m³
+alvenaria 400 m²
+muro de arrimo 120 m²
+16.2. O que o sistema deve fazer
+
+O usuário seleciona os serviços necessários e o sistema:
+
+busca na base todos os CATs com esses serviços;
+mostra os quantitativos disponíveis;
+permite “ticar” os serviços/CATs desejados;
+soma os quantitativos;
+informa se o total atende a exigência;
+mostra quais CATs compõem aquele acervo;
+abre os PDFs correspondentes.
+16.3. Futuro passo avançado
+
+Depois, o sistema poderá:
+
+gerar uma “cesta” de CATs selecionadas;
+abrir os PDFs certos;
+destacar os serviços usados.
+17) Estratégia para highlight / grifo futuro
+17.1. O que já está sendo armazenado
+
+Por enquanto, cada serviço terá:
+
+pagina_pdf
+ordem_na_pagina
+17.2. Por que isso ajuda
+
+Quando o usuário clicar no serviço:
+
+o app já sabe em qual página ele está;
+e aproximadamente em que posição da tabela ele aparece.
+17.3. O que ainda não foi implementado
+
+Ainda não existe coordenada exata (bbox) do item no PDF.
+
+17.4. Estratégia futura possível
+
+Mais tarde, o sistema poderá:
+
+reabrir a página do PDF;
+usar visão/IA apenas naquela página;
+localizar o item visualmente;
+desenhar o highlight.
+
+Mas isso não é necessário para o MVP.
+
+18) Autenticação e usuários
+
+O sistema deve ter login.
+
+Perfis sugeridos:
+
+admin
+engenharia
+comercial
+consulta
+
+Funcionalidades por perfil podem ser controladas no backend.
+
+19) Deploy / infraestrutura
+19.1. Ambiente
+
+Aplicação web hospedada em uma VPS Linux.
+
+19.2. Estrutura sugerida
+Docker
+backend FastAPI
+frontend React/Next
+PostgreSQL
+Nginx como reverse proxy
+SSL / HTTPS
+backup do banco e dos PDFs
+19.3. VPS recomendada
+
+Para o começo:
+
+4 vCPU / 8 GB RAM ou 8 vCPU / 16 GB RAM
+20) Custos estimados
+20.1. Custo de extração dos 250 PDFs
+
+Com base nos testes reais feitos no Gemini 2.5 Flash via OpenRouter, o custo por CAT ficou entre centavos de dólar e poucos centavos de dólar, dependendo do tamanho do documento.
+
+Uma estimativa conservadora para 250 PDFs:
+
+cerca de US$ 7 a US$ 10
+algo como R$ 40 a R$ 60, dependendo do câmbio
+
+Ou seja: a ingestão inicial da base é barata.
+
+20.2. Custos mensais do sistema
+
+Infraestrutura aproximada:
+
+VPS
+domínio
+backup
+eventuais chamadas de IA para novos documentos
+
+Estimativa operacional inicial:
+
+algo em torno de R$ 100 a R$ 250/mês, dependendo da VPS e do uso.
+21) Roadmap sugerido
+Fase 1 — Base técnica
+definir schema do banco
+criar projeto FastAPI
+criar projeto frontend
+criar tabelas do PostgreSQL
+criar autenticação
+Fase 2 — Ingestão
+criar script de upload/processamento dos PDFs
+chamar Gemini
+validar JSON
+salvar no banco
+Fase 3 — Consulta
+dashboard
+tela de serviços
+filtros
+tela de detalhe da CAT
+visualizador PDF
+Fase 4 — Composição de acervo
+seleção de serviços
+soma de quantitativos
+seleção de CATs
+resultado de atendimento
+Fase 5 — Recursos avançados
+highlight automático no PDF
+sugestão automática de CATs
+importação de edital
+relatórios e exportações
+22) Requisitos importantes para qualquer IA ou desenvolvedor que pegar esse projeto
+
+Se outra IA ou dev for continuar esse sistema, ela precisa respeitar estes princípios:
+
+22.1. O schema dos CATs já está definido
+
+A estrutura-base do JSON é esta:
+
+{
+  "tipo_documento": "CAT",
+  "cat": { ... },
+  "servicos": [ ... ]
+}
+22.2. O foco do MVP não é OCR genérico
+
+O foco é extração estruturada de acervo técnico.
+
+22.3. O sistema precisa ser pensado para licitações
+
+A busca não é só “consultar CAT”; é montar acervo para comprovação técnica.
+
+22.4. A unidade mínima de busca é o serviço
+
+A entidade mais importante do sistema não é só a CAT, mas cada serviço individual.
+
+22.5. A página do PDF é obrigatória
+
+Todo serviço precisa saber em qual página do PDF ele está.
+
+23) Resumo executivo curto para colar em outra IA
+
+Se você quiser um resumo menor, este é o texto curto:
+
+Estou construindo um sistema web interno para gestão de CATs CREA e Atestados de Capacidade Técnica da minha empresa de engenharia. Hoje temos cerca de 250 PDFs e uma planilha Excel com ~16 mil linhas de serviços. Quero substituir isso por um app com FastAPI + PostgreSQL + frontend web. Cada PDF será processado por IA (Gemini 2.5 Flash via OpenRouter) para gerar um JSON estruturado contendo metadados da CAT e uma lista de serviços. O schema base é:
+
+tipo_documento
+cat com campos como número da CAT, ART, contratante, objeto, endereço, cidade, estado, datas, área e valor
+servicos[] com grupo, codigo, fonte, descricao, unidade, quantidade, pagina_pdf, ordem_na_pagina
+
+O sistema precisa ter:
+
+dashboard gerencial;
+tela de consulta dos serviços (equivalente à planilha atual);
+filtros por CAT, contratante, grupo, serviço etc.;
+visualização do PDF dentro do app;
+abertura do PDF na página do serviço;
+no futuro, composição automática de acervo para licitações, com seleção de serviços e soma de quantitativos.
+
+O objetivo de negócio principal é permitir que o usuário pesquise serviços e monte acervos técnicos para licitações com muito mais rapidez e rastreabilidade do que no Excel.

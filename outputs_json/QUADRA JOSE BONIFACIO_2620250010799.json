@@ -95,7 +95,7 @@
       "codigo": "02.02.150",
       "fonte": null,
       "descricao": "LOCAÇÃO DE CONTAINER TIPO DEPÓSITO - ÁREA MINIMA DE 13,80 M²",
-      "unidade": "UNMES",
+      "unidade": "UNXMES",
       "quantidade": 4.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 2
@@ -105,7 +105,7 @@
       "codigo": "02.02.130",
       "fonte": null,
       "descricao": "LOCAÇÃO DE CONTAINER TIPO ESCRITÓRIO COM 1 VASO SANITÁRIO, 1 LAVATÓRIO E 1 PONTO PARA CHUVEIRO - ÁREA MÍNIMA DE 13,80 M2",
-      "unidade": "UNMES",
+      "unidade": "UNXMES",
       "quantidade": 4.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 3
@@ -215,7 +215,7 @@
       "codigo": "17-45-01",
       "fonte": null,
       "descricao": "ANDAIMES METÁLICOS - FORNECIMENTO",
-      "unidade": "M3xMÊS",
+      "unidade": "M3XMES",
       "quantidade": 33.75,
       "pagina_pdf": 3,
       "ordem_na_pagina": 14

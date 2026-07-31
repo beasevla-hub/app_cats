@@ -205,7 +205,7 @@
       "codigo": null,
       "fonte": null,
       "descricao": "CINERARIA (SENECIO CINERARIA)",
-      "unidade": "DÚZIA",
+      "unidade": "DZ",
       "quantidade": 24.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 19
@@ -215,7 +215,7 @@
       "codigo": null,
       "fonte": null,
       "descricao": "CLOROFITO (CLOROPHYTUM CROMOSSUM)",
-      "unidade": "DÚZIA",
+      "unidade": "DZ",
       "quantidade": 24.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 20
@@ -225,7 +225,7 @@
       "codigo": null,
       "fonte": null,
       "descricao": "LÍRIO (HEMEROCALLIS FLAVA)",
-      "unidade": "DÚZIA",
+      "unidade": "DZ",
       "quantidade": 24.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 21
@@ -235,7 +235,7 @@
       "codigo": null,
       "fonte": null,
       "descricao": "PILEA (PILEA CADIEREI)",
-      "unidade": "DÚZIA",
+      "unidade": "DZ",
       "quantidade": 24.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 22
@@ -245,7 +245,7 @@
       "codigo": null,
       "fonte": null,
       "descricao": "VEDELIA (WEDELIA PALUDARIS)",
-      "unidade": "DUZIA",
+      "unidade": "DZ",
       "quantidade": 24.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 23

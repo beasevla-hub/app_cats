@@ -25,7 +25,7 @@
       "codigo": "1.1",
       "fonte": null,
       "descricao": "Locação de container tipo escritório com 1 vaso sanitário, 1 lavatório e 1 ponto para chuveiro - área mínima de 13,80 m²",
-      "unidade": "unxmês",
+      "unidade": "UNXMES",
       "quantidade": 2.0,
       "pagina_pdf": 4,
       "ordem_na_pagina": 1
@@ -35,7 +35,7 @@
       "codigo": "1.2",
       "fonte": null,
       "descricao": "Placa de identificação para obra",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 2.3,
       "pagina_pdf": 4,
       "ordem_na_pagina": 2
@@ -45,7 +45,7 @@
       "codigo": "1.3",
       "fonte": null,
       "descricao": "Engenheiro junior",
-      "unidade": "mês",
+      "unidade": "MES",
       "quantidade": 2.0,
       "pagina_pdf": 4,
       "ordem_na_pagina": 3
@@ -55,7 +55,7 @@
       "codigo": "1.4",
       "fonte": null,
       "descricao": "Oficial de eletrificação",
-      "unidade": "mês",
+      "unidade": "MES",
       "quantidade": 2.0,
       "pagina_pdf": 4,
       "ordem_na_pagina": 4
@@ -65,7 +65,7 @@
       "codigo": "2.1.1",
       "fonte": null,
       "descricao": "Suporte para 1 isolador de baixa tensão",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 4,
       "ordem_na_pagina": 5
@@ -75,7 +75,7 @@
       "codigo": "2.1.2",
       "fonte": null,
       "descricao": "Caixa de medição interna tipo 'A1' (1000 x 1000 x 300) mm, padrão Eletropaulo",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 4,
       "ordem_na_pagina": 6
@@ -85,7 +85,7 @@
       "codigo": "2.1.3",
       "fonte": null,
       "descricao": "Para-raios de distribuição, classe 15 kV/10 kA, completo, encapsulado com polímero",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 3.0,
       "pagina_pdf": 4,
       "ordem_na_pagina": 7
@@ -95,7 +95,7 @@
       "codigo": "2.1.4",
       "fonte": null,
       "descricao": "Transformador de potência trifásico de 225 kVA, classe 15 kV, a óleo",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 4,
       "ordem_na_pagina": 8
@@ -105,7 +105,7 @@
       "codigo": "2.1.5",
       "fonte": null,
       "descricao": "Caixa para seccionadora tipo 'T' (900 x 600 x 250) mm, padrão Eletropaulo",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 2.0,
       "pagina_pdf": 4,
       "ordem_na_pagina": 9
@@ -115,7 +115,7 @@
       "codigo": "2.1.6",
       "fonte": null,
       "descricao": "Suporte de transformador em poste ou estaleiro",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 2.0,
       "pagina_pdf": 4,
       "ordem_na_pagina": 10
@@ -125,7 +125,7 @@
       "codigo": "2.1.7",
       "fonte": null,
       "descricao": "Disjuntor série universal, em caixa moldada, térmico fixo e magnético ajustável, tripolar 600 V, corrente de 500 A até 630 A",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 4,
       "ordem_na_pagina": 11
@@ -135,7 +135,7 @@
       "codigo": "2.1.8",
       "fonte": null,
       "descricao": "Eletroduto de PVC rígido roscável de 1 1/2' - com acessórios",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 9.0,
       "pagina_pdf": 4,
       "ordem_na_pagina": 12
@@ -145,7 +145,7 @@
       "codigo": "2.1.9",
       "fonte": null,
       "descricao": "Eletroduto de ferro galvanizado a quente, pesado de 4' - com acessórios",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 12.0,
       "pagina_pdf": 4,
       "ordem_na_pagina": 13
@@ -155,7 +155,7 @@
       "codigo": "2.1.10",
       "fonte": null,
       "descricao": "Eletroduto de ferro galvanizado a quente, pesado de 1 1/2' - com acessórios",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 3.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 1
@@ -165,7 +165,7 @@
       "codigo": "2.1.11",
       "fonte": null,
       "descricao": "Cabo de cobre nu, têmpera mole, classe 2, de 50 mm²",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 30.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 2
@@ -175,7 +175,7 @@
       "codigo": "2.1.12",
       "fonte": null,
       "descricao": "Cabo de cobre nu, têmpera mole, classe 2, de 35 mm²",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 20.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 3
@@ -185,7 +185,7 @@
       "codigo": "2.1.13",
       "fonte": null,
       "descricao": "Cabo de cobre flexível de 185 mm², isolamento 0,6/1 kV - isolação HEPR 90°C - baixa emissão de fumaça e gases",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 40.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 4
@@ -195,7 +195,7 @@
       "codigo": "2.1.14",
       "fonte": null,
       "descricao": "Haste de aterramento de 5/8' x 3,00 m",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 5.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 5
@@ -205,7 +205,7 @@
       "codigo": "2.1.15",
       "fonte": null,
       "descricao": "Caixa de inspeção do terra cilíndrica em PVC rígido, diâmetro de 300 mm - h= 600 mm",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 6
@@ -215,7 +215,7 @@
       "codigo": "2.1.16",
       "fonte": null,
       "descricao": "Poste de concreto circular, 1000 kg, H = 12,00 m",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 7
@@ -225,7 +225,7 @@
       "codigo": "2.1.17",
       "fonte": null,
       "descricao": "Braçadeira circular em aço carbono galvanizado, diâmetro nominal de 140 até 300 mm",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 6.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 8
@@ -235,7 +235,7 @@
       "codigo": "2.1.18",
       "fonte": null,
       "descricao": "Disjuntor termomagnético, tripolar 220/380 V, corrente de 10 A até 50 A",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 9
@@ -245,7 +245,7 @@
       "codigo": "2.1.19",
       "fonte": null,
       "descricao": "Chave fusível base 'C' para 15 kV/200 A, com capacidade de ruptura até 10 kA, com fusível",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 3.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 10
@@ -255,7 +255,7 @@
       "codigo": "2.1.20",
       "fonte": null,
       "descricao": "Estrutura tipo N3",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 11
@@ -265,7 +265,7 @@
       "codigo": "2.1.21",
       "fonte": null,
       "descricao": "Caixa de equalização de embutir em aço com barramento, de 400 x 400 mm e tampa",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 12
@@ -275,7 +275,7 @@
       "codigo": "2.1.22",
       "fonte": null,
       "descricao": "Cobertura de terminais de bucha primária do transformador - 15kV",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 3.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 13
@@ -285,7 +285,7 @@
       "codigo": "2.1.23",
       "fonte": null,
       "descricao": "Mão francesa plana com furo, aço carbono, 5x32x619mm",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 14
@@ -295,7 +295,7 @@
       "codigo": "2.1.24",
       "fonte": null,
       "descricao": "Grampo de linha viva para condutor de cobre de 16mm2",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 3.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 15
@@ -305,7 +305,7 @@
       "codigo": "2.1.25",
       "fonte": null,
       "descricao": "Cabo de cobre 16mm2, isolação para 15kV",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 12.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 16
@@ -315,7 +315,7 @@
       "codigo": "2.1.26",
       "fonte": null,
       "descricao": "Cruzeta Polimérica - 90x90x2.000mm",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 4.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 17
@@ -325,7 +325,7 @@
       "codigo": "2.1.27",
       "fonte": null,
       "descricao": "Suporte para fixação de Pára-raio e/ou Chave fusível",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 6.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 18
@@ -335,7 +335,7 @@
       "codigo": "2.2.1",
       "fonte": null,
       "descricao": "Alvenaria de embasamento em bloco de concreto com 19 cm",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 16.5,
       "pagina_pdf": 6,
       "ordem_na_pagina": 1
@@ -345,7 +345,7 @@
       "codigo": "2.2.2",
       "fonte": null,
       "descricao": "Reboco",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 13.0,
       "pagina_pdf": 6,
       "ordem_na_pagina": 2
@@ -355,7 +355,7 @@
       "codigo": "2.2.3",
       "fonte": null,
       "descricao": "Tinta acrílica em massa, inclusive preparo",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 15.0,
       "pagina_pdf": 6,
       "ordem_na_pagina": 3
@@ -365,7 +365,7 @@
       "codigo": "2.2.4",
       "fonte": null,
       "descricao": "Escavação manual em solo de 1ª e 2ª categoria em vala ou cava até 1,50 m",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 1.5,
       "pagina_pdf": 6,
       "ordem_na_pagina": 4
@@ -375,7 +375,7 @@
       "codigo": "2.2.5",
       "fonte": null,
       "descricao": "Cimentado desempenado",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 14.0,
       "pagina_pdf": 6,
       "ordem_na_pagina": 5
@@ -385,7 +385,7 @@
       "codigo": "2.2.6",
       "fonte": null,
       "descricao": "Lona plástica",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 15.5,
       "pagina_pdf": 6,
       "ordem_na_pagina": 6
@@ -395,7 +395,7 @@
       "codigo": "2.2.7",
       "fonte": null,
       "descricao": "Lastro de pedra britada",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 0.45,
       "pagina_pdf": 6,
       "ordem_na_pagina": 7
@@ -405,7 +405,7 @@
       "codigo": "2.2.8",
       "fonte": null,
       "descricao": "Concreto preparado no local, fck = 20,0 Mpa",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 0.15,
       "pagina_pdf": 6,
       "ordem_na_pagina": 8
@@ -415,7 +415,7 @@
       "codigo": "2.2.9",
       "fonte": null,
       "descricao": "Forma plana em compensado para estrutura convencional",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 1.95,
       "pagina_pdf": 6,
       "ordem_na_pagina": 9
@@ -425,7 +425,7 @@
       "codigo": "2.2.10",
       "fonte": null,
       "descricao": "Armadura em barra de aço CA-50 (A ou B) fyk= 500 Mpa",
-      "unidade": "kg",
+      "unidade": "KG",
       "quantidade": 9.6,
       "pagina_pdf": 6,
       "ordem_na_pagina": 10
@@ -435,7 +435,7 @@
       "codigo": "2.2.11",
       "fonte": null,
       "descricao": "Remoção de entulho de obra com caçamba metálica - material volumoso misturado por alvenaria, terra, madeira, papel, plástico e metal",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 1.5,
       "pagina_pdf": 6,
       "ordem_na_pagina": 11
@@ -445,7 +445,7 @@
       "codigo": "3.1.1",
       "fonte": null,
       "descricao": "Eletroduto corrugado em polietileno de alta densidade, DN= 50 mm, com acessórios",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 10.0,
       "pagina_pdf": 6,
       "ordem_na_pagina": 12
@@ -455,7 +455,7 @@
       "codigo": "3.1.2",
       "fonte": null,
       "descricao": "Eletroduto corrugado em polietileno de alta densidade, DN= 100 mm, com acessórios",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 10.0,
       "pagina_pdf": 6,
       "ordem_na_pagina": 13
@@ -465,7 +465,7 @@
       "codigo": "3.1.3",
       "fonte": null,
       "descricao": "Caixa de passagem em chapa, com tampa parafusada, 500 x 500 x 150 mm",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 7,
       "ordem_na_pagina": 1
@@ -475,7 +475,7 @@
       "codigo": "3.2.1",
       "fonte": null,
       "descricao": "Cabo de cobre flexível de 95 mm², isolamento 0,6/1 kV - 90°C - baixa emissão de fumaça e gases",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 50.0,
       "pagina_pdf": 7,
       "ordem_na_pagina": 2
@@ -485,7 +485,7 @@
       "codigo": "3.2.2",
       "fonte": null,
       "descricao": "Cabo de cobre flexível de 185 mm², isolamento 0,6/1 kV - 90°C - baixa emissão de fumaça e gases",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 200.0,
       "pagina_pdf": 7,
       "ordem_na_pagina": 3
@@ -495,7 +495,7 @@
       "codigo": "3.3.1",
       "fonte": null,
       "descricao": "Eletroduto de PVC rígido roscável de 1' - com acessórios",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 18.0,
       "pagina_pdf": 7,
       "ordem_na_pagina": 4
@@ -505,7 +505,7 @@
       "codigo": "3.3.2",
       "fonte": null,
       "descricao": "Cabo de cobre nu, têmpera mole, classe 2, de 50 mm²",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 180.0,
       "pagina_pdf": 7,
       "ordem_na_pagina": 5
@@ -515,7 +515,7 @@
       "codigo": "3.3.3",
       "fonte": null,
       "descricao": "Captor tipo terminal aéreo, h= 300 mm em alumínio",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 45.0,
       "pagina_pdf": 7,
       "ordem_na_pagina": 6
@@ -525,7 +525,7 @@
       "codigo": "3.3.4",
       "fonte": null,
       "descricao": "Haste de aterramento de 5/8′ x 3,00 m",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 9.0,
       "pagina_pdf": 7,
       "ordem_na_pagina": 7
@@ -535,7 +535,7 @@
       "codigo": "3.3.5",
       "fonte": null,
       "descricao": "Tampa para caixa de inspeção cilíndrica, aço galvanizado",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 9.0,
       "pagina_pdf": 7,
       "ordem_na_pagina": 8
@@ -545,7 +545,7 @@
       "codigo": "3.3.6",
       "fonte": null,
       "descricao": "Caixa de inspeção do terra cilíndrica em PVC rígido, diâmetro de 300 mm - h= 250 mm",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 9.0,
       "pagina_pdf": 7,
       "ordem_na_pagina": 9
@@ -555,7 +555,7 @@
       "codigo": "3.3.7",
       "fonte": null,
       "descricao": "Barra condutora chata de alumínio, 7/8′ x 1/8′ - inclusive acessórios de fixação",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 260.0,
       "pagina_pdf": 7,
       "ordem_na_pagina": 10
@@ -565,7 +565,7 @@
       "codigo": "3.3.8",
       "fonte": null,
       "descricao": "Suporte para fixação de fita de alumínio 7/8' x 1/8′ e/ou cabo de cobre nú, com base ondulada",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 150.0,
       "pagina_pdf": 7,
       "ordem_na_pagina": 11
@@ -575,7 +575,7 @@
       "codigo": "3.3.9",
       "fonte": null,
       "descricao": "Suporte para fixação de fita de alumínio 7/8' x 1/8', com base plana",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 110.0,
       "pagina_pdf": 7,
       "ordem_na_pagina": 12
@@ -585,7 +585,7 @@
       "codigo": "3.3.10",
       "fonte": null,
       "descricao": "Solda exotérmica conexão cabo-cabo horizontal em T, bitola do cabo de 50-50mm² a 95-50mm²",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 7,
       "ordem_na_pagina": 13
@@ -595,7 +595,7 @@
       "codigo": "3.3.11",
       "fonte": null,
       "descricao": "Solda exotérmica conexão cabo-cabo horizontal em X sobreposto, bitola do cabo de 50-50mm² a 95-50mm²",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 2.0,
       "pagina_pdf": 7,
       "ordem_na_pagina": 14
@@ -605,7 +605,7 @@
       "codigo": "3.3.12",
       "fonte": null,
       "descricao": "Solda exotérmica conexão cabo-haste em T, bitola do cabo de 50mm² a 95mm² para haste de 5/8 e 3/4",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 3.0,
       "pagina_pdf": 7,
       "ordem_na_pagina": 15
@@ -615,7 +615,7 @@
       "codigo": "3.3.13",
       "fonte": null,
       "descricao": "Solda exotérmica conexão cabo-haste em X sobreposto, bitola do cabo de 35mm² a 50mm² para haste de 5/8 e 2",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 6.0,
       "pagina_pdf": 8,
       "ordem_na_pagina": 1
@@ -625,7 +625,7 @@
       "codigo": "3.3.14",
       "fonte": null,
       "descricao": "Solda exotérmica conexão cabo-haste no topo, bitola do cabo de 50mm² a 95mm² para haste de 5/8 e 3/4",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 9.0,
       "pagina_pdf": 8,
       "ordem_na_pagina": 2
@@ -635,7 +635,7 @@
       "codigo": "3.3.15",
       "fonte": null,
       "descricao": "Terminal estanhado com 1 furo e 1 compressão - 50 mm²",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 20.0,
       "pagina_pdf": 8,
       "ordem_na_pagina": 3
@@ -645,7 +645,7 @@
       "codigo": "3.4.1",
       "fonte": null,
       "descricao": "Escavação manual em solo de 1ª e 2ª categoria em vala ou cava até 1,50 m",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 15.0,
       "pagina_pdf": 8,
       "ordem_na_pagina": 4
@@ -655,7 +655,7 @@
       "codigo": "3.4.2",
       "fonte": null,
       "descricao": "Reaterro manual apiloado sem controle de compactação",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 15.0,
       "pagina_pdf": 8,
       "ordem_na_pagina": 5
@@ -665,7 +665,7 @@
       "codigo": "3.4.3",
       "fonte": null,
       "descricao": "Remoção de entulho de obra com caçamba metálica - material volumoso misturado por alvenaria, terra, madeira, papel, plástico e metal",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 3.0,
       "pagina_pdf": 8,
       "ordem_na_pagina": 6
@@ -675,7 +675,7 @@
       "codigo": "3.4.4",
       "fonte": null,
       "descricao": "Demolição manual de concreto simples",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 3.0,
       "pagina_pdf": 8,
       "ordem_na_pagina": 7
@@ -685,7 +685,7 @@
       "codigo": "3.4.5",
       "fonte": null,
       "descricao": "Piso com requadro em concreto simples sem controle de fck",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 3.0,
       "pagina_pdf": 8,
       "ordem_na_pagina": 8
@@ -695,7 +695,7 @@
       "codigo": "3.4.6",
       "fonte": null,
       "descricao": "Lona plástica",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 25.0,
       "pagina_pdf": 8,
       "ordem_na_pagina": 9
@@ -705,7 +705,7 @@
       "codigo": "3.4.7",
       "fonte": null,
       "descricao": "Lastro de pedra britada",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 0.3,
       "pagina_pdf": 8,
       "ordem_na_pagina": 10
@@ -715,7 +715,7 @@
       "codigo": "3.5.1",
       "fonte": null,
       "descricao": "Alvenaria de elevação de 1/2 tijolo maciço comum",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 2.56,
       "pagina_pdf": 8,
       "ordem_na_pagina": 11
@@ -725,7 +725,7 @@
       "codigo": "3.5.2",
       "fonte": null,
       "descricao": "Chapisco",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 2.56,
       "pagina_pdf": 8,
       "ordem_na_pagina": 12
@@ -735,7 +735,7 @@
       "codigo": "3.5.3",
       "fonte": null,
       "descricao": "Impermeabilização em argamassa impermeável com aditivo hidrófugo",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 0.05,
       "pagina_pdf": 8,
       "ordem_na_pagina": 13
@@ -745,7 +745,7 @@
       "codigo": "3.5.4",
       "fonte": null,
       "descricao": "Escavação manual em solo de 1ª e 2ª categoria em vala ou cava até 1,50 m",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 0.73,
       "pagina_pdf": 8,
       "ordem_na_pagina": 14
@@ -755,7 +755,7 @@
       "codigo": "3.5.5",
       "fonte": null,
       "descricao": "Lastro de areia",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 0.03,
       "pagina_pdf": 8,
       "ordem_na_pagina": 15
@@ -765,7 +765,7 @@
       "codigo": "3.5.6",
       "fonte": null,
       "descricao": "Lastro de pedra britada",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 0.06,
       "pagina_pdf": 8,
       "ordem_na_pagina": 16
@@ -775,7 +775,7 @@
       "codigo": "3.5.7",
       "fonte": null,
       "descricao": "Tubo em polietileno de alta densidade corrugado perfurado, DN= 4', inclusive conexões",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 0.3,
       "pagina_pdf": 9,
       "ordem_na_pagina": 1
@@ -785,7 +785,7 @@
       "codigo": "3.5.8",
       "fonte": null,
       "descricao": "Reaterro manual apiloado sem controle de compactação",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 0.32,
       "pagina_pdf": 9,
       "ordem_na_pagina": 2
@@ -795,7 +795,7 @@
       "codigo": "3.5.9",
       "fonte": null,
       "descricao": "Transporte de solo de 1ª e 2ª categoria por caminhão até o 2° km",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 0.67,
       "pagina_pdf": 9,
       "ordem_na_pagina": 3
@@ -805,7 +805,7 @@
       "codigo": "3.5.10",
       "fonte": null,
       "descricao": "Concreto preparado no local, fck = 20,0 MPa",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 0.03,
       "pagina_pdf": 9,
       "ordem_na_pagina": 4
@@ -815,7 +815,7 @@
       "codigo": "3.5.11",
       "fonte": null,
       "descricao": "Lançamento e adensamento de concreto ou massa em estrutura",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 0.03,
       "pagina_pdf": 9,
       "ordem_na_pagina": 5
@@ -825,7 +825,7 @@
       "codigo": "3.5.12",
       "fonte": null,
       "descricao": "Forma plana em compensado para estrutura convencional",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 0.8,
       "pagina_pdf": 9,
       "ordem_na_pagina": 6
@@ -835,7 +835,7 @@
       "codigo": "3.5.13",
       "fonte": null,
       "descricao": "Armadura em barra de aço CA-60 (A ou B) fyk= 600 Mpa",
-      "unidade": "kg",
+      "unidade": "KG",
       "quantidade": 2.26,
       "pagina_pdf": 9,
       "ordem_na_pagina": 7
@@ -845,7 +845,7 @@
       "codigo": "3.6.1",
       "fonte": null,
       "descricao": "Demolição manual de alvenaria de elevação ou elemento vazado, incluindo revestimento",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 0.2,
       "pagina_pdf": 9,
       "ordem_na_pagina": 8
@@ -855,7 +855,7 @@
       "codigo": "3.6.2",
       "fonte": null,
       "descricao": "Retirada de revestimento em pedra, granito ou mármore, em piso",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 6.0,
       "pagina_pdf": 9,
       "ordem_na_pagina": 9
@@ -865,7 +865,7 @@
       "codigo": "3.6.3",
       "fonte": null,
       "descricao": "Escavação manual em solo de 1ª e 2ª categoria em vala ou cava até 1,50 m",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 0.5,
       "pagina_pdf": 9,
       "ordem_na_pagina": 10
@@ -875,7 +875,7 @@
       "codigo": "3.6.4",
       "fonte": null,
       "descricao": "Reaterro manual apiloado sem controle de compactação",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 0.4,
       "pagina_pdf": 9,
       "ordem_na_pagina": 11
@@ -885,7 +885,7 @@
       "codigo": "3.6.5",
       "fonte": null,
       "descricao": "Recolocação de mármore, pedras e granitos, assentes com massa",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 6.0,
       "pagina_pdf": 9,
       "ordem_na_pagina": 12
@@ -895,7 +895,7 @@
       "codigo": "3.6.6",
       "fonte": null,
       "descricao": "Lançamento, espalhamento e adensamento de concreto ou massa em lastro e/ou enchimento",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 0.3,
       "pagina_pdf": 9,
       "ordem_na_pagina": 13
@@ -905,7 +905,7 @@
       "codigo": "3.6.7",
       "fonte": null,
       "descricao": "Remoção de caixa de medição padrão completa",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 9,
       "ordem_na_pagina": 14
@@ -915,7 +915,7 @@
       "codigo": "3.6.8",
       "fonte": null,
       "descricao": "Remoção de poste de concreto",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 9,
       "ordem_na_pagina": 15
@@ -925,7 +925,7 @@
       "codigo": "3.6.9",
       "fonte": null,
       "descricao": "Remoção de entulho de obra com caçamba metálica - material volumoso misturado por alvenaria, terra, madeira, papel, plástico e metal",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 2.0,
       "pagina_pdf": 9,
       "ordem_na_pagina": 16
@@ -935,7 +935,7 @@
       "codigo": "3.6.10",
       "fonte": null,
       "descricao": "Remoção de cordoalha ou cabo de cobre nu",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 200.51,
       "pagina_pdf": 9,
       "ordem_na_pagina": 17
@@ -945,7 +945,7 @@
       "codigo": "4.1.1",
       "fonte": null,
       "descricao": "Painel monobloco autoportante em chapa de aço de 2,0 mm de espessura, com proteção mínima IP 54 - sem componentes",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 3.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 1
@@ -955,7 +955,7 @@
       "codigo": "4.1.2",
       "fonte": null,
       "descricao": "Barramento de cobre nu",
-      "unidade": "kg",
+      "unidade": "KG",
       "quantidade": 2.5,
       "pagina_pdf": 10,
       "ordem_na_pagina": 2
@@ -965,7 +965,7 @@
       "codigo": "4.1.3",
       "fonte": null,
       "descricao": "Disjuntor em caixa moldada, térmico e magnético ajustáveis, tripolar 630/690 V, faixa de ajuste de 440 até 630 A",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 3
@@ -975,7 +975,7 @@
       "codigo": "4.1.4",
       "fonte": null,
       "descricao": "Barra de neutro e/ou terra",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 2.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 4
@@ -985,7 +985,7 @@
       "codigo": "4.1.5",
       "fonte": null,
       "descricao": "Supressor de surto monofásico, Fase-Terra, In > ou = 20 kA, Imax. de surto de 50 até 80 Ka",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 3.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 5
@@ -995,7 +995,7 @@
       "codigo": "4.1.6",
       "fonte": null,
       "descricao": "Supressor de surto monofásico, Neutro-Terra, In > ou = 20 kA, Imax. de surto de 65 até 80 kA",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 6
@@ -1005,7 +1005,7 @@
       "codigo": "4.1.7",
       "fonte": null,
       "descricao": "Disjuntor termomagnético, bipolar 220/380 V, corrente de 60 A até 100 A",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 3.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 7
@@ -1015,7 +1015,7 @@
       "codigo": "4.1.8",
       "fonte": null,
       "descricao": "Disjuntor em caixa moldada tripolar, térmico e magnético fixos, tensão de isolamento 480/690V, de 10A a 60ª",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 3.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 8
@@ -1025,7 +1025,7 @@
       "codigo": "4.1.9",
       "fonte": null,
       "descricao": "Disjuntor em caixa moldada tripolar, térmico e magnético fixos, tensão de isolamento 480/690V, de 70A até 150ª",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 6.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 9
@@ -1035,7 +1035,7 @@
       "codigo": "4.1.10",
       "fonte": null,
       "descricao": "Disjuntor em caixa moldada tripolar, térmico e magnético fixos, tensão de isolamento 415/690V, de 175A a 250ª",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 2.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 10
@@ -1045,7 +1045,7 @@
       "codigo": "4.2.1",
       "fonte": null,
       "descricao": "Barramento de cobre nu",
-      "unidade": "kg",
+      "unidade": "KG",
       "quantidade": 1.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 11
@@ -1055,7 +1055,7 @@
       "codigo": "4.2.2",
       "fonte": null,
       "descricao": "Barra de neutro e/ou terra",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 12
@@ -1065,7 +1065,7 @@
       "codigo": "4.2.3",
       "fonte": null,
       "descricao": "Mini-disjuntor termomagnético, unipolar 127/220 V, corrente de 10 A até 32 A",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 3.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 13
@@ -1075,7 +1075,7 @@
       "codigo": "4.2.4",
       "fonte": null,
       "descricao": "Mini-disjuntor termomagnético, bipolar 220/380 V, corrente de 10 A até 32 A",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 10.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 14
@@ -1085,7 +1085,7 @@
       "codigo": "4.2.5",
       "fonte": null,
       "descricao": "Mini-disjuntor termomagnético, tripolar 220/380 V, corrente de 63 A",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 15
@@ -1095,7 +1095,7 @@
       "codigo": "4.2.6",
       "fonte": null,
       "descricao": "Supressor de surto monofásico, Fase-Terra, In > ou = 20 kA, Imax. de surto de 50 até 80 Ka",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 3.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 16
@@ -1105,7 +1105,7 @@
       "codigo": "4.2.7",
       "fonte": null,
       "descricao": "Quadro de distribuição universal de sobrepor, para disjuntores 34 DIN / 24 Bolt-on - 150 A - sem componentes",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 11,
       "ordem_na_pagina": 1
@@ -1115,7 +1115,7 @@
       "codigo": "4.3.1",
       "fonte": null,
       "descricao": "Eletroduto de ferro galvanizado, médio de 3/4' - com acessórios",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 19.0,
       "pagina_pdf": 11,
       "ordem_na_pagina": 2
@@ -1125,7 +1125,7 @@
       "codigo": "4.3.2",
       "fonte": null,
       "descricao": "Eletroduto de ferro galvanizado, médio de 1' - com acessórios",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 36.0,
       "pagina_pdf": 11,
       "ordem_na_pagina": 3
@@ -1135,7 +1135,7 @@
       "codigo": "4.3.3",
       "fonte": null,
       "descricao": "Eletroduto de ferro galvanizado, médio de 1 1/2' - com acessórios",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 15.0,
       "pagina_pdf": 11,
       "ordem_na_pagina": 4
@@ -1145,7 +1145,7 @@
       "codigo": "4.3.4",
       "fonte": null,
       "descricao": "Eletroduto de ferro galvanizado, médio de 3' - com acessórios",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 6.0,
       "pagina_pdf": 11,
       "ordem_na_pagina": 5
@@ -1155,7 +1155,7 @@
       "codigo": "4.3.5",
       "fonte": null,
       "descricao": "Eletrocalha lisa galvanizada a fogo, 300 x 100 mm, com acessórios",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 25.0,
       "pagina_pdf": 11,
       "ordem_na_pagina": 6
@@ -1165,7 +1165,7 @@
       "codigo": "4.3.6",
       "fonte": null,
       "descricao": "Tampa de encaixe para eletrocalha, galvanizada a fogo, L= 300mm",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 25.0,
       "pagina_pdf": 11,
       "ordem_na_pagina": 7
@@ -1175,7 +1175,7 @@
       "codigo": "4.3.7",
       "fonte": null,
       "descricao": "Suporte para eletrocalha, galvanizado a fogo, 300x50mm",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 25.0,
       "pagina_pdf": 11,
       "ordem_na_pagina": 8
@@ -1185,7 +1185,7 @@
       "codigo": "4.3.8",
       "fonte": null,
       "descricao": "Vergalhão com rosca, porca e arruela de diâmetro 3/8′ (tirante)",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 20.0,
       "pagina_pdf": 11,
       "ordem_na_pagina": 9
@@ -1195,7 +1195,7 @@
       "codigo": "4.3.9",
       "fonte": null,
       "descricao": "Condulete metálico de 3/4'",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 4.0,
       "pagina_pdf": 11,
       "ordem_na_pagina": 10
@@ -1205,7 +1205,7 @@
       "codigo": "4.3.10",
       "fonte": null,
       "descricao": "Condulete metálico de 1'",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 6.0,
       "pagina_pdf": 11,
       "ordem_na_pagina": 11
@@ -1215,7 +1215,7 @@
       "codigo": "4.3.11",
       "fonte": null,
       "descricao": "Condulete metálico de 1 1/2'",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 3.0,
       "pagina_pdf": 11,
       "ordem_na_pagina": 12
@@ -1225,7 +1225,7 @@
       "codigo": "4.3.12",
       "fonte": null,
       "descricao": "Condulete metálico de 3'",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 1.0,
       "pagina_pdf": 11,
       "ordem_na_pagina": 13
@@ -1235,7 +1235,7 @@
       "codigo": "4.3.13",
       "fonte": null,
       "descricao": "Saída lateral simples, diâmetro de 3/4'",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 3.0,
       "pagina_pdf": 11,
       "ordem_na_pagina": 14
@@ -1245,7 +1245,7 @@
       "codigo": "4.3.14",
       "fonte": null,
       "descricao": "Saída lateral simples, diâmetro de 1'",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 3.0,
       "pagina_pdf": 11,
       "ordem_na_pagina": 15
@@ -1255,7 +1255,7 @@
       "codigo": "4.3.15",
       "fonte": null,
       "descricao": "Caixa de passagem em chapa, com tampa parafusada, 500 x 500 x 150 mm",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 11,
       "ordem_na_pagina": 16
@@ -1265,7 +1265,7 @@
       "codigo": "4.3.16",
       "fonte": null,
       "descricao": "Taxa de mobilização e desmobilização de equipamentos para execução de perfuração em concreto com broca diamantada",
-      "unidade": "tx",
+      "unidade": "TX",
       "quantidade": 1.0,
       "pagina_pdf": 11,
       "ordem_na_pagina": 17
@@ -1275,7 +1275,7 @@
       "codigo": "4.3.17",
       "fonte": null,
       "descricao": "Furação de 1 1/2′ em concreto armado",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 1.0,
       "pagina_pdf": 12,
       "ordem_na_pagina": 1
@@ -1285,7 +1285,7 @@
       "codigo": "4.3.18",
       "fonte": null,
       "descricao": "Furação de 2′ em concreto armado",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 0.5,
       "pagina_pdf": 12,
       "ordem_na_pagina": 2
@@ -1295,7 +1295,7 @@
       "codigo": "4.3.19",
       "fonte": null,
       "descricao": "Furação de 2 1/2′ em concreto armado",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 0.5,
       "pagina_pdf": 12,
       "ordem_na_pagina": 3
@@ -1305,7 +1305,7 @@
       "codigo": "4.4.1",
       "fonte": null,
       "descricao": "Cabo de cobre flexível de 4 mm², isolamento 0,6/1 kV - 90°C - baixa emissão de fumaça e gases",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 290.0,
       "pagina_pdf": 12,
       "ordem_na_pagina": 4
@@ -1315,7 +1315,7 @@
       "codigo": "4.4.2",
       "fonte": null,
       "descricao": "Cabo de cobre flexível de 16 mm², isolamento 0,6/1 kV - 90°C - baixa emissão de fumaça e gases",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 100.0,
       "pagina_pdf": 12,
       "ordem_na_pagina": 5
@@ -1325,7 +1325,7 @@
       "codigo": "4.4.3",
       "fonte": null,
       "descricao": "Cabo de cobre flexível de 25 mm², isolamento 0,6/1 kV - 90°C - baixa emissão de fumaça e gases",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 25.0,
       "pagina_pdf": 12,
       "ordem_na_pagina": 6
@@ -1335,7 +1335,7 @@
       "codigo": "4.4.4",
       "fonte": null,
       "descricao": "Cabo de cobre flexível de 50 mm², isolamento 0,6/1 kV - 90°C - baixa emissão de fumaça e gases",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 20.0,
       "pagina_pdf": 12,
       "ordem_na_pagina": 7
@@ -1345,7 +1345,7 @@
       "codigo": "4.4.5",
       "fonte": null,
       "descricao": "Cabo de cobre flexível de 95 mm², isolamento 0,6/1 kV - 90°C - baixa emissão de fumaça e gases",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 50.0,
       "pagina_pdf": 12,
       "ordem_na_pagina": 8
@@ -1355,7 +1355,7 @@
       "codigo": "4.5.1",
       "fonte": null,
       "descricao": "Conector prensa-cabo de 3/4'",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 7.0,
       "pagina_pdf": 12,
       "ordem_na_pagina": 9
@@ -1365,7 +1365,7 @@
       "codigo": "4.5.2",
       "fonte": null,
       "descricao": "Tomada 2P+T de 20 A - 250 V, completa",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 7.0,
       "pagina_pdf": 12,
       "ordem_na_pagina": 10
@@ -1375,7 +1375,7 @@
       "codigo": "5.1.1",
       "fonte": null,
       "descricao": "Barramento de cobre nu",
-      "unidade": "kg",
+      "unidade": "KG",
       "quantidade": 1.0,
       "pagina_pdf": 12,
       "ordem_na_pagina": 11
@@ -1385,7 +1385,7 @@
       "codigo": "5.1.2",
       "fonte": null,
       "descricao": "Barra de neutro e/ou terra",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 12,
       "ordem_na_pagina": 12
@@ -1395,7 +1395,7 @@
       "codigo": "5.1.3",
       "fonte": null,
       "descricao": "Mini-disjuntor termomagnético, unipolar 127/220 V, corrente de 10 A até 32 A",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 3.0,
       "pagina_pdf": 12,
       "ordem_na_pagina": 13
@@ -1405,7 +1405,7 @@
       "codigo": "5.1.4",
       "fonte": null,
       "descricao": "Mini-disjuntor termomagnético, bipolar 220/380 V, corrente de 10 A até 32 A",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 14.0,
       "pagina_pdf": 13,
       "ordem_na_pagina": 1
@@ -1415,7 +1415,7 @@
       "codigo": "5.1.5",
       "fonte": null,
       "descricao": "Disjuntor em caixa moldada tripolar, térmico e magnético fixos, tensão de isolamento 480/690V, de 70A até 150ª",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 13,
       "ordem_na_pagina": 2
@@ -1425,7 +1425,7 @@
       "codigo": "5.1.6",
       "fonte": null,
       "descricao": "Supressor de surto monofásico, Fase-Terra, In > ou = 20 kA, Imax. de surto de 50 até 80 Ka",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 3.0,
       "pagina_pdf": 13,
       "ordem_na_pagina": 3
@@ -1435,7 +1435,7 @@
       "codigo": "5.1.7",
       "fonte": null,
       "descricao": "Quadro de distribuição universal de sobrepor, para disjuntores 44 DIN / 32 Bolt-on - 150 A - sem componentes",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 13,
       "ordem_na_pagina": 4
@@ -1445,7 +1445,7 @@
       "codigo": "5.2.1",
       "fonte": null,
       "descricao": "Eletroduto de ferro galvanizado, médio de 3/4' - com acessórios",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 21.0,
       "pagina_pdf": 13,
       "ordem_na_pagina": 5
@@ -1455,7 +1455,7 @@
       "codigo": "5.2.2",
       "fonte": null,
       "descricao": "Eletroduto de ferro galvanizado, médio de 1' - com acessórios",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 80.0,
       "pagina_pdf": 13,
       "ordem_na_pagina": 6
@@ -1465,7 +1465,7 @@
       "codigo": "5.2.3",
       "fonte": null,
       "descricao": "Eletroduto de ferro galvanizado, médio de 2' - com acessórios",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 6.0,
       "pagina_pdf": 13,
       "ordem_na_pagina": 7
@@ -1475,7 +1475,7 @@
       "codigo": "5.2.4",
       "fonte": null,
       "descricao": "Condulete metálico de 3/4'",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 11.0,
       "pagina_pdf": 13,
       "ordem_na_pagina": 8
@@ -1485,7 +1485,7 @@
       "codigo": "5.2.5",
       "fonte": null,
       "descricao": "Condulete metálico de 1'",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 12.0,
       "pagina_pdf": 13,
       "ordem_na_pagina": 9
@@ -1495,7 +1495,7 @@
       "codigo": "5.2.6",
       "fonte": null,
       "descricao": "Condulete metálico de 2'",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 1.0,
       "pagina_pdf": 13,
       "ordem_na_pagina": 10
@@ -1505,7 +1505,7 @@
       "codigo": "5.2.7",
       "fonte": null,
       "descricao": "Taxa de mobilização e desmobilização de equipamentos para execução de perfuração em concreto com broca diamantada",
-      "unidade": "tx",
+      "unidade": "TX",
       "quantidade": 1.0,
       "pagina_pdf": 13,
       "ordem_na_pagina": 11
@@ -1515,7 +1515,7 @@
       "codigo": "5.2.8",
       "fonte": null,
       "descricao": "Furação de 1 1/2' em concreto armado",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 1.0,
       "pagina_pdf": 13,
       "ordem_na_pagina": 12
@@ -1525,7 +1525,7 @@
       "codigo": "5.2.9",
       "fonte": null,
       "descricao": "Furação de 2 1/2' em concreto armado",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 0.5,
       "pagina_pdf": 13,
       "ordem_na_pagina": 13
@@ -1535,7 +1535,7 @@
       "codigo": "5.3.1",
       "fonte": null,
       "descricao": "Cabo de cobre flexível de 4 mm², isolamento 0,6/1 kV - 90°C - baixa emissão de fumaça e gases",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 560.0,
       "pagina_pdf": 13,
       "ordem_na_pagina": 14
@@ -1545,7 +1545,7 @@
       "codigo": "5.3.2",
       "fonte": null,
       "descricao": "Cabo de cobre flexível de 25 mm², isolamento 0,6/1 kV - 90°C - baixa emissão de fumaça e gases",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 10.0,
       "pagina_pdf": 13,
       "ordem_na_pagina": 15
@@ -1555,7 +1555,7 @@
       "codigo": "5.3.3",
       "fonte": null,
       "descricao": "Cabo de cobre flexível de 50 mm², isolamento 0,6/1 kV - 90°C - baixa emissão de fumaça e gases",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 30.0,
       "pagina_pdf": 14,
       "ordem_na_pagina": 1
@@ -1565,7 +1565,7 @@
       "codigo": "5.4.1",
       "fonte": null,
       "descricao": "Conector prensa-cabo de 3/4'",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 11.0,
       "pagina_pdf": 14,
       "ordem_na_pagina": 2
@@ -1575,7 +1575,7 @@
       "codigo": "5.4.2",
       "fonte": null,
       "descricao": "Tomada 2P+T de 20 A - 250 V, completa",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 11.0,
       "pagina_pdf": 14,
       "ordem_na_pagina": 3
@@ -1585,7 +1585,7 @@
       "codigo": "6.1.1",
       "fonte": null,
       "descricao": "Barramento de cobre nu",
-      "unidade": "kg",
+      "unidade": "KG",
       "quantidade": 1.0,
       "pagina_pdf": 14,
       "ordem_na_pagina": 4
@@ -1595,7 +1595,7 @@
       "codigo": "6.1.2",
       "fonte": null,
       "descricao": "Barra de neutro e/ou terra",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 14,
       "ordem_na_pagina": 5
@@ -1605,7 +1605,7 @@
       "codigo": "6.1.3",
       "fonte": null,
       "descricao": "Mini-disjuntor termomagnético, unipolar 127/220 V, corrente de 10 A até 32 A",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 3.0,
       "pagina_pdf": 14,
       "ordem_na_pagina": 6
@@ -1615,7 +1615,7 @@
       "codigo": "6.1.4",
       "fonte": null,
       "descricao": "Mini-disjuntor termomagnético, bipolar 220/380 V, corrente de 10 A até 32 A",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 19.0,
       "pagina_pdf": 14,
       "ordem_na_pagina": 7
@@ -1625,7 +1625,7 @@
       "codigo": "6.1.5",
       "fonte": null,
       "descricao": "Disjuntor em caixa moldada tripolar, térmico e magnético fixos, tensão de isolamento 480/690V, de 70A até 150ª",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 14,
       "ordem_na_pagina": 8
@@ -1635,7 +1635,7 @@
       "codigo": "6.1.6",
       "fonte": null,
       "descricao": "Supressor de surto monofásico, Fase-Terra, In > ou = 20 kA, Imax. de surto de 50 até 80 Ka",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 3.0,
       "pagina_pdf": 14,
       "ordem_na_pagina": 9
@@ -1645,7 +1645,7 @@
       "codigo": "6.1.7",
       "fonte": null,
       "descricao": "Quadro de distribuição universal de sobrepor, para disjuntores 56 DIN / 40 Bolt-on - 225 A - sem componentes",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 14,
       "ordem_na_pagina": 10
@@ -1655,7 +1655,7 @@
       "codigo": "6.2.1",
       "fonte": null,
       "descricao": "Eletroduto de ferro galvanizado, médio de 3/4' - com acessórios",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 29.0,
       "pagina_pdf": 14,
       "ordem_na_pagina": 11
@@ -1665,7 +1665,7 @@
       "codigo": "6.2.2",
       "fonte": null,
       "descricao": "Eletroduto de ferro galvanizado, médio de 1' - com acessórios",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 110.0,
       "pagina_pdf": 14,
       "ordem_na_pagina": 12
@@ -1675,7 +1675,7 @@
       "codigo": "6.2.3",
       "fonte": null,
       "descricao": "Eletroduto de ferro galvanizado, médio de 1 1/2' - com acessórios",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 15.0,
       "pagina_pdf": 15,
       "ordem_na_pagina": 1
@@ -1685,7 +1685,7 @@
       "codigo": "6.2.4",
       "fonte": null,
       "descricao": "Eletroduto de ferro galvanizado, médio de 3' - com acessórios",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 9.0,
       "pagina_pdf": 15,
       "ordem_na_pagina": 2
@@ -1695,7 +1695,7 @@
       "codigo": "6.2.5",
       "fonte": null,
       "descricao": "Condulete metálico de 3/4'",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 16.0,
       "pagina_pdf": 15,
       "ordem_na_pagina": 3
@@ -1705,7 +1705,7 @@
       "codigo": "6.2.6",
       "fonte": null,
       "descricao": "Condulete metálico de 1'",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 15.0,
       "pagina_pdf": 15,
       "ordem_na_pagina": 4
@@ -1715,7 +1715,7 @@
       "codigo": "6.2.7",
       "fonte": null,
       "descricao": "Condulete metálico de 1 1/2'",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 2.0,
       "pagina_pdf": 15,
       "ordem_na_pagina": 5
@@ -1725,7 +1725,7 @@
       "codigo": "6.2.8",
       "fonte": null,
       "descricao": "Condulete metálico de 3'",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 1.0,
       "pagina_pdf": 15,
       "ordem_na_pagina": 6
@@ -1735,7 +1735,7 @@
       "codigo": "6.3.1",
       "fonte": null,
       "descricao": "Cabo de cobre flexível de 4 mm², isolamento 0,6/1 kV - 90°C - baixa emissão de fumaça e gases",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 880.0,
       "pagina_pdf": 15,
       "ordem_na_pagina": 7
@@ -1745,7 +1745,7 @@
       "codigo": "6.3.2",
       "fonte": null,
       "descricao": "Cabo de cobre flexível de 16 mm², isolamento 0,6/1 kV - 90°C - baixa emissão de fumaça e gases",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 40.0,
       "pagina_pdf": 15,
       "ordem_na_pagina": 8
@@ -1755,7 +1755,7 @@
       "codigo": "6.3.3",
       "fonte": null,
       "descricao": "Cabo de cobre flexível de 25 mm², isolamento 0,6/1 kV - 90°C - baixa emissão de fumaça e gases",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 120.0,
       "pagina_pdf": 15,
       "ordem_na_pagina": 9
@@ -1765,7 +1765,7 @@
       "codigo": "6.3.4",
       "fonte": null,
       "descricao": "Cabo de cobre flexível de 50 mm², isolamento 0,6/1 kV - 90°C - baixa emissão de fumaça e gases",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 15.0,
       "pagina_pdf": 15,
       "ordem_na_pagina": 10
@@ -1775,7 +1775,7 @@
       "codigo": "6.3.5",
       "fonte": null,
       "descricao": "Cabo de cobre flexível de 95 mm², isolamento 0,6/1 kV - 90°C - baixa emissão de fumaça e gases",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 50.0,
       "pagina_pdf": 15,
       "ordem_na_pagina": 11
@@ -1785,7 +1785,7 @@
       "codigo": "6.4.1",
       "fonte": null,
       "descricao": "Conector prensa-cabo de 3/4'",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 16.0,
       "pagina_pdf": 15,
       "ordem_na_pagina": 12
@@ -1795,7 +1795,7 @@
       "codigo": "6.4.2",
       "fonte": null,
       "descricao": "Tomada 2P+T de 20 A - 250 V, completa",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 16.0,
       "pagina_pdf": 15,
       "ordem_na_pagina": 13
@@ -1805,7 +1805,7 @@
       "codigo": "7.1",
       "fonte": null,
       "descricao": "Remoção de entulho de obra com caçamba metálica - material volumoso misturado por alvenaria, terra, madeira, papel,",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 3.5,
       "pagina_pdf": 15,
       "ordem_na_pagina": 14
@@ -1815,7 +1815,7 @@
       "codigo": "7.2",
       "fonte": null,
       "descricao": "Limpeza final da obra",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 343.25,
       "pagina_pdf": 16,
       "ordem_na_pagina": 1

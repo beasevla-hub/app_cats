@@ -65,7 +65,7 @@
       "codigo": "1.5",
       "fonte": null,
       "descricao": "Locação de container tipo alojamento - área mínima de 13,80 m²",
-      "unidade": "UNIMES",
+      "unidade": "UNXMES",
       "quantidade": 1.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 3
@@ -75,7 +75,7 @@
       "codigo": "1.6",
       "fonte": null,
       "descricao": "Locação de container tipo sanitário com 2 vasos sanitários, 2 lavatórios, 2 mictórios e 4 pontos para chuveiro - área mínima de 13,80 m²",
-      "unidade": "UNIMES",
+      "unidade": "UNXMES",
       "quantidade": 1.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 4
@@ -155,7 +155,7 @@
       "codigo": "2.5",
       "fonte": null,
       "descricao": "TAXA DESCARTE RESÍDUOS SÓLIDOS",
-      "unidade": "TON",
+      "unidade": "T",
       "quantidade": 44.8,
       "pagina_pdf": 3,
       "ordem_na_pagina": 12
@@ -585,7 +585,7 @@
       "codigo": "6.3",
       "fonte": null,
       "descricao": "CLOROFITO (CLOROPHYTUM CROMOSSUM)",
-      "unidade": "DÚZIA",
+      "unidade": "DZ",
       "quantidade": 57.5,
       "pagina_pdf": 6,
       "ordem_na_pagina": 1
@@ -595,7 +595,7 @@
       "codigo": "6.4",
       "fonte": null,
       "descricao": "VEDELIA (WEDELIA PALUDARIS)",
-      "unidade": "DÚZIA",
+      "unidade": "DZ",
       "quantidade": 46.0,
       "pagina_pdf": 6,
       "ordem_na_pagina": 2

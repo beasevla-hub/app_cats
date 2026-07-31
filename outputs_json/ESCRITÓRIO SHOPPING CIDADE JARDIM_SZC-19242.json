@@ -25,7 +25,7 @@
       "codigo": "1.1",
       "fonte": null,
       "descricao": "Tratamento de concreto aparente (polimento, limpeza, estucamento, lixamento e aplicação de resina/verniz)",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 718.8,
       "pagina_pdf": 2,
       "ordem_na_pagina": 1
@@ -35,7 +35,7 @@
       "codigo": "2.1",
       "fonte": null,
       "descricao": "Execução de parede em gesso acartonado Dry Wall (estrutura, chapa dupla, la de rocha e acabamentos)",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 515.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 2
@@ -45,7 +45,7 @@
       "codigo": "2.2",
       "fonte": null,
       "descricao": "Fechamento vertical / Horizontal / Faixas",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 537.88,
       "pagina_pdf": 2,
       "ordem_na_pagina": 3
@@ -55,7 +55,7 @@
       "codigo": "2.3",
       "fonte": null,
       "descricao": "Execução de parede e forro em gesso acartonado Dry Wall na escadaria do 2º ao 5º Pav. (estrutura, chapa dupla, lã de rocha e acabamentos)",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 272.3,
       "pagina_pdf": 2,
       "ordem_na_pagina": 4
@@ -85,7 +85,7 @@
       "codigo": "3.3",
       "fonte": null,
       "descricao": "Instalação de cantoneiras metálicas para apoio do forro em gesso acartonado Dry Wall",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 3660.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 7
@@ -95,7 +95,7 @@
       "codigo": "4.1",
       "fonte": null,
       "descricao": "Execução de forro de gesso acartonado Dry Wall incluso estrutura auxiliar para instalação",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 1520.02,
       "pagina_pdf": 2,
       "ordem_na_pagina": 8
@@ -105,7 +105,7 @@
       "codigo": "5.1",
       "fonte": null,
       "descricao": "Pintura em esmalte sintético em caixilhos (incluso preparo de base – lixamento, fundo preparador)",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 960.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 9
@@ -115,7 +115,7 @@
       "codigo": "5.2",
       "fonte": null,
       "descricao": "Pintura com tinta automotiva em escada metálica / guarda-corpo / corrimão, inclusive preparo da base, aplicado com compressor e pistola de auto-pressão",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 209.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 10
@@ -125,7 +125,7 @@
       "codigo": "5.3",
       "fonte": null,
       "descricao": "Pintura com tinta automotiva em estrutura metálica para ar condicionado, inclusive preparo da base",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 379.5,
       "pagina_pdf": 2,
       "ordem_na_pagina": 11
@@ -135,7 +135,7 @@
       "codigo": "5.4",
       "fonte": null,
       "descricao": "Pintura de forro em látex acrílico – inclusive preparo da base (aplicação de seladora, massa corrida, lixamento)",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 1520.02,
       "pagina_pdf": 3,
       "ordem_na_pagina": 1
@@ -145,7 +145,7 @@
       "codigo": "5.5",
       "fonte": null,
       "descricao": "Pintura de paredes em látex acrílico – inclusive preparo da base (aplicação de seladora, massa corrida, lixamento)",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 3437.5,
       "pagina_pdf": 3,
       "ordem_na_pagina": 2
@@ -155,7 +155,7 @@
       "codigo": "5.6",
       "fonte": null,
       "descricao": "Pintura em esmalte sintético em estrutura metálica vigas e pilares – incluso preparo de base, aplicado com compressor e pistola de auto-pressão",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 707.33,
       "pagina_pdf": 3,
       "ordem_na_pagina": 3
@@ -165,7 +165,7 @@
       "codigo": "5.7",
       "fonte": null,
       "descricao": "Pintura de laje de concreto – incluso preparo de base, aplicado com compressor e pistola de auto-pressão",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 926.45,
       "pagina_pdf": 3,
       "ordem_na_pagina": 4
@@ -175,7 +175,7 @@
       "codigo": "5.8",
       "fonte": null,
       "descricao": "Montagem e desmontagem de Andaimes",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 3215.49,
       "pagina_pdf": 3,
       "ordem_na_pagina": 5

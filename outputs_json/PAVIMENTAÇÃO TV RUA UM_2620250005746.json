@@ -255,7 +255,7 @@
       "codigo": "02-06-21",
       "fonte": null,
       "descricao": "ENSAIOS DE LABORATÓRIO - DOSAGEM MARSHALL, GRANULOMETRIA, TEOR DE ASFALTO, ESTABILIDADE E FLUÊNCIA",
-      "unidade": "ENS.",
+      "unidade": "ENS",
       "quantidade": 3.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 21
@@ -265,7 +265,7 @@
       "codigo": "02-06-22",
       "fonte": null,
       "descricao": "CONTROLE TECNOLÓGICO DE CONCRETO - ENSAIO DE ESCLEROMETRIA EM 10 PONTOS COM 16 TIROS POR PONTO",
-      "unidade": "ENS.",
+      "unidade": "ENS",
       "quantidade": 3.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 22

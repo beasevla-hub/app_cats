@@ -115,7 +115,7 @@
       "codigo": "10310",
       "fonte": null,
       "descricao": "TRANSPORTE DE TERRA POR CAMINHÃO BASCULANTE, A PARTIR DE 1KM",
-      "unidade": "M3XK M",
+      "unidade": "M3XKM",
       "quantidade": 7446.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 4
@@ -1585,7 +1585,7 @@
       "codigo": "57807",
       "fonte": null,
       "descricao": "TRANSPORTE DE CONCRETO ASFÁLTICO ALÉM DO PRIMEIRO KM",
-      "unidade": "M3XK M",
+      "unidade": "M3XKM",
       "quantidade": 190.0,
       "pagina_pdf": 7,
       "ordem_na_pagina": 28
@@ -1865,7 +1865,7 @@
       "codigo": "180315",
       "fonte": null,
       "descricao": "CLOROFITO (CLOROPHYTUM CROMOSSUM)",
-      "unidade": "DÚZIA",
+      "unidade": "DZ",
       "quantidade": 35.0,
       "pagina_pdf": 8,
       "ordem_na_pagina": 23
@@ -1915,7 +1915,7 @@
       "codigo": "174501",
       "fonte": null,
       "descricao": "ANDAIMES METÁLICOS - FORNECIMENTO",
-      "unidade": "M3xM ÊS",
+      "unidade": "M3XMES",
       "quantidade": 675.0,
       "pagina_pdf": 8,
       "ordem_na_pagina": 28

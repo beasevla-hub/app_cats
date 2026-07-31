@@ -1,0 +1,252 @@
+Contexto do Projeto — app_cats (Sistema de Acervos Técnicos)
+O que é
+Sistema web interno para gestão e consulta de CATs (Certidões de Acervo Técnico) do CREA e Atestados de Capacidade Técnica. O domínio são obras de engenharia (praças, calçadas, escadarias, pavimentação etc.), muitas ligadas a contratos da Prefeitura de São Paulo e outros órgãos públicos.
+
+O fluxo principal: PDFs de CATs → extração via IA → JSON → PostgreSQL → API REST → interface web.
+
+Atualmente o banco tem ~15.500 serviços extraídos de ~175 CATs.
+
+Arquitetura geral
+sources_pdf/          → PDFs originais das CATs
+       ↓
+ingestao_acervos.py   → Envia PDF para IA (Gemini via OpenRouter), extrai dados
+       ↓
+outputs_json/         → ~175 arquivos JSON com metadados da CAT + lista de serviços
+       ↓
+import_json_to_postgres.py  → (alternativa) importa JSONs direto no PostgreSQL
+       ↓
+PostgreSQL (acervos_db)     → Tabelas cats + servicos
+       ↓
+backend/ (FastAPI)          → API REST em /api/v1
+       ↓
+frontend/ (Next.js)           → Interface em localhost:3000
+Estrutura de pastas e arquivos
+Raiz do projeto (app_cats/)
+Arquivo/Pasta	Função
+README.md
+Documentação principal do projeto
+apelidos.json
+Mapeamento número CAT → nome interno da obra (ex: "2620150008134" → "CREA AVARÉ"). Usado na ingestão para dar apelido às obras
+prompt_master_v2.txt
+Prompt enviado à IA para extrair dados estruturados dos PDFs
+ingestao_acervos.py
+Pipeline de ingestão: lê PDFs de sources_pdf/, chama OpenRouter/Gemini, salva JSON em outputs_json/ e grava no PostgreSQL via psycopg2
+import_json_to_postgres.py
+Script standalone para importar JSONs já existentes em outputs_json/ para o PostgreSQL (schema completo, com raw_json)
+normalizar_pdfs.py
+Renomeia PDFs em sources_pdf/ com base nos JSONs processados
+outputs_json/
+~175 JSONs extraídos das CATs (um por obra/CAT)
+sources_pdf/
+PDFs originais das certidões (não versionados)
+Backend (backend/)
+Arquivo	Função
+main.py
+Ponto de entrada FastAPI. Cria tabelas no banco (Base.metadata.create_all), configura CORS para localhost:3000/3001, registra routers em /api/v1
+requirements.txt
+Dependências Python (ver seção Libraries abaixo)
+.env.example
+Template de variáveis: DATABASE_URL, SECRET_KEY
+core/config.py
+Settings via pydantic-settings. Lê DATABASE_URL do .env
+core/database.py
+Engine SQLAlchemy, SessionLocal, get_db() dependency para injeção nas rotas
+models/models.py
+Modelos SQLAlchemy: Cat e Servico (relação 1:N com cascade delete)
+models/schemas.py
+Schemas Pydantic para request/response: CatResponse, CatDetalhe, ServicoResponse, PaginatedServicos, DashboardStats
+api/routes/cats.py
+Endpoints de CATs: listar com filtros, detalhe por id, detalhe por número
+api/routes/servicos.py
+Endpoints de serviços: listagem paginada com filtros, grupos, unidades, somar quantitativos
+api/routes/dashboard.py
+Endpoint de estatísticas gerenciais
+Comunicação interna do backend:
+
+main.py → importa api/routes/* e core/database.py + models/models.py
+Rotas → usam get_db() de core/database.py + modelos de models/models.py + schemas de models/schemas.py
+core/database.py → lê settings.DATABASE_URL de core/config.py
+Frontend (frontend/)
+Arquivo	Função
+package.json
+Dependências Node (ver seção Libraries)
+next.config.ts
+Configuração Next.js
+app/layout.tsx
+Layout raiz: fonte Inter, metadata, importa globals.css
+app/globals.css
+Estilos globais Tailwind + CSS customizado da tabela estilo Excel (.excel-table, .excel-col-resizer, etc.)
+app/page.tsx
+Página principal — Consulta de Serviços. Tabela virtualizada estilo Excel com redimensionamento de colunas/linhas, quebra de linha ao vivo, painel de filtros avançado
+app/dashboard/page.tsx
+Dashboard gerencial — cards com totais, gráficos de barras (CATs por ano, top grupos, top contratantes)
+lib/api.ts
+Cliente HTTP centralizado (axios). Define interfaces TypeScript e funções: fetchServicos, fetchGrupos, fetchUnidades, fetchCats, fetchDashboard. Base URL: NEXT_PUBLIC_API_URL ou http://localhost:8000/api/v1
+Comunicação do frontend:
+
+app/page.tsx e app/dashboard/page.tsx → chamam funções de lib/api.ts
+lib/api.ts → faz requests HTTP para o backend FastAPI em localhost:8000/api/v1
+Não há autenticação implementada ainda (SECRET_KEY existe no config mas não é usada)
+Banco de dados (PostgreSQL — acervos_db)
+Tabela cats
+Campos principais: id, tipo_documento, numero_cat (unique), numero_art, profissional, registro_crea, empresa_contratada, contratante, cnpj_contratante, objeto, processo_administrativo, contrato, endereco_obra, cidade, estado, data_inicio, data_fim, area_m2, valor_contrato, apelido, arquivo_pdf, caminho_pdf, raw_json (JSONB), created_at, updated_at
+
+Tabela servicos
+Campos: id, cat_id (FK → cats.id), grupo, codigo, fonte, descricao, unidade, quantidade, pagina_pdf, ordem_na_pagina
+
+Relação: 1 CAT → N serviços (cascade delete).
+
+Formato do JSON extraído (outputs_json/)
+{
+  "tipo_documento": "CAT",
+  "cat": {
+    "numero_cat": "2620230011378",
+    "contratante": "SUBPREFEITURA VILA MARIANA",
+    "objeto": "...",
+    "data_inicio": "2022-12-21",
+    "valor_contrato": 321476.61,
+    ...
+  },
+  "servicos": [
+    {
+      "grupo": "SERVIÇOS PRELIMINARES",
+      "codigo": "1.1",
+      "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
+      "unidade": "M2",
+      "quantidade": 2.0,
+      "pagina_pdf": 2,
+      "ordem_na_pagina": 1
+    }
+  ]
+}
+API REST (FastAPI — porta 8000)
+Método	Endpoint	Descrição
+GET
+/
+Health check
+GET
+/api/v1/dashboard/stats
+Estatísticas gerenciais (totais, CATs por ano, top grupos, top contratantes)
+GET
+/api/v1/cats
+Listar CATs (filtros: busca, contratante, cidade, ano_inicio, ano_fim)
+GET
+/api/v1/cats/{id}
+Detalhe de uma CAT com seus serviços
+GET
+/api/v1/cats/numero/{numero_cat}
+Detalhe por número da CAT
+GET
+/api/v1/servicos
+Listar serviços paginados (filtros: busca, grupo, unidade, contratante, numero_cat, apelido, ano_inicio, ano_fim)
+GET
+/api/v1/servicos/grupos
+Lista distinta de grupos de serviço
+GET
+/api/v1/servicos/unidades
+Lista distinta de unidades de medida
+GET
+/api/v1/servicos/somar
+Soma quantitativos por descrição de serviço
+Documentação automática: http://localhost:8000/docs
+
+Frontend — páginas e funcionalidades
+/ — Consulta de Serviços (app/page.tsx)
+Tabela virtualizada estilo Excel com ~15.500+ linhas
+Colunas redimensionáveis (drag na borda do cabeçalho)
+Linhas redimensionáveis (drag na borda inferior)
+Quebra de linha ao vivo conforme largura da coluna
+Slider de altura padrão das linhas
+Painel de filtros com 8 campos: descrição, apelido, nº CAT, contratante, grupo, unidade, ano início, ano fim
+Chips de filtros ativos com remoção individual
+Paginação: carrega 200 registros por vez ("Carregar mais 200")
+/dashboard — Dashboard Gerencial (app/dashboard/page.tsx)
+Cards: total CATs, total serviços, contratantes, área total m², valor total contratos
+Gráficos de barras: CATs por ano, top 10 grupos, top 10 contratantes
+Libraries e dependências
+Backend (Python)
+fastapi 0.115.0 — framework web
+uvicorn 0.30.6 — servidor ASGI
+sqlalchemy 2.0.35 — ORM
+psycopg2-binary 2.9.10 — driver PostgreSQL
+pydantic 2.9.2 — validação de dados
+pydantic-settings 2.5.2 — configuração via .env
+python-dotenv 1.0.1 — leitura de .env
+python-multipart 0.0.12 — upload de arquivos (preparado, não usado ainda)
+Scripts de ingestão (Python, fora do backend)
+requests — chamadas HTTP para OpenRouter API
+psycopg2 — gravação direta no PostgreSQL
+Frontend (Node.js)
+next 16.2.10 — framework React com App Router
+react 19.2.4 / react-dom 19.2.4
+typescript 5
+@tanstack/react-table 8.21.3 — tabela com redimensionamento de colunas
+@tanstack/react-virtual 3.14.5 — virtualização de linhas (performance com 16k+ registros)
+axios 1.18.1 — cliente HTTP para API
+lucide-react 1.23.0 — ícones
+tailwindcss 4 — estilização utility-first
+eslint + eslint-config-next — linting
+IA (ingestão)
+Google Gemini 2.5 Flash via OpenRouter API (https://openrouter.ai/api/v1/chat/completions)
+Variável de ambiente: OPENROUTER_API_KEY
+Como rodar localmente
+# 1. PostgreSQL rodando com banco acervos_db criado
+# 2. Backend
+cd backend
+pip install -r requirements.txt
+cp .env.example .env   # configurar DATABASE_URL
+uvicorn main:app --reload --port 8000
+# 3. Frontend
+cd frontend
+pnpm install
+cp .env.local.example .env.local   # NEXT_PUBLIC_API_URL=http://localhost:8000/api/v1
+pnpm dev   # http://localhost:3000
+# 4. (Opcional) Importar dados
+python import_json_to_postgres.py   # importa JSONs de outputs_json/ para o banco
+# 5. (Opcional) Ingerir novos PDFs
+export OPENROUTER_API_KEY=...
+python ingestao_acervos.py   # processa PDFs de sources_pdf/
+Estado atual / mudanças recentes
+Backend com schema expandido (mais campos na tabela cats, raw_json JSONB)
+Frontend com tabela estilo Excel (redimensionamento, quebra de linha, filtros avançados)
+import_json_to_postgres.py criado como alternativa ao script de ingestão original
+Sem autenticação implementada (SECRET_KEY no config mas não usada)
+Sem deploy em produção — tudo roda local
+Git com mudanças não commitadas em: backend/api/routes/*, backend/models/*, backend/core/*, backend/main.py, frontend/app/page.tsx, frontend/app/globals.css, import_json_to_postgres.py
+Diagrama de comunicação entre arquivos
+apelidos.json ──────────────────────────┐
+prompt_master_v2.txt ───────────────────┤
+sources_pdf/*.pdf ──────────────────────┤
+                                        ▼
+                              ingestao_acervos.py
+                              (requests + psycopg2 + OpenRouter/Gemini)
+                                        │
+                          ┌─────────────┼─────────────┐
+                          ▼             ▼             ▼
+                   outputs_json/   PostgreSQL   (debug_errors/)
+                          │
+                          ▼
+              import_json_to_postgres.py
+                          │
+                          ▼
+                     PostgreSQL (acervos_db)
+                          │
+                          ▼
+              backend/core/database.py ← backend/core/config.py (.env)
+                          │
+              backend/models/models.py (SQLAlchemy)
+              backend/models/schemas.py (Pydantic)
+                          │
+              backend/api/routes/cats.py
+              backend/api/routes/servicos.py
+              backend/api/routes/dashboard.py
+                          │
+              backend/main.py (FastAPI, porta 8000)
+                          │
+                          ▼ HTTP REST /api/v1/*
+              frontend/lib/api.ts (axios)
+                          │
+              ┌───────────┴───────────┐
+              ▼                       ▼
+    frontend/app/page.tsx    frontend/app/dashboard/page.tsx
+    (TanStack Table+Virtual)  (cards + gráficos)

@@ -25,7 +25,7 @@
       "codigo": "01.17.031",
       "fonte": null,
       "descricao": "Projeto executivo de arquitetura em formato A1",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 1
@@ -35,7 +35,7 @@
       "codigo": "01.17.051",
       "fonte": null,
       "descricao": "Projeto executivo de estrutura em formato A1",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 2
@@ -45,7 +45,7 @@
       "codigo": "01.17.071",
       "fonte": null,
       "descricao": "Projeto executivo de instalações hidráulicas em formato A1",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 3
@@ -55,7 +55,7 @@
       "codigo": "01.17.111",
       "fonte": null,
       "descricao": "Projeto executivo de instalações elétricas em formato A1",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 2.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 4
@@ -65,7 +65,7 @@
       "codigo": "Β.01.000.010198",
       "fonte": null,
       "descricao": "Técnico equipamentos informática",
-      "unidade": "h",
+      "unidade": "H",
       "quantidade": 8.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 5
@@ -75,7 +75,7 @@
       "codigo": "01.21.110",
       "fonte": null,
       "descricao": "Sondagem do terreno à percussão (mínimo de 30 m)",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 45.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 6
@@ -85,7 +85,7 @@
       "codigo": "01.21.010",
       "fonte": null,
       "descricao": "Taxa de mobilização e desmobilização de equipamentos para execução de sondagem",
-      "unidade": "tx",
+      "unidade": "TX",
       "quantidade": 1.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 7
@@ -95,7 +95,7 @@
       "codigo": "01.02.071",
       "fonte": null,
       "descricao": "Parecer técnico de fundações, contenções e recomendações gerais, para empreendimentos com área construída até 1.000 m²",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 8
@@ -105,7 +105,7 @@
       "codigo": "01.20.720",
       "fonte": null,
       "descricao": "Levantamento planimétrico cadastral com áreas até 50% de ocupação - área até 20.000 m²",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 1112.69,
       "pagina_pdf": 2,
       "ordem_na_pagina": 9
@@ -115,7 +115,7 @@
       "codigo": "01.20.010",
       "fonte": null,
       "descricao": "Taxa de mobilização e desmobilização de equipamentos para execução de levantamento topográfico",
-      "unidade": "tx",
+      "unidade": "TX",
       "quantidade": 1.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 10
@@ -125,7 +125,7 @@
       "codigo": "02.02.140",
       "fonte": null,
       "descricao": "Locação de container tipo sanitário com 2 vasos sanitários, 2 lavatórios, 2 mictórios e 4 pontos para chuveiro - área mínima de 13,80 m²",
-      "unidade": "unxmêS",
+      "unidade": "UNXMES",
       "quantidade": 6.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 11
@@ -135,7 +135,7 @@
       "codigo": "02.02.130",
       "fonte": null,
       "descricao": "Locação de container tipo escritório com 1 vaso sanitário, 1 lavatório e 1 ponto para chuveiro - área mínima de 13,80 m²",
-      "unidade": "unxmêS",
+      "unidade": "UNXMES",
       "quantidade": 6.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 12
@@ -145,7 +145,7 @@
       "codigo": "02.03.120",
       "fonte": null,
       "descricao": "Tapume fixo para fechamento de áreas, com portão",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 67.8,
       "pagina_pdf": 2,
       "ordem_na_pagina": 13
@@ -155,7 +155,7 @@
       "codigo": "02.05.202",
       "fonte": null,
       "descricao": "Andaime torre metálico (1,5 x 1,5 m) com piso metálico",
-      "unidade": "mxmês",
+      "unidade": "MXMES",
       "quantidade": 18.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 14
@@ -165,7 +165,7 @@
       "codigo": "02.05.060",
       "fonte": null,
       "descricao": "Montagem e desmontagem de andaime torre metálica com altura até 10 m",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 36.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 15
@@ -175,7 +175,7 @@
       "codigo": "02.08.050",
       "fonte": null,
       "descricao": "Placa em lona com impressão digital e estrutura em madeira",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 4.5,
       "pagina_pdf": 2,
       "ordem_na_pagina": 16
@@ -185,7 +185,7 @@
       "codigo": "02.09.040",
       "fonte": null,
       "descricao": "Limpeza mecanizada do terreno, inclusive troncos até 15 cm de diâmetro, com caminhão à disposição, dentro e fora da obra, com transporte no raio de até 1,0 km",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 1112.7,
       "pagina_pdf": 3,
       "ordem_na_pagina": 1
@@ -195,7 +195,7 @@
       "codigo": "03.01.270",
       "fonte": null,
       "descricao": "Demolição mecanizada de sarjeta ou sarjetão, inclusive fragmentação e acomodação do material",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 6.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 2
@@ -205,7 +205,7 @@
       "codigo": "03.07.030",
       "fonte": null,
       "descricao": "Demolição (levantamento) mecanizada de pavimento asfáltico, inclusive fragmentação e acomodação do material",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 403.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 3
@@ -215,7 +215,7 @@
       "codigo": "03.02.040",
       "fonte": null,
       "descricao": "Demolição manual de alvenaria de elevação ou elemento vazado, incluindo revestimento",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 9.6,
       "pagina_pdf": 3,
       "ordem_na_pagina": 4
@@ -225,7 +225,7 @@
       "codigo": "03.04.030",
       "fonte": null,
       "descricao": "Demolição manual de revestimento em ladrilho hidráulico, incluindo a base",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 37.5,
       "pagina_pdf": 3,
       "ordem_na_pagina": 5
@@ -235,7 +235,7 @@
       "codigo": "34.13.051",
       "fonte": null,
       "descricao": "Corte, recorte e remoção de árvore inclusive as raízes - diâmetro (DAP)>60cm<100cm",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 6
@@ -245,7 +245,7 @@
       "codigo": "34.13.060",
       "fonte": null,
       "descricao": "Corte, recorte e remoção de árvore inclusive as raízes - diâmetro (DAP) acima de 100 cm",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 7
@@ -255,7 +255,7 @@
       "codigo": "54.01.010",
       "fonte": null,
       "descricao": "Regularização e compactação mecanizada de superfície, sem controle do proctor normal",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 587.85,
       "pagina_pdf": 3,
       "ordem_na_pagina": 8
@@ -265,7 +265,7 @@
       "codigo": "07.01.020",
       "fonte": null,
       "descricao": "Escavação e carga mecanizada em solo de 1ª categoria, em campo aberto",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 31.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 9
@@ -275,7 +275,7 @@
       "codigo": "06.01.020",
       "fonte": null,
       "descricao": "Escavação manual em solo de 1ª e 2ª categoria em campo aberto",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 44.85,
       "pagina_pdf": 3,
       "ordem_na_pagina": 10
@@ -285,7 +285,7 @@
       "codigo": "06.14.020",
       "fonte": null,
       "descricao": "Carga manual de solo",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 75.9,
       "pagina_pdf": 3,
       "ordem_na_pagina": 11
@@ -295,7 +295,7 @@
       "codigo": "05.10.022",
       "fonte": null,
       "descricao": "Transporte de solo de 1ª e 2ª categoria por caminhão para distâncias superiores ao 3° km até o 5°",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 75.9,
       "pagina_pdf": 3,
       "ordem_na_pagina": 12
@@ -305,7 +305,7 @@
       "codigo": "02.10.020",
       "fonte": null,
       "descricao": "Locação de obra de edificação",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 155.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 13
@@ -315,7 +315,7 @@
       "codigo": "02.10.050",
       "fonte": null,
       "descricao": "Locação para muros, cercas e alambrados",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 159.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 14
@@ -325,7 +325,7 @@
       "codigo": "12.01.020",
       "fonte": null,
       "descricao": "Broca em concreto armado diâmetro de 20 cm - completa",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 166.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 15
@@ -335,7 +335,7 @@
       "codigo": "09.01.020",
       "fonte": null,
       "descricao": "Forma em madeira comum para fundação",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 131.9,
       "pagina_pdf": 3,
       "ordem_na_pagina": 16
@@ -345,7 +345,7 @@
       "codigo": "10.01.040",
       "fonte": null,
       "descricao": "Armadura em barra de aço CA-50 (A ou B) fyk = 500 MPa",
-      "unidade": "kg",
+      "unidade": "KG",
       "quantidade": 1209.2,
       "pagina_pdf": 3,
       "ordem_na_pagina": 17
@@ -355,7 +355,7 @@
       "codigo": "10.02.020",
       "fonte": null,
       "descricao": "Armadura em tela soldada de aço",
-      "unidade": "kg",
+      "unidade": "KG",
       "quantidade": 278.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 18
@@ -365,7 +365,7 @@
       "codigo": "17.01.040",
       "fonte": null,
       "descricao": "Lastro de concreto impermeabilizado",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 9.7,
       "pagina_pdf": 3,
       "ordem_na_pagina": 19
@@ -375,7 +375,7 @@
       "codigo": "11.01.170",
       "fonte": null,
       "descricao": "Concreto usinado, fck = 35,0 MPa",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 43.7,
       "pagina_pdf": 3,
       "ordem_na_pagina": 20
@@ -385,7 +385,7 @@
       "codigo": "11.16.040",
       "fonte": null,
       "descricao": "Lançamento e adensamento de concreto ou massa em fundação",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 43.7,
       "pagina_pdf": 3,
       "ordem_na_pagina": 21
@@ -395,7 +395,7 @@
       "codigo": "17.01.020",
       "fonte": null,
       "descricao": "Argamassa de regularização e/ou proteção",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 4.65,
       "pagina_pdf": 3,
       "ordem_na_pagina": 22
@@ -405,7 +405,7 @@
       "codigo": "32.16.030",
       "fonte": null,
       "descricao": "Impermeabilização em membrana de asfalto modificado com elastômeros, na cor preta",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 160.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 23
@@ -415,7 +415,7 @@
       "codigo": "14.11.261",
       "fonte": null,
       "descricao": "Alvenaria de bloco de concreto estrutural 14 x 19 x 39 cm - classe A",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 201.9,
       "pagina_pdf": 3,
       "ordem_na_pagina": 24
@@ -425,7 +425,7 @@
       "codigo": "14.11.231",
       "fonte": null,
       "descricao": "Alvenaria de bloco de concreto estrutural 19 x 19 x 39 cm - classe B",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 50.6,
       "pagina_pdf": 3,
       "ordem_na_pagina": 25
@@ -435,7 +435,7 @@
       "codigo": "10.01.040",
       "fonte": null,
       "descricao": "Armadura em barra de aço CA-50 (A ou B) fyk = 500 MPa",
-      "unidade": "kg",
+      "unidade": "KG",
       "quantidade": 344.1,
       "pagina_pdf": 3,
       "ordem_na_pagina": 26
@@ -445,7 +445,7 @@
       "codigo": "11.05.040",
       "fonte": null,
       "descricao": "Argamassa graute",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 3.9,
       "pagina_pdf": 3,
       "ordem_na_pagina": 27
@@ -455,7 +455,7 @@
       "codigo": "13.01.020",
       "fonte": null,
       "descricao": "Laje pré-fabricada mista vigota treliçada/lajota cerâmica - LT 12 (8+4) e capa com concreto de 20MPa",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 125.4,
       "pagina_pdf": 3,
       "ordem_na_pagina": 28
@@ -465,7 +465,7 @@
       "codigo": "13.01.140",
       "fonte": null,
       "descricao": "Laje pré-fabricada mista vigota treliçada/lajota cerâmica - LT 16 (12+4) e capa com concreto de 25MPa",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 5.8,
       "pagina_pdf": 3,
       "ordem_na_pagina": 29
@@ -475,7 +475,7 @@
       "codigo": "24.03.100",
       "fonte": null,
       "descricao": "Alçapão/tampa em chapa de ferro com porta cadeado",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 0.5,
       "pagina_pdf": 3,
       "ordem_na_pagina": 30
@@ -485,7 +485,7 @@
       "codigo": "32.16.030",
       "fonte": null,
       "descricao": "Impermeabilização em membrana de asfalto modificado com elastômeros, na cor preta",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 5.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 31
@@ -495,7 +495,7 @@
       "codigo": "10.02.020",
       "fonte": null,
       "descricao": "Armadura em tela soldada de aço",
-      "unidade": "kg",
+      "unidade": "KG",
       "quantidade": 81.5,
       "pagina_pdf": 3,
       "ordem_na_pagina": 32
@@ -505,7 +505,7 @@
       "codigo": "14.10.111",
       "fonte": null,
       "descricao": "Alvenaria de bloco de concreto de vedação de 14 x 19 x 39 cm - classe C",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 362.5,
       "pagina_pdf": 3,
       "ordem_na_pagina": 33
@@ -515,7 +515,7 @@
       "codigo": "14.28.030",
       "fonte": null,
       "descricao": "Elemento vazado em concreto, tipo quadriculado de 39 x 39 x 10 cm",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 20.6,
       "pagina_pdf": 3,
       "ordem_na_pagina": 34
@@ -525,7 +525,7 @@
       "codigo": "11.03.090",
       "fonte": null,
       "descricao": "Concreto preparado no local, fck = 20,0 MPa",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 11.8,
       "pagina_pdf": 3,
       "ordem_na_pagina": 35
@@ -535,7 +535,7 @@
       "codigo": "10.01.040",
       "fonte": null,
       "descricao": "Armadura em barra de aço CA-50 (A ou B) fyk = 500 MPa",
-      "unidade": "kg",
+      "unidade": "KG",
       "quantidade": 175.4,
       "pagina_pdf": 3,
       "ordem_na_pagina": 36
@@ -545,7 +545,7 @@
       "codigo": "09.02.020",
       "fonte": null,
       "descricao": "Forma plana em compensado para estrutura convencional",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 57.1,
       "pagina_pdf": 3,
       "ordem_na_pagina": 37
@@ -555,7 +555,7 @@
       "codigo": "17.02.020",
       "fonte": null,
       "descricao": "Chapisco",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 1048.4,
       "pagina_pdf": 3,
       "ordem_na_pagina": 38
@@ -565,7 +565,7 @@
       "codigo": "17.04.040",
       "fonte": null,
       "descricao": "Revestimento em gesso liso desempenado sobre bloco",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 365.1,
       "pagina_pdf": 4,
       "ordem_na_pagina": 1
@@ -575,7 +575,7 @@
       "codigo": "17.04.020",
       "fonte": null,
       "descricao": "Revestimento em gesso liso desempenado sobre emboço",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 44.6,
       "pagina_pdf": 4,
       "ordem_na_pagina": 2
@@ -585,7 +585,7 @@
       "codigo": "17.02.330",
       "fonte": null,
       "descricao": "Emboço desempenado com argamassa industrializada",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 98.0,
       "pagina_pdf": 4,
       "ordem_na_pagina": 3
@@ -595,7 +595,7 @@
       "codigo": "18.11.042",
       "fonte": null,
       "descricao": "Revestimento em placa cerâmica esmaltada de 20x20 cm, tipo monocolor, assentado e rejuntado com argamassa industrializada",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 52.7,
       "pagina_pdf": 4,
       "ordem_na_pagina": 4
@@ -605,7 +605,7 @@
       "codigo": "17.02.250",
       "fonte": null,
       "descricao": "Argamassa decorativa para revestimento em parede interna e externa",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 330.9,
       "pagina_pdf": 4,
       "ordem_na_pagina": 5
@@ -615,7 +615,7 @@
       "codigo": "22.06.330",
       "fonte": null,
       "descricao": "Brise metálico fixo e linear em chapa lisa em alumínio pré-pintada, largura frontal de 30 mm",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 20.3,
       "pagina_pdf": 4,
       "ordem_na_pagina": 6
@@ -625,7 +625,7 @@
       "codigo": "38.07.300",
       "fonte": null,
       "descricao": "Perfilado perfurado 38 x 38 mm em chapa #14 pré-zincada, com acessórios",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 13.0,
       "pagina_pdf": 4,
       "ordem_na_pagina": 7
@@ -635,7 +635,7 @@
       "codigo": null,
       "fonte": null,
       "descricao": "Corrente zincada 4mm 5/32 polegadas",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 31.6,
       "pagina_pdf": 4,
       "ordem_na_pagina": 8
@@ -645,7 +645,7 @@
       "codigo": "46.07.060",
       "fonte": null,
       "descricao": "Tubo galvanizado DN= 2', inclusive conexões",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 6.3,
       "pagina_pdf": 4,
       "ordem_na_pagina": 9
@@ -655,7 +655,7 @@
       "codigo": "34.05.032",
       "fonte": null,
       "descricao": "Cerca em arame farpado com mourões de concreto, com ponta inclinada, 12 fiadas",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 104.9,
       "pagina_pdf": 4,
       "ordem_na_pagina": 10
@@ -665,7 +665,7 @@
       "codigo": "16.33.400",
       "fonte": null,
       "descricao": "Rufo pré-moldado em concreto, de 14 x 50 x 18,5 cm",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 319.7,
       "pagina_pdf": 4,
       "ordem_na_pagina": 11
@@ -675,7 +675,7 @@
       "codigo": "35.07.020",
       "fonte": null,
       "descricao": "Plataforma com 3 mastros galvanizados, h= 7,00 m",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 1.0,
       "pagina_pdf": 4,
       "ordem_na_pagina": 12
@@ -685,7 +685,7 @@
       "codigo": "34.20.380",
       "fonte": null,
       "descricao": "Suporte para apoio de bicicletas em tubo de aço galvanizado, diâmetro de 2 1/2'",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 5.0,
       "pagina_pdf": 4,
       "ordem_na_pagina": 13
@@ -695,7 +695,7 @@
       "codigo": "44.02.210",
       "fonte": null,
       "descricao": "Tampo/bancada em granito amêndoa, espessura de 2 cm",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 2.0,
       "pagina_pdf": 4,
       "ordem_na_pagina": 14
@@ -705,7 +705,7 @@
       "codigo": "26.01.169",
       "fonte": null,
       "descricao": "Vidro liso laminado incolor de 8 mm",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 1.9,
       "pagina_pdf": 4,
       "ordem_na_pagina": 15
@@ -715,7 +715,7 @@
       "codigo": "23.08.040",
       "fonte": null,
       "descricao": "Armário/gabinete embutido em MDF sob medida, revestido em laminado melamínico, com portas e prateleiras",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 3.8,
       "pagina_pdf": 4,
       "ordem_na_pagina": 16
@@ -725,7 +725,7 @@
       "codigo": "34.02.080",
       "fonte": null,
       "descricao": "Plantio de grama São Carlos em placas (jardins e canteiros)",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 19.0,
       "pagina_pdf": 4,
       "ordem_na_pagina": 17
@@ -735,7 +735,7 @@
       "codigo": "17.01.050",
       "fonte": null,
       "descricao": "Regularização de piso com nata de cimento",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 48.4,
       "pagina_pdf": 4,
       "ordem_na_pagina": 18
@@ -745,7 +745,7 @@
       "codigo": "08.05.100",
       "fonte": null,
       "descricao": "Dreno com pedra britada",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 0.25,
       "pagina_pdf": 4,
       "ordem_na_pagina": 19
@@ -755,7 +755,7 @@
       "codigo": "17.03.040",
       "fonte": null,
       "descricao": "Cimentado desempenado e alisado (queimado)",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 40.95,
       "pagina_pdf": 4,
       "ordem_na_pagina": 20
@@ -765,7 +765,7 @@
       "codigo": "17.03.020",
       "fonte": null,
       "descricao": "Cimentado desempenado",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 84.8,
       "pagina_pdf": 4,
       "ordem_na_pagina": 21
@@ -775,7 +775,7 @@
       "codigo": "21.02.291",
       "fonte": null,
       "descricao": "Revestimento vinílico heterogêneo flexível em réguas, espessura de 3 mm, com impermeabilizante acrílico",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 48.4,
       "pagina_pdf": 4,
       "ordem_na_pagina": 22
@@ -785,7 +785,7 @@
       "codigo": "21.10.050",
       "fonte": null,
       "descricao": "Rodapé de poliestireno, espessura de 7 cm",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 82.95,
       "pagina_pdf": 4,
       "ordem_na_pagina": 23
@@ -795,7 +795,7 @@
       "codigo": "18.06.022",
       "fonte": null,
       "descricao": "Placa cerâmica esmaltada PEI-4 para área interna, grupo de absorção Blla, resistência química A, assentado com argamassa colante industrializada",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 19.8,
       "pagina_pdf": 4,
       "ordem_na_pagina": 24
@@ -805,7 +805,7 @@
       "codigo": "18.06.410",
       "fonte": null,
       "descricao": "Rejuntamento em placas cerâmicas com argamassa industrializada para rejunte, juntas acima de 3 até 5 mm",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 19.8,
       "pagina_pdf": 4,
       "ordem_na_pagina": 25
@@ -815,7 +815,7 @@
       "codigo": "19.01.060",
       "fonte": null,
       "descricao": "Peitoril e/ou soleira em granito, espessura de 2 cm e largura até 20 cm",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 7.3,
       "pagina_pdf": 4,
       "ordem_na_pagina": 26
@@ -825,7 +825,7 @@
       "codigo": "54.20.040",
       "fonte": null,
       "descricao": "Bate-roda em concreto pré-moldado",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 11.0,
       "pagina_pdf": 4,
       "ordem_na_pagina": 27
@@ -835,7 +835,7 @@
       "codigo": "33.09.020",
       "fonte": null,
       "descricao": "Borracha clorada para faixas demarcatórias",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 129.4,
       "pagina_pdf": 4,
       "ordem_na_pagina": 28
@@ -845,7 +845,7 @@
       "codigo": "54.01.030",
       "fonte": null,
       "descricao": "Abertura e preparo de caixa até 40 cm, compactação do subleito mínimo de 95% do PN e transporte até o raio de 1,0 km",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 436.75,
       "pagina_pdf": 4,
       "ordem_na_pagina": 29
@@ -855,7 +855,7 @@
       "codigo": "06.02.040",
       "fonte": null,
       "descricao": "Escavação manual em solo de 1ª e 2ª categoria em vala ou cava além de 1,50 m",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 436.75,
       "pagina_pdf": 4,
       "ordem_na_pagina": 30
@@ -865,7 +865,7 @@
       "codigo": "54.01.210",
       "fonte": null,
       "descricao": "Base de brita graduada",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 174.7,
       "pagina_pdf": 4,
       "ordem_na_pagina": 31
@@ -875,7 +875,7 @@
       "codigo": "54.01.220",
       "fonte": null,
       "descricao": "Base de bica corrida",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 87.35,
       "pagina_pdf": 4,
       "ordem_na_pagina": 32
@@ -885,7 +885,7 @@
       "codigo": "11.18.140",
       "fonte": null,
       "descricao": "Lastro e/ou fundação em rachão mecanizado",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 436.75,
       "pagina_pdf": 4,
       "ordem_na_pagina": 33
@@ -895,7 +895,7 @@
       "codigo": "54.04.350",
       "fonte": null,
       "descricao": "Pavimentação em lajota de concreto 35 MPa, espessura 8 cm, tipos: raquete, retangular, sextavado e 16 faces, com rejunte em areia",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 436.75,
       "pagina_pdf": 4,
       "ordem_na_pagina": 34
@@ -905,7 +905,7 @@
       "codigo": "25.01.380",
       "fonte": null,
       "descricao": "Caixilho em alumínio de correr com vidro, cor branco",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 10.6,
       "pagina_pdf": 4,
       "ordem_na_pagina": 35
@@ -915,7 +915,7 @@
       "codigo": "14.28.140",
       "fonte": null,
       "descricao": "Elemento vazado em vidro, tipo veneziana de 20 x 20 x 6 cm",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 1.9,
       "pagina_pdf": 4,
       "ordem_na_pagina": 36
@@ -925,7 +925,7 @@
       "codigo": "29.01.030",
       "fonte": null,
       "descricao": "Perfil em alumínio natural",
-      "unidade": "kg",
+      "unidade": "KG",
       "quantidade": 1.25,
       "pagina_pdf": 4,
       "ordem_na_pagina": 37
@@ -935,7 +935,7 @@
       "codigo": "02.03.060",
       "fonte": null,
       "descricao": "Proteção de fachada com tela de nylon",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 2.0,
       "pagina_pdf": 4,
       "ordem_na_pagina": 38
@@ -945,7 +945,7 @@
       "codigo": "23.09.040",
       "fonte": null,
       "descricao": "Porta lisa com batente madeira - 80 x 210 cm",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 8.0,
       "pagina_pdf": 4,
       "ordem_na_pagina": 39
@@ -955,7 +955,7 @@
       "codigo": "25.02.010",
       "fonte": null,
       "descricao": "Porta de entrada de abrir em alumínio com vidro, linha comercial",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 3.6,
       "pagina_pdf": 4,
       "ordem_na_pagina": 40
@@ -965,7 +965,7 @@
       "codigo": "25.02.211",
       "fonte": null,
       "descricao": "Porta veneziana de abrir em alumínio, cor branca",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 8.2,
       "pagina_pdf": 5,
       "ordem_na_pagina": 1
@@ -975,7 +975,7 @@
       "codigo": "34.05.300",
       "fonte": null,
       "descricao": "Portão de correr em grade de aço galvanizado eletrofundida, malha 65 x 132 mm, e pintura eletrostática",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 7.7,
       "pagina_pdf": 5,
       "ordem_na_pagina": 2
@@ -985,7 +985,7 @@
       "codigo": null,
       "fonte": null,
       "descricao": "Corrente zincada 4mm 5/32 polegadas",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 22.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 3
@@ -995,7 +995,7 @@
       "codigo": "38.05.120",
       "fonte": null,
       "descricao": "Eletroduto galvanizado, pesado de 2' - com acessórios",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 9.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 4
@@ -1005,7 +1005,7 @@
       "codigo": "28.20.650",
       "fonte": null,
       "descricao": "Puxador duplo em aço inoxidável, para porta de madeira, alumínio ou vidro, de 350 mm",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 2.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 5
@@ -1015,7 +1015,7 @@
       "codigo": "28.01.040",
       "fonte": null,
       "descricao": "Ferragem completa com maçaneta tipo alavanca, para porta interna com 1 folha",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 8.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 6
@@ -1025,7 +1025,7 @@
       "codigo": "28.01.550",
       "fonte": null,
       "descricao": "Fechadura com maçaneta tipo alavanca em aço inoxidável, para porta externa",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 2.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 7
@@ -1035,7 +1035,7 @@
       "codigo": null,
       "fonte": null,
       "descricao": "Fecho cromada com chave",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 2.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 8
@@ -1045,7 +1045,7 @@
       "codigo": null,
       "fonte": null,
       "descricao": "Paradores de porta",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 9.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 9
@@ -1055,7 +1055,7 @@
       "codigo": "19.01.060",
       "fonte": null,
       "descricao": "Peitoril e/ou soleira em granito, espessura de 2 cm e largura até 20 cm",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 8.4,
       "pagina_pdf": 5,
       "ordem_na_pagina": 10
@@ -1065,7 +1065,7 @@
       "codigo": "15.01.310",
       "fonte": null,
       "descricao": "Estrutura em terças para telhas de barro",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 154.5,
       "pagina_pdf": 5,
       "ordem_na_pagina": 11
@@ -1075,7 +1075,7 @@
       "codigo": "33.01.060",
       "fonte": null,
       "descricao": "Imunizante para madeira",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 154.5,
       "pagina_pdf": 5,
       "ordem_na_pagina": 12
@@ -1085,7 +1085,7 @@
       "codigo": "16.02.030",
       "fonte": null,
       "descricao": "Telha de barro tipo romana",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 141.3,
       "pagina_pdf": 5,
       "ordem_na_pagina": 13
@@ -1095,7 +1095,7 @@
       "codigo": "16.02.230",
       "fonte": null,
       "descricao": "Cumeeira de barro emboçado tipos: plan, romana, italiana, francesa e paulistinha",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 9.95,
       "pagina_pdf": 5,
       "ordem_na_pagina": 14
@@ -1105,7 +1105,7 @@
       "codigo": "16.33.022",
       "fonte": null,
       "descricao": "Calha, rufo, afins em chapa galvanizada nº 24 - corte 0,33 m",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 22.4,
       "pagina_pdf": 5,
       "ordem_na_pagina": 15
@@ -1115,7 +1115,7 @@
       "codigo": "15.03.030",
       "fonte": null,
       "descricao": "Fornecimento e montagem de estrutura em aço ASTM-A36, sem pintura",
-      "unidade": "kg",
+      "unidade": "KG",
       "quantidade": 530.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 16
@@ -1125,7 +1125,7 @@
       "codigo": "16.12.060",
       "fonte": null,
       "descricao": "Telhamento em chapa de aço pré-pintada com epóxi e poliéster, perfil trapezoidal, com espessura de 0,50 mm e altura de 40 mm",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 84.85,
       "pagina_pdf": 5,
       "ordem_na_pagina": 17
@@ -1135,7 +1135,7 @@
       "codigo": "17.01.020",
       "fonte": null,
       "descricao": "Argamassa de regularização e/ou proteção",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 0.1,
       "pagina_pdf": 5,
       "ordem_na_pagina": 18
@@ -1145,7 +1145,7 @@
       "codigo": null,
       "fonte": null,
       "descricao": "Corrente zincada 4mm 5/32 polegadas",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 5.8,
       "pagina_pdf": 5,
       "ordem_na_pagina": 19
@@ -1155,7 +1155,7 @@
       "codigo": "32.15.040",
       "fonte": null,
       "descricao": "Impermeabilização em manta asfáltica com armadura, tipo III-B, espessura de 4 mm",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 3.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 20
@@ -1165,7 +1165,7 @@
       "codigo": "30.08.060",
       "fonte": null,
       "descricao": "Bacia sifonada de louça para pessoas com mobilidade reduzida - 6 litros",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 21
@@ -1175,7 +1175,7 @@
       "codigo": "44.20.280",
       "fonte": null,
       "descricao": "Tampa de plástico para bacia sanitária",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 22
@@ -1185,7 +1185,7 @@
       "codigo": "30.08.040",
       "fonte": null,
       "descricao": "Lavatório de louça para canto sem coluna para pessoas com mobilidade reduzida",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 23
@@ -1195,7 +1195,7 @@
       "codigo": "44.03.720",
       "fonte": null,
       "descricao": "Torneira de mesa para lavatório, acionamento hidromecânico com alavanca, registro integrado regulador de vazão, em latão cromado, DN= 1/2'",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 24
@@ -1205,7 +1205,7 @@
       "codigo": "30.01.020",
       "fonte": null,
       "descricao": "Barra de apoio reta, para pessoas com mobilidade reduzida, em tubo de aço inoxidável de 1 1/2′ x 500 mm",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 25
@@ -1215,7 +1215,7 @@
       "codigo": "30.01.030",
       "fonte": null,
       "descricao": "Barra de apoio reta, para pessoas com mobilidade reduzida, em tubo de aço inoxidável de 1 1/2' x 800 mm",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 2.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 26
@@ -1225,7 +1225,7 @@
       "codigo": "30.01.130",
       "fonte": null,
       "descricao": "Barra de proteção para lavatório, para pessoas com mobilidade reduzida, em tubo de alumínio acabamento com pintura epóxi",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 27
@@ -1235,7 +1235,7 @@
       "codigo": "30.06.110",
       "fonte": null,
       "descricao": "Sinalização com pictograma para vaga de estacionamento, com faixas demarcatórias",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 28
@@ -1245,7 +1245,7 @@
       "codigo": "30.04.030",
       "fonte": null,
       "descricao": "Piso em ladrilho hidráulico podotátil várias cores (25x25x2,5cm), assentado com argamassa mista",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 1.6,
       "pagina_pdf": 5,
       "ordem_na_pagina": 29
@@ -1255,7 +1255,7 @@
       "codigo": "30.04.020",
       "fonte": null,
       "descricao": "Revestimento em borracha sintética colorida de 5,0 mm, para sinalização tátil de alerta / direcional - colado",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 0.8,
       "pagina_pdf": 5,
       "ordem_na_pagina": 30
@@ -1265,7 +1265,7 @@
       "codigo": "28.01.040",
       "fonte": null,
       "descricao": "Ferragem completa com maçaneta tipo alavanca, para porta interna com 1 folha",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 1.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 31
@@ -1275,7 +1275,7 @@
       "codigo": "30.04.060",
       "fonte": null,
       "descricao": "Revestimento em chapa de aço inoxidável para proteção de portas, altura de 40 cm",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 1.6,
       "pagina_pdf": 5,
       "ordem_na_pagina": 32
@@ -1285,7 +1285,7 @@
       "codigo": "30.06.080",
       "fonte": null,
       "descricao": "Placa de identificação em alumínio para WC, com desenho universal de acessibilidade",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 33
@@ -1295,7 +1295,7 @@
       "codigo": "33.10.010",
       "fonte": null,
       "descricao": "Tinta látex antimofo em massa, inclusive preparo",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 388.7,
       "pagina_pdf": 5,
       "ordem_na_pagina": 34
@@ -1305,7 +1305,7 @@
       "codigo": "33.10.030",
       "fonte": null,
       "descricao": "Tinta acrílica antimofo em massa, inclusive preparo",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 865.45,
       "pagina_pdf": 6,
       "ordem_na_pagina": 1
@@ -1315,7 +1315,7 @@
       "codigo": "33.03.780",
       "fonte": null,
       "descricao": "Verniz de proteção antipichação",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 40.5,
       "pagina_pdf": 6,
       "ordem_na_pagina": 2
@@ -1325,7 +1325,7 @@
       "codigo": "33.01.350",
       "fonte": null,
       "descricao": "Preparo de base para superfície metálica com fundo antioxidante",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 23.1,
       "pagina_pdf": 6,
       "ordem_na_pagina": 3
@@ -1335,7 +1335,7 @@
       "codigo": "33.11.020",
       "fonte": null,
       "descricao": "Esmalte em superfície metálica, inclusive preparo",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 23.1,
       "pagina_pdf": 6,
       "ordem_na_pagina": 4
@@ -1345,7 +1345,7 @@
       "codigo": "33.01.060",
       "fonte": null,
       "descricao": "Imunizante para madeira",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 40.3,
       "pagina_pdf": 6,
       "ordem_na_pagina": 5
@@ -1355,7 +1355,7 @@
       "codigo": "33.02.100",
       "fonte": null,
       "descricao": "Massa corrida a óleo em esquadrias de madeira",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 40.3,
       "pagina_pdf": 6,
       "ordem_na_pagina": 6
@@ -1365,7 +1365,7 @@
       "codigo": "33.12.010",
       "fonte": null,
       "descricao": "Esmalte em superfície de madeira, inclusive preparo",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 40.3,
       "pagina_pdf": 6,
       "ordem_na_pagina": 7
@@ -1375,7 +1375,7 @@
       "codigo": "33.06.020",
       "fonte": null,
       "descricao": "Acrílico para quadras e pisos cimentados",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 74.0,
       "pagina_pdf": 6,
       "ordem_na_pagina": 8
@@ -1385,7 +1385,7 @@
       "codigo": "02.10.040",
       "fonte": null,
       "descricao": "Locação de rede de canalização",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 37.8,
       "pagina_pdf": 6,
       "ordem_na_pagina": 9
@@ -1395,7 +1395,7 @@
       "codigo": "45.01.040",
       "fonte": null,
       "descricao": "Entrada completa de água com abrigo e registro de gaveta, DN= 1'",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 6,
       "ordem_na_pagina": 10
@@ -1405,7 +1405,7 @@
       "codigo": "45.03.100",
       "fonte": null,
       "descricao": "Hidrômetro em bronze, diâmetro de 25 mm (1')",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 6,
       "ordem_na_pagina": 11
@@ -1415,7 +1415,7 @@
       "codigo": "48.02.004",
       "fonte": null,
       "descricao": "Reservatório de fibra de vidro - capacidade de 2.000 litros",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 6,
       "ordem_na_pagina": 12
@@ -1425,7 +1425,7 @@
       "codigo": "14.30.910",
       "fonte": null,
       "descricao": "Divisória em placas duplas de gesso acartonado, resistência ao fogo 60 minutos, espessura 98/48mm - 2RU / 2RU LM",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 8.64,
       "pagina_pdf": 6,
       "ordem_na_pagina": 13
@@ -1435,7 +1435,7 @@
       "codigo": "46.01.010",
       "fonte": null,
       "descricao": "Tubo de PVC rígido soldável marrom, DN= 20 mm, (1/2'), inclusive conexões",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 62.0,
       "pagina_pdf": 6,
       "ordem_na_pagina": 14
@@ -1445,7 +1445,7 @@
       "codigo": "46.01.020",
       "fonte": null,
       "descricao": "Tubo de PVC rígido soldável marrom, DN= 25 mm, (3/4'), inclusive conexões",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 20.0,
       "pagina_pdf": 6,
       "ordem_na_pagina": 15
@@ -1455,7 +1455,7 @@
       "codigo": "46.01.030",
       "fonte": null,
       "descricao": "Tubo de PVC rígido soldável marrom, DN= 32 mm, (1'), inclusive conexões",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 24.0,
       "pagina_pdf": 6,
       "ordem_na_pagina": 16
@@ -1465,7 +1465,7 @@
       "codigo": "46.01.040",
       "fonte": null,
       "descricao": "Tubo de PVC rígido soldável marrom, DN= 40 mm, (1 1/4'), inclusive conexões",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 4.0,
       "pagina_pdf": 6,
       "ordem_na_pagina": 17
@@ -1475,7 +1475,7 @@
       "codigo": "46.03.080",
       "fonte": null,
       "descricao": "Tubo de PVC rígido, pontas lisas, soldável, linha esgoto série reforçada 'R', DN= 40 mm, inclusive conexões",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 22.0,
       "pagina_pdf": 6,
       "ordem_na_pagina": 18
@@ -1485,7 +1485,7 @@
       "codigo": "46.03.038",
       "fonte": null,
       "descricao": "Tubo de PVC rígido PxB com virola e anel de borracha, linha esgoto série reforçada 'R', DN= 50 mm, inclusive conexões",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 12.0,
       "pagina_pdf": 6,
       "ordem_na_pagina": 19
@@ -1495,7 +1495,7 @@
       "codigo": "46.03.050",
       "fonte": null,
       "descricao": "Tubo de PVC rígido PxB com virola e anel de borracha, linha esgoto série reforçada 'R', DN= 100 mm, inclusive conexões",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 7.0,
       "pagina_pdf": 6,
       "ordem_na_pagina": 20
@@ -1505,7 +1505,7 @@
       "codigo": "46.03.060",
       "fonte": null,
       "descricao": "Tubo de PVC rígido PxB com virola e anel de borracha, linha esgoto série reforçada 'R'. DN= 150 mm, inclusive conexões",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 14.0,
       "pagina_pdf": 6,
       "ordem_na_pagina": 21
@@ -1515,7 +1515,7 @@
       "codigo": "46.13.006",
       "fonte": null,
       "descricao": "Tubo em polietileno de alta densidade corrugado perfurado, DN= 2 1/2', inclusive conexões",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 23.0,
       "pagina_pdf": 6,
       "ordem_na_pagina": 22
@@ -1525,7 +1525,7 @@
       "codigo": "44.01.070",
       "fonte": null,
       "descricao": "Bacia sifonada de louça sem tampa com saída horizontal - 6 litros",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 2.0,
       "pagina_pdf": 6,
       "ordem_na_pagina": 23
@@ -1535,7 +1535,7 @@
       "codigo": "44.20.280",
       "fonte": null,
       "descricao": "Tampa de plástico para bacia sanitária",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 2.0,
       "pagina_pdf": 6,
       "ordem_na_pagina": 24
@@ -1545,7 +1545,7 @@
       "codigo": "44.01.110",
       "fonte": null,
       "descricao": "Lavatório de louça com coluna",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 2.0,
       "pagina_pdf": 6,
       "ordem_na_pagina": 25
@@ -1555,7 +1555,7 @@
       "codigo": "44.01.270",
       "fonte": null,
       "descricao": "Cuba de louça de embutir oval",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 2.0,
       "pagina_pdf": 6,
       "ordem_na_pagina": 26
@@ -1565,7 +1565,7 @@
       "codigo": "44.06.320",
       "fonte": null,
       "descricao": "Cuba em aço inoxidável simples de 560x330x140mm",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 6,
       "ordem_na_pagina": 27
@@ -1575,7 +1575,7 @@
       "codigo": "44.01.310",
       "fonte": null,
       "descricao": "Tanque de louça com coluna de 30 litros",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 6,
       "ordem_na_pagina": 28
@@ -1585,7 +1585,7 @@
       "codigo": "44.03.460",
       "fonte": null,
       "descricao": "Torneira para lavatório em latão fundido cromado, DN= 1/2'",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 4.0,
       "pagina_pdf": 6,
       "ordem_na_pagina": 29
@@ -1595,7 +1595,7 @@
       "codigo": "44.03.470",
       "fonte": null,
       "descricao": "Torneira de parede para pia com bica móvel e arejador, em latão fundido cromado",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 6,
       "ordem_na_pagina": 30
@@ -1605,7 +1605,7 @@
       "codigo": "44.03.400",
       "fonte": null,
       "descricao": "Torneira curta com rosca para uso geral, em latão fundido cromado, DN= 3/4'",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 2.0,
       "pagina_pdf": 6,
       "ordem_na_pagina": 31
@@ -1615,7 +1615,7 @@
       "codigo": "47.14.200",
       "fonte": null,
       "descricao": "Registro regulador de vazão para torneira, misturador e bidê, em ABS com canopla, DN= 1/2'",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 5.0,
       "pagina_pdf": 6,
       "ordem_na_pagina": 32
@@ -1625,7 +1625,7 @@
       "codigo": "44.20.110",
       "fonte": null,
       "descricao": "Engate flexível de PVC DN= 1/2'",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 12.0,
       "pagina_pdf": 6,
       "ordem_na_pagina": 33
@@ -1635,7 +1635,7 @@
       "codigo": "44.20.640",
       "fonte": null,
       "descricao": "Válvula de metal cromado de 1 1/2'",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 4.0,
       "pagina_pdf": 6,
       "ordem_na_pagina": 34
@@ -1645,7 +1645,7 @@
       "codigo": "44.20.240",
       "fonte": null,
       "descricao": "Sifão plástico com copo, rígido, de 1' x 1 1/2'",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 7.0,
       "pagina_pdf": 6,
       "ordem_na_pagina": 35
@@ -1655,7 +1655,7 @@
       "codigo": "47.02.050",
       "fonte": null,
       "descricao": "Registro de gaveta em latão fundido cromado com canopla, DN= 1 1/2' - linha especial",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 3.0,
       "pagina_pdf": 6,
       "ordem_na_pagina": 36
@@ -1665,7 +1665,7 @@
       "codigo": "48.05.030",
       "fonte": null,
       "descricao": "Torneira de boia, DN= 1 1/4'",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 6,
       "ordem_na_pagina": 37
@@ -1675,7 +1675,7 @@
       "codigo": "49.01.020",
       "fonte": null,
       "descricao": "Caixa sifonada de PVC rígido de 100 x 150 x 50 mm, com grelha",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 4.0,
       "pagina_pdf": 6,
       "ordem_na_pagina": 38
@@ -1685,7 +1685,7 @@
       "codigo": "49.03.020",
       "fonte": null,
       "descricao": "Caixa de gordura em alvenaria, 60 x 60 x 60 cm",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 6,
       "ordem_na_pagina": 39
@@ -1695,7 +1695,7 @@
       "codigo": "49.12.100",
       "fonte": null,
       "descricao": "Caixa coletora em concreto armado 0,30 x 0,70 x 1,00 m",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 6,
       "ordem_na_pagina": 40
@@ -1705,7 +1705,7 @@
       "codigo": "44.03.130",
       "fonte": null,
       "descricao": "Saboneteira tipo dispenser, para refil de 800 ml",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 4.0,
       "pagina_pdf": 6,
       "ordem_na_pagina": 41
@@ -1715,7 +1715,7 @@
       "codigo": "44.03.180",
       "fonte": null,
       "descricao": "Dispenser toalheiro em ABS, para folhas",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 4.0,
       "pagina_pdf": 7,
       "ordem_na_pagina": 1
@@ -1725,7 +1725,7 @@
       "codigo": "44.03.050",
       "fonte": null,
       "descricao": "Dispenser papel higiênico em ABS para rolão 300 / 600 m, com visor",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 3.0,
       "pagina_pdf": 7,
       "ordem_na_pagina": 2
@@ -1735,7 +1735,7 @@
       "codigo": "21.03.151",
       "fonte": null,
       "descricao": "Revestimento em placas de alumínio composto \"ACM\", espessura de 4 mm e acabamento em PV",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 3.42,
       "pagina_pdf": 7,
       "ordem_na_pagina": 3
@@ -1745,7 +1745,7 @@
       "codigo": "97.02.030",
       "fonte": null,
       "descricao": "Placa comemorativa em aço inoxidável escovado",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 0.8,
       "pagina_pdf": 7,
       "ordem_na_pagina": 4
@@ -1755,7 +1755,7 @@
       "codigo": "97.02.190",
       "fonte": null,
       "descricao": "Placa de identificação em acrílico com texto em vinil",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 0.4,
       "pagina_pdf": 7,
       "ordem_na_pagina": 5
@@ -1765,7 +1765,7 @@
       "codigo": "36.04.010",
       "fonte": null,
       "descricao": "Suporte para 1 isolador de baixa tensão",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 2.0,
       "pagina_pdf": 7,
       "ordem_na_pagina": 6
@@ -1775,7 +1775,7 @@
       "codigo": "36.05.010",
       "fonte": null,
       "descricao": "Isolador tipo roldana para baixa tensão de 76 x 79 mm",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 2.0,
       "pagina_pdf": 7,
       "ordem_na_pagina": 7
@@ -1785,7 +1785,7 @@
       "codigo": "68.01.420",
       "fonte": null,
       "descricao": "Poste de concreto duplo T, 300 kg, H = 7,50 m",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 7,
       "ordem_na_pagina": 8
@@ -1795,7 +1795,7 @@
       "codigo": "36.03.020",
       "fonte": null,
       "descricao": "Caixa de medição polifásica (500 x 600 x 200) mm, padrão concessionárias",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 7,
       "ordem_na_pagina": 9
@@ -1805,7 +1805,7 @@
       "codigo": "38.01.120",
       "fonte": null,
       "descricao": "Eletroduto de PVC rígido roscável de 2' - com acessórios",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 16.0,
       "pagina_pdf": 7,
       "ordem_na_pagina": 10
@@ -1815,7 +1815,7 @@
       "codigo": "37.25.100",
       "fonte": null,
       "descricao": "Disjuntor em caixa moldada tripolar, térmico e magnético fixos, tensão de isolamento 480/690V, de 70A até 150A",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 7,
       "ordem_na_pagina": 11
@@ -1825,7 +1825,7 @@
       "codigo": "37.24.032",
       "fonte": null,
       "descricao": "Supressor de surto monofásico, Fase-Terra, In > ou = 20 kA, Imax. de surto de 50 até 80 Ka",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 3.0,
       "pagina_pdf": 7,
       "ordem_na_pagina": 12
@@ -1835,7 +1835,7 @@
       "codigo": "37.24.040",
       "fonte": null,
       "descricao": "Supressor de surto monofásico, Neutro-Terra, In > ou = 20 kA, Imax. de surto de 65 até 80 kA",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 7,
       "ordem_na_pagina": 13
@@ -1845,7 +1845,7 @@
       "codigo": "37.13.800",
       "fonte": null,
       "descricao": "Mini-disjuntor termomagnético, unipolar 127/220 V, corrente de 10 A até 32 A",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 4.0,
       "pagina_pdf": 7,
       "ordem_na_pagina": 14
@@ -1855,7 +1855,7 @@
       "codigo": "40.02.620",
       "fonte": null,
       "descricao": "Caixa de passagem em alumínio fundido à prova de tempo, 300 x 300 mm",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 2.0,
       "pagina_pdf": 7,
       "ordem_na_pagina": 15
@@ -1865,7 +1865,7 @@
       "codigo": "39.21.100",
       "fonte": null,
       "descricao": "Cabo de cobre flexível de 70 mm², isolamento 0,6/1kV - isolação HEPR 90°C",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 32.0,
       "pagina_pdf": 7,
       "ordem_na_pagina": 16
@@ -1875,7 +1875,7 @@
       "codigo": "39.21.070",
       "fonte": null,
       "descricao": "Cabo de cobre flexível de 25 mm², isolamento 0,6/1kV - isolação HEPR 90°C",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 2.0,
       "pagina_pdf": 7,
       "ordem_na_pagina": 17
@@ -1885,7 +1885,7 @@
       "codigo": "39.02.030",
       "fonte": null,
       "descricao": "Cabo de cobre de 6 mm², isolamento 750 V - isolação em PVC 70°C",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 1.0,
       "pagina_pdf": 7,
       "ordem_na_pagina": 18
@@ -1895,7 +1895,7 @@
       "codigo": "39.10.200",
       "fonte": null,
       "descricao": "Terminal de pressão/compressão para cabo de 70 mm²",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 16.0,
       "pagina_pdf": 7,
       "ordem_na_pagina": 19
@@ -1905,7 +1905,7 @@
       "codigo": "39.10.120",
       "fonte": null,
       "descricao": "Terminal de pressão/compressão para cabo de 25 mm²",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 7,
       "ordem_na_pagina": 20
@@ -1915,7 +1915,7 @@
       "codigo": "39.10.060",
       "fonte": null,
       "descricao": "Terminal de pressão/compressão para cabo de 6 até 10 mm²",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 8.0,
       "pagina_pdf": 7,
       "ordem_na_pagina": 21
@@ -1925,7 +1925,7 @@
       "codigo": "39.09.080",
       "fonte": null,
       "descricao": "Conector split-bolt para cabo de 70 mm², latão, simples",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 5.0,
       "pagina_pdf": 7,
       "ordem_na_pagina": 22
@@ -1935,7 +1935,7 @@
       "codigo": "69.20.140",
       "fonte": null,
       "descricao": "Bloco de ligação com engate rápido para 10 pares, BER-10",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 7,
       "ordem_na_pagina": 23
@@ -1945,7 +1945,7 @@
       "codigo": "69.20.070",
       "fonte": null,
       "descricao": "Fita em aço inoxidável para poste de 0,50 m x 19 mm, com fecho em aço inoxidável",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 4.0,
       "pagina_pdf": 7,
       "ordem_na_pagina": 24
@@ -1955,7 +1955,7 @@
       "codigo": "38.01.020",
       "fonte": null,
       "descricao": "Eletroduto de PVC rígido roscável de 1/2' - com acessórios",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 1.0,
       "pagina_pdf": 7,
       "ordem_na_pagina": 25
@@ -1965,7 +1965,7 @@
       "codigo": "42.05.200",
       "fonte": null,
       "descricao": "Haste de aterramento de 5/8′ x 2,40 m",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 7,
       "ordem_na_pagina": 26
@@ -1975,7 +1975,7 @@
       "codigo": "42.20.210",
       "fonte": null,
       "descricao": "Solda exotérmica conexão cabo-haste em T, bitola do cabo de 35mm² para haste de 5/8\" e 3/4\"",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 7,
       "ordem_na_pagina": 27
@@ -1985,7 +1985,7 @@
       "codigo": "42.05.310",
       "fonte": null,
       "descricao": "Caixa de inspeção do terra cilíndrica em PVC rígido, diâmetro de 300 mm - h= 250 mm",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 7,
       "ordem_na_pagina": 28
@@ -1995,7 +1995,7 @@
       "codigo": "42.05.300",
       "fonte": null,
       "descricao": "Tampa para caixa de inspeção cilíndrica, aço galvanizado",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 7,
       "ordem_na_pagina": 29
@@ -2005,7 +2005,7 @@
       "codigo": "07.02.020",
       "fonte": null,
       "descricao": "Escavação mecanizada de valas ou cavas com profundidade de até 2,00 m",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 20.9,
       "pagina_pdf": 7,
       "ordem_na_pagina": 30
@@ -2015,7 +2015,7 @@
       "codigo": "11.03.090",
       "fonte": null,
       "descricao": "Concreto preparado no local, fck = 20,0 MPa",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 1.04,
       "pagina_pdf": 7,
       "ordem_na_pagina": 31
@@ -2025,7 +2025,7 @@
       "codigo": "38.13.030",
       "fonte": null,
       "descricao": "Eletroduto corrugado em polietileno de alta densidade, DN= 75 mm, com acessórios",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 14.0,
       "pagina_pdf": 7,
       "ordem_na_pagina": 32
@@ -2035,7 +2035,7 @@
       "codigo": "38.13.020",
       "fonte": null,
       "descricao": "Eletroduto corrugado em polietileno de alta densidade, DN= 50 mm, com acessórios",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 14.0,
       "pagina_pdf": 7,
       "ordem_na_pagina": 33
@@ -2045,7 +2045,7 @@
       "codigo": "38.13.016",
       "fonte": null,
       "descricao": "Eletroduto corrugado em polietileno de alta densidade, DN= 40 mm, com acessórios",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 39.0,
       "pagina_pdf": 7,
       "ordem_na_pagina": 34
@@ -2055,7 +2055,7 @@
       "codigo": "38.13.010",
       "fonte": null,
       "descricao": "Eletroduto corrugado em polietileno de alta densidade, DN= 30 mm, com acessórios",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 707.0,
       "pagina_pdf": 7,
       "ordem_na_pagina": 35
@@ -2065,7 +2065,7 @@
       "codigo": "38.19.200",
       "fonte": null,
       "descricao": "Eletroduto de PVC corrugado flexível reforçado, diâmetro externo de 20 mm",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 580.0,
       "pagina_pdf": 7,
       "ordem_na_pagina": 36
@@ -2075,7 +2075,7 @@
       "codigo": "40.07.040",
       "fonte": null,
       "descricao": "Caixa em PVC octogonal de 4' x 4'",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 23.0,
       "pagina_pdf": 8,
       "ordem_na_pagina": 1
@@ -2085,7 +2085,7 @@
       "codigo": "40.07.010",
       "fonte": null,
       "descricao": "Caixa em PVC de 4' x 2'",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 112.0,
       "pagina_pdf": 8,
       "ordem_na_pagina": 2
@@ -2095,7 +2095,7 @@
       "codigo": "40.02.620",
       "fonte": null,
       "descricao": "Caixa de passagem em alumínio fundido à prova de tempo, 300 x 300 mm",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 2.0,
       "pagina_pdf": 8,
       "ordem_na_pagina": 3
@@ -2105,7 +2105,7 @@
       "codigo": "40.02.600",
       "fonte": null,
       "descricao": "Caixa de passagem em alumínio fundido à prova de tempo, 100 x 100 mm",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 8,
       "ordem_na_pagina": 4
@@ -2115,7 +2115,7 @@
       "codigo": "37.06.010",
       "fonte": null,
       "descricao": "Painel monobloco autoportante em chapa de aço de 2,0 mm de espessura, com proteção mínima IP 54 - sem componentes",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 0.9,
       "pagina_pdf": 8,
       "ordem_na_pagina": 5
@@ -2125,7 +2125,7 @@
       "codigo": "37.10.010",
       "fonte": null,
       "descricao": "Barramento de cobre nu",
-      "unidade": "kg",
+      "unidade": "KG",
       "quantidade": 7.2,
       "pagina_pdf": 8,
       "ordem_na_pagina": 6
@@ -2135,7 +2135,7 @@
       "codigo": "37.20.080",
       "fonte": null,
       "descricao": "Barra de neutro e/ou terra",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 4.0,
       "pagina_pdf": 8,
       "ordem_na_pagina": 7
@@ -2145,7 +2145,7 @@
       "codigo": "37.20.010",
       "fonte": null,
       "descricao": "Isolador em epóxi de 1 kV para barramento",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 16.0,
       "pagina_pdf": 8,
       "ordem_na_pagina": 8
@@ -2155,7 +2155,7 @@
       "codigo": "40.14.030",
       "fonte": null,
       "descricao": "Voltímetro de ferro móvel de 96 x 96 mm, escalas variáveis de 0/150 V, 0/250 V, 0/300 V, 0/500 V e 0/600 V",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 8,
       "ordem_na_pagina": 9
@@ -2165,7 +2165,7 @@
       "codigo": "40.13.040",
       "fonte": null,
       "descricao": "Amperímetro de ferro móvel de 96x96mm, para ligação em transformador de corrente, escala fixa de 0A/50A até 0A/2,0kA",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 8,
       "ordem_na_pagina": 10
@@ -2175,7 +2175,7 @@
       "codigo": "40.13.010",
       "fonte": null,
       "descricao": "Chave comutadora para amperímetro",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 8,
       "ordem_na_pagina": 11
@@ -2185,7 +2185,7 @@
       "codigo": "40.14.010",
       "fonte": null,
       "descricao": "Chave comutadora para voltímetro",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 8,
       "ordem_na_pagina": 12
@@ -2195,7 +2195,7 @@
       "codigo": "40.12.210",
       "fonte": null,
       "descricao": "Chave comutadora/seletora com 3 polos e 3 posições para 25 A",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 2.0,
       "pagina_pdf": 8,
       "ordem_na_pagina": 13
@@ -2205,7 +2205,7 @@
       "codigo": "37.19.060",
       "fonte": null,
       "descricao": "Transformador de corrente 50-5 A até 150-5 A, janela",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 3.0,
       "pagina_pdf": 8,
       "ordem_na_pagina": 14
@@ -2215,7 +2215,7 @@
       "codigo": "37.24.032",
       "fonte": null,
       "descricao": "Supressor de surto monofásico, Fase-Terra, In > ou = 20 kA, Imax. de surto de 50 até 80 Ka",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 3.0,
       "pagina_pdf": 8,
       "ordem_na_pagina": 15
@@ -2225,7 +2225,7 @@
       "codigo": "37.24.040",
       "fonte": null,
       "descricao": "Supressor de surto monofásico, Neutro-Terra, In > ou = 20 kA, Imax. de surto de 65 até 80 kA",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 8,
       "ordem_na_pagina": 16
@@ -2235,7 +2235,7 @@
       "codigo": "37.25.100",
       "fonte": null,
       "descricao": "Disjuntor em caixa moldada tripolar, térmico e magnético fixos, tensão de isolamento 480/690V, de 70A até 150A",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 8,
       "ordem_na_pagina": 17
@@ -2245,7 +2245,7 @@
       "codigo": "37.13.900",
       "fonte": null,
       "descricao": "Mini-disjuntor termomagnético, tripolar 220/380 V, corrente de 63 A",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 2.0,
       "pagina_pdf": 8,
       "ordem_na_pagina": 18
@@ -2255,7 +2255,7 @@
       "codigo": "37.13.840",
       "fonte": null,
       "descricao": "Mini-disjuntor termomagnético, bipolar 220/380 V, corrente de 10 A até 32 A",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 7.0,
       "pagina_pdf": 8,
       "ordem_na_pagina": 19
@@ -2265,7 +2265,7 @@
       "codigo": "37.13.800",
       "fonte": null,
       "descricao": "Mini-disjuntor termomagnético, unipolar 127/220 V, corrente de 10 A até 32 A",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 16.0,
       "pagina_pdf": 8,
       "ordem_na_pagina": 20
@@ -2275,7 +2275,7 @@
       "codigo": "37.17.074",
       "fonte": null,
       "descricao": "Dispositivo diferencial residual de 25 A x 30 mA - 4 polos",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 8,
       "ordem_na_pagina": 21
@@ -2285,7 +2285,7 @@
       "codigo": "97.02.190",
       "fonte": null,
       "descricao": "Placa de identificação em acrílico com texto em vinil",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 0.3,
       "pagina_pdf": 8,
       "ordem_na_pagina": 22
@@ -2295,7 +2295,7 @@
       "codigo": "33.11.020",
       "fonte": null,
       "descricao": "Esmalte em superfície metálica, inclusive preparo",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 1.0,
       "pagina_pdf": 8,
       "ordem_na_pagina": 23
@@ -2305,7 +2305,7 @@
       "codigo": "39.10.050",
       "fonte": null,
       "descricao": "Terminal de compressão para cabo de 2,5 mm²",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 330.0,
       "pagina_pdf": 8,
       "ordem_na_pagina": 24
@@ -2315,7 +2315,7 @@
       "codigo": "39.10.060",
       "fonte": null,
       "descricao": "Terminal de pressão/compressão para cabo de 6 até 10 mm²",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 12.0,
       "pagina_pdf": 8,
       "ordem_na_pagina": 25
@@ -2325,7 +2325,7 @@
       "codigo": "39.10.080",
       "fonte": null,
       "descricao": "Terminal de pressão/compressão para cabo de 16 mm²",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 16.0,
       "pagina_pdf": 8,
       "ordem_na_pagina": 26
@@ -2335,7 +2335,7 @@
       "codigo": "37.01.080",
       "fonte": null,
       "descricao": "Quadro Telebrás de embutir de 400 x 400 x 120 mm",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 8,
       "ordem_na_pagina": 27
@@ -2345,7 +2345,7 @@
       "codigo": "69.20.140",
       "fonte": null,
       "descricao": "Bloco de ligação com engate rápido para 10 pares, BER-10",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 2.0,
       "pagina_pdf": 8,
       "ordem_na_pagina": 28
@@ -2355,7 +2355,7 @@
       "codigo": "21.03.090",
       "fonte": null,
       "descricao": "Piso elevado tipo telescópico em chapa de aço, sem revestimento",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 2.45,
       "pagina_pdf": 8,
       "ordem_na_pagina": 29
@@ -2365,7 +2365,7 @@
       "codigo": "39.11.280",
       "fonte": null,
       "descricao": "Cabo telefônico secundário de distribuição CTP-APL-G, com 20 pares de 0,50 mm, para rede subterrânea",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 25.0,
       "pagina_pdf": 8,
       "ordem_na_pagina": 30
@@ -2375,7 +2375,7 @@
       "codigo": "39.18.126",
       "fonte": null,
       "descricao": "Cabo para rede 24 AWG com 4 pares, categoria 6",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 414.0,
       "pagina_pdf": 8,
       "ordem_na_pagina": 31
@@ -2385,7 +2385,7 @@
       "codigo": "39.26.010",
       "fonte": null,
       "descricao": "Cabo de cobre flexível de 1,5 mm², isolamento 0,6/1 kV - isolação HEPR 90°C - baixa emissão de fumaça e gases",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 760.0,
       "pagina_pdf": 8,
       "ordem_na_pagina": 32
@@ -2395,7 +2395,7 @@
       "codigo": "39.26.020",
       "fonte": null,
       "descricao": "Cabo de cobre flexível de 2,5 mm², isolamento 0,6/1 kV - isolação HEPR 90°C - baixa emissão de fumaça e gases",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 880.0,
       "pagina_pdf": 8,
       "ordem_na_pagina": 33
@@ -2405,7 +2405,7 @@
       "codigo": "39.21.100",
       "fonte": null,
       "descricao": "Cabo de cobre flexível de 70 mm², isolamento 0,6/1kV - isolação HEPR 90°C",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 67.0,
       "pagina_pdf": 8,
       "ordem_na_pagina": 34
@@ -2415,7 +2415,7 @@
       "codigo": "39.21.060",
       "fonte": null,
       "descricao": "Cabo de cobre flexível de 16 mm², isolamento 0,6/1kV - isolação HEPR 90°C",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 20.0,
       "pagina_pdf": 8,
       "ordem_na_pagina": 35
@@ -2425,7 +2425,7 @@
       "codigo": "39.02.030",
       "fonte": null,
       "descricao": "Cabo de cobre de 6 mm², isolamento 750 V - isolação em PVC 70°C",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 10.0,
       "pagina_pdf": 8,
       "ordem_na_pagina": 36
@@ -2435,7 +2435,7 @@
       "codigo": "39.02.020",
       "fonte": null,
       "descricao": "Cabo de cobre de 4 mm², isolamento 750 V - isolação em PVC 70°C",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 10.0,
       "pagina_pdf": 8,
       "ordem_na_pagina": 37
@@ -2445,7 +2445,7 @@
       "codigo": "40.04.096",
       "fonte": null,
       "descricao": "Tomada RJ 45 para rede de dados, com placa",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 26.0,
       "pagina_pdf": 8,
       "ordem_na_pagina": 38
@@ -2455,7 +2455,7 @@
       "codigo": "40.04.450",
       "fonte": null,
       "descricao": "Tomada 2P+T de 10 A - 250 V, completa",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 54.0,
       "pagina_pdf": 8,
       "ordem_na_pagina": 39
@@ -2465,7 +2465,7 @@
       "codigo": "40.04.460",
       "fonte": null,
       "descricao": "Tomada 2P+T de 20 A - 250 V, completa",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 11.0,
       "pagina_pdf": 8,
       "ordem_na_pagina": 40
@@ -2475,7 +2475,7 @@
       "codigo": "40.05.020",
       "fonte": null,
       "descricao": "Interruptor com 1 tecla simples e placa",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 13.0,
       "pagina_pdf": 9,
       "ordem_na_pagina": 1
@@ -2485,7 +2485,7 @@
       "codigo": "40.05.080",
       "fonte": null,
       "descricao": "Interruptor com 1 tecla paralelo e placa",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 2.0,
       "pagina_pdf": 9,
       "ordem_na_pagina": 2
@@ -2495,7 +2495,7 @@
       "codigo": "40.05.340",
       "fonte": null,
       "descricao": "Sensor de presença para teto, com fotocélula, para lâmpada qualquer",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 9,
       "ordem_na_pagina": 3
@@ -2505,7 +2505,7 @@
       "codigo": "30.06.064",
       "fonte": null,
       "descricao": "Sistema de alarme PNE com indicador áudio visual, sistema sem fio (Wireless), para pessoas com mobilidade reduzida ou cadeirante",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 1.0,
       "pagina_pdf": 9,
       "ordem_na_pagina": 4
@@ -2515,7 +2515,7 @@
       "codigo": "40.11.010",
       "fonte": null,
       "descricao": "Relé fotoelétrico 50/60 Hz, 110/220 V, 1200 VA, completo",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 9,
       "ordem_na_pagina": 5
@@ -2525,7 +2525,7 @@
       "codigo": "40.10.016",
       "fonte": null,
       "descricao": "Contator de potência 12 A - 1na+1nf",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 2.0,
       "pagina_pdf": 9,
       "ordem_na_pagina": 6
@@ -2535,7 +2535,7 @@
       "codigo": "40.12.030",
       "fonte": null,
       "descricao": "Chave comutadora/seletora com 1 polo e 3 posições para 25 A",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 9,
       "ordem_na_pagina": 7
@@ -2545,7 +2545,7 @@
       "codigo": "41.14.540",
       "fonte": null,
       "descricao": "Luminária retangular de sobrepor tipo calha aberta com aletas duplas parabólicas para 2 lâmpadas fluorescentes tubulares de 28/54W",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 8.0,
       "pagina_pdf": 9,
       "ordem_na_pagina": 8
@@ -2555,7 +2555,7 @@
       "codigo": "41.02.551",
       "fonte": null,
       "descricao": "Lâmpada led tubular T8 com base G13, de 1850 até 2000 Im - 18 a 20W",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 16.0,
       "pagina_pdf": 9,
       "ordem_na_pagina": 9
@@ -2565,7 +2565,7 @@
       "codigo": "41.14.530",
       "fonte": null,
       "descricao": "Luminária redonda de sobrepor com difusor em vidro temperado jateado para 1 ou 2 lâmpadas fluorescentes compactas de 18/26W",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 14.0,
       "pagina_pdf": 9,
       "ordem_na_pagina": 10
@@ -2575,7 +2575,7 @@
       "codigo": "41.13.200",
       "fonte": null,
       "descricao": "Luminária blindada oval de sobrepor ou arandela, para lâmpada fluorescentes compacta",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 12.0,
       "pagina_pdf": 9,
       "ordem_na_pagina": 11
@@ -2585,7 +2585,7 @@
       "codigo": "41.02.580",
       "fonte": null,
       "descricao": "Lâmpada LED 13,5W, com base E-27, 1400 até 1510lm",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 35.0,
       "pagina_pdf": 9,
       "ordem_na_pagina": 12
@@ -2595,7 +2595,7 @@
       "codigo": "41.12.050",
       "fonte": null,
       "descricao": "Projetor retangular fechado, com alojamento para reator, para lâmpada vapor metálico ou vapor",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 9,
       "ordem_na_pagina": 13
@@ -2605,7 +2605,7 @@
       "codigo": "41.05.720",
       "fonte": null,
       "descricao": "Lâmpada de vapor metálico tubular, base G12 de 150 W",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 9,
       "ordem_na_pagina": 14
@@ -2615,7 +2615,7 @@
       "codigo": "41.08.440",
       "fonte": null,
       "descricao": "Reator eletromagnético de alto fator de potência, para lâmpada vapor metálico 150 W / 220 V",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 9,
       "ordem_na_pagina": 15
@@ -2625,7 +2625,7 @@
       "codigo": "39.04.060",
       "fonte": null,
       "descricao": "Cabo de cobre nu, têmpera mole, classe 2, de 25 mm²",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 12.0,
       "pagina_pdf": 9,
       "ordem_na_pagina": 16
@@ -2635,7 +2635,7 @@
       "codigo": "42.05.300",
       "fonte": null,
       "descricao": "Tampa para caixa de inspeção cilíndrica, aço galvanizado",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 9,
       "ordem_na_pagina": 17
@@ -2645,7 +2645,7 @@
       "codigo": "42.05.310",
       "fonte": null,
       "descricao": "Caixa de inspeção do terra cilíndrica em PVC rígido, diâmetro de 300 mm - h= 250 mm",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 9,
       "ordem_na_pagina": 18
@@ -2655,7 +2655,7 @@
       "codigo": "39.09.020",
       "fonte": null,
       "descricao": "Conector split-bolt para cabo de 25 mm², latão, simples",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 2.0,
       "pagina_pdf": 9,
       "ordem_na_pagina": 19
@@ -2665,7 +2665,7 @@
       "codigo": "42.05.200",
       "fonte": null,
       "descricao": "Haste de aterramento de 5/8′ x 2,40 m",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 3.0,
       "pagina_pdf": 9,
       "ordem_na_pagina": 20
@@ -2675,7 +2675,7 @@
       "codigo": "42.05.380",
       "fonte": null,
       "descricao": "Caixa de equalização, de embutir, em aço com barramento, de 200 x 200 mm e tampa",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 9,
       "ordem_na_pagina": 21
@@ -2685,7 +2685,7 @@
       "codigo": "42.20.210",
       "fonte": null,
       "descricao": "Solda exotérmica conexão cabo-haste em T, bitola do cabo de 35mm² para haste de 5/8\" e 3/4\"",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 3.0,
       "pagina_pdf": 9,
       "ordem_na_pagina": 22
@@ -2695,7 +2695,7 @@
       "codigo": "69.03.400",
       "fonte": null,
       "descricao": "Central PABX híbrida de telefonia para 8 linhas tronco e 24 ramais digital e analógico",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 1.0,
       "pagina_pdf": 9,
       "ordem_na_pagina": 23
@@ -2705,7 +2705,7 @@
       "codigo": "69.03.090",
       "fonte": null,
       "descricao": "Terminal Inteligente Ti 5000 com funções diversas para integração com PAВХ",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 9,
       "ordem_na_pagina": 24
@@ -2715,7 +2715,7 @@
       "codigo": null,
       "fonte": null,
       "descricao": "Aparelho telefônico multifrequencial, com teclas 'FLASH', 'HOOK', 'PAUSE', 'LND', 'MODE'",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 7.0,
       "pagina_pdf": 9,
       "ordem_na_pagina": 25
@@ -2725,7 +2725,7 @@
       "codigo": "66.08.111",
       "fonte": null,
       "descricao": "Rack fechado de piso padrão metálico, 19 x 24 Us x 570 mm",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 9,
       "ordem_na_pagina": 26
@@ -2735,7 +2735,7 @@
       "codigo": "69.20.200",
       "fonte": null,
       "descricao": "Bandeja fixa para rack, 19\" x 500 mm",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 4.0,
       "pagina_pdf": 9,
       "ordem_na_pagina": 27
@@ -2745,7 +2745,7 @@
       "codigo": "66.20.150",
       "fonte": null,
       "descricao": "Guia organizadora de cabos para rack, 19′ 1 U",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 6.0,
       "pagina_pdf": 9,
       "ordem_na_pagina": 28
@@ -2755,7 +2755,7 @@
       "codigo": "66.20.225",
       "fonte": null,
       "descricao": "Switch Gigabit 24 portas com capacidade de 10/100/1000/Mbps",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 9,
       "ordem_na_pagina": 29
@@ -2765,7 +2765,7 @@
       "codigo": "69.09.260",
       "fonte": null,
       "descricao": "Patch panel de 24 portas - categoria 6",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 9,
       "ordem_na_pagina": 30
@@ -2775,7 +2775,7 @@
       "codigo": "69.09.250",
       "fonte": null,
       "descricao": "Patch cords de 1,50 ou 3,00 m - RJ-45 / RJ-45 - categoria 6A",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 52.0,
       "pagina_pdf": 9,
       "ordem_na_pagina": 31
@@ -2785,7 +2785,7 @@
       "codigo": "69.06.110",
       "fonte": null,
       "descricao": "Sistema ininterrupto de energia, monofásico de 600 VA (127 V/127 V), com autonomia de 10 a 15 minutos",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 2.0,
       "pagina_pdf": 9,
       "ordem_na_pagina": 32
@@ -2795,7 +2795,7 @@
       "codigo": "69.05.190",
       "fonte": null,
       "descricao": "Estabilizador eletrônico de tensão, trifásico, com potência de 25 kVA",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 9,
       "ordem_na_pagina": 33
@@ -2805,7 +2805,7 @@
       "codigo": null,
       "fonte": null,
       "descricao": "Ar condicionado a frio, tipo split parede com capacidade de 9.000 BTU/h",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 2.0,
       "pagina_pdf": 9,
       "ordem_na_pagina": 34
@@ -2815,7 +2815,7 @@
       "codigo": "43.07.330",
       "fonte": null,
       "descricao": "Ar condicionado a frio, tipo split parede com capacidade de 12.000 BTU/h",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 2.0,
       "pagina_pdf": 9,
       "ordem_na_pagina": 35
@@ -2825,7 +2825,7 @@
       "codigo": "46.27.060",
       "fonte": null,
       "descricao": "Tubo de cobre flexível, espessura 1/32\" - diâmetro 1/4\", inclusive conexões",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 1.5,
       "pagina_pdf": 9,
       "ordem_na_pagina": 36
@@ -2835,7 +2835,7 @@
       "codigo": "46.27.070",
       "fonte": null,
       "descricao": "Tubo de cobre flexível, espessura 1/32\" - diâmetro 5/16\", inclusive conexões",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 1.5,
       "pagina_pdf": 10,
       "ordem_na_pagina": 1
@@ -2845,7 +2845,7 @@
       "codigo": "32.11.270",
       "fonte": null,
       "descricao": "Isolamento térmico em espuma elastomérica, espessura de 9 a 12 mm, para tubulação de 1/4' (cobre)",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 1.5,
       "pagina_pdf": 10,
       "ordem_na_pagina": 2
@@ -2855,7 +2855,7 @@
       "codigo": "32.11.290",
       "fonte": null,
       "descricao": "Isolamento térmico em espuma elastomérica, espessura de 9 a 12 mm, para tubulação de 5/8' (cobre) ou 1/4' (ferro)",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 1.5,
       "pagina_pdf": 10,
       "ordem_na_pagina": 3
@@ -2865,7 +2865,7 @@
       "codigo": "43.20.130",
       "fonte": null,
       "descricao": "Caixa de passagem para condicionamento de ar tipo Split, com saída de dreno único na vertical - 39 x 22 x 6 cm",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 4.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 4
@@ -2875,7 +2875,7 @@
       "codigo": "50.05.250",
       "fonte": null,
       "descricao": "Central de iluminação de emergência, completa, autonomia 1 hora, para até 240 W",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 5
@@ -2885,7 +2885,7 @@
       "codigo": "50.05.080",
       "fonte": null,
       "descricao": "Luminária para unidade centralizada de sobrepor completa com lâmpada fluorescente compacta de 15 W",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 3.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 6
@@ -2895,7 +2895,7 @@
       "codigo": "50.10.120",
       "fonte": null,
       "descricao": "Extintor manual de pó químico seco ABC - capacidade de 6 kg",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 2.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 7
@@ -2905,7 +2905,7 @@
       "codigo": "97.01.010",
       "fonte": null,
       "descricao": "Adesivo vinílico, padrão regulamentado, para sinalização de incêndio",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 6.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 8
@@ -2915,7 +2915,7 @@
       "codigo": "66.08.600",
       "fonte": null,
       "descricao": "Unidade gerenciadora digital de vídeo em rede (NVR) de até 8 câmeras IP, armazenamento de 6 TB, 1 interface de rede Fast Ethernet",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 9
@@ -2925,7 +2925,7 @@
       "codigo": "66.08.042",
       "fonte": null,
       "descricao": "Câmera fixa compacta de 1/3\", colorida, com lente varifocal, para áreas internas e externas",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 8.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 10
@@ -2935,7 +2935,7 @@
       "codigo": "66.20.202",
       "fonte": null,
       "descricao": "Instalação de câmera fixa para CFTV",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 8.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 11
@@ -2945,7 +2945,7 @@
       "codigo": "38.19.200",
       "fonte": null,
       "descricao": "Eletroduto de PVC corrugado flexível reforçado, diâmetro externo de 20 mm",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 3.5,
       "pagina_pdf": 10,
       "ordem_na_pagina": 12
@@ -2955,7 +2955,7 @@
       "codigo": "38.13.010",
       "fonte": null,
       "descricao": "Eletroduto corrugado em polietileno de alta densidade, DN= 30 mm, com acessórios",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 68.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 13
@@ -2965,7 +2965,7 @@
       "codigo": "38.04.040",
       "fonte": null,
       "descricao": "Eletroduto galvanizado, médio de 3/4' - com acessórios",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 4.5,
       "pagina_pdf": 10,
       "ordem_na_pagina": 14
@@ -2975,7 +2975,7 @@
       "codigo": "40.02.600",
       "fonte": null,
       "descricao": "Caixa de passagem em alumínio fundido à prova de tempo, 100 x 100 mm",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 15
@@ -2985,7 +2985,7 @@
       "codigo": "66.08.131",
       "fonte": null,
       "descricao": "Monitor LCD ou LED colorido, tela plana de 21,5\"",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 16
@@ -2995,7 +2995,7 @@
       "codigo": null,
       "fonte": null,
       "descricao": "Monitor Led 32\"",
-      "unidade": "pç",
+      "unidade": "PC",
       "quantidade": 1.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 17
@@ -3005,7 +3005,7 @@
       "codigo": null,
       "fonte": null,
       "descricao": "Suporte articulado para monitor 32\"",
-      "unidade": "pç",
+      "unidade": "PC",
       "quantidade": 1.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 18
@@ -3015,7 +3015,7 @@
       "codigo": null,
       "fonte": null,
       "descricao": "Cabo HDMI com 10 metros",
-      "unidade": "und",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 19
@@ -3025,7 +3025,7 @@
       "codigo": null,
       "fonte": null,
       "descricao": "Fonte para câmeras CFTV",
-      "unidade": "und",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 20
@@ -3035,7 +3035,7 @@
       "codigo": null,
       "fonte": null,
       "descricao": "HD SATA 2 Tb interno Barracuda",
-      "unidade": "und",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 21
@@ -3045,7 +3045,7 @@
       "codigo": null,
       "fonte": null,
       "descricao": "Conversor ballun",
-      "unidade": "und",
+      "unidade": "UN",
       "quantidade": 8.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 22
@@ -3055,7 +3055,7 @@
       "codigo": null,
       "fonte": null,
       "descricao": "Organizador de filas PVC",
-      "unidade": "cjto",
+      "unidade": "CJ",
       "quantidade": 1.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 23
@@ -3065,7 +3065,7 @@
       "codigo": null,
       "fonte": null,
       "descricao": "Mouse óptico PC/Mac",
-      "unidade": "und",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 24
@@ -3075,7 +3075,7 @@
       "codigo": null,
       "fonte": null,
       "descricao": "Switch 8 portas Poe",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 25
@@ -3085,7 +3085,7 @@
       "codigo": "39.18.126",
       "fonte": null,
       "descricao": "Cabo para rede 24 AWG com 4 pares, categoria 6",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 138.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 26
@@ -3095,7 +3095,7 @@
       "codigo": "66.02.239",
       "fonte": null,
       "descricao": "Sistema eletrônico de automatização de portão deslizante, para esforços até 800 kg",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 1.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 27
@@ -3105,7 +3105,7 @@
       "codigo": "34.05.170",
       "fonte": null,
       "descricao": "Barreira de proteção perimetral em aço inoxidável AISI 430, dupla",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 129.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 28
@@ -3115,7 +3115,7 @@
       "codigo": "66.02.090",
       "fonte": null,
       "descricao": "Detector de metais, tipo portal, microprocessado",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 29
@@ -3125,7 +3125,7 @@
       "codigo": "66.02.130",
       "fonte": null,
       "descricao": "Porteiro eletrônico com um interfone",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 1.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 30
@@ -3135,7 +3135,7 @@
       "codigo": null,
       "fonte": null,
       "descricao": "Purificador de água c/ regulagem de temperatura, reservatório de água, 220V",
-      "unidade": "und",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 31
@@ -3145,7 +3145,7 @@
       "codigo": null,
       "fonte": null,
       "descricao": "Ventilador de parede, 50cm, oscilante, grade de aço, 127V",
-      "unidade": "und",
+      "unidade": "UN",
       "quantidade": 2.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 32
@@ -3155,7 +3155,7 @@
       "codigo": null,
       "fonte": null,
       "descricao": "Cooktop automático, 01 boca, 220V",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 33
@@ -3165,7 +3165,7 @@
       "codigo": "43.01.030",
       "fonte": null,
       "descricao": "Bebedouro elétrico de pressão em aço inoxidável, capacidade 4 l/h - conjugado",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 34
@@ -3175,7 +3175,7 @@
       "codigo": "55.01.020",
       "fonte": null,
       "descricao": "Limpeza final da obra",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 21.84,
       "pagina_pdf": 10,
       "ordem_na_pagina": 35

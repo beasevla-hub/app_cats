@@ -125,7 +125,7 @@
       "codigo": "06-22-03",
       "fonte": null,
       "descricao": "BOCA DE LOBO SIMPLES",
-      "unidade": "UND",
+      "unidade": "UN",
       "quantidade": 1.08,
       "pagina_pdf": 2,
       "ordem_na_pagina": 11
@@ -135,7 +135,7 @@
       "codigo": "06-22-04",
       "fonte": null,
       "descricao": "BOCA DE LOBO DUPLA",
-      "unidade": "UND",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 12
@@ -145,7 +145,7 @@
       "codigo": "06-65-06",
       "fonte": null,
       "descricao": "INSTALAÇÃO DE BOCA DE LEÃO SIMPLES COM GRELHA NÃO-ARTICULADA, EXCETO FORNECIMENTO DA GRELHA",
-      "unidade": "UND",
+      "unidade": "UN",
       "quantidade": 6.09,
       "pagina_pdf": 2,
       "ordem_na_pagina": 13
@@ -155,7 +155,7 @@
       "codigo": "06-65-22",
       "fonte": null,
       "descricao": "FORNECIMENTO DE GRELHA TIPO \"BOCA DE LEÃO\" DE FERRO FUND. DÚCTIL CL. MÍN.250 - 25T - DIM. APR-810X270MM NBR 10160 - T. NÃO ARTICU. - P/ GAL. ÁGUAS PLUV.",
-      "unidade": "UND",
+      "unidade": "UN",
       "quantidade": 6.1,
       "pagina_pdf": 2,
       "ordem_na_pagina": 14
@@ -165,7 +165,7 @@
       "codigo": "06-65-08",
       "fonte": null,
       "descricao": "INSTALAÇÃO DE BOCA DE LEÃO DUPLA COM GRELHA NÃO-ARTICULADA, EXCETO O FORNECIMENTO DA GRELHA",
-      "unidade": "UND",
+      "unidade": "UN",
       "quantidade": 5.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 15
@@ -175,7 +175,7 @@
       "codigo": "06-65-24",
       "fonte": null,
       "descricao": "FORNECIMENTO DE GRELHA TIPO \"BOCA DE LEÃO\" DE FERRO FUND. DÚCTIL CL. MÍN.D400 - 40T - DIM. APR-810X270MM NBR 10160 - T. NÃO ARTICU. P/ GAL. ÁGUAS PLUV.",
-      "unidade": "UND",
+      "unidade": "UN",
       "quantidade": 10.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 16
@@ -235,7 +235,7 @@
       "codigo": "06-18-01",
       "fonte": null,
       "descricao": "POÇO DE VISITA TIPO 1 - 1,40 X 1,40 X 1,40M",
-      "unidade": "UND",
+      "unidade": "UN",
       "quantidade": 3.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 1
@@ -245,7 +245,7 @@
       "codigo": "06-20-03",
       "fonte": null,
       "descricao": "INSTALAÇÃO DE TAMPÃO PARA GALERIA DE ÁGUAS PLUVIAIS - ARTICULADO, EXCETO FORNECIMENTO DE TAMPÃO",
-      "unidade": "UND",
+      "unidade": "UN",
       "quantidade": 4.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 2
@@ -255,7 +255,7 @@
       "codigo": "06-20-21",
       "fonte": null,
       "descricao": "FORNECIMENTO DE TAMPÃO DE FERRO FUNDIDO DÚCTIL CLASSE MÍNIMA 400 (40T) D=600MM - NBR 10160 ARTICULADO - P/ GAL. ÁGUAS PLUV.",
-      "unidade": "UND",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 3

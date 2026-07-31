@@ -115,7 +115,7 @@
       "codigo": "02.02.140",
       "fonte": null,
       "descricao": "LOCAÇÃO DE CONTAINER TIPO SANITÁRIO COM 2 VASOS SANITÁRIOS, 2 LAVATÓRIOS, 2 MICTÓRIOS E 4 PONTOS PARA CHUVEIRO - ÁREA MÍNIMA DE 13,80 M²",
-      "unidade": "UNMES",
+      "unidade": "UNXMES",
       "quantidade": 4.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 4
@@ -125,7 +125,7 @@
       "codigo": "02.02.150",
       "fonte": null,
       "descricao": "LOCAÇÃO DE CONTAINER TIPO DEPÓSITO - ÁREA MÍNIMA DE 13,80 M²",
-      "unidade": "UNMES",
+      "unidade": "UNXMES",
       "quantidade": 4.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 5
@@ -285,7 +285,7 @@
       "codigo": "04-064-000",
       "fonte": null,
       "descricao": "DISPOSIÇÃO FINAL DE SOLOS E RESÍDUOS, CLASSE II B - INERTES, EM ATERRO SANITÁRIO LICENCIADO",
-      "unidade": "Ton",
+      "unidade": "T",
       "quantidade": 1604.07,
       "pagina_pdf": 3,
       "ordem_na_pagina": 21
@@ -805,7 +805,7 @@
       "codigo": "06-049-000",
       "fonte": null,
       "descricao": "ESGOTAMENTO D'ÁGUA COM BOMBA SUBMERSA - POTÊNCIA ATÉ 5HP",
-      "unidade": "HPX H",
+      "unidade": "HPXH",
       "quantidade": 1200.0,
       "pagina_pdf": 4,
       "ordem_na_pagina": 32
@@ -885,7 +885,7 @@
       "codigo": "04-064-000",
       "fonte": null,
       "descricao": "DISPOSIÇÃO FINAL DE SOLOS E RESÍDUOS, CLASSE II B - INERTES, EM ATERRO SANITÁRIO LICENCIADO",
-      "unidade": "Ton",
+      "unidade": "T",
       "quantidade": 68.25,
       "pagina_pdf": 4,
       "ordem_na_pagina": 40
@@ -1035,7 +1035,7 @@
       "codigo": "06-049-000",
       "fonte": null,
       "descricao": "ESGOTAMENTO D'ÁGUA COM BOMBA SUBMERSA - POTÊNCIA ATÉ 5HP",
-      "unidade": "HPX H",
+      "unidade": "HPXH",
       "quantidade": 1200.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 10
@@ -1075,7 +1075,7 @@
       "codigo": "02-001-048",
       "fonte": null,
       "descricao": "ARRASAMENTO DE ESTACA",
-      "unidade": "Unid.",
+      "unidade": "UN",
       "quantidade": 12.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 14
@@ -1185,7 +1185,7 @@
       "codigo": "08-066-000",
       "fonte": null,
       "descricao": "ANCORAGEM ATIVA SÉRIE V-6 -0 = 1/2\"",
-      "unidade": "Unid.",
+      "unidade": "UN",
       "quantidade": 21.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 25
@@ -1335,7 +1335,7 @@
       "codigo": "04-064-000",
       "fonte": null,
       "descricao": "DISPOSIÇÃO FINAL DE SOLOS E RESÍDUOS, CLASSE II B - INERTES, EM ATERRO SANITÁRIO LICENCIADO",
-      "unidade": "Ton",
+      "unidade": "T",
       "quantidade": 196.56,
       "pagina_pdf": 5,
       "ordem_na_pagina": 40

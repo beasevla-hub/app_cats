@@ -55,7 +55,7 @@
       "codigo": "17B506",
       "fonte": null,
       "descricao": "ALUGUEL DE CONTAINER TIPO ESCRITÓRIO (MES)",
-      "unidade": "MS",
+      "unidade": "MES",
       "quantidade": 4.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 2
@@ -65,7 +65,7 @@
       "codigo": "17B507",
       "fonte": null,
       "descricao": "ALUGUEL DE CONTAINER TIPO SANITÁRIO (4 BACIAS/ 1 LAVAT/1 MIC/1 4 CHUV)",
-      "unidade": "MS",
+      "unidade": "MES",
       "quantidade": 4.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 3
@@ -486,7 +486,7 @@
       "codigo": "18-03-15",
       "fonte": null,
       "descricao": "CLOROFITO (CLOROPHYTUM CROMOSSUM)",
-      "unidade": "DÚZIA",
+      "unidade": "DZ",
       "quantidade": 8.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 13
@@ -496,7 +496,7 @@
       "codigo": "18-03-29",
       "fonte": null,
       "descricao": "VEDELIA (WEDELIA PALUDARIS)",
-      "unidade": "DÚZIA",
+      "unidade": "DZ",
       "quantidade": 8.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 14

@@ -395,7 +395,7 @@
       "codigo": "01-00-00",
       "fonte": "TABELA EDIF",
       "descricao": "SERVICOS PRELIMINARES",
-      "unidade": "0",
+      "unidade": null,
       "quantidade": null,
       "pagina_pdf": 2,
       "ordem_na_pagina": 1
@@ -545,7 +545,7 @@
       "codigo": "01-00-00",
       "fonte": "TABELA EDIF",
       "descricao": "SERVICOS PRELIMINARES",
-      "unidade": "0",
+      "unidade": null,
       "quantidade": 0.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 1
@@ -655,7 +655,7 @@
       "codigo": "01-00-00",
       "fonte": "TABELA EDIF",
       "descricao": "SERVICOS PRELIMINARES",
-      "unidade": "0",
+      "unidade": null,
       "quantidade": 0.0,
       "pagina_pdf": 26,
       "ordem_na_pagina": 1

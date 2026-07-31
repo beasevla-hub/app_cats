@@ -1015,7 +1015,7 @@
       "codigo": "13-02-42",
       "fonte": null,
       "descricao": "MULTI-EXERCITADOR, 6 FUNÇÕES OU SIMILAR",
-      "unidade": "UNID.",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 4,
       "ordem_na_pagina": 26
@@ -1025,7 +1025,7 @@
       "codigo": "13-02-47",
       "fonte": null,
       "descricao": "PRESSÃO DE PERNAS DUPLO OU SIMILAR",
-      "unidade": "UNID.",
+      "unidade": "UN",
       "quantidade": 2.0,
       "pagina_pdf": 4,
       "ordem_na_pagina": 27
@@ -1035,7 +1035,7 @@
       "codigo": "14-01-11",
       "fonte": null,
       "descricao": "ESQUI DUPLO OU SIMILAR",
-      "unidade": "UNID.",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 4,
       "ordem_na_pagina": 28
@@ -1045,7 +1045,7 @@
       "codigo": "15-01-10",
       "fonte": null,
       "descricao": "REMO OU SIMILAR",
-      "unidade": "UNID.",
+      "unidade": "UN",
       "quantidade": 2.0,
       "pagina_pdf": 4,
       "ordem_na_pagina": 29
@@ -1055,7 +1055,7 @@
       "codigo": "15-03-10",
       "fonte": null,
       "descricao": "PLACA ORIENTATIVA",
-      "unidade": "UNID.",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 4,
       "ordem_na_pagina": 30

@@ -25,7 +25,7 @@
       "codigo": "01-01-08",
       "fonte": null,
       "descricao": "LIMPEZA MANUAL GERALINCLUSIVE REMOÇÃO DE COBERTURA VEGETAL- TROCO ATÉ 10CM - SEM TRANSPORTE",
-      "unidade": "M²",
+      "unidade": "M2",
       "quantidade": 448.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 1
@@ -35,7 +35,7 @@
       "codigo": "01-05-02",
       "fonte": null,
       "descricao": "TAPUME CHAPA COMPENSADA RESINADA 10MM",
-      "unidade": "M²",
+      "unidade": "M2",
       "quantidade": 24.2,
       "pagina_pdf": 2,
       "ordem_na_pagina": 2
@@ -45,7 +45,7 @@
       "codigo": "01-05-40",
       "fonte": null,
       "descricao": "TELA PARA PROTEÇÃO DE OBRAS, MALHA 2MM",
-      "unidade": "M²",
+      "unidade": "M2",
       "quantidade": 96.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 3
@@ -55,7 +55,7 @@
       "codigo": "17-30-02",
       "fonte": null,
       "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
-      "unidade": "M²",
+      "unidade": "M2",
       "quantidade": 2.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 4
@@ -65,7 +65,7 @@
       "codigo": "01-04-01",
       "fonte": null,
       "descricao": "ESCAVAÇÃO MANUAL, PROFUNDIDADE IGUAL OU INFERIOR A 1,50M",
-      "unidade": "M³",
+      "unidade": "M3",
       "quantidade": 9.53,
       "pagina_pdf": 2,
       "ordem_na_pagina": 5
@@ -75,7 +75,7 @@
       "codigo": "01-04-10",
       "fonte": null,
       "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
-      "unidade": "M²",
+      "unidade": "M2",
       "quantidade": 31.76,
       "pagina_pdf": 2,
       "ordem_na_pagina": 6
@@ -95,7 +95,7 @@
       "codigo": "02-03-04",
       "fonte": null,
       "descricao": "FORMA COMUM DE TÁBUAS DE PINUS – NÃO RECUPERÁVEL",
-      "unidade": "M²",
+      "unidade": "M2",
       "quantidade": 41.36,
       "pagina_pdf": 2,
       "ordem_na_pagina": 8
@@ -125,7 +125,7 @@
       "codigo": "02-05-10",
       "fonte": null,
       "descricao": "CONCRETO FCK=25MPA - USINADO",
-      "unidade": "M³",
+      "unidade": "M3",
       "quantidade": 48.44,
       "pagina_pdf": 2,
       "ordem_na_pagina": 11
@@ -135,7 +135,7 @@
       "codigo": "02-06-05",
       "fonte": null,
       "descricao": "IMPERMEABLIZAÇÃO DO RESPALDO DA FUNDAÇÃO – ARGAMASSA MPERMEÁVEL",
-      "unidade": "M²",
+      "unidade": "M2",
       "quantidade": 8.22,
       "pagina_pdf": 2,
       "ordem_na_pagina": 12
@@ -145,7 +145,7 @@
       "codigo": "04-01-41",
       "fonte": null,
       "descricao": "BLOCOS VAZADOS E CONCRETO - 14CM",
-      "unidade": "M²",
+      "unidade": "M2",
       "quantidade": 49.44,
       "pagina_pdf": 2,
       "ordem_na_pagina": 13
@@ -195,7 +195,7 @@
       "codigo": "13-02-04",
       "fonte": null,
       "descricao": "ACABAMENTO DE PISO DE CONCRETO TIPO BAMBOLÊ",
-      "unidade": "M²",
+      "unidade": "M2",
       "quantidade": 356.2,
       "pagina_pdf": 3,
       "ordem_na_pagina": 4
@@ -205,7 +205,7 @@
       "codigo": "15-01-15",
       "fonte": null,
       "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
-      "unidade": "M²",
+      "unidade": "M2",
       "quantidade": 455.08,
       "pagina_pdf": 3,
       "ordem_na_pagina": 5
@@ -225,7 +225,7 @@
       "codigo": "17-01-41",
       "fonte": null,
       "descricao": "PP. 20/24-PORTÃO EM FERRO PERFILADO COM TELA, 1 FOLHA",
-      "unidade": "M²",
+      "unidade": "M2",
       "quantidade": 2.1,
       "pagina_pdf": 3,
       "ordem_na_pagina": 7
@@ -235,7 +235,7 @@
       "codigo": "17-02-47",
       "fonte": null,
       "descricao": "PISO/PASSEIO DE CONCRETO ARMADO, INCLUINDO O PREPARO DA CAIXA, LASTRO DE BRITA, TELA METÁLICA E A MÃO DE OBRA REFERENTE AOS SERVIÇOS NO CONCRETO: LANÇAMENTO E ACABAMENTO (RIPADO E DESMPENADO), EXCLUSIVE O FORNECIMENTO DO CONCRETO",
-      "unidade": "M³",
+      "unidade": "M3",
       "quantidade": 42.74,
       "pagina_pdf": 3,
       "ordem_na_pagina": 8
@@ -295,7 +295,7 @@
       "codigo": "17-03-65",
       "fonte": null,
       "descricao": "TELA DE NYLON PARAA COBERTURA DE QUADRA",
-      "unidade": "M²",
+      "unidade": "M2",
       "quantidade": 388.36,
       "pagina_pdf": 3,
       "ordem_na_pagina": 14
@@ -305,7 +305,7 @@
       "codigo": "17-50-21",
       "fonte": null,
       "descricao": "DEMOLIÇÃO MANUAL DE CONCRETO ARMADO",
-      "unidade": "M³",
+      "unidade": "M3",
       "quantidade": 14.32,
       "pagina_pdf": 3,
       "ordem_na_pagina": 15
@@ -315,7 +315,7 @@
       "codigo": "01-01-07",
       "fonte": null,
       "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
-      "unidade": "M³",
+      "unidade": "M3",
       "quantidade": 18.62,
       "pagina_pdf": 3,
       "ordem_na_pagina": 16

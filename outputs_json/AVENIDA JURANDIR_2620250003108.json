@@ -76,7 +76,7 @@
       "codigo": "01-004-010",
       "fonte": null,
       "descricao": "APILOAMENTO DO FUNDO DE VALAS, PARA SIMPLES REGULARIZAÇÃO",
-      "unidade": "M²",
+      "unidade": "M2",
       "quantidade": 46.02,
       "pagina_pdf": 3,
       "ordem_na_pagina": 5
@@ -196,7 +196,7 @@
       "codigo": "11-001-008",
       "fonte": null,
       "descricao": "EMBOÇO - ARGAMASSA MISTA DE CIMENTO, CAL E AREIA 1:4/12",
-      "unidade": "M²",
+      "unidade": "M2",
       "quantidade": 13.16,
       "pagina_pdf": 4,
       "ordem_na_pagina": 1
@@ -216,7 +216,7 @@
       "codigo": "15-001-015",
       "fonte": null,
       "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
-      "unidade": "M²",
+      "unidade": "M2",
       "quantidade": 14.38,
       "pagina_pdf": 4,
       "ordem_na_pagina": 3
@@ -226,7 +226,7 @@
       "codigo": "17-002-052",
       "fonte": null,
       "descricao": "NC.20/22 - SARJETA DE CONCRETO, INCLUSIVE PREPARO DE CAIXA",
-      "unidade": "M³",
+      "unidade": "M3",
       "quantidade": 3.66,
       "pagina_pdf": 4,
       "ordem_na_pagina": 4
@@ -246,7 +246,7 @@
       "codigo": "17-001-044",
       "fonte": null,
       "descricao": "PP.43/46 - PORTÃO EM FERRO PERFILADO COM CHAPA, 1 FOLHA, H=1,00M",
-      "unidade": "M²",
+      "unidade": "M2",
       "quantidade": 2.09,
       "pagina_pdf": 4,
       "ordem_na_pagina": 6
@@ -256,7 +256,7 @@
       "codigo": "15-001-036",
       "fonte": null,
       "descricao": "TINTA EPÓXI - REBOCO COM MASSA BASE EPÓXI",
-      "unidade": "M²",
+      "unidade": "M2",
       "quantidade": 79.42,
       "pagina_pdf": 4,
       "ordem_na_pagina": 7
@@ -266,7 +266,7 @@
       "codigo": "17-003-071",
       "fonte": null,
       "descricao": "RD.06 - DEMARCAÇÃO E PINTURA DE SUPERFÍCIES - EPÓX",
-      "unidade": "M²",
+      "unidade": "M2",
       "quantidade": 1.2,
       "pagina_pdf": 4,
       "ordem_na_pagina": 8
@@ -276,7 +276,7 @@
       "codigo": "13-002-093",
       "fonte": null,
       "descricao": "NS.13 - CHAPAS DE BORRACHA SINTÉTICA ASSENTES COM ARGAMASSA, E=8 A 10MM - COM RELEVO",
-      "unidade": "M²",
+      "unidade": "M2",
       "quantidade": 28.91,
       "pagina_pdf": 4,
       "ordem_na_pagina": 9
@@ -306,7 +306,7 @@
       "codigo": "13-002-046",
       "fonte": null,
       "descricao": "DY.02 - PISO PODOTÁTIL, ALERTA DIRECIONAL, INTERTRAVADO 6CM",
-      "unidade": "M²",
+      "unidade": "M2",
       "quantidade": 4.8,
       "pagina_pdf": 4,
       "ordem_na_pagina": 12
@@ -387,7 +387,7 @@
       "codigo": "18-003-003",
       "fonte": null,
       "descricao": "GRAMA SÃO CARLOS EM PLACAS (ANOXONOPUS OBTUSIFOLIUS)",
-      "unidade": "M²",
+      "unidade": "M2",
       "quantidade": 7.53,
       "pagina_pdf": 5,
       "ordem_na_pagina": 8
@@ -457,7 +457,7 @@
       "codigo": "17-004-001",
       "fonte": null,
       "descricao": "LIMPEZA GERAL DA OBRA",
-      "unidade": "M²",
+      "unidade": "M2",
       "quantidade": 181.13,
       "pagina_pdf": 5,
       "ordem_na_pagina": 15

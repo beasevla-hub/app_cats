@@ -165,7 +165,7 @@
       "codigo": "17-045-001",
       "fonte": null,
       "descricao": "ANDAIMES METÁLICOS - FORNECIMENTO",
-      "unidade": "M3XMÊS",
+      "unidade": "M3XMES",
       "quantidade": 64.0,
       "pagina_pdf": 4,
       "ordem_na_pagina": 3
@@ -605,7 +605,7 @@
       "codigo": "18-003-029",
       "fonte": null,
       "descricao": "VEDELIA (WEDELIA PALUDARIS)",
-      "unidade": "DÚZIA",
+      "unidade": "DZ",
       "quantidade": 150.0,
       "pagina_pdf": 6,
       "ordem_na_pagina": 11
@@ -615,7 +615,7 @@
       "codigo": "18-003-027",
       "fonte": null,
       "descricao": "PILEA (PILEA CADIEREI)",
-      "unidade": "DÚZIA",
+      "unidade": "DZ",
       "quantidade": 150.0,
       "pagina_pdf": 6,
       "ordem_na_pagina": 12
@@ -625,7 +625,7 @@
       "codigo": "MERCADO",
       "fonte": null,
       "descricao": "LAMBARI ROXO (Tradescantia zebrina)",
-      "unidade": "DÚZIA",
+      "unidade": "DZ",
       "quantidade": 100.0,
       "pagina_pdf": 6,
       "ordem_na_pagina": 13

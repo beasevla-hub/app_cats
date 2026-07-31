@@ -75,7 +75,7 @@
       "codigo": "17B506",
       "fonte": null,
       "descricao": "ALUGUEL DE CONTAINER TIPO ESCRITORIO (MES) (SINAPI INSUMO: 10775)",
-      "unidade": "UN X MÊS",
+      "unidade": "UNXMES",
       "quantidade": 3.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 5
@@ -85,7 +85,7 @@
       "codigo": "17B507",
       "fonte": null,
       "descricao": "ALUGUEL CONTAINER TIPO SANITARIO (4 BACIAS/1 LAVAT/1 MICT/4 CHUV) (SINAPI INSUMO: 10778)",
-      "unidade": "UN X MÊS",
+      "unidade": "UNXMES",
       "quantidade": 3.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 6

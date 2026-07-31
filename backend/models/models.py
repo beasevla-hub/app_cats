@@ -1,7 +1,7 @@
 from sqlalchemy import Column, Integer, String, Float, Date, Text, ForeignKey, DateTime, JSON
 from sqlalchemy.orm import relationship
 from sqlalchemy.sql import func
-from ..core.database import Base
+from core.database import Base
 
 class Cat(Base):
     __tablename__ = "cats"

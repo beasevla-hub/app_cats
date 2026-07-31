@@ -175,7 +175,7 @@
       "codigo": "04-064-000",
       "fonte": null,
       "descricao": "DISPOSIÇÃO FINAL DE SOLOS E RESÍDUOS, CLASSE II B - INERTES, EM ATERRO SANITÁRIO LICENCIADO",
-      "unidade": "Ton",
+      "unidade": "T",
       "quantidade": 587.9,
       "pagina_pdf": 2,
       "ordem_na_pagina": 16
@@ -515,7 +515,7 @@
       "codigo": "18-003-015",
       "fonte": null,
       "descricao": "CLOROFITO (CLOROPHYTUM CROMOSSUM)",
-      "unidade": "DÚZIA",
+      "unidade": "DZ",
       "quantidade": 100.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 34
@@ -535,7 +535,7 @@
       "codigo": "18-003-021",
       "fonte": null,
       "descricao": "LÍRIO (HEMEROCALLIS FLAVA)",
-      "unidade": "DÚZIA",
+      "unidade": "DZ",
       "quantidade": 100.0,
       "pagina_pdf": 4,
       "ordem_na_pagina": 1
@@ -545,7 +545,7 @@
       "codigo": "18-003-023",
       "fonte": null,
       "descricao": "MARIA SEM VERGONHA (IMPATIENS SPP)",
-      "unidade": "DÚZIA",
+      "unidade": "DZ",
       "quantidade": 100.0,
       "pagina_pdf": 4,
       "ordem_na_pagina": 2

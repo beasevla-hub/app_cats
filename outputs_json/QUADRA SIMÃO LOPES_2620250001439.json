@@ -115,7 +115,7 @@
       "codigo": "17.03.55",
       "fonte": null,
       "descricao": "QD.01 - DEMARCAÇÃO DE QUADRA COM TINTA BASE DE BORRACHA CLORADA - VOLEIBOL",
-      "unidade": "UNIDADE",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 10
@@ -125,7 +125,7 @@
       "codigo": "17.03.56",
       "fonte": null,
       "descricao": "QD. 02 - DEMARCAÇÃO DE QUADRA COM TINTA A BASE DE BORRACHA CLORADA - FUTEBOL DE SALÃO",
-      "unidade": "UNIDADE",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 11
@@ -135,7 +135,7 @@
       "codigo": "17.03.57",
       "fonte": null,
       "descricao": "QD.03 - DEMARCAÇÃO DE QUADRA COM TINTA A BASE DE BORRACHA - BASQUETE",
-      "unidade": "UNIDADE",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 12
@@ -155,7 +155,7 @@
       "codigo": "17.03.60",
       "fonte": null,
       "descricao": "POSTES PARA VOLEIBOL, INCLUSIVE PINTURA E REDE",
-      "unidade": "UNIDADE",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 14
@@ -195,7 +195,7 @@
       "codigo": "17.03.61",
       "fonte": null,
       "descricao": "TRAVE PARA FUTEBOL DE SALÃO, INCLUSIVE PINTURA E REDE",
-      "unidade": "UNIDADE",
+      "unidade": "UN",
       "quantidade": 2.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 18
@@ -205,7 +205,7 @@
       "codigo": "17.80.70",
       "fonte": null,
       "descricao": "TABELA DE BASQUETE, INCLUSIVE ARO E CESTA - MADEIRA PINTADA",
-      "unidade": "UNIDADE",
+      "unidade": "UN",
       "quantidade": 0.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 19
@@ -215,7 +215,7 @@
       "codigo": "17.03.63",
       "fonte": null,
       "descricao": "TABELA PARA BASQUETE, ENGLOBANDO DESDE FUNDAÇÃO ATÉ A CESTA DE NYLON",
-      "unidade": "UNIDADE",
+      "unidade": "UN",
       "quantidade": 2.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 20
@@ -225,7 +225,7 @@
       "codigo": "17.60.50",
       "fonte": null,
       "descricao": "RETIRADA DE BRINQUEDOS",
-      "unidade": "UNIDADE",
+      "unidade": "UN",
       "quantidade": 4.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 21
@@ -235,7 +235,7 @@
       "codigo": "18.16.01",
       "fonte": null,
       "descricao": "SURF DUPLO CONJUGADO (EXERCITADOR PARA IDOSOS)",
-      "unidade": "UNIDADE",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 22
@@ -245,7 +245,7 @@
       "codigo": "18.16.07",
       "fonte": null,
       "descricao": "PRESSÃO DE PERNAS TRIPLO CONJUGADO",
-      "unidade": "UNIDADE",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 23
@@ -255,7 +255,7 @@
       "codigo": "18.16.08",
       "fonte": null,
       "descricao": "REMADA SENTADA",
-      "unidade": "UNIDADE",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 24
@@ -265,7 +265,7 @@
       "codigo": "18.16.09",
       "fonte": null,
       "descricao": "SIMULADOR DE CAMINHADA DUPLO CONJUGADO",
-      "unidade": "UNIDADE",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 25
@@ -275,7 +275,7 @@
       "codigo": "18.16.11",
       "fonte": null,
       "descricao": "ROTAÇÃO VERTICAL DUPLO",
-      "unidade": "UNIDADE",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 26
@@ -285,7 +285,7 @@
       "codigo": "18.16.19",
       "fonte": null,
       "descricao": "PLACA ORIENTADORA VERTICAL",
-      "unidade": "UNIDADE",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 27
@@ -295,7 +295,7 @@
       "codigo": "18.14.16",
       "fonte": null,
       "descricao": "BRINQUEDO TIPO BALANÇO FRONTAL DUPLO PARA CADEIRANTE COM ESTRUTURA EM TUBOS DE AÇO CARBONO - INSTALADO",
-      "unidade": "UNIDADE",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 1
@@ -305,7 +305,7 @@
       "codigo": "18.14.45",
       "fonte": null,
       "descricao": "PLAYGROUND BRINQUEDOS DE MADEIRA - ESCORREGADOE (ALT.= 1,80M COMP.=3,00M)",
-      "unidade": "UNIDADE",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 2
@@ -315,7 +315,7 @@
       "codigo": "18.14.46",
       "fonte": null,
       "descricao": "PLAYGROUND BRINQUEDOS DE MADEIARA - GANGORRA DUPLA",
-      "unidade": "UNIDADE",
+      "unidade": "UN",
       "quantidade": 0.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 3
@@ -325,7 +325,7 @@
       "codigo": "18.14.48",
       "fonte": null,
       "descricao": "PLAYGROUND BRINQUEDOS DE MADEIRA - BALANÇA DUPLA",
-      "unidade": "UNIDADE",
+      "unidade": "UN",
       "quantidade": 0.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 4
@@ -425,7 +425,7 @@
       "codigo": "20.03.60",
       "fonte": null,
       "descricao": "PROJETO BÁSICO (PRANCHA A1)",
-      "unidade": "UNIDADE",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 14

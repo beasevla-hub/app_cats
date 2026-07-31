@@ -25,7 +25,7 @@
       "codigo": "01.01.01",
       "fonte": "CDHU",
       "descricao": "Locação de container tipo depósito - área mínima de 13,80 m²",
-      "unidade": "UNMES",
+      "unidade": "UNXMES",
       "quantidade": 1.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 1
@@ -665,7 +665,7 @@
       "codigo": "02.03.01-B",
       "fonte": "EDIF",
       "descricao": "ANDAIMES METÁLICOS - FORNECIMENTO",
-      "unidade": "M3xMÊS",
+      "unidade": "M3XMES",
       "quantidade": 67.5,
       "pagina_pdf": 5,
       "ordem_na_pagina": 4

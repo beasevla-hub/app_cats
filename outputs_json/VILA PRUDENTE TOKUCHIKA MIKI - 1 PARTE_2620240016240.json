@@ -415,7 +415,7 @@
       "codigo": null,
       "fonte": null,
       "descricao": "PAR DE TRAVE PARA FUTEBOL DE CAMPO - 7,32X2,44M - 4\"-COM REDE",
-      "unidade": "PR",
+      "unidade": "PAR",
       "quantidade": 1.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 32
@@ -1215,7 +1215,7 @@
       "codigo": null,
       "fonte": null,
       "descricao": "ANDAIMES METÁLICOS - FORNECIMENTO",
-      "unidade": "M3XMÊS",
+      "unidade": "M3XMES",
       "quantidade": 162.0,
       "pagina_pdf": 6,
       "ordem_na_pagina": 6

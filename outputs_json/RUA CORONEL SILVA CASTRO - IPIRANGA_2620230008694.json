@@ -45,7 +45,7 @@
       "codigo": "10-14-04",
       "fonte": null,
       "descricao": "TORNEIRA DE PRESSÃO PARA USO GERAL, METAL CROMADO - 3/4\"",
-      "unidade": "UNID",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 3
@@ -55,7 +55,7 @@
       "codigo": "10-13-08",
       "fonte": null,
       "descricao": "LAVATÓRIO DE LOUÇA BRANCA, SEM COLUNA, CAPACIDADE MÍNIMA, 5L, EXCLUSIVE TORNEIRA",
-      "unidade": "UNID",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 4
@@ -65,7 +65,7 @@
       "codigo": "10-13-03",
       "fonte": null,
       "descricao": "BACIA SANITÁRIA COM CAIXA ACOPLADA DE LOUÇA BRANCA",
-      "unidade": "UNID",
+      "unidade": "UN",
       "quantidade": 2.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 5
@@ -175,7 +175,7 @@
       "codigo": "17-03-55",
       "fonte": null,
       "descricao": "QD.01 - DEMARCAÇÃO DE QUADRA COM TINTA A BASE DE BORRACHA CLORADA - VOLEIBOL",
-      "unidade": "UNID",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 16
@@ -185,7 +185,7 @@
       "codigo": "17-03-56",
       "fonte": null,
       "descricao": "QD.02 - DEMARCAÇÃO DE QUADRA COM TINTA A BASE DE BORRACHA CLORADA - FUTEBOL DE SALÃO",
-      "unidade": "UNID",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 17
@@ -195,7 +195,7 @@
       "codigo": "17-03-57",
       "fonte": null,
       "descricao": "QD.03 - DEMARCAÇÃO DE QUADRA COM TINTA A BASE DE BORRACHA CLORADA - BASQUETE",
-      "unidade": "UNID",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 18
@@ -205,7 +205,7 @@
       "codigo": "15-01-15",
       "fonte": null,
       "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
-      "unidade": "UNID",
+      "unidade": "UN",
       "quantidade": 598.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 19
@@ -215,7 +215,7 @@
       "codigo": "15-50-03",
       "fonte": null,
       "descricao": "REMOÇÃO DE PINTURA EM ALVENARIJA E CONCRETO - LIXA",
-      "unidade": "UNID",
+      "unidade": "UN",
       "quantidade": 598.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 20
@@ -225,7 +225,7 @@
       "codigo": "15-03-10",
       "fonte": null,
       "descricao": "ESMALTE SINTÉTICO - ESQUADRIAS E PEÇAS DE SERRALHERIA",
-      "unidade": "UNID",
+      "unidade": "UN",
       "quantidade": 59.64,
       "pagina_pdf": 2,
       "ordem_na_pagina": 21
@@ -235,7 +235,7 @@
       "codigo": "17-60-50",
       "fonte": null,
       "descricao": "RETIRADA DE BRINQUEDOS",
-      "unidade": "UNID",
+      "unidade": "UN",
       "quantidade": 4.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 22
@@ -245,7 +245,7 @@
       "codigo": "17-03-61",
       "fonte": null,
       "descricao": "TRAVE PARA FUTEBOL DE SALÃO, INCLUSIVE PINTURA E REDE",
-      "unidade": "UNID",
+      "unidade": "UN",
       "quantidade": 2.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 23
@@ -255,7 +255,7 @@
       "codigo": "17-03-63",
       "fonte": null,
       "descricao": "TABELA PARA BASQUETE, ENGLOBANDO DESDE FUNDAÇÃO ATÉ A CESTA DE NYLON",
-      "unidade": "UNID",
+      "unidade": "UN",
       "quantidade": 2.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 24
@@ -265,7 +265,7 @@
       "codigo": "17-03-60",
       "fonte": null,
       "descricao": "POSTES PARA VOLEIBOL, INCLUSIVE PINTURA E REDE",
-      "unidade": "UNID",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 25
@@ -455,7 +455,7 @@
       "codigo": "09-62-11",
       "fonte": null,
       "descricao": "RETIRADA DE LUMINÁRIA INTERNA PARA LÂMPADA FLUORESCENTE",
-      "unidade": "UNID",
+      "unidade": "UN",
       "quantidade": 10.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 12
@@ -465,7 +465,7 @@
       "codigo": "09-09-39",
       "fonte": null,
       "descricao": "PROJETOR PARA USO EXTERNO COM LÂMPADA LED DEW 15W - COMPLETA",
-      "unidade": "UNID",
+      "unidade": "UN",
       "quantidade": 10.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 13
@@ -485,7 +485,7 @@
       "codigo": "09-07-60",
       "fonte": null,
       "descricao": "PONTO DE TOMADA SIMPLES DE EMBUTIR - 110/220V CAIXA 4\"X2\"",
-      "unidade": "UNID",
+      "unidade": "UN",
       "quantidade": 10.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 15
@@ -525,7 +525,7 @@
       "codigo": "20-03-50",
       "fonte": null,
       "descricao": "SERVIÇO DE PLOTAGEM EM PAPEL SULFITE, TAMANHO A1, PRETO E BRANCO",
-      "unidade": "UNID",
+      "unidade": "UN",
       "quantidade": 2.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 19

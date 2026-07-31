@@ -245,7 +245,7 @@
       "codigo": "ATI 01",
       "fonte": null,
       "descricao": "MULTI-EXERCITADOR CONJUGADO COM 6 (SEIS) FUNÇÕES DISTINTAS, SENDO: 1°) Flexor de Fernas; 2°) Extensor de Pernas; 3°) Supino Reto Sentado; 4°) Supino Inclinado Sentado; 5°) Rotação Vertical Individual; 6°) Puxada Alta.",
-      "unidade": "Equipamento",
+      "unidade": "EQUIPAMENTO",
       "quantidade": 1.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 8
@@ -255,7 +255,7 @@
       "codigo": "ATI 02",
       "fonte": null,
       "descricao": "SIMULADOR DE CAVALGADA DUPLO CONJUGADO.",
-      "unidade": "Equipamento",
+      "unidade": "EQUIPAMENTO",
       "quantidade": 1.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 9
@@ -265,7 +265,7 @@
       "codigo": "ATI 04",
       "fonte": null,
       "descricao": "PRESSÃO DE PERNAS DUPLO CONJUGADO",
-      "unidade": "Equipamento",
+      "unidade": "EQUIPAMENTO",
       "quantidade": 1.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 10
@@ -275,7 +275,7 @@
       "codigo": "ATI 06",
       "fonte": null,
       "descricao": "SIMULADOR DE CAMINHADA DUPLO CONJUGADO",
-      "unidade": "Equipamento",
+      "unidade": "EQUIPAMENTO",
       "quantidade": 1.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 11

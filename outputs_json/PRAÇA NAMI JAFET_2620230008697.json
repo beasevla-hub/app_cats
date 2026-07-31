@@ -105,7 +105,7 @@
       "codigo": null,
       "fonte": null,
       "descricao": "DEMARCAÇÃO DE VAGA DE ESTACIONAMENTO PARA PORTADORES DE DEFICIÊNCIA FÍSICA",
-      "unidade": "UNID",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 9
@@ -235,7 +235,7 @@
       "codigo": null,
       "fonte": null,
       "descricao": "PLACA DE IDENTIFICAÇÃO EM BRAILE \"INÍCIO E FINAL\" P",
-      "unidade": "UNID",
+      "unidade": "UN",
       "quantidade": 10.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 1
@@ -265,7 +265,7 @@
       "codigo": null,
       "fonte": null,
       "descricao": "ROTAÇÃO DIAGONAL DUPLA-APARELHO DUPLO CONJUGADO",
-      "unidade": "UNID",
+      "unidade": "UN",
       "quantidade": 2.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 4
@@ -275,7 +275,7 @@
       "codigo": null,
       "fonte": null,
       "descricao": "SIMULADOR DE CAVALGADA",
-      "unidade": "UNID",
+      "unidade": "UN",
       "quantidade": 4.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 5
@@ -285,7 +285,7 @@
       "codigo": null,
       "fonte": null,
       "descricao": "REMADA SENTADA",
-      "unidade": "UNID",
+      "unidade": "UN",
       "quantidade": 2.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 6
@@ -295,7 +295,7 @@
       "codigo": null,
       "fonte": null,
       "descricao": "PLACA ORIENTADORA VERTICAL",
-      "unidade": "UNID",
+      "unidade": "UN",
       "quantidade": 2.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 7

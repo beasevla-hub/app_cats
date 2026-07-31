@@ -25,7 +25,7 @@
       "codigo": "01-01-07",
       "fonte": null,
       "descricao": "REMOÇÃO DE ENTULHO COM CAÇAMBA METÁLICA, INCLUSIVE CARGA MANUAL E DESCARGA EM BOTA-FORA",
-      "unidade": "M³",
+      "unidade": "M3",
       "quantidade": 5.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 1
@@ -35,7 +35,7 @@
       "codigo": "01-05-40",
       "fonte": null,
       "descricao": "TELA PARA PROTEÇÃO DE OBRAS, MALHA 2MM",
-      "unidade": "M²",
+      "unidade": "M2",
       "quantidade": 123.36,
       "pagina_pdf": 2,
       "ordem_na_pagina": 2
@@ -45,7 +45,7 @@
       "codigo": "17-30-02",
       "fonte": null,
       "descricao": "PLACA DE OBRA EM CHAPA DE AÇO GALVANIZADO",
-      "unidade": "M²",
+      "unidade": "M2",
       "quantidade": 2.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 3
@@ -55,7 +55,7 @@
       "codigo": "06-02-44",
       "fonte": null,
       "descricao": "TELHA TRAPEZOIDAL EM AÇO GALVANIZADO ESPESSURA DE 0,50MM, REVESTIMENTO B, H=40MM",
-      "unidade": "M²",
+      "unidade": "M2",
       "quantidade": 153.47,
       "pagina_pdf": 2,
       "ordem_na_pagina": 4
@@ -65,7 +65,7 @@
       "codigo": "08-02-80",
       "fonte": null,
       "descricao": "TELA DE PROTEÇÃO EM ARAME N. 12, MALHA DE ½\" – INCLUSIVE REQUADRO",
-      "unidade": "M²",
+      "unidade": "M2",
       "quantidade": 31.95,
       "pagina_pdf": 2,
       "ordem_na_pagina": 5
@@ -85,7 +85,7 @@
       "codigo": "08-60-01",
       "fonte": null,
       "descricao": "RETIRADA DE ESQUADRIAS METÁLICAS EM GERAL, PORTAS OU CAIXILHOS",
-      "unidade": "M²",
+      "unidade": "M2",
       "quantidade": 33.59,
       "pagina_pdf": 2,
       "ordem_na_pagina": 7
@@ -125,7 +125,7 @@
       "codigo": "13-02-02",
       "fonte": null,
       "descricao": "CIMENTADO COMUM, DESEMPENADO E ALISADO - ESPESSURA 20MM",
-      "unidade": "M²",
+      "unidade": "M2",
       "quantidade": 476.25,
       "pagina_pdf": 2,
       "ordem_na_pagina": 11
@@ -135,7 +135,7 @@
       "codigo": "13-02-47",
       "fonte": null,
       "descricao": "PISO PODOTÁTIL, ALERTA OU DIRECIONAL, EM LADRILHO HIDRÁULICO",
-      "unidade": "M²",
+      "unidade": "M2",
       "quantidade": 36.33,
       "pagina_pdf": 2,
       "ordem_na_pagina": 12
@@ -145,7 +145,7 @@
       "codigo": "15-01-15",
       "fonte": null,
       "descricao": "TINTA ACRÍLICA - CONCRETO OU REBOCO SEM MASSA CORRIDA",
-      "unidade": "M²",
+      "unidade": "M2",
       "quantidade": 579.04,
       "pagina_pdf": 2,
       "ordem_na_pagina": 13
@@ -155,7 +155,7 @@
       "codigo": "15-03-10",
       "fonte": null,
       "descricao": "ESMALTE SINTÉTICO - ESQUADRIAS E PEÇAS DE SERRALHERIA",
-      "unidade": "M²",
+      "unidade": "M2",
       "quantidade": 586.93,
       "pagina_pdf": 2,
       "ordem_na_pagina": 14
@@ -165,7 +165,7 @@
       "codigo": "15-03-12",
       "fonte": null,
       "descricao": "ESMALTE SINTÉTICO - ESTRUTURAS METÁLICAS",
-      "unidade": "M²",
+      "unidade": "M2",
       "quantidade": 422.82,
       "pagina_pdf": 3,
       "ordem_na_pagina": 1
@@ -185,7 +185,7 @@
       "codigo": "15-50-03",
       "fonte": null,
       "descricao": "REMOÇÃO DE PINTURA EM ALVENARIA E CONCRETO - LIXA",
-      "unidade": "M²",
+      "unidade": "M2",
       "quantidade": 579.04,
       "pagina_pdf": 3,
       "ordem_na_pagina": 3
@@ -195,7 +195,7 @@
       "codigo": "15-50-20",
       "fonte": null,
       "descricao": "REMOÇÃO DE PINTURA EM ESQUADRIAS E PEÇAS DE SERRALHERIA - LIXA",
-      "unidade": "M²",
+      "unidade": "M2",
       "quantidade": 586.93,
       "pagina_pdf": 3,
       "ordem_na_pagina": 4
@@ -205,7 +205,7 @@
       "codigo": "17-45-01",
       "fonte": null,
       "descricao": "ANDAIMES METÁLICOS - FORNECIMENTO",
-      "unidade": "M³XMÊS",
+      "unidade": "M3XMES",
       "quantidade": 182.25,
       "pagina_pdf": 3,
       "ordem_na_pagina": 5
@@ -215,7 +215,7 @@
       "codigo": "17-45-02",
       "fonte": null,
       "descricao": "ANDAIMES METÁLICOS - MONTAGEM E DESMONTAGEM",
-      "unidade": "M³",
+      "unidade": "M3",
       "quantidade": 60.75,
       "pagina_pdf": 3,
       "ordem_na_pagina": 6
@@ -235,7 +235,7 @@
       "codigo": "17-04-01",
       "fonte": null,
       "descricao": "LIMPEZA GERAL DA OBRA",
-      "unidade": "M²",
+      "unidade": "M2",
       "quantidade": 177.25,
       "pagina_pdf": 3,
       "ordem_na_pagina": 8

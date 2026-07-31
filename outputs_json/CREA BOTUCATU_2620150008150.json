@@ -45,7 +45,7 @@
       "codigo": "74220",
       "fonte": "SINAPI",
       "descricao": "Tapume em chapa de madeira compensada com pintura",
-      "unidade": "m2",
+      "unidade": "M2",
       "quantidade": 20.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 3
@@ -55,7 +55,7 @@
       "codigo": "72209",
       "fonte": "SINAPI",
       "descricao": "Carga manual e remoção de entulho com transporte até 1Km em caminhão basculante",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 43.9,
       "pagina_pdf": 2,
       "ordem_na_pagina": 4
@@ -65,7 +65,7 @@
       "codigo": "01.01.10",
       "fonte": "Siurb",
       "descricao": "Transporte de entulho por caminhão basculante, a partir de 1km",
-      "unidade": "m³XKm",
+      "unidade": "M3XKM",
       "quantidade": 178.4,
       "pagina_pdf": 2,
       "ordem_na_pagina": 5
@@ -75,7 +75,7 @@
       "codigo": "73683",
       "fonte": "SINAPI",
       "descricao": "Instalação de gambiarra para sinalização",
-      "unidade": "global",
+      "unidade": "GL",
       "quantidade": 1.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 6
@@ -85,7 +85,7 @@
       "codigo": "74209/001",
       "fonte": "SINAPI",
       "descricao": "Aquisição e assentamento de placa de obra",
-      "unidade": "m2",
+      "unidade": "M2",
       "quantidade": 1.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 7
@@ -95,7 +95,7 @@
       "codigo": "73847/003",
       "fonte": "SINAPI",
       "descricao": "Aluguel de container sanitário c/ 2 vasos/01 lavatório/1 mict/ chuveiros inclus. Instalação exclusive tranporte/carga/descarga",
-      "unidade": "mês",
+      "unidade": "MES",
       "quantidade": 3.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 8
@@ -105,7 +105,7 @@
       "codigo": null,
       "fonte": "PINI",
       "descricao": "Mobilização e desmobilização do container",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 2.0,
       "pagina_pdf": 2,
       "ordem_na_pagina": 9
@@ -135,7 +135,7 @@
       "codigo": "73965",
       "fonte": "SINAPI",
       "descricao": "Escavação manual do solo, prof até 1,5 m",
-      "unidade": "m3",
+      "unidade": "M3",
       "quantidade": 2.1,
       "pagina_pdf": 3,
       "ordem_na_pagina": 3
@@ -145,7 +145,7 @@
       "codigo": "74015/001",
       "fonte": "SINAPI",
       "descricao": "Reaterro e compactação mecânica de vala com compactador manual",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 0.41,
       "pagina_pdf": 3,
       "ordem_na_pagina": 4
@@ -155,7 +155,7 @@
       "codigo": "79483",
       "fonte": null,
       "descricao": "Apiloamento de fundo de vala",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 9.33,
       "pagina_pdf": 3,
       "ordem_na_pagina": 5
@@ -175,7 +175,7 @@
       "codigo": "83532",
       "fonte": "SINAPI",
       "descricao": "Lastro de concreto, preparo mecânico",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 0.47,
       "pagina_pdf": 3,
       "ordem_na_pagina": 7
@@ -185,7 +185,7 @@
       "codigo": "090102",
       "fonte": "CPOS",
       "descricao": "Forma em madeira comum para fundação",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 2.65,
       "pagina_pdf": 3,
       "ordem_na_pagina": 8
@@ -195,7 +195,7 @@
       "codigo": "74254",
       "fonte": "SINAPI",
       "descricao": "Armação CA50, 6,3mm a 12,5mm, fornecimento, corte, dobra e colocação",
-      "unidade": "kg",
+      "unidade": "KG",
       "quantidade": 63.46,
       "pagina_pdf": 3,
       "ordem_na_pagina": 9
@@ -205,7 +205,7 @@
       "codigo": "110132",
       "fonte": "CPOS",
       "descricao": "Concreto usinado, fck = 30,0 MPa para bombeamento",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 1.22,
       "pagina_pdf": 3,
       "ordem_na_pagina": 10
@@ -215,7 +215,7 @@
       "codigo": "111604",
       "fonte": "CPOS",
       "descricao": "Lançamento e adensamento de concreto ou massa em fundação",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 1.22,
       "pagina_pdf": 3,
       "ordem_na_pagina": 11
@@ -245,7 +245,7 @@
       "codigo": "03.60.02",
       "fonte": "SIURB",
       "descricao": "Fornecimento e montagem de estrutura metálica vertical - Patinável",
-      "unidade": "kg",
+      "unidade": "KG",
       "quantidade": 1696.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 14
@@ -265,7 +265,7 @@
       "codigo": "090103",
       "fonte": "CPOS",
       "descricao": "Forma em madeira comum para estrutura",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 25.85,
       "pagina_pdf": 3,
       "ordem_na_pagina": 16
@@ -275,7 +275,7 @@
       "codigo": "100104",
       "fonte": "CPOS",
       "descricao": "Armadura em barra de aço CA-50 (A ou B) fyk= 500 MPa",
-      "unidade": "kg",
+      "unidade": "KG",
       "quantidade": 131.89,
       "pagina_pdf": 3,
       "ordem_na_pagina": 17
@@ -285,7 +285,7 @@
       "codigo": "110132",
       "fonte": "CPOS",
       "descricao": "Concreto usinado, fck = 30,0 MPa para bombeamento",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 1.75,
       "pagina_pdf": 3,
       "ordem_na_pagina": 18
@@ -295,7 +295,7 @@
       "codigo": "111608",
       "fonte": "CPOS",
       "descricao": "Lançamento e adensamento de concreto ou massa por bombeamento",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 1.75,
       "pagina_pdf": 3,
       "ordem_na_pagina": 19
@@ -305,7 +305,7 @@
       "codigo": "03.04.21",
       "fonte": "SIURB",
       "descricao": "Laje mista treliçada H=8 cm com capeamento H=4 cm (H=12 cm)",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 3.8,
       "pagina_pdf": 3,
       "ordem_na_pagina": 20
@@ -325,7 +325,7 @@
       "codigo": "03.50.02",
       "fonte": "SIURB",
       "descricao": "Demolição mecanizada de concreto armado",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 5.0,
       "pagina_pdf": 4,
       "ordem_na_pagina": 1
@@ -355,7 +355,7 @@
       "codigo": "140421",
       "fonte": "CPOS",
       "descricao": "Alvenaria de bloco cerâmico de vedação, uso revestido, de 14 cm",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 48.0,
       "pagina_pdf": 4,
       "ordem_na_pagina": 4
@@ -365,7 +365,7 @@
       "codigo": "142504",
       "fonte": "CPOS",
       "descricao": "Alvenaria em bloco de vidro com armação",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 7.0,
       "pagina_pdf": 4,
       "ordem_na_pagina": 5
@@ -375,7 +375,7 @@
       "codigo": "142810",
       "fonte": "CPOS",
       "descricao": "Elemento vazado em vidro tipo veneziana capelinha - 20 x 10 x 10 cm",
-      "unidade": "m2",
+      "unidade": "M2",
       "quantidade": 7.56,
       "pagina_pdf": 4,
       "ordem_na_pagina": 6
@@ -395,7 +395,7 @@
       "codigo": "143026",
       "fonte": "CPOS",
       "descricao": "Fechamento e divisória em placas de gesso acartonado, resistência ao fogo 30 minutos, espessura total de 7,3 cm",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 30.0,
       "pagina_pdf": 4,
       "ordem_na_pagina": 8
@@ -415,7 +415,7 @@
       "codigo": "04.50.04",
       "fonte": "SIURB",
       "descricao": "Demolição de alvenaria em geral (tijolos ou blocos)",
-      "unidade": "m3",
+      "unidade": "M3",
       "quantidade": 1.6,
       "pagina_pdf": 4,
       "ordem_na_pagina": 10
@@ -435,7 +435,7 @@
       "codigo": "73867/001",
       "fonte": "SINAPI",
       "descricao": "Estrutura metálica, fornecimento e montagem",
-      "unidade": "m2",
+      "unidade": "M2",
       "quantidade": 4.23,
       "pagina_pdf": 4,
       "ordem_na_pagina": 12
@@ -445,7 +445,7 @@
       "codigo": "06.02.03",
       "fonte": "SIURB",
       "descricao": "TELHAS DE BARRO COZIDO PAULISTA",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 4.23,
       "pagina_pdf": 4,
       "ordem_na_pagina": 13
@@ -455,7 +455,7 @@
       "codigo": "163304",
       "fonte": "CPOS",
       "descricao": "Calha, rufo, afins em chapa galvanizada nº 24 corte 0,50 m",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 12.5,
       "pagina_pdf": 4,
       "ordem_na_pagina": 14
@@ -475,7 +475,7 @@
       "codigo": "06.50.20",
       "fonte": "SIURB",
       "descricao": "DEMOLIÇÃO DE TELHAS DE BARRO COZIDO OU VIDRO EM GERAL",
-      "unidade": "m2",
+      "unidade": "M2",
       "quantidade": 4.23,
       "pagina_pdf": 4,
       "ordem_na_pagina": 16
@@ -495,7 +495,7 @@
       "codigo": "05.03.05",
       "fonte": "SIURB",
       "descricao": "IMPERMEABILIZAÇÃO COM MEMBRANAS ASFÁLTICAS COM 3 CAMADAS DE FELTRO ASFALTICO 15LBS",
-      "unidade": "m2",
+      "unidade": "M2",
       "quantidade": 5.27,
       "pagina_pdf": 4,
       "ordem_na_pagina": 18
@@ -505,7 +505,7 @@
       "codigo": "05.03.40",
       "fonte": "SIURB",
       "descricao": "REGULARIZAÇÃO COM ARGAMASSA DE CIMENTO E AREIA TRAÇO 1:3, ESPESSURA MÉDIA 30MM",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 5.27,
       "pagina_pdf": 5,
       "ordem_na_pagina": 1
@@ -515,7 +515,7 @@
       "codigo": "05.03.47",
       "fonte": "SIURB",
       "descricao": "PROTEÇÃO MECÂNICA COM ARGAMASSA DE CIMENTO E AREIA TRAÇO 1:7, ESPESSURA MÉDIA 30MM",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 5.27,
       "pagina_pdf": 5,
       "ordem_na_pagina": 2
@@ -545,7 +545,7 @@
       "codigo": "230411",
       "fonte": "CPOS",
       "descricao": "Porta em laminado fenólico melamínico com acabamento liso, batente de madeira sem revestimento - 92 x 210 cm",
-      "unidade": "pç",
+      "unidade": "PC",
       "quantidade": 2.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 5
@@ -565,7 +565,7 @@
       "codigo": "07.60.01",
       "fonte": "SIURB",
       "descricao": "RETIRADA DE FOLHAS DE PORTA DE PASSAGEM OU JANELA",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 6.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 7
@@ -575,7 +575,7 @@
       "codigo": "07.60.02",
       "fonte": "SIURB",
       "descricao": "RETIRADA DE BATENTES DE MADEIRA",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 6.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 8
@@ -585,7 +585,7 @@
       "codigo": "07.60.08",
       "fonte": "SIURB",
       "descricao": "RETIRADA DE GUARNIÇÕES OU MOLDURAS DE MADEIRA",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 30.12,
       "pagina_pdf": 5,
       "ordem_na_pagina": 9
@@ -595,7 +595,7 @@
       "codigo": "232002",
       "fonte": null,
       "descricao": "Recolocação de batentes de madeira",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 2.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 10
@@ -605,7 +605,7 @@
       "codigo": "232004",
       "fonte": null,
       "descricao": "Recolocação de folhas de porta ou janela",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 2.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 11
@@ -615,7 +615,7 @@
       "codigo": "232006",
       "fonte": null,
       "descricao": "Recolocação de guarnição ou molduras",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 10.04,
       "pagina_pdf": 5,
       "ordem_na_pagina": 12
@@ -635,7 +635,7 @@
       "codigo": "210701",
       "fonte": null,
       "descricao": "Revestimento em laminado melamínico dissipativo",
-      "unidade": "m2",
+      "unidade": "M2",
       "quantidade": 2.95,
       "pagina_pdf": 5,
       "ordem_na_pagina": 14
@@ -665,7 +665,7 @@
       "codigo": null,
       "fonte": "PINI",
       "descricao": "Porta de vidro temperado, com bandeira, com ferragem e mola hidráulica, espessura 10 mm / vão 115 x 220 cm",
-      "unidade": "pç",
+      "unidade": "PC",
       "quantidade": 1.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 17
@@ -675,7 +675,7 @@
       "codigo": null,
       "fonte": "PINI",
       "descricao": "Porta de vidro temperado, com bandeira, com ferragem e mola hidráulica, espessura 10 mm / vão 120 x 220 cm",
-      "unidade": "pç",
+      "unidade": "PC",
       "quantidade": 1.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 18
@@ -685,7 +685,7 @@
       "codigo": null,
       "fonte": "PINI",
       "descricao": "Porta de vidro temperado, com bandeira, com ferragem e mola hidráulica, espessura 10 mm / vão 100 x 220 cm",
-      "unidade": "pç",
+      "unidade": "PC",
       "quantidade": 1.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 19
@@ -695,7 +695,7 @@
       "codigo": "22608",
       "fonte": "CPOS",
       "descricao": "Brise metálico, espessura 0,5 mm em chapa microperfurada aluzinc, fixado sobre estrutura auxiliar",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 144.0,
       "pagina_pdf": 6,
       "ordem_na_pagina": 1
@@ -705,7 +705,7 @@
       "codigo": "260206",
       "fonte": "CPOS",
       "descricao": "Vidro temperado incolor de 10 mm",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 1.56,
       "pagina_pdf": 6,
       "ordem_na_pagina": 2
@@ -715,7 +715,7 @@
       "codigo": "260121",
       "fonte": "CPOS",
       "descricao": "Vidro liso laminado incolor de 8 mm",
-      "unidade": "m2",
+      "unidade": "M2",
       "quantidade": 66.0,
       "pagina_pdf": 6,
       "ordem_na_pagina": 3
@@ -725,7 +725,7 @@
       "codigo": "250140",
       "fonte": "CPOS",
       "descricao": "Caixilho em alumínio anodizado fixo",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 20.0,
       "pagina_pdf": 6,
       "ordem_na_pagina": 4
@@ -735,7 +735,7 @@
       "codigo": "250141",
       "fonte": "CPOS",
       "descricao": "Caixilho em alumínio anodizado maximar",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 46.0,
       "pagina_pdf": 6,
       "ordem_na_pagina": 5
@@ -745,7 +745,7 @@
       "codigo": null,
       "fonte": "COTAÇÃO",
       "descricao": "Película da marca Suntek, modelo Ultravision 70\" ou marca 3M, modelo Prestige 70",
-      "unidade": "m2",
+      "unidade": "M2",
       "quantidade": 12.66,
       "pagina_pdf": 6,
       "ordem_na_pagina": 6
@@ -765,7 +765,7 @@
       "codigo": "40902",
       "fonte": "CPOS",
       "descricao": "Retirada de esquadria metálica em geral",
-      "unidade": "m2",
+      "unidade": "M2",
       "quantidade": 18.85,
       "pagina_pdf": 6,
       "ordem_na_pagina": 8
@@ -775,7 +775,7 @@
       "codigo": "08.60.20",
       "fonte": "SIURB",
       "descricao": "RETIRADA DE BRAÇO DE ALAVANCA",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 9.0,
       "pagina_pdf": 6,
       "ordem_na_pagina": 9
@@ -785,7 +785,7 @@
       "codigo": "08.70.20",
       "fonte": "SIURB",
       "descricao": "RECOLOCAÇÃO DE BRAÇO DE ALAVANCA",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 7.0,
       "pagina_pdf": 6,
       "ordem_na_pagina": 10
@@ -805,7 +805,7 @@
       "codigo": null,
       "fonte": "COTAÇÃO",
       "descricao": "Portão de abrir de uma folha de ferro chato, composto por barras chatas horizontais (0,96x2,11) com bandeira (0,96x0,59)",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 6,
       "ordem_na_pagina": 12
@@ -815,7 +815,7 @@
       "codigo": null,
       "fonte": "COTAÇÃO",
       "descricao": "Portão de ferro automático basculante de uma folha de ferro chato, composto por barras chatas horizontais (2,48x2,20) com bandeira (2,48x0,89)",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 6,
       "ordem_na_pagina": 13
@@ -835,7 +835,7 @@
       "codigo": "17.60.94",
       "fonte": "SIURB",
       "descricao": "Retirada de portão de ferro",
-      "unidade": "m2",
+      "unidade": "M2",
       "quantidade": 7.0,
       "pagina_pdf": 6,
       "ordem_na_pagina": 15
@@ -855,7 +855,7 @@
       "codigo": "280112",
       "fonte": null,
       "descricao": "Fechadura com maçaneta tipo alavanca, em poliamida, para porta interna",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 2.0,
       "pagina_pdf": 6,
       "ordem_na_pagina": 17
@@ -885,7 +885,7 @@
       "codigo": "11.02.01",
       "fonte": "SIURB",
       "descricao": "CHAPISCO COMUM ARGAMASSA DE CIMENTO E AREIA 1:3",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 23.0,
       "pagina_pdf": 7,
       "ordem_na_pagina": 1
@@ -895,7 +895,7 @@
       "codigo": "11.02.10",
       "fonte": "SIURB",
       "descricao": "EMBOÇO INTERNO ARGAMASSA DE CIMENTO E AREIA 1:3",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 23.5,
       "pagina_pdf": 7,
       "ordem_na_pagina": 2
@@ -905,7 +905,7 @@
       "codigo": "11.02.13",
       "fonte": "SIURB",
       "descricao": "REBOCO INTERNO ARGAMASSA PRÉ- FABRICADA",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 23.0,
       "pagina_pdf": 7,
       "ordem_na_pagina": 3
@@ -915,7 +915,7 @@
       "codigo": "73912/002",
       "fonte": "SINAPI",
       "descricao": "Revestimento com cerâmica esmaltada 20x20cm 1a, linha padrão alto, assentado com argamassa de cimento colante e rejuntamento com cimento branco BRANCO",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 177.0,
       "pagina_pdf": 7,
       "ordem_na_pagina": 4
@@ -935,7 +935,7 @@
       "codigo": "12.1.43",
       "fonte": "SIURB",
       "descricao": "Forro de gesso acartonado tipo FGE Fornecimento e instalação",
-      "unidade": "m2",
+      "unidade": "M2",
       "quantidade": 25.0,
       "pagina_pdf": 7,
       "ordem_na_pagina": 6
@@ -945,7 +945,7 @@
       "codigo": "220314",
       "fonte": "CPOS",
       "descricao": "Forro em fibra mineral com placas acústicas removíveis de 625 x 625mm",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 202.0,
       "pagina_pdf": 7,
       "ordem_na_pagina": 7
@@ -975,7 +975,7 @@
       "codigo": "74078/007",
       "fonte": "SINAPI",
       "descricao": "Lastro de concreto, espessura 3cm com impermeabilizante",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 31.5,
       "pagina_pdf": 7,
       "ordem_na_pagina": 10
@@ -985,7 +985,7 @@
       "codigo": "13.02.01",
       "fonte": "SIURB",
       "descricao": "Cimentado comum, desempenado - espessura 20mm",
-      "unidade": "m2",
+      "unidade": "M2",
       "quantidade": 38.5,
       "pagina_pdf": 7,
       "ordem_na_pagina": 11
@@ -1005,7 +1005,7 @@
       "codigo": "84190",
       "fonte": "SINAPI",
       "descricao": "Piso em granito assentado sobre argamassa de cimento, cal, areia traço 1:0,25:3, inclusive rejunte",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 312.0,
       "pagina_pdf": 7,
       "ordem_na_pagina": 13
@@ -1025,7 +1025,7 @@
       "codigo": "17.02.10",
       "fonte": "SIURB",
       "descricao": "Piso de concreto intertravado, espessura 6cm",
-      "unidade": "m2",
+      "unidade": "M2",
       "quantidade": 125.0,
       "pagina_pdf": 7,
       "ordem_na_pagina": 15
@@ -1045,7 +1045,7 @@
       "codigo": "13.60.20",
       "fonte": "SIURB",
       "descricao": "Retirada de fibro-vinil",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 35.35,
       "pagina_pdf": 7,
       "ordem_na_pagina": 17
@@ -1055,7 +1055,7 @@
       "codigo": "17.50.22",
       "fonte": "SIURB",
       "descricao": "Demolição mecanizada de concreto simples",
-      "unidade": "m3",
+      "unidade": "M3",
       "quantidade": 6.1,
       "pagina_pdf": 8,
       "ordem_na_pagina": 1
@@ -1075,7 +1075,7 @@
       "codigo": "190139",
       "fonte": "CPOS",
       "descricao": "Peitoril e/ou soleira em granito, espessura de 2 cm e largura de 21 até 30 cm",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 32.0,
       "pagina_pdf": 8,
       "ordem_na_pagina": 3
@@ -1095,7 +1095,7 @@
       "codigo": "73954/001",
       "fonte": "SINAPI",
       "descricao": "Pintura látex acrílica",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 998.0,
       "pagina_pdf": 8,
       "ordem_na_pagina": 5
@@ -1105,7 +1105,7 @@
       "codigo": "6067",
       "fonte": "SINAPI",
       "descricao": "Pintura esmalte em esquadrias metálicas 02 demãos inclusive proteção",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 8.5,
       "pagina_pdf": 8,
       "ordem_na_pagina": 6
@@ -1115,7 +1115,7 @@
       "codigo": "330533",
       "fonte": "CPOS",
       "descricao": "Verniz em superfície de madeira",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 10.33,
       "pagina_pdf": 8,
       "ordem_na_pagina": 7
@@ -1125,7 +1125,7 @@
       "codigo": "15.03.04",
       "fonte": "SIURB",
       "descricao": "Tinta betuminosa interior calhas e rufos",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 12.5,
       "pagina_pdf": 8,
       "ordem_na_pagina": 8
@@ -1135,7 +1135,7 @@
       "codigo": "15.03.34",
       "fonte": "SIURB",
       "descricao": "Tinta grafite exterior de calhas e rufos",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 12.5,
       "pagina_pdf": 8,
       "ordem_na_pagina": 9
@@ -1145,7 +1145,7 @@
       "codigo": "330501",
       "fonte": "CPOS",
       "descricao": "Verniz fungicida para madeira",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 76.0,
       "pagina_pdf": 8,
       "ordem_na_pagina": 10
@@ -1165,7 +1165,7 @@
       "codigo": "330128",
       "fonte": "CPOS",
       "descricao": "Reparo de trincas rasas até 5,0 mm de largura, na massa",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 20.0,
       "pagina_pdf": 8,
       "ordem_na_pagina": 12
@@ -1195,7 +1195,7 @@
       "codigo": "4701051",
       "fonte": "CPOS",
       "descricao": "Registro de gaveta em latão fundido sem acabamento, DN= 1 1/2'",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 2.0,
       "pagina_pdf": 8,
       "ordem_na_pagina": 15
@@ -1205,7 +1205,7 @@
       "codigo": "460105",
       "fonte": "CPOS",
       "descricao": "Tubo de PVC rígido, (1 1/2\"), inclusive conexões",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 62.0,
       "pagina_pdf": 8,
       "ordem_na_pagina": 16
@@ -1225,7 +1225,7 @@
       "codigo": "460305",
       "fonte": "CPOS",
       "descricao": "Tubo de PVC rígido série R, tipo PxB com anel de borracha, DN= 100 mm, inclusive conexões",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 41.0,
       "pagina_pdf": 9,
       "ordem_na_pagina": 1
@@ -1235,7 +1235,7 @@
       "codigo": "460308",
       "fonte": "CPOS",
       "descricao": "Tubo de PVC rígido série R, ponta lisa, DN= 40 mm, inclusive conexões",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 1.4,
       "pagina_pdf": 9,
       "ordem_na_pagina": 2
@@ -1245,7 +1245,7 @@
       "codigo": "460309",
       "fonte": "CPOS",
       "descricao": "Tubo de PVC rígido série R, tipo PxB com anel de borracha, DN= 50 mm, inclusive conexões",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 5.0,
       "pagina_pdf": 9,
       "ordem_na_pagina": 3
@@ -1265,7 +1265,7 @@
       "codigo": "40777",
       "fonte": "SINAPI",
       "descricao": "Caixa sifonada PVC com grelha",
-      "unidade": "pç",
+      "unidade": "PC",
       "quantidade": 2.0,
       "pagina_pdf": 9,
       "ordem_na_pagina": 5
@@ -1285,7 +1285,7 @@
       "codigo": "10.10.94",
       "fonte": "SIURB",
       "descricao": "Caixa de ligação ou inspeção escavação e apiloamento",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 1.05,
       "pagina_pdf": 9,
       "ordem_na_pagina": 7
@@ -1295,7 +1295,7 @@
       "codigo": "10.10.95",
       "fonte": "SIURB",
       "descricao": "Caixa de ligação ou inspeção Lastro de concreto (fundo)",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 0.08,
       "pagina_pdf": 9,
       "ordem_na_pagina": 8
@@ -1305,7 +1305,7 @@
       "codigo": "10.10.97",
       "fonte": "SIURB",
       "descricao": "Caixa de ligação ou inspeção - Alvenaria de 1 tijolo, revestida",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 3.6,
       "pagina_pdf": 9,
       "ordem_na_pagina": 9
@@ -1315,7 +1315,7 @@
       "codigo": "10.10.98",
       "fonte": "SIURB",
       "descricao": "Caixa de ligação ou inspeção Tampa de concreto",
-      "unidade": "m2",
+      "unidade": "M2",
       "quantidade": 1.62,
       "pagina_pdf": 9,
       "ordem_na_pagina": 10
@@ -1325,7 +1325,7 @@
       "codigo": "10.11.96",
       "fonte": "SIURB",
       "descricao": "HC.03 Tampa de concreto para canaleta de A.P.L=0,30M",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 7.25,
       "pagina_pdf": 9,
       "ordem_na_pagina": 11
@@ -1355,7 +1355,7 @@
       "codigo": "411443",
       "fonte": "CPOS",
       "descricao": "Luminária fluorescente quadrada de embutir com aletas com pintura branca",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 53.0,
       "pagina_pdf": 9,
       "ordem_na_pagina": 14
@@ -1365,7 +1365,7 @@
       "codigo": "09.09.25",
       "fonte": "SIURB",
       "descricao": "Luminária para 01 lâmpada fluorescente compacta 30w",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 21.0,
       "pagina_pdf": 9,
       "ordem_na_pagina": 15
@@ -1385,7 +1385,7 @@
       "codigo": "09.10.23",
       "fonte": "SIURB",
       "descricao": "Luminária de emergência autônoma com lâmpada fluorescente",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 10.0,
       "pagina_pdf": 9,
       "ordem_na_pagina": 17
@@ -1395,7 +1395,7 @@
       "codigo": "09.09.42",
       "fonte": "SIURB",
       "descricao": "Luminária blindada em alumínio fundido tipo tartaruga até 200W",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 13.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 1
@@ -1405,7 +1405,7 @@
       "codigo": "09.09.88",
       "fonte": "SIURB",
       "descricao": "Luminária comercial de sobrepor em chapa de aço pintada na cor branca para duas lâmpadas fluorescentes de 32 W",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 17.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 2
@@ -1425,7 +1425,7 @@
       "codigo": "410744",
       "fonte": "CPOS",
       "descricao": "Lâmpada fluorescente compacta",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 34.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 4
@@ -1435,7 +1435,7 @@
       "codigo": "410703",
       "fonte": "CPOS",
       "descricao": "Lâmpada fluorescente para luminária quadrada 16W",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 212.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 5
@@ -1445,7 +1445,7 @@
       "codigo": "410972",
       "fonte": "CPOS",
       "descricao": "Reator eletrônico de alto fator de potência com partida instantânea, para duas lâmpadas fluorescentes tubulares, base bipino bilateral, un 16 W-127 V/220 V",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 106.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 6
@@ -1455,7 +1455,7 @@
       "codigo": "09.85.33",
       "fonte": "SIURB",
       "descricao": "Reator eletrônico de alto fator de potência com partida instantânea, para duas lâmpadas fluorescentes tubulares, base bipino bilateral, 16 W-127 V / 220 V",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 17.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 7
@@ -1465,7 +1465,7 @@
       "codigo": "09.85.81",
       "fonte": "SIURB",
       "descricao": "Lâmpada fluorescente 32W",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 34.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 8
@@ -1495,7 +1495,7 @@
       "codigo": "380106",
       "fonte": "CPOS",
       "descricao": "Eletroduto de PVC rígido roscável de 1'- com acessórios",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 93.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 11
@@ -1505,7 +1505,7 @@
       "codigo": "380104",
       "fonte": "CPOS",
       "descricao": "Eletroduto de PVC rígido roscável de 3/4' com acessórios",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 240.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 12
@@ -1515,7 +1515,7 @@
       "codigo": "09.02.04",
       "fonte": "SIURB",
       "descricao": "Eletroduto de PVC rígido roscável de 1 1/4\" com acessórios",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 10.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 13
@@ -1525,7 +1525,7 @@
       "codigo": "09.02.06",
       "fonte": "SIURB",
       "descricao": "Eletroduto de PVC rígido roscável de 2\" com acessórios",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 3.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 14
@@ -1535,7 +1535,7 @@
       "codigo": "09.02.11",
       "fonte": "SIURB",
       "descricao": "Eletroduto de ferro galvanizado de 3/4\" com acessórios",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 370.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 15
@@ -1545,7 +1545,7 @@
       "codigo": "09.02.12",
       "fonte": "SIURB",
       "descricao": "Eletroduto de ferro galvanizado de 1\" com acessórios",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 12.0,
       "pagina_pdf": 10,
       "ordem_na_pagina": 16
@@ -1565,7 +1565,7 @@
       "codigo": "400508",
       "fonte": "CPOS",
       "descricao": "Interruptor simples",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 15.0,
       "pagina_pdf": 11,
       "ordem_na_pagina": 2
@@ -1575,7 +1575,7 @@
       "codigo": "400517",
       "fonte": "CPOS",
       "descricao": "Interruptor bipolar",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 17.0,
       "pagina_pdf": 11,
       "ordem_na_pagina": 3
@@ -1585,7 +1585,7 @@
       "codigo": "400701",
       "fonte": "CPOS",
       "descricao": "Caixa em PVC de 4' x 2'",
-      "unidade": "pç",
+      "unidade": "PC",
       "quantidade": 28.0,
       "pagina_pdf": 11,
       "ordem_na_pagina": 4
@@ -1595,7 +1595,7 @@
       "codigo": "83566",
       "fonte": "SINAPI",
       "descricao": "Tomada de embutir 2P+T de 20 A - 250 V, com placa - Fornecimento e instalação",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 47.0,
       "pagina_pdf": 11,
       "ordem_na_pagina": 5
@@ -1605,7 +1605,7 @@
       "codigo": "400244",
       "fonte": "CPOS",
       "descricao": "Caixa de passagem de alumínio 15x15x10 com tampa piso",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 1.0,
       "pagina_pdf": 11,
       "ordem_na_pagina": 6
@@ -1615,7 +1615,7 @@
       "codigo": "833760",
       "fonte": "CPOS",
       "descricao": "Caixa/Quadro de distribuição de telefone 40x40x12",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 2.0,
       "pagina_pdf": 11,
       "ordem_na_pagina": 7
@@ -1625,7 +1625,7 @@
       "codigo": "833760",
       "fonte": "CPOS",
       "descricao": "Quadro de Lógica -40x40x12",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 2.0,
       "pagina_pdf": 11,
       "ordem_na_pagina": 8
@@ -1635,7 +1635,7 @@
       "codigo": "400206",
       "fonte": "CPOS",
       "descricao": "Caixa - 20x20x12 para CFTV",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 28.0,
       "pagina_pdf": 11,
       "ordem_na_pagina": 9
@@ -1645,7 +1645,7 @@
       "codigo": "400702",
       "fonte": "CPOS",
       "descricao": "Caixa 4x4x2",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 6.0,
       "pagina_pdf": 11,
       "ordem_na_pagina": 10
@@ -1655,7 +1655,7 @@
       "codigo": "420538",
       "fonte": "CPOS",
       "descricao": "Caixa de equipotencialização 20x20 h=20cm, com barramento para 06 terminais, Caixa de equalização de embutir, em aço com barramento, de 200 x 200 mm e tampa",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 1.0,
       "pagina_pdf": 11,
       "ordem_na_pagina": 11
@@ -1665,7 +1665,7 @@
       "codigo": "09.05.29",
       "fonte": "SIURB",
       "descricao": "Condulete de alumínio com tampa - 3/4\"",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 87.0,
       "pagina_pdf": 11,
       "ordem_na_pagina": 12
@@ -1675,7 +1675,7 @@
       "codigo": "09.05.30",
       "fonte": "SIURB",
       "descricao": "Condulete de alumínio com tampa - 3/4\"",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 10.0,
       "pagina_pdf": 11,
       "ordem_na_pagina": 13
@@ -1685,7 +1685,7 @@
       "codigo": "09.01.53",
       "fonte": "SIURB",
       "descricao": "Entrada aérea de energia e telefone 6 a 12 KVA",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 11,
       "ordem_na_pagina": 14
@@ -1695,7 +1695,7 @@
       "codigo": "09.05.21",
       "fonte": "SIURB",
       "descricao": "Caixa 3x3x2",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 13.0,
       "pagina_pdf": 11,
       "ordem_na_pagina": 15
@@ -1705,7 +1705,7 @@
       "codigo": "09.82.94",
       "fonte": "SIURB",
       "descricao": "Plug para tomada até 20A (2P+T, 20A - 250V)",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 62.0,
       "pagina_pdf": 11,
       "ordem_na_pagina": 16
@@ -1715,7 +1715,7 @@
       "codigo": "09.05.90",
       "fonte": "SIURB",
       "descricao": "Caixa de alumínio 10X10CM, alta com tampa de latão para tomadas",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 11,
       "ordem_na_pagina": 17
@@ -1735,7 +1735,7 @@
       "codigo": "83417",
       "fonte": "SINAPI",
       "descricao": "Cabo de cobre isolamento termoplástico 0,6/1KVA 2,5mm2 antichama, Fornecimento e instalação",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 1330.0,
       "pagina_pdf": 11,
       "ordem_na_pagina": 19
@@ -1745,7 +1745,7 @@
       "codigo": "83421",
       "fonte": "SINAPI",
       "descricao": "Cabo de cobre isolamento termoplástico 0,6/1KVA 16mm2 antichama, Fornecimento e instalação",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 140.0,
       "pagina_pdf": 11,
       "ordem_na_pagina": 20
@@ -1755,7 +1755,7 @@
       "codigo": "09.03.76",
       "fonte": "SIURB",
       "descricao": "Cabo flexível PVC 750 V-3 condutores 2,50MM2",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 65.0,
       "pagina_pdf": 11,
       "ordem_na_pagina": 21
@@ -1775,7 +1775,7 @@
       "codigo": "09.05.06",
       "fonte": "SIURB",
       "descricao": "Quadro de distribuição em chapa metálica para até 16 disjuntores",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 1.0,
       "pagina_pdf": 12,
       "ordem_na_pagina": 2
@@ -1785,7 +1785,7 @@
       "codigo": "09.05.17",
       "fonte": "SIURB",
       "descricao": "Quadro de distribuição em chapa metálica para até 44 disjuntores",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 2.0,
       "pagina_pdf": 12,
       "ordem_na_pagina": 3
@@ -1795,7 +1795,7 @@
       "codigo": "37.13.60",
       "fonte": "SIURB",
       "descricao": "Disjuntor termomagnético, unipolar 127/220 V, corrente de 10 A até 30 A",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 21.0,
       "pagina_pdf": 12,
       "ordem_na_pagina": 4
@@ -1805,7 +1805,7 @@
       "codigo": "37.13.63",
       "fonte": "SIURB",
       "descricao": "Disjuntor termomagnético, bipolar 220/380 V, corrente de 10 A até 50 A",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 15.0,
       "pagina_pdf": 12,
       "ordem_na_pagina": 5
@@ -1815,7 +1815,7 @@
       "codigo": "37.13.64",
       "fonte": "SIURB",
       "descricao": "Disjuntor termomagnético, bipolar 220/380 V, corrente de 60 A até 100 A",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 3.0,
       "pagina_pdf": 12,
       "ordem_na_pagina": 6
@@ -1825,7 +1825,7 @@
       "codigo": "09.04.02",
       "fonte": "SIURB",
       "descricao": "Sinalizador luminoso diâmetro 22 mm com lâmpada",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 4.0,
       "pagina_pdf": 12,
       "ordem_na_pagina": 7
@@ -1835,7 +1835,7 @@
       "codigo": "09.04.60",
       "fonte": "SIURB",
       "descricao": "Dispositivo de proteção contra surtos 17 kA",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 3.0,
       "pagina_pdf": 12,
       "ordem_na_pagina": 8
@@ -1845,7 +1845,7 @@
       "codigo": "09.04.69",
       "fonte": "SIURB",
       "descricao": "Interruptor diferencial residual bipolar 40 A",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 4.0,
       "pagina_pdf": 12,
       "ordem_na_pagina": 9
@@ -1855,7 +1855,7 @@
       "codigo": "09.06.49",
       "fonte": "SIURB",
       "descricao": "Fusível tipo Diazed 4A",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 6.0,
       "pagina_pdf": 12,
       "ordem_na_pagina": 10
@@ -1865,7 +1865,7 @@
       "codigo": "09.06.62",
       "fonte": "SIURB",
       "descricao": "Base para fusíveis diazed - 2/25 A",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 6.0,
       "pagina_pdf": 12,
       "ordem_na_pagina": 11
@@ -1875,7 +1875,7 @@
       "codigo": "09.17.01",
       "fonte": "SIURB",
       "descricao": "Dispositivo de proteção contra surtos 40 kA",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 9.0,
       "pagina_pdf": 12,
       "ordem_na_pagina": 12
@@ -1905,7 +1905,7 @@
       "codigo": "09.06.95",
       "fonte": "SIURB",
       "descricao": "Cabo de cobre Nu # 50",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 70.0,
       "pagina_pdf": 12,
       "ordem_na_pagina": 15
@@ -1915,7 +1915,7 @@
       "codigo": "09.06.94",
       "fonte": "SIURB",
       "descricao": "Cabo de cobre Nu # 35",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 195.0,
       "pagina_pdf": 12,
       "ordem_na_pagina": 16
@@ -1925,7 +1925,7 @@
       "codigo": "422029",
       "fonte": "CPOS",
       "descricao": "conexão com solda exotérmica",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 6.0,
       "pagina_pdf": 12,
       "ordem_na_pagina": 17
@@ -1935,7 +1935,7 @@
       "codigo": "422022",
       "fonte": "CPOS",
       "descricao": "Solda exotérmica conexão cabo-haste em T, bitola do cabo de 50mm² a 95mm² para haste de 5/8 e 3/4",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 1.0,
       "pagina_pdf": 12,
       "ordem_na_pagina": 18
@@ -1955,7 +1955,7 @@
       "codigo": "420564",
       "fonte": "CPOS",
       "descricao": "Tampão / tampa em ferro fundido de 300 x 300 mm",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 5.0,
       "pagina_pdf": 13,
       "ordem_na_pagina": 1
@@ -1965,7 +1965,7 @@
       "codigo": "420532",
       "fonte": "CPOS",
       "descricao": "Caixa de inspeção do terra cilíndrica em PVC rígido, diâmetro de 300 mm - h= 400 mm",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 5.0,
       "pagina_pdf": 13,
       "ordem_na_pagina": 2
@@ -1975,7 +1975,7 @@
       "codigo": "420519",
       "fonte": "CPOS",
       "descricao": "Haste de aterramento de 3/4' x 3,00 m",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 5.0,
       "pagina_pdf": 13,
       "ordem_na_pagina": 3
@@ -1985,7 +1985,7 @@
       "codigo": "420512",
       "fonte": "CPOS",
       "descricao": "conexão da barra de cobre com o pilar metálico conector de 4 furos",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 2.0,
       "pagina_pdf": 13,
       "ordem_na_pagina": 4
@@ -2005,7 +2005,7 @@
       "codigo": null,
       "fonte": "COTAÇÃO",
       "descricao": "Receiver/ Amplificador e seus periféricos, referência modelo Slim 3000 USB FM Marca Onkyo ou equivalente de mesmo padrão de qualidade",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 1.0,
       "pagina_pdf": 13,
       "ordem_na_pagina": 6
@@ -2015,7 +2015,7 @@
       "codigo": null,
       "fonte": "COTAÇÃO",
       "descricao": "Computador",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 1.0,
       "pagina_pdf": 13,
       "ordem_na_pagina": 7
@@ -2025,7 +2025,7 @@
       "codigo": null,
       "fonte": "COTAÇÃO",
       "descricao": "Microfone modelo Perception Wireless Presenter Set C3 Marca AKG ou equivalente do mesmo padrão de qualidade",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 1.0,
       "pagina_pdf": 13,
       "ordem_na_pagina": 8
@@ -2035,7 +2035,7 @@
       "codigo": null,
       "fonte": "COTAÇÃO",
       "descricao": "Tela de Projeção modelo Authentic LX, Retrátil, 84\" marca Projetelas ou equivalente de mesmo padrão de qualidade",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 1.0,
       "pagina_pdf": 13,
       "ordem_na_pagina": 9
@@ -2045,7 +2045,7 @@
       "codigo": null,
       "fonte": "COTAÇÃO",
       "descricao": "Projetor -Modelo Power Lite W12 Marca Epson ou equivalente de mesmo padrão de qualidade",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 1.0,
       "pagina_pdf": 13,
       "ordem_na_pagina": 10
@@ -2055,7 +2055,7 @@
       "codigo": null,
       "fonte": "COTAÇÃO",
       "descricao": "Auto Falantes - Modelo ES90BK marca JBL ou equivalente do mesmo padrão de qualidade",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 2.0,
       "pagina_pdf": 13,
       "ordem_na_pagina": 11
@@ -2065,7 +2065,7 @@
       "codigo": null,
       "fonte": "COTAÇÃO",
       "descricao": "Cabo para auto falante",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 50.0,
       "pagina_pdf": 13,
       "ordem_na_pagina": 12
@@ -2085,7 +2085,7 @@
       "codigo": "690626",
       "fonte": "CPOS",
       "descricao": "Pach Painel 24p",
-      "unidade": "pç",
+      "unidade": "PC",
       "quantidade": 2.0,
       "pagina_pdf": 13,
       "ordem_na_pagina": 14
@@ -2095,7 +2095,7 @@
       "codigo": null,
       "fonte": "COTAÇÃO",
       "descricao": "Conector macho",
-      "unidade": "pç",
+      "unidade": "PC",
       "quantidade": 15.0,
       "pagina_pdf": 13,
       "ordem_na_pagina": 15
@@ -2105,7 +2105,7 @@
       "codigo": "400435",
       "fonte": "CPOS",
       "descricao": "Tomada RJ45",
-      "unidade": "pç",
+      "unidade": "PC",
       "quantidade": 15.0,
       "pagina_pdf": 13,
       "ordem_na_pagina": 16
@@ -2115,7 +2115,7 @@
       "codigo": "400701",
       "fonte": "CPOS",
       "descricao": "Caixa em PVC de 4' x 2'",
-      "unidade": "pç",
+      "unidade": "PC",
       "quantidade": 14.0,
       "pagina_pdf": 13,
       "ordem_na_pagina": 17
@@ -2125,7 +2125,7 @@
       "codigo": "402014",
       "fonte": "CPOS",
       "descricao": "Placa de 4' x 2'",
-      "unidade": "pç",
+      "unidade": "PC",
       "quantidade": 14.0,
       "pagina_pdf": 13,
       "ordem_na_pagina": 18
@@ -2135,7 +2135,7 @@
       "codigo": "391812",
       "fonte": "CPOS",
       "descricao": "Cabo para rede U/UTP 23 AWG com 4 pares categoria 6A",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 150.0,
       "pagina_pdf": 13,
       "ordem_na_pagina": 19
@@ -2155,7 +2155,7 @@
       "codigo": null,
       "fonte": "COTAÇÃO",
       "descricao": "DVR Stand alone",
-      "unidade": "pç",
+      "unidade": "PC",
       "quantidade": 1.0,
       "pagina_pdf": 13,
       "ordem_na_pagina": 21
@@ -2165,7 +2165,7 @@
       "codigo": null,
       "fonte": "COTAÇÃO",
       "descricao": "Computador",
-      "unidade": "pç",
+      "unidade": "PC",
       "quantidade": 1.0,
       "pagina_pdf": 13,
       "ordem_na_pagina": 22
@@ -2175,7 +2175,7 @@
       "codigo": null,
       "fonte": "COTAÇÃO",
       "descricao": "Câmera Interna CCD 1/3\"",
-      "unidade": "pç",
+      "unidade": "PC",
       "quantidade": 4.0,
       "pagina_pdf": 13,
       "ordem_na_pagina": 23
@@ -2185,7 +2185,7 @@
       "codigo": null,
       "fonte": "COTAÇÃO",
       "descricao": "Câmera Externa CCD 1/3\"",
-      "unidade": "pç",
+      "unidade": "PC",
       "quantidade": 6.0,
       "pagina_pdf": 13,
       "ordem_na_pagina": 24
@@ -2195,7 +2195,7 @@
       "codigo": "391801",
       "fonte": "CPOS",
       "descricao": "Cabo coaxial tipo RG 59",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 100.0,
       "pagina_pdf": 13,
       "ordem_na_pagina": 25
@@ -2215,7 +2215,7 @@
       "codigo": "660250",
       "fonte": "CPOS",
       "descricao": "Central de alarme microprocessada, para até 125 zonas",
-      "unidade": "pç",
+      "unidade": "PC",
       "quantidade": 2.0,
       "pagina_pdf": 14,
       "ordem_na_pagina": 1
@@ -2225,7 +2225,7 @@
       "codigo": "402011",
       "fonte": "CPOS",
       "descricao": "Alarme sonoro bitonal 220 V para painel de comando",
-      "unidade": "pç",
+      "unidade": "PC",
       "quantidade": 2.0,
       "pagina_pdf": 14,
       "ordem_na_pagina": 2
@@ -2235,7 +2235,7 @@
       "codigo": "400535",
       "fonte": "CPOS",
       "descricao": "Sensor de presença infravermelho passivo e microondas, alcance de 12 m - sem fio",
-      "unidade": "pç",
+      "unidade": "PC",
       "quantidade": 8.0,
       "pagina_pdf": 14,
       "ordem_na_pagina": 3
@@ -2245,7 +2245,7 @@
       "codigo": null,
       "fonte": "COTAÇÃO",
       "descricao": "Sensor magnético de modelo porta Modelo Sensor Magnético Genno com fio",
-      "unidade": "pç",
+      "unidade": "PC",
       "quantidade": 3.0,
       "pagina_pdf": 14,
       "ordem_na_pagina": 4
@@ -2265,7 +2265,7 @@
       "codigo": "660810",
       "fonte": "CPOS",
       "descricao": "Rack fechado padrão metálico, 19 x 12 Us x 470 mm",
-      "unidade": "pç",
+      "unidade": "PC",
       "quantidade": 2.0,
       "pagina_pdf": 14,
       "ordem_na_pagina": 6
@@ -2275,7 +2275,7 @@
       "codigo": "69202",
       "fonte": "CPOS",
       "descricao": "Bandeja fixa para rack, 19' x 500 mm",
-      "unidade": "pç",
+      "unidade": "PC",
       "quantidade": 6.0,
       "pagina_pdf": 14,
       "ordem_na_pagina": 7
@@ -2295,7 +2295,7 @@
       "codigo": "402014",
       "fonte": "CPOS",
       "descricao": "Placa de 4' x 2'",
-      "unidade": "pç",
+      "unidade": "PC",
       "quantidade": 10.0,
       "pagina_pdf": 14,
       "ordem_na_pagina": 9
@@ -2305,7 +2305,7 @@
       "codigo": "400701",
       "fonte": "CPOS",
       "descricao": "Caixa em PVC de 4' x 2'",
-      "unidade": "pç",
+      "unidade": "PC",
       "quantidade": 10.0,
       "pagina_pdf": 14,
       "ordem_na_pagina": 10
@@ -2315,7 +2315,7 @@
       "codigo": "400409",
       "fonte": "CPOS",
       "descricao": "Tomada RJ 11 para telefone, sem placa",
-      "unidade": "pç",
+      "unidade": "PC",
       "quantidade": 10.0,
       "pagina_pdf": 14,
       "ordem_na_pagina": 11
@@ -2325,7 +2325,7 @@
       "codigo": "73768",
       "fonte": "SINAPI",
       "descricao": "Cabo Cci 2 pares 0,4mm",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 100.0,
       "pagina_pdf": 14,
       "ordem_na_pagina": 12
@@ -2355,7 +2355,7 @@
       "codigo": "300801",
       "fonte": "CPOS",
       "descricao": "Bacia sifonada de louça sem tampa, para pessoas com mobilidade reduzida - 6 litros",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 2.0,
       "pagina_pdf": 14,
       "ordem_na_pagina": 15
@@ -2365,7 +2365,7 @@
       "codigo": "300802",
       "fonte": "CPOS",
       "descricao": "Assento para bacia sanitária com abertura frontal, para pessoas com mobilidade reduzida",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 2.0,
       "pagina_pdf": 14,
       "ordem_na_pagina": 16
@@ -2375,7 +2375,7 @@
       "codigo": "300804",
       "fonte": "CPOS",
       "descricao": "Lavatório de louça para canto sem coluna para pessoas com mobilidade reduzida",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 2.0,
       "pagina_pdf": 14,
       "ordem_na_pagina": 17
@@ -2395,7 +2395,7 @@
       "codigo": "440348",
       "fonte": "CPOS",
       "descricao": "Torneira de mesa para lavatório compacta, acionamento hidromecânico, em latão cromado, DN= 1/2'",
-      "unidade": "cj",
+      "unidade": "CJ",
       "quantidade": 2.0,
       "pagina_pdf": 14,
       "ordem_na_pagina": 19
@@ -2405,7 +2405,7 @@
       "codigo": "440345",
       "fonte": "CPOS",
       "descricao": "Torneira longa sem rosca para uso geral, em latão fundido cromado",
-      "unidade": "pç",
+      "unidade": "PC",
       "quantidade": 2.0,
       "pagina_pdf": 14,
       "ordem_na_pagina": 20
@@ -2415,7 +2415,7 @@
       "codigo": "470402",
       "fonte": "CPOS",
       "descricao": "Válvula de descarga com registro próprio, duplo acionamento limitador de fluxo,",
-      "unidade": "pç",
+      "unidade": "PC",
       "quantidade": 6.0,
       "pagina_pdf": 15,
       "ordem_na_pagina": 1
@@ -2435,7 +2435,7 @@
       "codigo": "440305",
       "fonte": "CPOS",
       "descricao": "Dispenser papel higiênico em ABS para rolão 300/600m, com visor",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 2.0,
       "pagina_pdf": 15,
       "ordem_na_pagina": 3
@@ -2445,7 +2445,7 @@
       "codigo": "440313",
       "fonte": "CPOS",
       "descricao": "Saboneteira tipo dispenser, para refil de 800 ml",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 2.0,
       "pagina_pdf": 15,
       "ordem_na_pagina": 4
@@ -2455,7 +2455,7 @@
       "codigo": "440318",
       "fonte": "CPOS",
       "descricao": "Dispenser toalheiro em ABS, para folhas",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 2.0,
       "pagina_pdf": 15,
       "ordem_na_pagina": 5
@@ -2465,7 +2465,7 @@
       "codigo": "74125/002",
       "fonte": "SINAPI",
       "descricao": "Espelho cristal espessura de 4mm com moldura em alumínio e compensado 6mm plastificado e colado",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 0.9,
       "pagina_pdf": 15,
       "ordem_na_pagina": 6
@@ -2475,7 +2475,7 @@
       "codigo": "300606",
       "fonte": "CPOS",
       "descricao": "Dispositivo de sinalização de emergência, visual e sonora",
-      "unidade": "pç",
+      "unidade": "PC",
       "quantidade": 2.0,
       "pagina_pdf": 15,
       "ordem_na_pagina": 7
@@ -2495,7 +2495,7 @@
       "codigo": "17.05.20",
       "fonte": "SIURB",
       "descricao": "Barra de apoio para deficientes = 45cm (Barras com diâmetro entre 3,0 E 4,5cm)",
-      "unidade": "pç",
+      "unidade": "PC",
       "quantidade": 2.0,
       "pagina_pdf": 15,
       "ordem_na_pagina": 9
@@ -2505,7 +2505,7 @@
       "codigo": "300113",
       "fonte": "CPOS",
       "descricao": "Barra de proteção para lavatório, para pessoas com mobilidade reduzida",
-      "unidade": "pç",
+      "unidade": "PC",
       "quantidade": 2.0,
       "pagina_pdf": 15,
       "ordem_na_pagina": 10
@@ -2515,7 +2515,7 @@
       "codigo": "17.05.21",
       "fonte": "SIURB",
       "descricao": "* Barra de apoio para deficientes = 80cm (Barras com diâmetro entre 3,0 E 4,5cm)",
-      "unidade": "pç",
+      "unidade": "PC",
       "quantidade": 4.0,
       "pagina_pdf": 15,
       "ordem_na_pagina": 11
@@ -2525,7 +2525,7 @@
       "codigo": "40906",
       "fonte": "CPOS",
       "descricao": "Retirada de batente, corrimão ou peças lineares metálicas, chumbados",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 15.0,
       "pagina_pdf": 15,
       "ordem_na_pagina": 12
@@ -2535,7 +2535,7 @@
       "codigo": "40910",
       "fonte": "CPOS",
       "descricao": "Retirada de guarda-corpo ou gradil em geral",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 3.3,
       "pagina_pdf": 15,
       "ordem_na_pagina": 13
@@ -2555,7 +2555,7 @@
       "codigo": null,
       "fonte": "COTAÇÃO",
       "descricao": "Plataforma Elevatória Hidráulica Villarta mod. E 20 ou similar",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 15,
       "ordem_na_pagina": 15
@@ -2575,7 +2575,7 @@
       "codigo": "300601",
       "fonte": null,
       "descricao": "Placa para sinalização tátil (início ou final) em braille para corrimão",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 4.0,
       "pagina_pdf": 15,
       "ordem_na_pagina": 17
@@ -2585,7 +2585,7 @@
       "codigo": "300603",
       "fonte": null,
       "descricao": "Anel de borracha para sinalização tátil para corrimão, diâmetro de 4,5 cm",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 8.0,
       "pagina_pdf": 15,
       "ordem_na_pagina": 18
@@ -2595,7 +2595,7 @@
       "codigo": "17.05.97",
       "fonte": "SIURB",
       "descricao": "Placa para porta WC c/ desenho universal acessibilidade",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 2.0,
       "pagina_pdf": 15,
       "ordem_na_pagina": 19
@@ -2615,7 +2615,7 @@
       "codigo": "9537",
       "fonte": "SINAPI",
       "descricao": "Limpeza final da obra",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 312.0,
       "pagina_pdf": 15,
       "ordem_na_pagina": 21
@@ -2625,7 +2625,7 @@
       "codigo": "73948",
       "fonte": "SINAPI",
       "descricao": "Limpeza de vidros",
-      "unidade": "m2",
+      "unidade": "M2",
       "quantidade": 72.0,
       "pagina_pdf": 16,
       "ordem_na_pagina": 1
@@ -2635,7 +2635,7 @@
       "codigo": null,
       "fonte": "COTAÇÃO",
       "descricao": "Totem em aço caborno",
-      "unidade": "pç",
+      "unidade": "PC",
       "quantidade": 1.0,
       "pagina_pdf": 16,
       "ordem_na_pagina": 2
@@ -2655,7 +2655,7 @@
       "codigo": "300604",
       "fonte": "CPOS",
       "descricao": "Sinalização com pictograma para vaga de estacionamento em tinta acrílica fosca, para pessoas com mobilidade reduzida",
-      "unidade": "un",
+      "unidade": "UN",
       "quantidade": 2.0,
       "pagina_pdf": 16,
       "ordem_na_pagina": 4
@@ -2675,7 +2675,7 @@
       "codigo": "85179",
       "fonte": "SINAPI",
       "descricao": "Grama São Carlos, plantio de grama inclusive preparo do solo",
-      "unidade": "m²",
+      "unidade": "M2",
       "quantidade": 10.23,
       "pagina_pdf": 16,
       "ordem_na_pagina": 6
@@ -2685,7 +2685,7 @@
       "codigo": "18.10.56",
       "fonte": "SIURB",
       "descricao": "Orla de separação em concreto",
-      "unidade": "m",
+      "unidade": "M",
       "quantidade": 3.0,
       "pagina_pdf": 16,
       "ordem_na_pagina": 7
@@ -2705,7 +2705,7 @@
       "codigo": "83532",
       "fonte": "SINAPI",
       "descricao": "Lastro de concreto, preparo mecânico",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 0.1,
       "pagina_pdf": 16,
       "ordem_na_pagina": 9
@@ -2715,7 +2715,7 @@
       "codigo": "090102",
       "fonte": "CPOS",
       "descricao": "Forma em madeira comum para fundação",
-      "unidade": "m2",
+      "unidade": "M2",
       "quantidade": 0.06,
       "pagina_pdf": 16,
       "ordem_na_pagina": 10
@@ -2725,7 +2725,7 @@
       "codigo": "74254",
       "fonte": "SINAPI",
       "descricao": "Armação CA50, 6,3mm a 12,5mm, fornecimento, corte, dobra e colocação",
-      "unidade": "kg",
+      "unidade": "KG",
       "quantidade": 6.0,
       "pagina_pdf": 16,
       "ordem_na_pagina": 11
@@ -2735,7 +2735,7 @@
       "codigo": "110116",
       "fonte": "CPOS",
       "descricao": "Concreto usinado, fck = 30,0 Mpa",
-      "unidade": "m³",
+      "unidade": "M3",
       "quantidade": 0.05,
       "pagina_pdf": 16,
       "ordem_na_pagina": 12

@@ -1,8 +1,8 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from .api.routes import cats, servicos, dashboard
-from .core.database import engine
-from .models.models import Base
+from api.routes import cats, servicos, dashboard
+from core.database import engine
+from models.models import Base
 
 # Cria as tabelas no banco se não existirem
 Base.metadata.create_all(bind=engine)

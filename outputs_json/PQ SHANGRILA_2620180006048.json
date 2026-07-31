@@ -35,7 +35,7 @@
       "codigo": "73847/002",
       "fonte": null,
       "descricao": "ALUGUEL CONTAINER/ESCRIT/WC C/1 VASO/1 LAV/1 MIC/4 CHUV LARG=2,20M COMPR=6,20M ALT=2,50M CHAPA ACO NERV TRAPEZ FORROC/ ISOL TERMO-ACUST CHASSIS REFORC PISO COMPENS NAVAL INCL INST ELETR/HIDRO-SANIT EXCL TRANSP/CARGA/DESCARGA",
-      "unidade": "MÊS",
+      "unidade": "MES",
       "quantidade": 3.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 1
@@ -405,7 +405,7 @@
       "codigo": "83709",
       "fonte": null,
       "descricao": "POCO DE VISITA EM ALVENARIA, PARA REDE D=0,60 M, PARTE FIXA C/ 1,00 M DE ALTURA",
-      "unidade": "UNID",
+      "unidade": "UN",
       "quantidade": 10.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 4
@@ -425,7 +425,7 @@
       "codigo": "73607",
       "fonte": null,
       "descricao": "ASSENTAMENTO DE TAMPAO DE FERRO FUNDIDO 600 MM",
-      "unidade": "UNID",
+      "unidade": "UN",
       "quantidade": 10.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 6
@@ -435,7 +435,7 @@
       "codigo": "74206/001",
       "fonte": null,
       "descricao": "CAIXA COLETORA, 1,20X1,20X1,50M, COM FUNDO E TAMPA DE CONCRETO E PAREDES EM ALVENARIA",
-      "unidade": "UNID",
+      "unidade": "UN",
       "quantidade": 4.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 7
@@ -445,7 +445,7 @@
       "codigo": "83659",
       "fonte": null,
       "descricao": "BOCA DE LOBO EM ALVENARIA TIJOLO MACICO, REVESTIDA C/ ARGAMASSA DE CIMENTO E AREIA 1:3, SOBRE LASTRO DE CONCRETO 10CM E TAMPA DE CONCRETO ARMADO",
-      "unidade": "UNID",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 8
@@ -455,7 +455,7 @@
       "codigo": "83716",
       "fonte": null,
       "descricao": "GRELHA FF 30X90CM, 135KG, P/ CX RALO COM ASSENTAMENTO DE ARGAMASSA CIMENTO/AREIA 1:4 - FORNECIMENTO E INSTALAÇÃO",
-      "unidade": "UNID",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 9
@@ -495,7 +495,7 @@
       "codigo": "20.03.19",
       "fonte": null,
       "descricao": "DESENVOLVIMENTO DE PRANCHA TÉCNICA EM FORMATO A1",
-      "unidade": "UNID",
+      "unidade": "UN",
       "quantidade": 2.83,
       "pagina_pdf": 5,
       "ordem_na_pagina": 13
@@ -505,7 +505,7 @@
       "codigo": "02.01.02",
       "fonte": null,
       "descricao": "SONDAGEM COM EXTRAÇÃO DE AMOSTRAS NAS CONDIÇÕES NATURAIS",
-      "unidade": "UNID",
+      "unidade": "UN",
       "quantidade": 3.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 14
@@ -515,7 +515,7 @@
       "codigo": "02.02.02",
       "fonte": null,
       "descricao": "MOBILIZAÇÃO E INSTALAÇÃO DE 1 EQUIPAMENTO",
-      "unidade": "UNID",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 15
@@ -525,7 +525,7 @@
       "codigo": "02.02.05",
       "fonte": null,
       "descricao": "DESLOCAMENTO DE EQUIPAMENTO ENTRE FUROS EM TERRENO PLANO, CONSIDERANDO A DISTÂNCIA DE 100 À 200M",
-      "unidade": "UNID",
+      "unidade": "UN",
       "quantidade": 2.0,
       "pagina_pdf": 5,
       "ordem_na_pagina": 16

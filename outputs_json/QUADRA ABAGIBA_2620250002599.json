@@ -275,7 +275,7 @@
       "codigo": null,
       "fonte": null,
       "descricao": "POSTE DE AÇO GALVANIZADO TIPO RETO, FLANGEADO H=7M COM LUMINÁRIA HERMÉTICA EM ALUMÍNIO FUNDIDO PARA LÂMPADA DE VAPOR DE MERCÚRIO DE 250W - COM APROVAÇÃO DE ILUME/PMSP",
-      "unidade": "UNIDADE",
+      "unidade": "UN",
       "quantidade": 6.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 1
@@ -285,7 +285,7 @@
       "codigo": null,
       "fonte": null,
       "descricao": "LUMINÁRIA HERMÉTICA EM ALUMÍNIO FUNDIDO PARA LÂMPADA ATÉ 250W - COM APROVAÇÃO DE ILUME/PMSP",
-      "unidade": "UNIDADE",
+      "unidade": "UN",
       "quantidade": 12.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 2
@@ -295,7 +295,7 @@
       "codigo": null,
       "fonte": null,
       "descricao": "RETIRADA DE LUMINÁRIA EXTERNA INSTALADA EM POSTE",
-      "unidade": "UNIDADE",
+      "unidade": "UN",
       "quantidade": 16.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 3
@@ -305,7 +305,7 @@
       "codigo": null,
       "fonte": null,
       "descricao": "RETIRADA DE POSTE DE CONCRETO EM REDE DE ENERGIA",
-      "unidade": "UNIDADE",
+      "unidade": "UN",
       "quantidade": 2.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 4
@@ -395,7 +395,7 @@
       "codigo": null,
       "fonte": null,
       "descricao": "CURA QUÍMICA",
-      "unidade": "UNIDADE",
+      "unidade": "UN",
       "quantidade": 528.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 13
@@ -445,7 +445,7 @@
       "codigo": null,
       "fonte": null,
       "descricao": "QD. 03 - DEMARCAÇÃO DE QUADRA COM TINTA A BASE DE BORRACHA CLORADA - BASQUETE",
-      "unidade": "UNIDADE",
+      "unidade": "UN",
       "quantidade": 1.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 18
@@ -455,7 +455,7 @@
       "codigo": null,
       "fonte": null,
       "descricao": "TABELA PARA BASQUETE, ENGLOBANDO DESDE FUNDAÇÃO ATÉ A CESTA DE NYLON",
-      "unidade": "UNIDADE",
+      "unidade": "UN",
       "quantidade": 2.0,
       "pagina_pdf": 3,
       "ordem_na_pagina": 19
