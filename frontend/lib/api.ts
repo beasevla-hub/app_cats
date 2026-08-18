@@ -1,8 +1,18 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: (process.env.NEXT_PUBLIC_API_URL || "http://127.0.0.1:8717/api/v1").trim(),
+  baseURL: (process.env.NEXT_PUBLIC_API_URL || "/api/v1").trim(),
+  withCredentials: true,
 });
+
+export interface AuthUser {
+  username: string;
+  display_name: string;
+}
+
+export const login = (username: string, password: string) => api.post<{ user: AuthUser }>("/auth/login", { username, password }).then((r) => r.data.user);
+export const fetchCurrentUser = () => api.get<{ user: AuthUser }>("/auth/me").then((r) => r.data.user);
+export const logout = () => api.post("/auth/logout").then(() => undefined);
 
 export interface Servico {
   id: number;
@@ -183,7 +193,15 @@ export const fetchSomaServico = (descricao: string, unidade?: string) =>
 export const fetchCats = (params?: CatsQueryParams) => api.get<Cat[]>("/cats", { params }).then((r) => r.data);
 export const fetchCatById = (id: number) => api.get<CatDetalhe>(`/cats/${id}`).then((r) => r.data);
 export const chooseCatPdf = (id: number) => api.post<CatDetalhe>(`/cats/${id}/choose-pdf`).then((r) => r.data);
-export const openCatPdf = (id: number) => api.post<{ aberto: boolean; caminho: string }>(`/cats/${id}/open-pdf`).then((r) => r.data);
+export const openCatPdf = async (id: number) => {
+  const hostname = typeof window !== "undefined" ? window.location.hostname : "localhost";
+  const isLocal = hostname === "localhost" || hostname === "127.0.0.1";
+  if (!isLocal && typeof window !== "undefined") {
+    window.open(`${api.defaults.baseURL}/cats/${id}/pdf`, "_blank", "noopener,noreferrer");
+    return { aberto: true, caminho: "visualização remota" };
+  }
+  return api.post<{ aberto: boolean; caminho: string }>(`/cats/${id}/open-pdf`).then((r) => r.data);
+};
 export const updateCatById = (id: number, payload: CatUpdatePayload) => api.put<CatDetalhe>(`/cats/${id}`, payload).then((r) => r.data);
 export const fetchDashboard = () => api.get<DashboardStats>("/dashboard/stats").then((r) => r.data);
 

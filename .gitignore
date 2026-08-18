@@ -22,6 +22,7 @@ frontend/out/
 
 # Backend env
 backend/.env
+backend/users.json
 
 # Sistema
 .DS_Store

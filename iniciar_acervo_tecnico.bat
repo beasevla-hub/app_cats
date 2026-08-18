@@ -23,7 +23,7 @@ echo.
 
 start "Acervo Tecnico - Backend" /D "%APP_ROOT%backend" cmd /k "set ""ONEDRIVE_ROOT=%ONEDRIVE_ROOT%""&& echo Backend em %API_URL%&& uvicorn main:app --reload --host 127.0.0.1 --port %BACKEND_PORT%"
 
-start "Acervo Tecnico - Frontend" /D "%APP_ROOT%frontend" cmd /k "set ""NEXT_PUBLIC_API_URL=%API_URL%""&& echo Frontend em %FRONTEND_URL%&& pnpm exec next dev --hostname 127.0.0.1 --port %FRONTEND_PORT%"
+start "Acervo Tecnico - Frontend" /D "%APP_ROOT%frontend" cmd /k "set ""BACKEND_INTERNAL_URL=http://127.0.0.1:%BACKEND_PORT%""&& echo Frontend em %FRONTEND_URL%&& pnpm exec next dev --hostname 127.0.0.1 --port %FRONTEND_PORT%"
 
 timeout /t 5 /nobreak >nul
 start "" "%FRONTEND_URL%"

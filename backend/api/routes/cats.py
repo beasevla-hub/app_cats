@@ -7,6 +7,7 @@ from datetime import date
 import unicodedata
 
 from fastapi import APIRouter, Depends, HTTPException, Query
+from fastapi.responses import FileResponse
 from sqlalchemy import func, or_
 from sqlalchemy.orm import Session
 
@@ -316,6 +317,20 @@ def sync_all_cats_to_json(db: Session) -> int:
 @router.post("/sync-json")
 def sincronizar_jsons(db: Session = Depends(get_db)):
     return {"sincronizadas": sync_all_cats_to_json(db)}
+
+
+@router.get("/{cat_id}/pdf")
+def visualizar_pdf(cat_id: int, db: Session = Depends(get_db)):
+    cat = db.query(Cat).filter(Cat.id == cat_id).first()
+    if not cat:
+        raise HTTPException(status_code=404, detail="CAT não encontrada")
+    try:
+        pdf_path = resolve_pdf_path(cat)
+    except FileNotFoundError as exc:
+        raise HTTPException(status_code=404, detail=str(exc)) from exc
+    if not pdf_path.is_file():
+        raise HTTPException(status_code=404, detail="Arquivo PDF não encontrado na raiz do OneDrive")
+    return FileResponse(path=pdf_path, media_type="application/pdf", filename=cat.arquivo_pdf or pdf_path.name, content_disposition_type="inline")
 
 
 @router.post("/{cat_id}/open-pdf")

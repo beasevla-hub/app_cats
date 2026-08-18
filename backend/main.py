@@ -1,7 +1,8 @@
-from fastapi import FastAPI
+from fastapi import Depends, FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from sqlalchemy import text
-from api.routes import cats, servicos, dashboard
+from api.routes import auth, cats, servicos, dashboard
+from core.auth import require_user
 from core.database import engine, SessionLocal
 from models.models import Base
 
@@ -45,9 +46,10 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-app.include_router(dashboard.router, prefix="/api/v1")
-app.include_router(cats.router, prefix="/api/v1")
-app.include_router(servicos.router, prefix="/api/v1")
+app.include_router(auth.router, prefix="/api/v1")
+app.include_router(dashboard.router, prefix="/api/v1", dependencies=[Depends(require_user)])
+app.include_router(cats.router, prefix="/api/v1", dependencies=[Depends(require_user)])
+app.include_router(servicos.router, prefix="/api/v1", dependencies=[Depends(require_user)])
 
 @app.get("/")
 def root():
