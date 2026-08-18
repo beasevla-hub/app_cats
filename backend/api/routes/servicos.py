@@ -87,6 +87,7 @@ def canonical_unit(value: str | None) -> str | None:
 
     return aliases.get(normalized, normalized or None)
 
+@router.get("", response_model=PaginatedServicos)
 @router.get("/", response_model=PaginatedServicos)
 def listar_servicos(
     busca: Optional[str] = Query(None, description="Busca na descrição do serviço"),
