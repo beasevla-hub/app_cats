@@ -235,7 +235,7 @@ export default function DocumentViewerModal({ source, onClose }: DocumentViewerM
             setEditing((current) => !current);
           }}
           onSave={saveChanges}
-          canEdit={source.mode === "cat" && level === "document" && !!currentDoc}
+          canEdit={level === "document" && !!currentDoc}
         />
 
         <div className="flex-1 flex flex-col min-h-0 bg-slate-100">
