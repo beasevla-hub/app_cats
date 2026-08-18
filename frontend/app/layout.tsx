@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Sistema de Acervos Técnicos",
-  description: "Gestão de CATs CREA e Atestados de Capacidade Técnica",
+  title: "Acervo Técnico · CATs e Serviços",
+  description: "Pesquisa e composição de acervo técnico por CATs e serviços",
 };
 
 export default function RootLayout({

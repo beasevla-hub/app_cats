@@ -44,6 +44,8 @@ class CatBase(BaseModel):
     area_m2: Optional[float] = None
     valor_contrato: Optional[float] = None
     apelido: Optional[str] = None
+    arquivo_pdf: Optional[str] = None
+    caminho_pdf: Optional[str] = None
 
 class CatResponse(CatBase):
     id: int
@@ -78,6 +80,8 @@ class CatUpdatePayload(BaseModel):
     area_m2: Optional[float] = None
     valor_contrato: Optional[float] = None
     apelido: Optional[str] = None
+    arquivo_pdf: Optional[str] = None
+    caminho_pdf: Optional[str] = None
     servicos: List[ServicoBase] = []
 
 class DashboardStats(BaseModel):

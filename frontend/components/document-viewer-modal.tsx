@@ -266,7 +266,6 @@ export default function DocumentViewerModal({ source, onClose }: DocumentViewerM
                     setLevel("service");
                   }}
                   sectionNumber="04"
-                  tipoDocumento={tipoDocumento}
                 />
               </div>
             </div>

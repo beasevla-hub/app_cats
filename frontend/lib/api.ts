@@ -57,6 +57,8 @@ export interface Cat {
   area_m2: number | null;
   valor_contrato: number | null;
   total_servicos: number | null;
+  arquivo_pdf?: string | null;
+  caminho_pdf?: string | null;
 }
 
 export interface CatsQueryParams {
@@ -93,6 +95,8 @@ export interface CatDetalhe extends Cat {
   endereco_obra: string | null;
   servicos: ServicoDetalhe[];
   created_at: string | null;
+  arquivo_pdf?: string | null;
+  caminho_pdf?: string | null;
 }
 
 export interface CatUpdatePayload {
@@ -138,11 +142,22 @@ export const fetchGrupos = () =>
 export const fetchUnidades = () =>
   api.get<string[]>("/servicos/unidades").then((r) => r.data);
 
+export interface SomaServico {
+  unidade: string | null;
+  total: number;
+  ocorrencias: number;
+}
+
+export const fetchSomaServico = (descricao: string, unidade?: string) =>
+  api.get<SomaServico[]>("/servicos/somar", { params: { descricao, unidade } }).then((r) => r.data);
+
 export const fetchCats = (params?: CatsQueryParams) =>
   api.get<Cat[]>("/cats", { params }).then((r) => r.data);
 
 export const fetchCatById = (id: number) =>
   api.get<CatDetalhe>(`/cats/${id}`).then((r) => r.data);
+
+export const getCatPdfUrl = (id: number) => `${api.defaults.baseURL}/cats/${id}/pdf`;
 
 export const updateCatById = (id: number, payload: CatUpdatePayload) =>
   api.put<CatDetalhe>(`/cats/${id}`, payload).then((r) => r.data);

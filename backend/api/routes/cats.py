@@ -4,6 +4,7 @@ from pathlib import Path
 from typing import List, Optional
 
 from fastapi import APIRouter, Depends, HTTPException, Query
+from fastapi.responses import FileResponse
 from sqlalchemy import func
 from sqlalchemy.orm import Session
 
@@ -181,6 +182,30 @@ def detalhe_cat_por_numero(numero_cat: str, db: Session = Depends(get_db)):
     if not cat:
         raise HTTPException(status_code=404, detail="CAT não encontrada")
     return cat
+
+
+@router.get("/{cat_id}/pdf")
+def abrir_pdf_cat(cat_id: int, db: Session = Depends(get_db)):
+    cat = db.query(Cat).filter(Cat.id == cat_id).first()
+    if not cat:
+        raise HTTPException(status_code=404, detail="CAT não encontrada")
+
+    raw_path = cat.caminho_pdf or cat.arquivo_pdf
+    if not raw_path:
+        raise HTTPException(status_code=404, detail="Esta CAT não possui PDF vinculado")
+
+    pdf_path = Path(raw_path)
+    if not pdf_path.is_absolute():
+        pdf_path = ROOT_DIR / pdf_path
+    if not pdf_path.is_file():
+        raise HTTPException(status_code=404, detail="Arquivo PDF não encontrado no servidor")
+
+    return FileResponse(
+        path=pdf_path,
+        media_type="application/pdf",
+        filename=cat.arquivo_pdf or pdf_path.name,
+        content_disposition_type="inline",
+    )
 
 
 @router.put("/{cat_id}", response_model=CatDetalhe)

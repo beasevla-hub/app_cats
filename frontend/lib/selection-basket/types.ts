@@ -47,7 +47,7 @@ export function selectedItemFromContext(
 ): SelectedServicoItem {
   return {
     key: selectionKeyFromContext(ctx, meta.cat_id),
-    id: ctx.id,
+    id: ctx.id ?? undefined,
     cat_id: meta.cat_id,
     descricao: ctx.descricao,
     unidade: ctx.unidade,
