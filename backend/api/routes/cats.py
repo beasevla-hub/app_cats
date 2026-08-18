@@ -156,6 +156,7 @@ def apply_cat_update(cat: Cat, payload: CatUpdatePayload, db: Session) -> Cat:
     return cat
 
 
+@router.get("", response_model=List[CatResponse])
 @router.get("/", response_model=List[CatResponse])
 def listar_cats(
     busca: Optional[str] = Query(None, description="Busca por apelido, contratante ou número"),
