@@ -7,6 +7,7 @@ import {
   CatDetalhe,
   CatUpdatePayload,
   fetchCatById,
+  uploadCatPdf,
   Servico,
   ServicoDetalhe,
   updateCatById,
@@ -64,6 +65,7 @@ export default function DocumentViewerModal({ source, onClose }: DocumentViewerM
   const [editable, setEditable] = useState<CatUpdatePayload | null>(null);
   const [loading, setLoading] = useState(Boolean(source));
   const [saving, setSaving] = useState(false);
+  const [uploadingPdf, setUploadingPdf] = useState(false);
   const [editing, setEditing] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [level, setLevel] = useState<DocumentViewLevel>("document");
@@ -195,6 +197,25 @@ export default function DocumentViewerModal({ source, onClose }: DocumentViewerM
     });
   };
 
+  const uploadPdf = async (file: File) => {
+    if (!catId) return;
+    if (file.type !== "application/pdf" && !file.name.toLowerCase().endsWith(".pdf")) {
+      setError("Selecione um arquivo PDF válido.");
+      return;
+    }
+    setUploadingPdf(true);
+    try {
+      const saved = await uploadCatPdf(catId, file);
+      setDocumento(saved);
+      setEditable(toEditablePayload(saved));
+      setError(null);
+    } catch {
+      setError("Não foi possível enviar o PDF. Verifique se o backend está rodando.");
+    } finally {
+      setUploadingPdf(false);
+    }
+  };
+
   const saveChanges = async () => {
     if (!catId || !editable) return;
     setSaving(true);
@@ -261,6 +282,8 @@ export default function DocumentViewerModal({ source, onClose }: DocumentViewerM
                   tipoDocumento={tipoDocumento}
                   editing={editing}
                   onFieldChange={updateField}
+                  onUploadPdf={uploadPdf}
+                  uploadingPdf={uploadingPdf}
                 />
                 <DocumentServicesTable
                   servicos={currentDoc.servicos}

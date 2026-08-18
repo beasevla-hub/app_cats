@@ -1,10 +1,12 @@
 import json
+import shutil
+import uuid
 from pathlib import Path
 from typing import List, Optional
 from datetime import date
 import unicodedata
 
-from fastapi import APIRouter, Depends, HTTPException, Query
+from fastapi import APIRouter, Depends, File, HTTPException, Query, UploadFile
 from fastapi.responses import FileResponse
 from sqlalchemy import func, or_
 from sqlalchemy.orm import Session
@@ -17,6 +19,7 @@ router = APIRouter(prefix="/cats", tags=["CATs"])
 
 ROOT_DIR = Path(__file__).resolve().parents[3]
 JSON_DIR = ROOT_DIR / "outputs_json"
+PDF_UPLOAD_DIR = ROOT_DIR / "uploads" / "pdfs"
 
 
 def normalize_text(value: Optional[str]) -> str:
@@ -231,6 +234,27 @@ def detalhe_cat_por_numero(numero_cat: str, db: Session = Depends(get_db)):
     cat = db.query(Cat).filter(Cat.numero_cat == numero_cat).first()
     if not cat:
         raise HTTPException(status_code=404, detail="CAT não encontrada")
+    return cat
+
+
+@router.post("/{cat_id}/pdf", response_model=CatDetalhe)
+async def enviar_pdf_cat(cat_id: int, arquivo: UploadFile = File(...), db: Session = Depends(get_db)):
+    cat = db.query(Cat).filter(Cat.id == cat_id).first()
+    if not cat:
+        raise HTTPException(status_code=404, detail="CAT não encontrada")
+    original_name = Path(arquivo.filename or "documento.pdf").name
+    if Path(original_name).suffix.lower() != ".pdf":
+        raise HTTPException(status_code=400, detail="Selecione um arquivo PDF")
+    PDF_UPLOAD_DIR.mkdir(parents=True, exist_ok=True)
+    stored_name = f"cat_{cat_id}_{uuid.uuid4().hex[:10]}.pdf"
+    target = PDF_UPLOAD_DIR / stored_name
+    with target.open("wb") as destination:
+        shutil.copyfileobj(arquivo.file, destination)
+    cat.arquivo_pdf = original_name
+    cat.caminho_pdf = str(Path("uploads") / "pdfs" / stored_name)
+    db.add(cat)
+    db.commit()
+    db.refresh(cat)
     return cat
 
 
