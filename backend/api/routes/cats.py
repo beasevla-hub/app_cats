@@ -1,11 +1,12 @@
-from datetime import date
 import json
 from pathlib import Path
 from typing import List, Optional
+from datetime import date
+import unicodedata
 
 from fastapi import APIRouter, Depends, HTTPException, Query
 from fastapi.responses import FileResponse
-from sqlalchemy import func
+from sqlalchemy import func, or_
 from sqlalchemy.orm import Session
 
 from core.database import get_db
@@ -16,6 +17,13 @@ router = APIRouter(prefix="/cats", tags=["CATs"])
 
 ROOT_DIR = Path(__file__).resolve().parents[3]
 JSON_DIR = ROOT_DIR / "outputs_json"
+
+
+def normalize_text(value: Optional[str]) -> str:
+    if not value:
+        return ""
+    normalized = unicodedata.normalize("NFKD", value)
+    return "".join(ch for ch in normalized if not unicodedata.combining(ch)).lower().strip()
 
 
 def format_date(value: Optional[date]) -> Optional[str]:
@@ -52,6 +60,10 @@ def build_payload_dict(cat: Cat, payload: CatUpdatePayload) -> dict:
             "area_m2": payload.area_m2,
             "valor_contrato": payload.valor_contrato,
         },
+        "arquivo_pdf": payload.arquivo_pdf or cat.arquivo_pdf,
+        "caminho_pdf": payload.caminho_pdf or cat.caminho_pdf,
+        "desmaterializado": payload.desmaterializado if payload.desmaterializado is not None else cat.desmaterializado,
+        "autenticado": payload.autenticado if payload.autenticado is not None else cat.autenticado,
         "servicos": [
             {
                 "grupo": servico.grupo,
@@ -70,12 +82,16 @@ def build_payload_dict(cat: Cat, payload: CatUpdatePayload) -> dict:
 
 
 def apply_cat_update(cat: Cat, payload: CatUpdatePayload, db: Session) -> Cat:
-    json_path = find_json_path(cat)
     payload_dict = build_payload_dict(cat, payload)
+    try:
+        json_path = find_json_path(cat)
+    except FileNotFoundError:
+        json_path = None
 
-    with json_path.open("w", encoding="utf-8") as handle:
-        json.dump(payload_dict, handle, ensure_ascii=False, indent=2)
-        handle.write("\n")
+    if json_path:
+        with json_path.open("w", encoding="utf-8") as handle:
+            json.dump(payload_dict, handle, ensure_ascii=False, indent=2)
+            handle.write("\n")
 
     cat.tipo_documento = payload_dict["tipo_documento"]
     cat.numero_cat = payload_dict["cat"]["numero_cat"]
@@ -96,6 +112,10 @@ def apply_cat_update(cat: Cat, payload: CatUpdatePayload, db: Session) -> Cat:
     cat.area_m2 = payload.area_m2
     cat.valor_contrato = payload.valor_contrato
     cat.apelido = payload.apelido
+    cat.arquivo_pdf = payload_dict["arquivo_pdf"]
+    cat.caminho_pdf = payload_dict["caminho_pdf"]
+    cat.desmaterializado = payload_dict["desmaterializado"]
+    cat.autenticado = payload_dict["autenticado"]
     cat.raw_json = payload_dict
 
     db.query(Servico).filter(Servico.cat_id == cat.id).delete()
@@ -126,8 +146,17 @@ def listar_cats(
     objeto: Optional[str] = Query(None),
     contratante: Optional[str] = Query(None),
     cidade: Optional[str] = Query(None),
-    ano_inicio: Optional[int] = Query(None),
-    ano_fim: Optional[int] = Query(None),
+    numero_art: Optional[str] = Query(None),
+    data_inicio_de: Optional[date] = Query(None),
+    data_inicio_ate: Optional[date] = Query(None),
+    data_fim_de: Optional[date] = Query(None),
+    data_fim_ate: Optional[date] = Query(None),
+    area_min: Optional[float] = Query(None),
+    area_max: Optional[float] = Query(None),
+    valor_min: Optional[float] = Query(None),
+    valor_max: Optional[float] = Query(None),
+    desmaterializado: Optional[bool] = Query(None),
+    autenticado: Optional[bool] = Query(None),
     skip: int = 0,
     limit: int = 100,
     db: Session = Depends(get_db),
@@ -139,23 +168,44 @@ def listar_cats(
     )
 
     if busca:
-        termo = f"%{busca.upper()}%"
-        query = query.filter(
-            func.upper(Cat.apelido).like(termo)
-            | func.upper(Cat.contratante).like(termo)
-            | func.upper(Cat.numero_cat).like(termo)
-            | func.upper(Cat.objeto).like(termo)
-        )
+        termo = normalize_text(busca)
+        prefixo = termo if len(termo) < 5 else termo[:-1]
+        query = query.filter(or_(
+            func.lower(func.unaccent(Cat.apelido)).like(f"%{prefixo}%"),
+            func.lower(func.unaccent(Cat.contratante)).like(f"%{prefixo}%"),
+            func.lower(func.unaccent(Cat.numero_cat)).like(f"%{prefixo}%"),
+            func.lower(func.unaccent(Cat.numero_art)).like(f"%{prefixo}%"),
+            func.lower(func.unaccent(Cat.objeto)).like(f"%{prefixo}%"),
+            func.lower(func.unaccent(Cat.cidade)).like(f"%{prefixo}%"),
+        ))
     if contratante:
-        query = query.filter(func.upper(Cat.contratante).like(f"%{contratante.upper()}%"))
+        query = query.filter(func.lower(func.unaccent(Cat.contratante)).like(f"%{normalize_text(contratante)}%"))
     if objeto:
-        query = query.filter(func.upper(Cat.objeto).like(f"%{objeto.upper()}%"))
+        query = query.filter(func.lower(func.unaccent(Cat.objeto)).like(f"%{normalize_text(objeto)}%"))
     if cidade:
-        query = query.filter(func.upper(Cat.cidade).like(f"%{cidade.upper()}%"))
-    if ano_inicio:
-        query = query.filter(func.extract("year", Cat.data_inicio) >= ano_inicio)
-    if ano_fim:
-        query = query.filter(func.extract("year", Cat.data_inicio) <= ano_fim)
+        query = query.filter(func.lower(func.unaccent(Cat.cidade)).like(f"%{normalize_text(cidade)}%"))
+    if numero_art:
+        query = query.filter(func.lower(func.unaccent(Cat.numero_art)).like(f"%{normalize_text(numero_art)}%"))
+    if data_inicio_de:
+        query = query.filter(Cat.data_inicio >= data_inicio_de)
+    if data_inicio_ate:
+        query = query.filter(Cat.data_inicio <= data_inicio_ate)
+    if data_fim_de:
+        query = query.filter(Cat.data_fim >= data_fim_de)
+    if data_fim_ate:
+        query = query.filter(Cat.data_fim <= data_fim_ate)
+    if area_min is not None:
+        query = query.filter(Cat.area_m2 >= area_min)
+    if area_max is not None:
+        query = query.filter(Cat.area_m2 <= area_max)
+    if valor_min is not None:
+        query = query.filter(Cat.valor_contrato >= valor_min)
+    if valor_max is not None:
+        query = query.filter(Cat.valor_contrato <= valor_max)
+    if desmaterializado is not None:
+        query = query.filter(Cat.desmaterializado == desmaterializado)
+    if autenticado is not None:
+        query = query.filter(Cat.autenticado == autenticado)
 
     results = query.order_by(Cat.data_inicio.desc().nullslast(), Cat.id.desc()).offset(skip).limit(limit).all()
 

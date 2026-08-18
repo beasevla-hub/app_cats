@@ -51,6 +51,10 @@ function toEditablePayload(documento: CatDetalhe): CatUpdatePayload {
     area_m2: documento.area_m2,
     valor_contrato: documento.valor_contrato,
     apelido: documento.apelido,
+    arquivo_pdf: documento.arquivo_pdf ?? null,
+    caminho_pdf: documento.caminho_pdf ?? null,
+    desmaterializado: documento.desmaterializado ?? true,
+    autenticado: documento.autenticado ?? true,
     servicos: documento.servicos.map((servico) => ({ ...servico })),
   };
 }
@@ -147,6 +151,10 @@ export default function DocumentViewerModal({ source, onClose }: DocumentViewerM
       area_m2: editable.area_m2,
       valor_contrato: editable.valor_contrato,
       apelido: editable.apelido,
+      arquivo_pdf: editable.arquivo_pdf,
+      caminho_pdf: editable.caminho_pdf,
+      desmaterializado: editable.desmaterializado,
+      autenticado: editable.autenticado,
       servicos: editable.servicos,
     } as CatDetalhe;
   }, [documento, editable, editing]);
@@ -174,7 +182,7 @@ export default function DocumentViewerModal({ source, onClose }: DocumentViewerM
         }`
       : "Serviço";
 
-  const updateField = (field: keyof CatUpdatePayload, value: string | number | null) => {
+  const updateField = (field: keyof CatUpdatePayload, value: string | number | boolean | null) => {
     setEditable((current) => (current ? { ...current, [field]: value } : current));
   };
 

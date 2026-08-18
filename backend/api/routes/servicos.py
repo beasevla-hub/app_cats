@@ -2,8 +2,9 @@ from fastapi import APIRouter, Depends, Query
 from sqlalchemy.orm import Session, joinedload
 import re
 import unicodedata
-from sqlalchemy import func
+from sqlalchemy import func, or_
 from typing import Optional, List
+from datetime import date
 from core.database import get_db
 from models.models import Cat, Servico
 from models.schemas import PaginatedServicos, ServicoResponse
@@ -24,6 +25,22 @@ def build_description_search_terms(busca: str) -> list[str]:
     phrase_tokens = [token for token in normalized.split(" ") if len(token) >= 2]
     relevant_tokens = [token for token in phrase_tokens if token.upper() not in STOP_WORDS]
     return [normalized, *relevant_tokens] if relevant_tokens else [normalized, *phrase_tokens]
+
+
+def normalize_text(value: str | None) -> str:
+    if not value:
+        return ""
+    normalized = unicodedata.normalize("NFKD", value)
+    return "".join(ch for ch in normalized if not unicodedata.combining(ch)).lower().strip()
+
+
+def fuzzy_tokens(value: str) -> list[str]:
+    tokens = [token for token in re.split(r"\s+", normalize_text(value)) if len(token) >= 2 and token.upper() not in STOP_WORDS]
+    return [token if len(token) < 5 else token[:-1] for token in tokens]
+
+
+def searchable_expr(column):
+    return func.lower(func.unaccent(column))
 
 
 def canonical_unit(value: str | None) -> str | None:
@@ -77,9 +94,20 @@ def listar_servicos(
     unidade: Optional[str] = Query(None),
     contratante: Optional[str] = Query(None),
     numero_cat: Optional[str] = Query(None),
+    numero_art: Optional[str] = Query(None),
     apelido: Optional[str] = Query(None),
-    ano_inicio: Optional[int] = Query(None),
-    ano_fim: Optional[int] = Query(None),
+    objeto: Optional[str] = Query(None),
+    cidade: Optional[str] = Query(None),
+    data_inicio_de: Optional[date] = Query(None),
+    data_inicio_ate: Optional[date] = Query(None),
+    data_fim_de: Optional[date] = Query(None),
+    data_fim_ate: Optional[date] = Query(None),
+    area_min: Optional[float] = Query(None),
+    area_max: Optional[float] = Query(None),
+    valor_min: Optional[float] = Query(None),
+    valor_max: Optional[float] = Query(None),
+    desmaterializado: Optional[bool] = Query(None),
+    autenticado: Optional[bool] = Query(None),
     ordenar_quantidade: Optional[str] = Query(None, pattern="^(asc|desc)$"),
     page: int = Query(1, ge=1),
     page_size: int = Query(100, ge=1, le=500),
@@ -88,15 +116,23 @@ def listar_servicos(
     query = db.query(Servico).join(Cat, Servico.cat_id == Cat.id)
 
     if busca:
-        termos = build_description_search_terms(busca)
-        frase = termos[0]
-        palavras = termos[1:] or [frase]
-        if len(palavras) <= 1:
-            query = query.filter(func.upper(Servico.descricao).like(f"%{frase.upper()}%"))
+        palavras = fuzzy_tokens(busca)
+        if not palavras:
+            palavras = [normalize_text(busca)]
         for palavra in palavras:
-            query = query.filter(func.upper(Servico.descricao).like(f"%{palavra.upper()}%"))
+            query = query.filter(or_(
+                searchable_expr(Servico.descricao).like(f"%{palavra}%"),
+                searchable_expr(Servico.grupo).like(f"%{palavra}%"),
+                searchable_expr(Servico.codigo).like(f"%{palavra}%"),
+                searchable_expr(Cat.numero_cat).like(f"%{palavra}%"),
+                searchable_expr(Cat.numero_art).like(f"%{palavra}%"),
+                searchable_expr(Cat.apelido).like(f"%{palavra}%"),
+                searchable_expr(Cat.contratante).like(f"%{palavra}%"),
+                searchable_expr(Cat.objeto).like(f"%{palavra}%"),
+                searchable_expr(Cat.cidade).like(f"%{palavra}%"),
+            ))
     if grupo:
-        query = query.filter(func.upper(Servico.grupo).like(f"%{grupo.upper()}%"))
+        query = query.filter(searchable_expr(Servico.grupo).like(f"%{normalize_text(grupo)}%"))
     if unidade:
         unidade_normalizada = canonical_unit(unidade)
         unidades_raw = db.query(Servico.unidade).filter(Servico.unidade.isnot(None)).all()
@@ -110,15 +146,37 @@ def listar_servicos(
         else:
             query = query.filter(func.upper(Servico.unidade) == unidade.upper())
     if contratante:
-        query = query.filter(func.upper(Cat.contratante).like(f"%{contratante.upper()}%"))
+        query = query.filter(searchable_expr(Cat.contratante).like(f"%{normalize_text(contratante)}%"))
     if numero_cat:
-        query = query.filter(Cat.numero_cat == numero_cat)
+        query = query.filter(searchable_expr(Cat.numero_cat).like(f"%{normalize_text(numero_cat)}%"))
+    if numero_art:
+        query = query.filter(searchable_expr(Cat.numero_art).like(f"%{normalize_text(numero_art)}%"))
     if apelido:
-        query = query.filter(func.upper(Cat.apelido).like(f"%{apelido.upper()}%"))
-    if ano_inicio:
-        query = query.filter(func.extract("year", Cat.data_inicio) >= ano_inicio)
-    if ano_fim:
-        query = query.filter(func.extract("year", Cat.data_inicio) <= ano_fim)
+        query = query.filter(searchable_expr(Cat.apelido).like(f"%{normalize_text(apelido)}%"))
+    if objeto:
+        query = query.filter(searchable_expr(Cat.objeto).like(f"%{normalize_text(objeto)}%"))
+    if cidade:
+        query = query.filter(searchable_expr(Cat.cidade).like(f"%{normalize_text(cidade)}%"))
+    if data_inicio_de:
+        query = query.filter(Cat.data_inicio >= data_inicio_de)
+    if data_inicio_ate:
+        query = query.filter(Cat.data_inicio <= data_inicio_ate)
+    if data_fim_de:
+        query = query.filter(Cat.data_fim >= data_fim_de)
+    if data_fim_ate:
+        query = query.filter(Cat.data_fim <= data_fim_ate)
+    if area_min is not None:
+        query = query.filter(Cat.area_m2 >= area_min)
+    if area_max is not None:
+        query = query.filter(Cat.area_m2 <= area_max)
+    if valor_min is not None:
+        query = query.filter(Cat.valor_contrato >= valor_min)
+    if valor_max is not None:
+        query = query.filter(Cat.valor_contrato <= valor_max)
+    if desmaterializado is not None:
+        query = query.filter(Cat.desmaterializado == desmaterializado)
+    if autenticado is not None:
+        query = query.filter(Cat.autenticado == autenticado)
 
     if ordenar_quantidade == "desc":
         query = query.order_by(Servico.quantidade.desc().nullslast(), Servico.id.asc())
@@ -149,6 +207,14 @@ def listar_servicos(
             contratante=s.cat.contratante if s.cat else None,
             data_inicio=s.cat.data_inicio if s.cat else None,
             data_fim=s.cat.data_fim if s.cat else None,
+            numero_art=s.cat.numero_art if s.cat else None,
+            arquivo_pdf=s.cat.arquivo_pdf if s.cat else None,
+            caminho_pdf=s.cat.caminho_pdf if s.cat else None,
+            desmaterializado=s.cat.desmaterializado if s.cat else True,
+            autenticado=s.cat.autenticado if s.cat else True,
+            objeto=s.cat.objeto if s.cat else None,
+            area_m2=s.cat.area_m2 if s.cat else None,
+            valor_contrato=s.cat.valor_contrato if s.cat else None,
         ))
 
     return PaginatedServicos(total=total, page=page, page_size=page_size, items=items)

@@ -1,4 +1,4 @@
-from sqlalchemy import Column, Integer, String, Float, Date, Text, ForeignKey, DateTime, JSON
+from sqlalchemy import Column, Integer, String, Float, Date, Text, ForeignKey, DateTime, JSON, Boolean
 from sqlalchemy.orm import relationship
 from sqlalchemy.sql import func
 from core.database import Base
@@ -28,6 +28,8 @@ class Cat(Base):
     apelido = Column(String, nullable=True)
     arquivo_pdf = Column(String, nullable=True)
     caminho_pdf = Column(String, nullable=True)
+    desmaterializado = Column(Boolean, nullable=False, default=True, server_default="true")
+    autenticado = Column(Boolean, nullable=False, default=True, server_default="true")
     raw_json = Column(JSON, nullable=True)
     created_at = Column(DateTime(timezone=True), server_default=func.now())
     updated_at = Column(DateTime(timezone=True), onupdate=func.now())

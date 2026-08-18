@@ -16,10 +16,18 @@ export interface Servico {
   pagina_pdf: number | null;
   ordem_na_pagina: number | null;
   numero_cat: string | null;
+  numero_art: string | null;
   apelido: string | null;
   contratante: string | null;
   data_inicio: string | null;
   data_fim: string | null;
+  arquivo_pdf: string | null;
+  caminho_pdf: string | null;
+  desmaterializado: boolean;
+  autenticado: boolean;
+  objeto: string | null;
+  area_m2: number | null;
+  valor_contrato: number | null;
 }
 
 export interface PaginatedServicos {
@@ -35,9 +43,22 @@ export interface ServicosQueryParams {
   unidade?: string;
   contratante?: string;
   numero_cat?: string;
+  numero_art?: string;
   apelido?: string;
+  objeto?: string;
+  cidade?: string;
   ano_inicio?: number;
   ano_fim?: number;
+  data_inicio_de?: string;
+  data_inicio_ate?: string;
+  data_fim_de?: string;
+  data_fim_ate?: string;
+  area_min?: number;
+  area_max?: number;
+  valor_min?: number;
+  valor_max?: number;
+  desmaterializado?: boolean;
+  autenticado?: boolean;
   ordenar_quantidade?: "asc" | "desc";
   page?: number;
   page_size?: number;
@@ -47,6 +68,7 @@ export interface Cat {
   id: number;
   tipo_documento?: string | null;
   numero_cat: string | null;
+  numero_art: string | null;
   apelido: string | null;
   contratante: string | null;
   objeto: string | null;
@@ -59,6 +81,8 @@ export interface Cat {
   total_servicos: number | null;
   arquivo_pdf?: string | null;
   caminho_pdf?: string | null;
+  desmaterializado: boolean;
+  autenticado: boolean;
 }
 
 export interface CatsQueryParams {
@@ -66,8 +90,17 @@ export interface CatsQueryParams {
   objeto?: string;
   contratante?: string;
   cidade?: string;
-  ano_inicio?: number;
-  ano_fim?: number;
+  numero_art?: string;
+  data_inicio_de?: string;
+  data_inicio_ate?: string;
+  data_fim_de?: string;
+  data_fim_ate?: string;
+  area_min?: number;
+  area_max?: number;
+  valor_min?: number;
+  valor_max?: number;
+  desmaterializado?: boolean;
+  autenticado?: boolean;
   skip?: number;
   limit?: number;
 }
@@ -85,7 +118,6 @@ export interface ServicoDetalhe {
 
 export interface CatDetalhe extends Cat {
   tipo_documento: string | null;
-  numero_art: string | null;
   profissional: string | null;
   registro_crea: string | null;
   empresa_contratada: string | null;
@@ -93,10 +125,8 @@ export interface CatDetalhe extends Cat {
   processo_administrativo: string | null;
   contrato: string | null;
   endereco_obra: string | null;
-  servicos: ServicoDetalhe[];
   created_at: string | null;
-  arquivo_pdf?: string | null;
-  caminho_pdf?: string | null;
+  servicos: ServicoDetalhe[];
 }
 
 export interface CatUpdatePayload {
@@ -119,6 +149,10 @@ export interface CatUpdatePayload {
   area_m2: number | null;
   valor_contrato: number | null;
   apelido: string | null;
+  arquivo_pdf: string | null;
+  caminho_pdf: string | null;
+  desmaterializado: boolean;
+  autenticado: boolean;
   servicos: ServicoDetalhe[];
 }
 
@@ -133,36 +167,29 @@ export interface DashboardStats {
   top_contratantes: { contratante: string; total: number }[];
 }
 
-export const fetchServicos = (params: ServicosQueryParams) =>
-  api.get<PaginatedServicos>("/servicos", { params }).then((r) => r.data);
-
-export const fetchGrupos = () =>
-  api.get<string[]>("/servicos/grupos").then((r) => r.data);
-
-export const fetchUnidades = () =>
-  api.get<string[]>("/servicos/unidades").then((r) => r.data);
-
 export interface SomaServico {
   unidade: string | null;
   total: number;
   ocorrencias: number;
 }
 
+export const fetchServicos = (params: ServicosQueryParams) =>
+  api.get<PaginatedServicos>("/servicos", { params }).then((r) => r.data);
+
+export const fetchGrupos = () => api.get<string[]>("/servicos/grupos").then((r) => r.data);
+export const fetchUnidades = () => api.get<string[]>("/servicos/unidades").then((r) => r.data);
 export const fetchSomaServico = (descricao: string, unidade?: string) =>
   api.get<SomaServico[]>("/servicos/somar", { params: { descricao, unidade } }).then((r) => r.data);
-
-export const fetchCats = (params?: CatsQueryParams) =>
-  api.get<Cat[]>("/cats", { params }).then((r) => r.data);
-
-export const fetchCatById = (id: number) =>
-  api.get<CatDetalhe>(`/cats/${id}`).then((r) => r.data);
-
+export const fetchCats = (params?: CatsQueryParams) => api.get<Cat[]>("/cats", { params }).then((r) => r.data);
+export const fetchCatById = (id: number) => api.get<CatDetalhe>(`/cats/${id}`).then((r) => r.data);
 export const getCatPdfUrl = (id: number) => `${api.defaults.baseURL}/cats/${id}/pdf`;
-
-export const updateCatById = (id: number, payload: CatUpdatePayload) =>
-  api.put<CatDetalhe>(`/cats/${id}`, payload).then((r) => r.data);
-
-export const fetchDashboard = () =>
-  api.get<DashboardStats>("/dashboard/stats").then((r) => r.data);
+export const getLocalFileUrl = (path?: string | null) => {
+  if (!path) return null;
+  if (/^file:\/\//i.test(path)) return path;
+  const normalized = path.replace(/\\/g, "/");
+  return normalized.startsWith("/") ? `file://${normalized}` : `file:///${normalized}`;
+};
+export const updateCatById = (id: number, payload: CatUpdatePayload) => api.put<CatDetalhe>(`/cats/${id}`, payload).then((r) => r.data);
+export const fetchDashboard = () => api.get<DashboardStats>("/dashboard/stats").then((r) => r.data);
 
 export default api;

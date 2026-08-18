@@ -21,6 +21,14 @@ class ServicoResponse(ServicoBase):
     contratante: Optional[str] = None
     data_inicio: Optional[date] = None
     data_fim: Optional[date] = None
+    numero_art: Optional[str] = None
+    arquivo_pdf: Optional[str] = None
+    caminho_pdf: Optional[str] = None
+    desmaterializado: Optional[bool] = True
+    autenticado: Optional[bool] = True
+    objeto: Optional[str] = None
+    area_m2: Optional[float] = None
+    valor_contrato: Optional[float] = None
 
     class Config:
         from_attributes = True
@@ -46,6 +54,8 @@ class CatBase(BaseModel):
     apelido: Optional[str] = None
     arquivo_pdf: Optional[str] = None
     caminho_pdf: Optional[str] = None
+    desmaterializado: Optional[bool] = True
+    autenticado: Optional[bool] = True
 
 class CatResponse(CatBase):
     id: int
@@ -82,6 +92,8 @@ class CatUpdatePayload(BaseModel):
     apelido: Optional[str] = None
     arquivo_pdf: Optional[str] = None
     caminho_pdf: Optional[str] = None
+    desmaterializado: Optional[bool] = True
+    autenticado: Optional[bool] = True
     servicos: List[ServicoBase] = []
 
 class DashboardStats(BaseModel):
