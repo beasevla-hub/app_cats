@@ -182,14 +182,8 @@ export const fetchSomaServico = (descricao: string, unidade?: string) =>
   api.get<SomaServico[]>("/servicos/somar", { params: { descricao, unidade } }).then((r) => r.data);
 export const fetchCats = (params?: CatsQueryParams) => api.get<Cat[]>("/cats", { params }).then((r) => r.data);
 export const fetchCatById = (id: number) => api.get<CatDetalhe>(`/cats/${id}`).then((r) => r.data);
-export const getCatPdfUrl = (id: number) => `${api.defaults.baseURL}/cats/${id}/pdf`;
 export const chooseCatPdf = (id: number) => api.post<CatDetalhe>(`/cats/${id}/choose-pdf`).then((r) => r.data);
-export const getLocalFileUrl = (path?: string | null) => {
-  if (!path) return null;
-  if (/^file:\/\//i.test(path)) return path;
-  const normalized = path.replace(/\\/g, "/");
-  return normalized.startsWith("/") ? `file://${normalized}` : `file:///${normalized}`;
-};
+export const openCatPdf = (id: number) => api.post<{ aberto: boolean; caminho: string }>(`/cats/${id}/open-pdf`).then((r) => r.data);
 export const updateCatById = (id: number, payload: CatUpdatePayload) => api.put<CatDetalhe>(`/cats/${id}`, payload).then((r) => r.data);
 export const fetchDashboard = () => api.get<DashboardStats>("/dashboard/stats").then((r) => r.data);
 

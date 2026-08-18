@@ -8,6 +8,7 @@ import {
   CatUpdatePayload,
   fetchCatById,
   chooseCatPdf,
+  openCatPdf,
   Servico,
   ServicoDetalhe,
   updateCatById,
@@ -66,6 +67,7 @@ export default function DocumentViewerModal({ source, onClose }: DocumentViewerM
   const [loading, setLoading] = useState(Boolean(source));
   const [saving, setSaving] = useState(false);
   const [choosingPdf, setChoosingPdf] = useState(false);
+  const [openingPdf, setOpeningPdf] = useState(false);
   const [editing, setEditing] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [level, setLevel] = useState<DocumentViewLevel>("document");
@@ -212,6 +214,19 @@ export default function DocumentViewerModal({ source, onClose }: DocumentViewerM
     }
   };
 
+  const openPdf = async () => {
+    if (!catId) return;
+    setOpeningPdf(true);
+    try {
+      await openCatPdf(catId);
+      setError(null);
+    } catch {
+      setError("Não foi possível abrir o PDF. Confirme se o arquivo existe dentro da raiz do OneDrive configurada.");
+    } finally {
+      setOpeningPdf(false);
+    }
+  };
+
   const saveChanges = async () => {
     if (!catId || !editable) return;
     setSaving(true);
@@ -280,6 +295,8 @@ export default function DocumentViewerModal({ source, onClose }: DocumentViewerM
                   onFieldChange={updateField}
                   onChoosePdf={choosePdf}
                   choosingPdf={choosingPdf}
+                  onOpenPdf={openPdf}
+                  openingPdf={openingPdf}
                 />
                 <DocumentServicesTable
                   servicos={currentDoc.servicos}

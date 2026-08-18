@@ -4,7 +4,7 @@ import { FormEvent, useCallback, useEffect, useMemo, useRef, useState } from "re
 import { useVirtualizer } from "@tanstack/react-virtual";
 import { BarChart3, ChevronDown, FileCheck2, FileText, LayoutGrid, ListFilter, Search, Sparkles, X } from "lucide-react";
 import Link from "next/link";
-import { fetchGrupos, fetchServicos, fetchUnidades, getCatPdfUrl, getLocalFileUrl, Servico } from "@/lib/api";
+import { fetchGrupos, fetchServicos, fetchUnidades, openCatPdf, Servico } from "@/lib/api";
 import DocumentViewerModal from "@/components/document-viewer-modal";
 import SelectionBasketShell from "@/components/selection/selection-basket-shell";
 import SelectionToggleButton from "@/components/selection/selection-toggle-button";
@@ -44,7 +44,7 @@ function AppContent() {
   const apply = (event?: FormEvent) => { event?.preventDefault(); setFilters({ ...draft }); };
   const clear = () => { setDraft(EMPTY_FILTERS); setFilters(EMPTY_FILTERS); };
   const remove = (key: keyof Filters) => { const next = { ...filters, [key]: "" }; setFilters(next); setDraft(next); };
-  const openPdf = (item: Servico) => { const local = getLocalFileUrl(item.caminho_pdf || item.arquivo_pdf); window.location.assign(local || getCatPdfUrl(item.cat_id)); };
+  const openPdf = (item: Servico) => { void openCatPdf(item.cat_id).catch(() => setError("Não foi possível abrir o PDF. Confirme a raiz do OneDrive e se o arquivo existe.")); };
 
   return <div className="min-h-screen bg-[#f4f7fb] text-slate-900">
     <header className="sticky top-0 z-30 border-b border-slate-200/80 bg-white/90 backdrop-blur-xl"><div className="mx-auto flex max-w-[1900px] items-center justify-between gap-4 px-5 py-3 lg:px-8"><div className="flex min-w-0 items-center gap-3"><div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-2xl bg-slate-950 text-white shadow-lg"><FileCheck2 size={20} /></div><div><p className="text-sm font-bold tracking-tight text-slate-950">Acervo Técnico</p><p className="text-[11px] font-medium text-slate-500">Pesquisa inteligente de CATs e serviços</p></div></div><nav className="flex items-center gap-1 rounded-2xl border border-slate-200 bg-slate-50 p-1 text-sm font-semibold"><Link href="/" className="rounded-xl bg-white px-3 py-2 text-slate-900 shadow-sm">Serviços</Link><Link href="/cats" className="rounded-xl px-3 py-2 text-slate-500 hover:bg-white hover:text-slate-900">CATs</Link><Link href="/dashboard" className="flex items-center gap-1.5 rounded-xl px-3 py-2 text-slate-500 hover:bg-white hover:text-slate-900"><BarChart3 size={15} />Dashboard</Link></nav></div></header>

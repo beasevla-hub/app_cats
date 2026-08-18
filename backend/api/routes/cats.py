@@ -1,14 +1,16 @@
 import json
+import os
+import subprocess
 from pathlib import Path
 from typing import List, Optional
 from datetime import date
 import unicodedata
 
 from fastapi import APIRouter, Depends, HTTPException, Query
-from fastapi.responses import FileResponse
 from sqlalchemy import func, or_
 from sqlalchemy.orm import Session
 
+from core.config import settings
 from core.database import get_db
 from models.models import Cat, Servico
 from models.schemas import CatDetalhe, CatResponse, CatUpdatePayload
@@ -17,6 +19,18 @@ router = APIRouter(prefix="/cats", tags=["CATs"])
 
 ROOT_DIR = Path(__file__).resolve().parents[3]
 JSON_DIR = ROOT_DIR / "outputs_json"
+
+
+def onedrive_root() -> Path:
+    return Path(settings.ONEDRIVE_ROOT).expanduser()
+
+
+def resolve_pdf_path(cat: Cat) -> Path:
+    raw_path = cat.caminho_pdf or cat.arquivo_pdf
+    if not raw_path:
+        raise FileNotFoundError("Esta CAT não possui PDF vinculado")
+    path = Path(raw_path)
+    return path if path.is_absolute() else onedrive_root() / path
 
 
 def normalize_text(value: Optional[str]) -> str:
@@ -259,7 +273,10 @@ def escolher_pdf_cat(cat_id: int, db: Session = Depends(get_db)):
     if selected.suffix.lower() != ".pdf":
         raise HTTPException(status_code=400, detail="Selecione um arquivo PDF")
     cat.arquivo_pdf = selected.name
-    cat.caminho_pdf = str(selected)
+    try:
+        cat.caminho_pdf = str(selected.relative_to(onedrive_root()))
+    except ValueError:
+        raise HTTPException(status_code=400, detail=f"Selecione um PDF dentro da raiz configurada do OneDrive: {settings.ONEDRIVE_ROOT}")
     cat.raw_json = update_json_snapshot(cat)
     db.add(cat)
     db.commit()
@@ -301,28 +318,25 @@ def sincronizar_jsons(db: Session = Depends(get_db)):
     return {"sincronizadas": sync_all_cats_to_json(db)}
 
 
-@router.get("/{cat_id}/pdf")
-def abrir_pdf_cat(cat_id: int, db: Session = Depends(get_db)):
+@router.post("/{cat_id}/open-pdf")
+def abrir_pdf_local(cat_id: int, db: Session = Depends(get_db)):
     cat = db.query(Cat).filter(Cat.id == cat_id).first()
     if not cat:
         raise HTTPException(status_code=404, detail="CAT não encontrada")
-
-    raw_path = cat.caminho_pdf or cat.arquivo_pdf
-    if not raw_path:
-        raise HTTPException(status_code=404, detail="Esta CAT não possui PDF vinculado")
-
-    pdf_path = Path(raw_path)
-    if not pdf_path.is_absolute():
-        pdf_path = ROOT_DIR / pdf_path
+    try:
+        pdf_path = resolve_pdf_path(cat)
+    except FileNotFoundError as exc:
+        raise HTTPException(status_code=404, detail=str(exc)) from exc
     if not pdf_path.is_file():
-        raise HTTPException(status_code=404, detail="Arquivo PDF não encontrado no servidor")
-
-    return FileResponse(
-        path=pdf_path,
-        media_type="application/pdf",
-        filename=cat.arquivo_pdf or pdf_path.name,
-        content_disposition_type="inline",
-    )
+        raise HTTPException(status_code=404, detail=f"Arquivo PDF não encontrado: {pdf_path}")
+    try:
+        if os.name == "nt":
+            os.startfile(str(pdf_path))
+        else:
+            subprocess.Popen(["xdg-open", str(pdf_path)])
+    except Exception as exc:
+        raise HTTPException(status_code=500, detail="Não foi possível abrir o PDF no programa padrão do sistema") from exc
+    return {"aberto": True, "caminho": str(pdf_path)}
 
 
 @router.put("/{cat_id}", response_model=CatDetalhe)
