@@ -21,7 +21,7 @@ echo.
 
 start "Acervo Tecnico - Backend" cmd /k "cd /d ""%APP_ROOT%backend"" && echo Backend em %API_URL% && uvicorn main:app --reload --host 127.0.0.1 --port %BACKEND_PORT%"
 
-start "Acervo Tecnico - Frontend" cmd /k "cd /d ""%APP_ROOT%frontend"" && set NEXT_PUBLIC_API_URL=%API_URL% && echo Frontend em %FRONTEND_URL% && pnpm dev -- --hostname 127.0.0.1 --port %FRONTEND_PORT%"
+start "Acervo Tecnico - Frontend" cmd /k "cd /d ""%APP_ROOT%frontend"" && set NEXT_PUBLIC_API_URL=%API_URL% && echo Frontend em %FRONTEND_URL% && pnpm exec next dev --hostname 127.0.0.1 --port %FRONTEND_PORT%"
 
 timeout /t 5 /nobreak >nul
 start "" "%FRONTEND_URL%"
