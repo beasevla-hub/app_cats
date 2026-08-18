@@ -183,11 +183,7 @@ export const fetchSomaServico = (descricao: string, unidade?: string) =>
 export const fetchCats = (params?: CatsQueryParams) => api.get<Cat[]>("/cats", { params }).then((r) => r.data);
 export const fetchCatById = (id: number) => api.get<CatDetalhe>(`/cats/${id}`).then((r) => r.data);
 export const getCatPdfUrl = (id: number) => `${api.defaults.baseURL}/cats/${id}/pdf`;
-export const uploadCatPdf = (id: number, file: File) => {
-  const form = new FormData();
-  form.append("arquivo", file);
-  return api.post<CatDetalhe>(`/cats/${id}/pdf`, form).then((r) => r.data);
-};
+export const chooseCatPdf = (id: number) => api.post<CatDetalhe>(`/cats/${id}/choose-pdf`).then((r) => r.data);
 export const getLocalFileUrl = (path?: string | null) => {
   if (!path) return null;
   if (/^file:\/\//i.test(path)) return path;

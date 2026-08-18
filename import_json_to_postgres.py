@@ -97,11 +97,8 @@ def upsert_cat(cur, payload, json_path):
     arquivo_pdf = get_str(payload.get("arquivo_pdf"))
     caminho_pdf = get_str(payload.get("caminho_pdf"))
 
-    if not arquivo_pdf:
-        inferred_pdf = json_path.with_suffix('.pdf').name
-        arquivo_pdf = inferred_pdf
-    if not caminho_pdf:
-        caminho_pdf = str(json_path.with_suffix('.pdf'))
+    # O PDF só é vinculado quando houver um caminho explicitamente salvo no JSON.
+    # Não inferimos nomes ou caminhos, pois isso criaria links quebrados.
 
     cur.execute(
         """
@@ -116,7 +113,7 @@ def upsert_cat(cur, payload, json_path):
             %(empresa_contratada)s, %(contratante)s, %(cnpj_contratante)s, %(objeto)s,
             %(processo_administrativo)s, %(contrato)s, %(endereco_obra)s, %(cidade)s, %(estado)s,
             %(data_inicio)s, %(data_fim)s, %(area_m2)s, %(valor_contrato)s, %(apelido)s,
-            %(arquivo_pdf)s, %(caminho_pdf)s, TRUE, TRUE, %(raw_json)s, CURRENT_TIMESTAMP
+            %(arquivo_pdf)s, %(caminho_pdf)s, %(desmaterializado)s, %(autenticado)s, %(raw_json)s, CURRENT_TIMESTAMP
         )
         ON CONFLICT (numero_cat)
         DO UPDATE SET
@@ -140,8 +137,8 @@ def upsert_cat(cur, payload, json_path):
             apelido = EXCLUDED.apelido,
             arquivo_pdf = EXCLUDED.arquivo_pdf,
             caminho_pdf = EXCLUDED.caminho_pdf,
-            desmaterializado = COALESCE(cats.desmaterializado, TRUE),
-            autenticado = COALESCE(cats.autenticado, TRUE),
+            desmaterializado = EXCLUDED.desmaterializado,
+            autenticado = EXCLUDED.autenticado,
             raw_json = EXCLUDED.raw_json,
             updated_at = CURRENT_TIMESTAMP
         RETURNING id;
@@ -168,6 +165,8 @@ def upsert_cat(cur, payload, json_path):
             "apelido": get_str(payload.get("apelido")) or get_str(json_path.stem.rsplit('_', 1)[0] if '_' in json_path.stem else json_path.stem),
             "arquivo_pdf": arquivo_pdf,
             "caminho_pdf": caminho_pdf,
+            "desmaterializado": bool(payload.get("desmaterializado", True)),
+            "autenticado": bool(payload.get("autenticado", True)),
             "raw_json": Json(payload),
         },
     )

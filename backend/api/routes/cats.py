@@ -1,12 +1,10 @@
 import json
-import shutil
-import uuid
 from pathlib import Path
 from typing import List, Optional
 from datetime import date
 import unicodedata
 
-from fastapi import APIRouter, Depends, File, HTTPException, Query, UploadFile
+from fastapi import APIRouter, Depends, HTTPException, Query
 from fastapi.responses import FileResponse
 from sqlalchemy import func, or_
 from sqlalchemy.orm import Session
@@ -19,7 +17,6 @@ router = APIRouter(prefix="/cats", tags=["CATs"])
 
 ROOT_DIR = Path(__file__).resolve().parents[3]
 JSON_DIR = ROOT_DIR / "outputs_json"
-PDF_UPLOAD_DIR = ROOT_DIR / "uploads" / "pdfs"
 
 
 def normalize_text(value: Optional[str]) -> str:
@@ -140,6 +137,7 @@ def apply_cat_update(cat: Cat, payload: CatUpdatePayload, db: Session) -> Cat:
     db.add(cat)
     db.commit()
     db.refresh(cat)
+    write_json_snapshot(cat)
     return cat
 
 
@@ -237,25 +235,70 @@ def detalhe_cat_por_numero(numero_cat: str, db: Session = Depends(get_db)):
     return cat
 
 
-@router.post("/{cat_id}/pdf", response_model=CatDetalhe)
-async def enviar_pdf_cat(cat_id: int, arquivo: UploadFile = File(...), db: Session = Depends(get_db)):
+@router.post("/{cat_id}/choose-pdf", response_model=CatDetalhe)
+def escolher_pdf_cat(cat_id: int, db: Session = Depends(get_db)):
     cat = db.query(Cat).filter(Cat.id == cat_id).first()
     if not cat:
         raise HTTPException(status_code=404, detail="CAT não encontrada")
-    original_name = Path(arquivo.filename or "documento.pdf").name
-    if Path(original_name).suffix.lower() != ".pdf":
+    try:
+        import tkinter as tk
+        from tkinter import filedialog
+        root = tk.Tk()
+        root.withdraw()
+        root.attributes("-topmost", True)
+        selected_path = filedialog.askopenfilename(
+            title=f"Selecionar PDF da CAT {cat.numero_cat or cat_id}",
+            filetypes=[("Arquivos PDF", "*.pdf"), ("Todos os arquivos", "*.*")],
+        )
+        root.destroy()
+    except Exception as exc:
+        raise HTTPException(status_code=503, detail="O seletor nativo só está disponível quando o backend roda em uma sessão Windows com área de trabalho.") from exc
+    if not selected_path:
+        return cat
+    selected = Path(selected_path)
+    if selected.suffix.lower() != ".pdf":
         raise HTTPException(status_code=400, detail="Selecione um arquivo PDF")
-    PDF_UPLOAD_DIR.mkdir(parents=True, exist_ok=True)
-    stored_name = f"cat_{cat_id}_{uuid.uuid4().hex[:10]}.pdf"
-    target = PDF_UPLOAD_DIR / stored_name
-    with target.open("wb") as destination:
-        shutil.copyfileobj(arquivo.file, destination)
-    cat.arquivo_pdf = original_name
-    cat.caminho_pdf = str(Path("uploads") / "pdfs" / stored_name)
+    cat.arquivo_pdf = selected.name
+    cat.caminho_pdf = str(selected)
+    cat.raw_json = update_json_snapshot(cat)
     db.add(cat)
     db.commit()
     db.refresh(cat)
+    write_json_snapshot(cat)
     return cat
+
+
+def update_json_snapshot(cat: Cat) -> dict:
+    snapshot = dict(cat.raw_json or {})
+    snapshot["arquivo_pdf"] = cat.arquivo_pdf
+    snapshot["caminho_pdf"] = cat.caminho_pdf
+    snapshot["desmaterializado"] = cat.desmaterializado
+    snapshot["autenticado"] = cat.autenticado
+    return snapshot
+
+
+def write_json_snapshot(cat: Cat) -> None:
+    try:
+        json_path = find_json_path(cat)
+    except FileNotFoundError:
+        JSON_DIR.mkdir(parents=True, exist_ok=True)
+        json_path = JSON_DIR / f"CAT_{cat.numero_cat or cat.id}.json"
+    snapshot = update_json_snapshot(cat)
+    with json_path.open("w", encoding="utf-8") as handle:
+        json.dump(snapshot, handle, ensure_ascii=False, indent=2)
+        handle.write("\n")
+
+
+def sync_all_cats_to_json(db: Session) -> int:
+    cats = db.query(Cat).all()
+    for cat in cats:
+        write_json_snapshot(cat)
+    return len(cats)
+
+
+@router.post("/sync-json")
+def sincronizar_jsons(db: Session = Depends(get_db)):
+    return {"sincronizadas": sync_all_cats_to_json(db)}
 
 
 @router.get("/{cat_id}/pdf")
