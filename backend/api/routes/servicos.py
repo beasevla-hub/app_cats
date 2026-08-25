@@ -109,6 +109,7 @@ def listar_servicos(
     valor_max: Optional[float] = Query(None),
     desmaterializado: Optional[bool] = Query(None),
     autenticado: Optional[bool] = Query(None),
+    cao: Optional[bool] = Query(None),
     ordenar_quantidade: Optional[str] = Query(None, pattern="^(asc|desc)$"),
     page: int = Query(1, ge=1),
     page_size: int = Query(100, ge=1, le=500),
@@ -178,6 +179,8 @@ def listar_servicos(
         query = query.filter(Cat.desmaterializado == desmaterializado)
     if autenticado is not None:
         query = query.filter(Cat.autenticado == autenticado)
+    if cao is not None:
+        query = query.filter(Cat.cao == cao)
 
     if ordenar_quantidade == "desc":
         query = query.order_by(Servico.quantidade.desc().nullslast(), Servico.id.asc())
@@ -213,6 +216,7 @@ def listar_servicos(
             caminho_pdf=s.cat.caminho_pdf if s.cat else None,
             desmaterializado=s.cat.desmaterializado if s.cat else True,
             autenticado=s.cat.autenticado if s.cat else True,
+            cao=s.cat.cao if s.cat else True,
             objeto=s.cat.objeto if s.cat else None,
             area_m2=s.cat.area_m2 if s.cat else None,
             valor_contrato=s.cat.valor_contrato if s.cat else None,

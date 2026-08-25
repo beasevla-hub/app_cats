@@ -31,12 +31,13 @@ type Filters = {
   valor_max: string;
   desmaterializado: string;
   autenticado: string;
+  cao: string;
 };
 
 const EMPTY_FILTERS: Filters = {
   busca: "", grupo: "", unidade: "", contratante: "", numero_cat: "", numero_art: "", apelido: "", objeto: "", cidade: "",
   data_inicio_de: "", data_inicio_ate: "", data_fim_de: "", data_fim_ate: "", area_min: "", area_max: "", valor_min: "", valor_max: "",
-  desmaterializado: "", autenticado: "",
+  desmaterializado: "", autenticado: "", cao: "",
 };
 
 function number(value: number | null | undefined) {
@@ -90,6 +91,7 @@ function AppContent() {
         valor_max: filters.valor_max ? Number(filters.valor_max) : undefined,
         desmaterializado: filters.desmaterializado === "" ? undefined : filters.desmaterializado === "true",
         autenticado: filters.autenticado === "" ? undefined : filters.autenticado === "true",
+        cao: filters.cao === "" ? undefined : filters.cao === "true",
       };
       const data = await fetchServicos(params);
       setTotal(data.total);
@@ -161,6 +163,7 @@ function AppContent() {
             <FilterField label="Valor máximo"><input type="number" className="control" value={draft.valor_max} onChange={(event) => setDraftField("valor_max", event.target.value)} placeholder="Sem limite" /></FilterField>
             <FilterField label="Desmaterializado"><SelectField value={draft.desmaterializado} onChange={(value) => setDraftField("desmaterializado", value)}><option value="">Todos</option><option value="true">Sim</option><option value="false">Não</option></SelectField></FilterField>
             <FilterField label="Autenticado"><SelectField value={draft.autenticado} onChange={(value) => setDraftField("autenticado", value)}><option value="">Todos</option><option value="true">Sim</option><option value="false">Não</option></SelectField></FilterField>
+            <FilterField label="CAO"><SelectField value={draft.cao} onChange={(value) => setDraftField("cao", value)}><option value="">Todos</option><option value="true">Sim</option><option value="false">Não</option></SelectField></FilterField>
             <div className="filters__actions"><button className="button button--primary" type="submit">Aplicar filtros</button><button className="button button--secondary icon-button--small" type="button" onClick={clear} aria-label="Limpar filtros" title="Limpar filtros"><X size={16} /></button></div>
           </form>
         )}

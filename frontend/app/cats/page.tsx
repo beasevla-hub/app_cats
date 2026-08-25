@@ -11,37 +11,26 @@ type Filters = {
   busca: string; objeto: string; contratante: string; cidade: string; numero_art: string;
   data_inicio_de: string; data_inicio_ate: string; data_fim_de: string; data_fim_ate: string;
   area_min: string; area_max: string; valor_min: string; valor_max: string;
-  desmaterializado: string; autenticado: string;
+  desmaterializado: string; autenticado: string; cao: string;
 };
 
 const EMPTY: Filters = {
   busca: "", objeto: "", contratante: "", cidade: "", numero_art: "", data_inicio_de: "", data_inicio_ate: "", data_fim_de: "", data_fim_ate: "",
-  area_min: "", area_max: "", valor_min: "", valor_max: "", desmaterializado: "", autenticado: "",
+  area_min: "", area_max: "", valor_min: "", valor_max: "", desmaterializado: "", autenticado: "", cao: "",
 };
 
 function Field({ label, children }: { label: string; children: React.ReactNode }) {
   return <label className="filter-field"><span>{label}</span>{children}</label>;
 }
 
-function CatCard({ cat, onOpen }: { cat: Cat; onOpen: (cat: Cat) => void }) {
+function CatCard({ cat, onOpen, compact }: { cat: Cat; onOpen: (cat: Cat) => void; compact: boolean }) {
   return (
-    <button type="button" onClick={() => onOpen(cat)} className="cat-card">
+    <button type="button" onClick={() => onOpen(cat)} className={`cat-card${compact ? " cat-card--compact" : ""}`}>
       <div className="cat-card__top">
-        <div className="min-w-0"><p className="cat-card__kicker">CAT · {cat.numero_art || "ART não informada"}</p><h2>{cat.apelido || "Documento sem apelido"}</h2></div>
-        <span className="cat-card__number">{cat.numero_cat || "—"}</span>
+        <div className="min-w-0"><p className="cat-card__kicker">{compact ? "Auditoria rápida" : `CAT · ${cat.numero_art || "ART não informada"}`}</p><h2>{cat.apelido || "Documento sem apelido"}</h2></div>
+        {!compact && <span className="cat-card__number">{cat.numero_cat || "—"}</span>}
       </div>
-      <div className="cat-card__details">
-        <span className="cat-card__detail"><Building2 size={14} />{cat.contratante || "Contratante não informado"}</span>
-        <span className="cat-card__detail"><MapPin size={14} />{[cat.cidade, cat.estado].filter(Boolean).join(" / ") || "Local não informado"}</span>
-        <span className="cat-card__detail"><CalendarRange size={14} />{formatDate(cat.data_inicio)} — {formatDate(cat.data_fim)}</span>
-      </div>
-      {cat.objeto && <p className="cat-card__object">{cat.objeto}</p>}
-      <div className="cat-card__stats">
-        <div className="cat-card__stat"><span>Serviços</span><strong>{formatNumber(cat.total_servicos)}</strong></div>
-        <div className="cat-card__stat"><span>Área</span><strong>{cat.area_m2 != null ? `${formatNumber(cat.area_m2)} m²` : "—"}</strong></div>
-        <div className="cat-card__stat"><span>Valor</span><strong>{formatCurrency(cat.valor_contrato)}</strong></div>
-      </div>
-      <div className="badges"><span className={`status-badge ${cat.desmaterializado ? "is-on" : "is-off"}`}><CheckCircle2 size={12} />Desmaterializado</span><span className={`status-badge ${cat.autenticado ? "is-on" : "is-off"}`}><ShieldCheck size={12} />Autenticado</span></div>
+      {compact ? <div className="cat-card__audit-row"><div className={`cat-card__service-count${!cat.total_servicos ? " is-empty" : ""}`}><span>Itens cadastrados</span><strong>{formatNumber(cat.total_servicos)}</strong>{!cat.total_servicos && <small>CAT sem serviços</small>}</div><div className="badges"><span className={`status-badge ${cat.cao ? "is-on" : "is-off"}`}><CheckCircle2 size={12} />CAO</span><span className={`status-badge ${cat.autenticado ? "is-on" : "is-off"}`}><ShieldCheck size={12} />Autenticado</span><span className={`status-badge ${cat.desmaterializado ? "is-on" : "is-off"}`}><CheckCircle2 size={12} />Desmaterializado</span></div></div> : <><div className="cat-card__details"><span className="cat-card__detail"><Building2 size={14} />{cat.contratante || "Contratante não informado"}</span><span className="cat-card__detail"><MapPin size={14} />{[cat.cidade, cat.estado].filter(Boolean).join(" / ") || "Local não informado"}</span><span className="cat-card__detail"><CalendarRange size={14} />{formatDate(cat.data_inicio)} — {formatDate(cat.data_fim)}</span></div>{cat.objeto && <p className="cat-card__object">{cat.objeto}</p>}<div className="cat-card__stats"><div className="cat-card__stat"><span>Serviços</span><strong>{formatNumber(cat.total_servicos)}</strong></div><div className="cat-card__stat"><span>Área</span><strong>{cat.area_m2 != null ? `${formatNumber(cat.area_m2)} m²` : "—"}</strong></div><div className="cat-card__stat"><span>Valor</span><strong>{formatCurrency(cat.valor_contrato)}</strong></div></div><div className="badges"><span className={`status-badge ${cat.cao ? "is-on" : "is-off"}`}><CheckCircle2 size={12} />CAO</span><span className={`status-badge ${cat.desmaterializado ? "is-on" : "is-off"}`}><CheckCircle2 size={12} />Desmaterializado</span><span className={`status-badge ${cat.autenticado ? "is-on" : "is-off"}`}><ShieldCheck size={12} />Autenticado</span></div></>}
     </button>
   );
 }
@@ -54,6 +43,7 @@ function Content() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState("");
   const [showFilters, setShowFilters] = useState(true);
+  const [viewMode, setViewMode] = useState<"summary" | "detailed">("summary");
   const setField = (key: keyof Filters, value: string) => setDraft((current) => ({ ...current, [key]: value }));
 
   useEffect(() => {
@@ -74,6 +64,7 @@ function Content() {
       valor_max: filters.valor_max ? Number(filters.valor_max) : undefined,
       desmaterializado: filters.desmaterializado === "" ? undefined : filters.desmaterializado === "true",
       autenticado: filters.autenticado === "" ? undefined : filters.autenticado === "true",
+      cao: filters.cao === "" ? undefined : filters.cao === "true",
       limit: 500,
     };
     fetchCats(params).then((data) => { if (active) { setCats(data); setError(""); } }).catch(() => active && setError("Não foi possível carregar as CATs.")).finally(() => active && setLoading(false));
@@ -110,14 +101,15 @@ function Content() {
           <Field label="Valor máximo"><input type="number" className="control" value={draft.valor_max} onChange={(event) => setField("valor_max", event.target.value)} placeholder="Sem limite" /></Field>
           <Field label="Desmaterializado"><select className="control" value={draft.desmaterializado} onChange={(event) => setField("desmaterializado", event.target.value)}><option value="">Todos</option><option value="true">Sim</option><option value="false">Não</option></select></Field>
           <Field label="Autenticado"><select className="control" value={draft.autenticado} onChange={(event) => setField("autenticado", event.target.value)}><option value="">Todos</option><option value="true">Sim</option><option value="false">Não</option></select></Field>
+          <Field label="CAO"><select className="control" value={draft.cao} onChange={(event) => setField("cao", event.target.value)}><option value="">Todos</option><option value="true">Sim</option><option value="false">Não</option></select></Field>
           <div className="filters__actions"><button type="submit" className="button button--primary">Aplicar filtros</button><button type="button" onClick={clear} className="button button--secondary icon-button--small" aria-label="Limpar filtros" title="Limpar filtros"><X size={16} /></button></div>
         </form>}
         {active.length > 0 && <div className="active-filters"><span className="active-filters__label">Ativos</span>{active.map(({ key, value }) => <button key={key} type="button" onClick={() => remove(key)} className="filter-chip"><span>{value}</span><X size={12} /></button>)}</div>}
       </section>
 
       {error && <div className="alert alert--error" style={{ marginTop: 16 }}>{error}</div>}
-      <div className="cat-results-meta"><div><h2>{loading ? "Carregando CATs..." : `${cats.length.toLocaleString("pt-BR")} CATs encontradas`}</h2><p>Clique em um card para abrir o resumo completo e os serviços do documento.</p></div><span className="cat-results-meta__badge"><FileStack size={14} /> Cards documentais</span></div>
-      {loading ? <div className="skeleton-grid">{Array.from({ length: 6 }).map((_, index) => <div key={index} className="skeleton" />)}</div> : cats.length ? <div className="cat-grid">{cats.map((cat) => <CatCard key={cat.id} cat={cat} onOpen={setSelected} />)}</div> : <div className="surface empty-state"><Search size={28} /><p>Nenhuma CAT encontrada.</p><span>Tente remover algum filtro ou usar uma busca mais ampla.</span></div>}
+      <div className="cat-results-meta"><div><h2>{loading ? "Carregando CATs..." : `${cats.length.toLocaleString("pt-BR")} CATs encontradas`}</h2><p>{viewMode === "summary" ? "Audite rapidamente o apelido, a quantidade de serviços e os checkmarks de cada CAT." : "Clique em um card para abrir o resumo completo e os serviços do documento."}</p></div><div className="view-switch" role="group" aria-label="Modo de visualização"><button type="button" className={viewMode === "summary" ? "is-active" : ""} onClick={() => setViewMode("summary")}><FileStack size={13} />Resumo</button><button type="button" className={viewMode === "detailed" ? "is-active" : ""} onClick={() => setViewMode("detailed")}><Building2 size={13} />Detalhado</button></div></div>
+      {loading ? <div className="skeleton-grid">{Array.from({ length: 6 }).map((_, index) => <div key={index} className="skeleton" />)}</div> : cats.length ? <div className={`cat-grid${viewMode === "summary" ? " cat-grid--summary" : ""}`}>{cats.map((cat) => <CatCard key={cat.id} cat={cat} compact={viewMode === "summary"} onOpen={setSelected} />)}</div> : <div className="surface empty-state"><Search size={28} /><p>Nenhuma CAT encontrada.</p><span>Tente remover algum filtro ou usar uma busca mais ampla.</span></div>}
       {selected && <DocumentViewerModal source={{ mode: "cat", cat: selected }} onClose={() => setSelected(null)} />}
     </main>
   );

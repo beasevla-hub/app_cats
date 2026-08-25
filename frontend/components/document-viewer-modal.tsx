@@ -57,6 +57,7 @@ function toEditablePayload(documento: CatDetalhe): CatUpdatePayload {
     caminho_pdf: documento.caminho_pdf ?? null,
     desmaterializado: documento.desmaterializado ?? true,
     autenticado: documento.autenticado ?? true,
+    cao: documento.cao ?? true,
     servicos: documento.servicos.map((servico) => ({ ...servico })),
   };
 }
@@ -159,6 +160,7 @@ export default function DocumentViewerModal({ source, onClose }: DocumentViewerM
       caminho_pdf: editable.caminho_pdf,
       desmaterializado: editable.desmaterializado,
       autenticado: editable.autenticado,
+      cao: editable.cao,
       servicos: editable.servicos,
     } as CatDetalhe;
   }, [documento, editable, editing]);

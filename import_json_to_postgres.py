@@ -60,6 +60,7 @@ def ensure_tables(conn):
             caminho_pdf TEXT,
             desmaterializado BOOLEAN NOT NULL DEFAULT TRUE,
             autenticado BOOLEAN NOT NULL DEFAULT TRUE,
+            cao BOOLEAN NOT NULL DEFAULT TRUE,
             raw_json JSONB,
             created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
             updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
@@ -81,8 +82,10 @@ def ensure_tables(conn):
         """)
         cur.execute("ALTER TABLE cats ADD COLUMN IF NOT EXISTS desmaterializado BOOLEAN NOT NULL DEFAULT TRUE;")
         cur.execute("ALTER TABLE cats ADD COLUMN IF NOT EXISTS autenticado BOOLEAN NOT NULL DEFAULT TRUE;")
+        cur.execute("ALTER TABLE cats ADD COLUMN IF NOT EXISTS cao BOOLEAN NOT NULL DEFAULT TRUE;")
         cur.execute("UPDATE cats SET desmaterializado = TRUE WHERE desmaterializado IS NULL;")
         cur.execute("UPDATE cats SET autenticado = TRUE WHERE autenticado IS NULL;")
+        cur.execute("UPDATE cats SET cao = TRUE WHERE cao IS NULL;")
         cur.execute("CREATE INDEX IF NOT EXISTS idx_servicos_cat_id ON servicos(cat_id);")
         cur.execute("CREATE INDEX IF NOT EXISTS idx_cats_numero_cat ON cats(numero_cat);")
     conn.commit()
@@ -107,13 +110,13 @@ def upsert_cat(cur, payload, json_path):
             empresa_contratada, contratante, cnpj_contratante, objeto,
             processo_administrativo, contrato, endereco_obra, cidade, estado,
             data_inicio, data_fim, area_m2, valor_contrato, apelido,
-            arquivo_pdf, caminho_pdf, desmaterializado, autenticado, raw_json, updated_at
+            arquivo_pdf, caminho_pdf, desmaterializado, autenticado, cao, raw_json, updated_at
         ) VALUES (
             %(tipo_documento)s, %(numero_cat)s, %(numero_art)s, %(profissional)s, %(registro_crea)s,
             %(empresa_contratada)s, %(contratante)s, %(cnpj_contratante)s, %(objeto)s,
             %(processo_administrativo)s, %(contrato)s, %(endereco_obra)s, %(cidade)s, %(estado)s,
             %(data_inicio)s, %(data_fim)s, %(area_m2)s, %(valor_contrato)s, %(apelido)s,
-            %(arquivo_pdf)s, %(caminho_pdf)s, %(desmaterializado)s, %(autenticado)s, %(raw_json)s, CURRENT_TIMESTAMP
+            %(arquivo_pdf)s, %(caminho_pdf)s, %(desmaterializado)s, %(autenticado)s, %(cao)s, %(raw_json)s, CURRENT_TIMESTAMP
         )
         ON CONFLICT (numero_cat)
         DO UPDATE SET
@@ -139,6 +142,7 @@ def upsert_cat(cur, payload, json_path):
             caminho_pdf = EXCLUDED.caminho_pdf,
             desmaterializado = EXCLUDED.desmaterializado,
             autenticado = EXCLUDED.autenticado,
+            cao = EXCLUDED.cao,
             raw_json = EXCLUDED.raw_json,
             updated_at = CURRENT_TIMESTAMP
         RETURNING id;
@@ -167,6 +171,7 @@ def upsert_cat(cur, payload, json_path):
             "caminho_pdf": caminho_pdf,
             "desmaterializado": bool(payload.get("desmaterializado", True)),
             "autenticado": bool(payload.get("autenticado", True)),
+            "cao": bool(payload.get("cao", True)),
             "raw_json": Json(payload),
         },
     )
