@@ -89,14 +89,12 @@ A aba **Ingestão** permite selecionar um PDF, acompanhar o job na fila e visual
 
 O processamento não grava imediatamente no PostgreSQL. Primeiro, o JSON extraído fica salvo como `draft_json` no job e aparece em uma tela de revisão editável. A aprovação manual cria ou atualiza a CAT, substitui sua lista de serviços e atualiza o snapshot em `outputs_json`. A aba também possui a ação **Sincronizar JSONs**, que força o espelhamento de todas as CATs do PostgreSQL para os arquivos de backup.
 
-Para habilitar a ingestão, inclua no `backend/.env`:
+A seleção do arquivo é feita diretamente pelo botão **Selecionar PDF** na aba **Ingestão**. Não é necessário configurar uma pasta de origem: o navegador abre o seletor de arquivos, o backend recebe o PDF e o armazena automaticamente em `.ingestion_uploads`, uma pasta interna ignorada pelo Git. Para habilitar o processamento, basta incluir no `backend/.env`:
 
 ```env
 OPENROUTER_API_KEY=sua_chave_real
 OPENROUTER_URL=https://openrouter.ai/api/v1/chat/completions
 OPENROUTER_MODEL=google/gemini-3.7-flash
-INGESTION_SOURCE_DIR=sources_pdf
-INGESTION_OUTPUT_DIR=outputs_json
 INGESTION_MAX_FILE_MB=50
 ```
 

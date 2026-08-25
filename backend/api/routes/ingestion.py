@@ -27,14 +27,7 @@ class IngestionFailure(Exception):
     """Erro esperado do pipeline, exibido no histórico auditável do job."""
 
 
-def _source_dir() -> Path:
-    raw = Path(settings.INGESTION_SOURCE_DIR).expanduser()
-    return raw if raw.is_absolute() else ROOT_DIR / raw
-
-
-def _output_dir() -> Path:
-    raw = Path(settings.INGESTION_OUTPUT_DIR).expanduser()
-    return raw if raw.is_absolute() else ROOT_DIR / raw
+UPLOAD_DIR = ROOT_DIR / ".ingestion_uploads"
 
 
 def _now() -> datetime:
@@ -321,7 +314,7 @@ def create_job(background_tasks: BackgroundTasks, file: UploadFile = File(...), 
     original_name = file.filename or "documento.pdf"
     if Path(original_name).suffix.lower() != ".pdf":
         raise HTTPException(status_code=400, detail="Selecione um arquivo PDF.")
-    source_dir = _source_dir()
+    source_dir = UPLOAD_DIR
     source_dir.mkdir(parents=True, exist_ok=True)
     target = source_dir / _safe_filename(original_name)
     max_bytes = settings.INGESTION_MAX_FILE_MB * 1024 * 1024
@@ -344,7 +337,7 @@ def create_job(background_tasks: BackgroundTasks, file: UploadFile = File(...), 
         source_filename=original_name,
         source_path=str(target.resolve()),
         status="queued",
-        logs=[{"timestamp": _now().isoformat(), "level": "info", "message": "Arquivo recebido e colocado na fila de ingestão."}],
+        logs=[{"timestamp": _now().isoformat(), "level": "info", "message": "PDF selecionado pelo menu do frontend e colocado na fila de ingestão."}],
     )
     db.add(job)
     db.commit()
