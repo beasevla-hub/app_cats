@@ -49,7 +49,7 @@ def _json_from_model(content: Any) -> dict:
     cleaned = re.sub(r"^\s*```(?:json)?\s*|\s*```\s*$", "", content.strip(), flags=re.IGNORECASE)
     match = re.search(r"\{.*\}", cleaned, re.DOTALL)
     if match:
-        cleaned = match.group(1)
+        cleaned = match.group(0)
     try:
         data = json.loads(cleaned)
     except json.JSONDecodeError as exc:
