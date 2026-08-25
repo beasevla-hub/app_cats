@@ -79,6 +79,7 @@ def build_payload_dict(cat: Cat, payload: CatUpdatePayload) -> dict:
         "caminho_pdf": payload.caminho_pdf or cat.caminho_pdf,
         "desmaterializado": payload.desmaterializado if payload.desmaterializado is not None else cat.desmaterializado,
         "autenticado": payload.autenticado if payload.autenticado is not None else cat.autenticado,
+        "cao": payload.cao if payload.cao is not None else cat.cao,
         "servicos": [
             {
                 "grupo": servico.grupo,
@@ -131,6 +132,7 @@ def apply_cat_update(cat: Cat, payload: CatUpdatePayload, db: Session) -> Cat:
     cat.caminho_pdf = payload_dict["caminho_pdf"]
     cat.desmaterializado = payload_dict["desmaterializado"]
     cat.autenticado = payload_dict["autenticado"]
+    cat.cao = payload_dict["cao"]
     cat.raw_json = payload_dict
 
     db.query(Servico).filter(Servico.cat_id == cat.id).delete()
@@ -174,6 +176,7 @@ def listar_cats(
     valor_max: Optional[float] = Query(None),
     desmaterializado: Optional[bool] = Query(None),
     autenticado: Optional[bool] = Query(None),
+    cao: Optional[bool] = Query(None),
     skip: int = 0,
     limit: int = 100,
     db: Session = Depends(get_db),
@@ -223,6 +226,8 @@ def listar_cats(
         query = query.filter(Cat.desmaterializado == desmaterializado)
     if autenticado is not None:
         query = query.filter(Cat.autenticado == autenticado)
+    if cao is not None:
+        query = query.filter(Cat.cao == cao)
 
     results = query.order_by(Cat.data_inicio.desc().nullslast(), Cat.id.desc()).offset(skip).limit(limit).all()
 
@@ -293,6 +298,7 @@ def update_json_snapshot(cat: Cat) -> dict:
     snapshot["caminho_pdf"] = cat.caminho_pdf
     snapshot["desmaterializado"] = cat.desmaterializado
     snapshot["autenticado"] = cat.autenticado
+    snapshot["cao"] = cat.cao if cat.cao is not None else True
     return snapshot
 
 

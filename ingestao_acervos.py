@@ -15,7 +15,7 @@ OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
 DB_CONFIG = {
     "dbname": "acervos_db",
     "user": "postgres",
-    "password": "senha123",
+    "password": os.getenv("PGPASSWORD", ""),
     "host": "localhost",
     "port": "5432"
 }
@@ -160,6 +160,7 @@ def init_db():
                 data_inicio DATE,
                 data_fim DATE,
                 valor_contrato NUMERIC,
+                cao BOOLEAN NOT NULL DEFAULT TRUE,
                 raw_json JSONB
             );
             CREATE TABLE IF NOT EXISTS servicos (
@@ -172,6 +173,8 @@ def init_db():
                 pagina_pdf INTEGER
             );
         """)
+        cur.execute("ALTER TABLE cats ADD COLUMN IF NOT EXISTS cao BOOLEAN NOT NULL DEFAULT TRUE")
+        cur.execute("UPDATE cats SET cao = TRUE WHERE cao IS NULL")
         conn.commit()
         cur.close()
         conn.close()
@@ -192,14 +195,14 @@ def save_to_db(item):
 
         # Insere CAT
         cur.execute("""
-            INSERT INTO cats (numero_cat, apelido, contratante, objeto, data_inicio, data_fim, valor_contrato, raw_json)
-            VALUES (%s, %s, %s, %s, %s, %s, %s, %s)
-            ON CONFLICT (numero_cat) DO UPDATE SET apelido = EXCLUDED.apelido
+            INSERT INTO cats (numero_cat, apelido, contratante, objeto, data_inicio, data_fim, valor_contrato, cao, raw_json)
+            VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)
+            ON CONFLICT (numero_cat) DO UPDATE SET apelido = EXCLUDED.apelido, cao = EXCLUDED.cao
             RETURNING id;
         """, (
             num_cat, item.get('apelido'), cat.get('contratante'), 
             cat.get('objeto'), cat.get('data_inicio'), cat.get('data_fim'), 
-            cat.get('valor_contrato'), json.dumps(item)
+            cat.get('valor_contrato'), item.get('cao', True), json.dumps(item)
         ))
         cat_id = cur.fetchone()[0]
 
@@ -287,6 +290,7 @@ def main():
             num_cat = result.get('cat', {}).get('numero_cat')
             apelido = apelidos_map.get(num_cat, "SEM_APELIDO")
             result['apelido'] = apelido
+            result['cao'] = True
             
             # Salva JSON Temporário
             safe_apelido = "".join([c for c in apelido if c.isalnum() or c in (' ', '-', '_')]).strip()

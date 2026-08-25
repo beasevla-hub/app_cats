@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { BarChart3, FileCheck2, FolderKanban, LogOut, Moon, Search, Sun } from "lucide-react";
+import { BarChart3, FileCheck2, FileInput, FolderKanban, LogOut, Moon, Search, Sun } from "lucide-react";
 import type { AuthUser } from "@/lib/api";
 import { useTheme } from "@/lib/theme-context";
 
@@ -10,6 +10,7 @@ const navItems = [
   { href: "/", label: "Serviços", icon: Search },
   { href: "/cats", label: "CATs", icon: FolderKanban },
   { href: "/dashboard", label: "Visão geral", icon: BarChart3 },
+  { href: "/ingestion", label: "Ingestão", icon: FileInput },
 ];
 
 export default function AppHeader({ user, onLogout }: { user: AuthUser; onLogout: () => void }) {

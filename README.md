@@ -75,3 +75,36 @@ A interface ficará disponível em: http://localhost:3000
 - **Frontend:** Next.js 16, React 19, TypeScript, TailwindCSS
 - **Tabela:** TanStack Table v8 + TanStack Virtual (suporte a 16k+ linhas)
 - **IA:** Gemini 2.5 Flash via OpenRouter (ingestão dos PDFs)
+
+
+## Auditoria resumida de CATs
+
+A aba **CATs** abre inicialmente no modo **Resumo**, que mostra somente o apelido da obra, a quantidade de itens cadastrados e os checkmarks de **CAO**, **Autenticado** e **Desmaterializado**. Uma CAT com zero serviços aparece destacada como `CAT sem serviços`, facilitando a auditoria manual. O modo **Detalhado** continua disponível para consultar os metadados completos.
+
+O campo `cao` é criado automaticamente com valor `TRUE` na inicialização da API. CATs já existentes recebem CAO habilitado pela migração idempotente, e o valor passa a ser mantido tanto no PostgreSQL quanto no JSON correspondente em `outputs_json`.
+
+## Ingestão auditável
+
+A aba **Ingestão** permite selecionar um PDF, acompanhar o job na fila e visualizar logs com timestamp, nível e mensagem. O backend usa o prompt oficial `prompt_master_v2.txt` e o modelo configurado em `OPENROUTER_MODEL`, cujo padrão é `google/gemini-3.7-flash`.
+
+O processamento não grava imediatamente no PostgreSQL. Primeiro, o JSON extraído fica salvo como `draft_json` no job e aparece em uma tela de revisão editável. A aprovação manual cria ou atualiza a CAT, substitui sua lista de serviços e atualiza o snapshot em `outputs_json`. A aba também possui a ação **Sincronizar JSONs**, que força o espelhamento de todas as CATs do PostgreSQL para os arquivos de backup.
+
+A seleção do arquivo é feita diretamente pelo botão **Selecionar PDF** na aba **Ingestão**. Não é necessário configurar uma pasta de origem: o navegador abre o seletor de arquivos, o backend recebe o PDF e o armazena automaticamente em `.ingestion_uploads`, uma pasta interna ignorada pelo Git. Para habilitar o processamento, basta incluir no `backend/.env`:
+
+```env
+OPENROUTER_API_KEY=sua_chave_real
+OPENROUTER_URL=https://openrouter.ai/api/v1/chat/completions
+OPENROUTER_MODEL=google/gemini-3.7-flash
+INGESTION_MAX_FILE_MB=50
+```
+
+### Endpoints de ingestão
+
+| Método | Endpoint | Descrição |
+|---|---|---|
+| `POST` | `/api/v1/ingestion/jobs` | Recebe um PDF e inicia o processamento assíncrono |
+| `GET` | `/api/v1/ingestion/jobs` | Lista o histórico de jobs |
+| `GET` | `/api/v1/ingestion/jobs/{id}` | Consulta status, logs e rascunho |
+| `POST` | `/api/v1/ingestion/jobs/{id}/retry` | Reprocessa um job falho |
+| `POST` | `/api/v1/ingestion/jobs/{id}/approve` | Aprova o rascunho revisado e persiste a CAT |
+| `POST` | `/api/v1/cats/sync-json` | Atualiza os backups JSON a partir do PostgreSQL |

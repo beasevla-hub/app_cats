@@ -1,5 +1,6 @@
 # Pastas de dados pesados
 sources_pdf/
+.ingestion_uploads/
 pdfs_normalizados/
 debug_errors/
 

@@ -30,11 +30,31 @@ class Cat(Base):
     caminho_pdf = Column(String, nullable=True)
     desmaterializado = Column(Boolean, nullable=False, default=True, server_default="true")
     autenticado = Column(Boolean, nullable=False, default=True, server_default="true")
+    cao = Column(Boolean, nullable=False, default=True, server_default="true")
     raw_json = Column(JSON, nullable=True)
     created_at = Column(DateTime(timezone=True), server_default=func.now())
     updated_at = Column(DateTime(timezone=True), onupdate=func.now())
 
     servicos = relationship("Servico", back_populates="cat", cascade="all, delete-orphan")
+
+
+class IngestionJob(Base):
+    __tablename__ = "ingestion_jobs"
+
+    id = Column(Integer, primary_key=True, index=True)
+    source_filename = Column(String, nullable=False)
+    source_path = Column(Text, nullable=False)
+    status = Column(String, nullable=False, default="queued", index=True)
+    logs = Column(JSON, nullable=False, default=list)
+    draft_json = Column(JSON, nullable=True)
+    error_message = Column(Text, nullable=True)
+    approved_cat_id = Column(Integer, ForeignKey("cats.id"), nullable=True)
+    created_at = Column(DateTime(timezone=True), server_default=func.now())
+    updated_at = Column(DateTime(timezone=True), onupdate=func.now())
+    started_at = Column(DateTime(timezone=True), nullable=True)
+    finished_at = Column(DateTime(timezone=True), nullable=True)
+
+    approved_cat = relationship("Cat", foreign_keys=[approved_cat_id])
 
 
 class Servico(Base):

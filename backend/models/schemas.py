@@ -56,6 +56,7 @@ class CatBase(BaseModel):
     caminho_pdf: Optional[str] = None
     desmaterializado: Optional[bool] = True
     autenticado: Optional[bool] = True
+    cao: Optional[bool] = True
 
 class CatResponse(CatBase):
     id: int
@@ -94,6 +95,7 @@ class CatUpdatePayload(BaseModel):
     caminho_pdf: Optional[str] = None
     desmaterializado: Optional[bool] = True
     autenticado: Optional[bool] = True
+    cao: Optional[bool] = None
     servicos: List[ServicoBase] = []
 
 class DashboardStats(BaseModel):
@@ -111,3 +113,42 @@ class PaginatedServicos(BaseModel):
     page: int
     page_size: int
     items: List[ServicoResponse]
+
+
+class IngestionLogEntry(BaseModel):
+    timestamp: datetime
+    level: str
+    message: str
+
+
+class IngestionJobResponse(BaseModel):
+    id: int
+    source_filename: str
+    status: str
+    logs: List[IngestionLogEntry] = []
+    draft_json: Optional[dict] = None
+    error_message: Optional[str] = None
+    approved_cat_id: Optional[int] = None
+    created_at: Optional[datetime] = None
+    updated_at: Optional[datetime] = None
+    started_at: Optional[datetime] = None
+    finished_at: Optional[datetime] = None
+
+    class Config:
+        from_attributes = True
+
+
+class IngestionDraftPayload(BaseModel):
+    tipo_documento: Optional[str] = "CAT"
+    cat: dict
+    apelido: Optional[str] = None
+    arquivo_pdf: Optional[str] = None
+    caminho_pdf: Optional[str] = None
+    desmaterializado: Optional[bool] = True
+    autenticado: Optional[bool] = True
+    cao: Optional[bool] = True
+    servicos: List[ServicoBase] = []
+
+
+class IngestionApprovePayload(BaseModel):
+    payload: IngestionDraftPayload

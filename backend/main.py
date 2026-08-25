@@ -1,7 +1,7 @@
 from fastapi import Depends, FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from sqlalchemy import text
-from api.routes import auth, cats, servicos, dashboard
+from api.routes import auth, cats, servicos, dashboard, ingestion
 from core.auth import require_user
 from core.database import engine, SessionLocal
 from models.models import Base
@@ -12,8 +12,16 @@ try:
     with engine.begin() as connection:
         connection.execute(text("ALTER TABLE cats ADD COLUMN IF NOT EXISTS desmaterializado BOOLEAN NOT NULL DEFAULT TRUE"))
         connection.execute(text("ALTER TABLE cats ADD COLUMN IF NOT EXISTS autenticado BOOLEAN NOT NULL DEFAULT TRUE"))
+        connection.execute(text("ALTER TABLE cats ADD COLUMN IF NOT EXISTS cao BOOLEAN NOT NULL DEFAULT TRUE"))
         connection.execute(text("UPDATE cats SET desmaterializado = TRUE WHERE desmaterializado IS NULL"))
         connection.execute(text("UPDATE cats SET autenticado = TRUE WHERE autenticado IS NULL"))
+        connection.execute(text("UPDATE cats SET cao = TRUE WHERE cao IS NULL"))
+except Exception:
+    # O servidor continua iniciando para permitir diagnóstico de configuração do banco.
+    pass
+
+try:
+    with engine.begin() as connection:
         connection.execute(text("CREATE EXTENSION IF NOT EXISTS unaccent"))
 except Exception:
     # A busca também possui fallback sem a extensão.
@@ -50,6 +58,7 @@ app.include_router(auth.router, prefix="/api/v1")
 app.include_router(dashboard.router, prefix="/api/v1", dependencies=[Depends(require_user)])
 app.include_router(cats.router, prefix="/api/v1", dependencies=[Depends(require_user)])
 app.include_router(servicos.router, prefix="/api/v1", dependencies=[Depends(require_user)])
+app.include_router(ingestion.router, prefix="/api/v1", dependencies=[Depends(require_user)])
 
 @app.get("/")
 def root():

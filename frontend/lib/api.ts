@@ -35,6 +35,7 @@ export interface Servico {
   caminho_pdf: string | null;
   desmaterializado: boolean;
   autenticado: boolean;
+  cao: boolean;
   objeto: string | null;
   area_m2: number | null;
   valor_contrato: number | null;
@@ -93,6 +94,7 @@ export interface Cat {
   caminho_pdf?: string | null;
   desmaterializado: boolean;
   autenticado: boolean;
+  cao: boolean;
 }
 
 export interface CatsQueryParams {
@@ -111,6 +113,7 @@ export interface CatsQueryParams {
   valor_max?: number;
   desmaterializado?: boolean;
   autenticado?: boolean;
+  cao?: boolean;
   skip?: number;
   limit?: number;
 }
@@ -163,6 +166,7 @@ export interface CatUpdatePayload {
   caminho_pdf: string | null;
   desmaterializado: boolean;
   autenticado: boolean;
+  cao: boolean;
   servicos: ServicoDetalhe[];
 }
 
@@ -204,5 +208,50 @@ export const openCatPdf = async (id: number) => {
 };
 export const updateCatById = (id: number, payload: CatUpdatePayload) => api.put<CatDetalhe>(`/cats/${id}`, payload).then((r) => r.data);
 export const fetchDashboard = () => api.get<DashboardStats>("/dashboard/stats").then((r) => r.data);
+export const syncCatsJson = () => api.post<{ sincronizadas: number }>("/cats/sync-json").then((r) => r.data);
+
+export interface IngestionLogEntry {
+  timestamp: string;
+  level: "info" | "success" | "warning" | "error";
+  message: string;
+}
+
+export type IngestionStatus = "queued" | "processing" | "ready" | "failed" | "approved";
+
+export interface IngestionJob {
+  id: number;
+  source_filename: string;
+  status: IngestionStatus;
+  logs: IngestionLogEntry[];
+  draft_json: IngestionDraft | null;
+  error_message: string | null;
+  approved_cat_id: number | null;
+  created_at: string | null;
+  updated_at: string | null;
+  started_at: string | null;
+  finished_at: string | null;
+}
+
+export interface IngestionDraft {
+  tipo_documento?: string | null;
+  cat: Record<string, string | number | null>;
+  apelido?: string | null;
+  arquivo_pdf?: string | null;
+  caminho_pdf?: string | null;
+  desmaterializado?: boolean;
+  autenticado?: boolean;
+  cao?: boolean;
+  servicos: ServicoDetalhe[];
+}
+
+export const fetchIngestionJobs = () => api.get<IngestionJob[]>("/ingestion/jobs").then((r) => r.data);
+export const fetchIngestionJob = (id: number) => api.get<IngestionJob>(`/ingestion/jobs/${id}`).then((r) => r.data);
+export const createIngestionJob = (file: File) => {
+  const body = new FormData();
+  body.append("file", file);
+  return api.post<IngestionJob>("/ingestion/jobs", body).then((r) => r.data);
+};
+export const retryIngestionJob = (id: number) => api.post<IngestionJob>(`/ingestion/jobs/${id}/retry`).then((r) => r.data);
+export const approveIngestionJob = (id: number, payload: IngestionDraft) => api.post<IngestionJob>(`/ingestion/jobs/${id}/approve`, { payload }).then((r) => r.data);
 
 export default api;
