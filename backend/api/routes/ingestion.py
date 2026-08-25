@@ -1,12 +1,14 @@
 import base64
 import json
 import re
+import tempfile
 import time
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Optional
 
 import requests
+from pypdf import PdfReader, PdfWriter
 from fastapi import APIRouter, BackgroundTasks, Depends, File, HTTPException, UploadFile
 from sqlalchemy.orm import Session
 
@@ -142,26 +144,39 @@ def _extract_with_fallback(pdf_path: Path, prompt: str, log_fn) -> dict:
         return result
     except IngestionFailure as primary_error:
         log_fn("warning", f"Extração completa falhou: {primary_error}")
-        log_fn("info", "Ativando fallback auditável em blocos de cinco páginas.")
+        log_fn("info", "Ativando fallback auditável em blocos reais de cinco páginas.")
+
+    try:
+        total_pages = len(PdfReader(str(pdf_path)).pages)
+    except Exception as exc:
+        raise IngestionFailure(f"Não foi possível ler o PDF para ativar o fallback: {exc}") from exc
+    if total_pages == 0:
+        raise IngestionFailure("O PDF não contém páginas para processar.")
 
     combined: Optional[dict] = None
     services: list[dict] = []
-    for start in range(1, 31, 5):
-        page_range = f"{start} a {start + 4}"
-        try:
-            block = _call_openrouter(pdf_path, prompt, page_range)
-        except IngestionFailure as block_error:
-            log_fn("error", f"Bloco {page_range} falhou: {block_error}")
-            break
-        if combined is None:
-            combined = block
-        block_services = block.get("servicos", [])
-        if not block_services:
-            log_fn("info", f"Bloco {page_range} não trouxe serviços; encerrando fallback.")
-            break
-        services.extend(block_services)
-        log_fn("success", f"Bloco {page_range} concluído: {len(block_services)} serviços.")
-        time.sleep(1)
+    with tempfile.TemporaryDirectory(prefix="app_cats_ingestion_") as temp_dir:
+        for start_index in range(0, total_pages, 5):
+            end_index = min(start_index + 5, total_pages)
+            page_range = f"{start_index + 1} a {end_index}"
+            chunk_path = Path(temp_dir) / f"pages_{start_index + 1}_{end_index}.pdf"
+            try:
+                reader = PdfReader(str(pdf_path))
+                writer = PdfWriter()
+                for page_index in range(start_index, end_index):
+                    writer.add_page(reader.pages[page_index])
+                with chunk_path.open("wb") as chunk_file:
+                    writer.write(chunk_file)
+                block = _call_openrouter(chunk_path, prompt, page_range)
+            except (OSError, IngestionFailure) as block_error:
+                log_fn("error", f"Bloco {page_range} falhou: {block_error}")
+                break
+            if combined is None:
+                combined = block
+            block_services = block.get("servicos", [])
+            services.extend(block_services)
+            log_fn("success", f"Bloco {page_range} concluído: {len(block_services)} serviços.")
+            time.sleep(1)
 
     if combined is None:
         raise IngestionFailure("Não foi possível extrair o PDF no modo completo nem no fallback.")
