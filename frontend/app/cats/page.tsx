@@ -1,23 +1,128 @@
 "use client";
 
-import { useEffect, useMemo, useState } from "react";
-import Link from "next/link";
-import { ArrowLeft, BarChart3, Building2, CalendarRange, CheckCircle2, FileStack, Filter, FolderOpen, MapPin, Search, ShieldCheck, X } from "lucide-react";
+import { FormEvent, useEffect, useMemo, useState } from "react";
+import { Building2, CalendarRange, CheckCircle2, FileStack, Filter, MapPin, Search, ShieldCheck, X } from "lucide-react";
 import { Cat, fetchCats } from "@/lib/api";
 import DocumentViewerModal from "@/components/document-viewer-modal";
 import { formatCurrency, formatDate, formatNumber } from "@/components/cat-viewer/formatters";
 import SelectionBasketShell from "@/components/selection/selection-basket-shell";
 
-type Filters = { busca: string; objeto: string; contratante: string; cidade: string; numero_art: string; data_inicio_de: string; data_inicio_ate: string; data_fim_de: string; data_fim_ate: string; area_min: string; area_max: string; valor_min: string; valor_max: string; desmaterializado: string; autenticado: string };
-const EMPTY: Filters = { busca: "", objeto: "", contratante: "", cidade: "", numero_art: "", data_inicio_de: "", data_inicio_ate: "", data_fim_de: "", data_fim_ate: "", area_min: "", area_max: "", valor_min: "", valor_max: "", desmaterializado: "", autenticado: "" };
-const inputClass = "w-full rounded-xl border border-slate-200 bg-white px-3 py-2.5 text-sm text-slate-800 outline-none transition focus:border-blue-400 focus:ring-4 focus:ring-blue-100 placeholder:text-slate-400";
-function Field({ label, children }: { label: string; children: React.ReactNode }) { return <label className="flex flex-col gap-1.5"><span className="text-[10px] font-black uppercase tracking-[0.11em] text-slate-500">{label}</span>{children}</label>; }
-function CatCard({ cat, onOpen }: { cat: Cat; onOpen: (cat: Cat) => void }) { return <button type="button" onClick={() => onOpen(cat)} className="flex flex-col gap-4 rounded-3xl border border-slate-200 bg-white p-5 text-left shadow-sm transition hover:-translate-y-0.5 hover:border-blue-300 hover:shadow-lg"><div className="flex items-start justify-between gap-3"><div className="min-w-0"><p className="text-[10px] font-black uppercase tracking-[0.16em] text-blue-600">CAT · {cat.numero_art || "ART não informada"}</p><h2 className="mt-1 line-clamp-2 text-lg font-black leading-tight text-slate-950">{cat.apelido || "Documento sem apelido"}</h2></div><span className="shrink-0 rounded-lg bg-slate-100 px-2 py-1 font-mono text-[11px] font-bold text-slate-600">{cat.numero_cat || "—"}</span></div><div className="grid gap-2 text-sm text-slate-600"><span className="flex items-start gap-2"><Building2 size={14} className="mt-0.5 text-slate-400" />{cat.contratante || "Contratante não informado"}</span><span className="flex items-start gap-2"><MapPin size={14} className="mt-0.5 text-slate-400" />{[cat.cidade, cat.estado].filter(Boolean).join(" / ") || "Local não informado"}</span><span className="flex items-start gap-2"><CalendarRange size={14} className="mt-0.5 text-slate-400" />{formatDate(cat.data_inicio)} — {formatDate(cat.data_fim)}</span></div>{cat.objeto && <p className="line-clamp-3 text-sm leading-6 text-slate-700">{cat.objeto}</p>}<div className="grid grid-cols-3 gap-3 border-t border-slate-100 pt-3"><div><p className="text-[10px] font-black uppercase tracking-wider text-slate-400">Serviços</p><p className="mt-1 font-black text-slate-900">{formatNumber(cat.total_servicos)}</p></div><div><p className="text-[10px] font-black uppercase tracking-wider text-slate-400">Área</p><p className="mt-1 font-black text-slate-900">{cat.area_m2 != null ? `${formatNumber(cat.area_m2)} m²` : "—"}</p></div><div><p className="text-[10px] font-black uppercase tracking-wider text-slate-400">Valor</p><p className="mt-1 font-black text-slate-900">{formatCurrency(cat.valor_contrato)}</p></div></div><div className="flex flex-wrap gap-2"><span className={`inline-flex items-center gap-1 rounded-full px-2.5 py-1 text-[10px] font-black ${cat.desmaterializado ? "bg-emerald-50 text-emerald-700" : "bg-slate-100 text-slate-500"}`}><CheckCircle2 size={12} />Desmaterializado</span><span className={`inline-flex items-center gap-1 rounded-full px-2.5 py-1 text-[10px] font-black ${cat.autenticado ? "bg-emerald-50 text-emerald-700" : "bg-slate-100 text-slate-500"}`}><ShieldCheck size={12} />Autenticado</span></div></button>; }
+type Filters = {
+  busca: string; objeto: string; contratante: string; cidade: string; numero_art: string;
+  data_inicio_de: string; data_inicio_ate: string; data_fim_de: string; data_fim_ate: string;
+  area_min: string; area_max: string; valor_min: string; valor_max: string;
+  desmaterializado: string; autenticado: string;
+};
 
-function Content() { const [cats, setCats] = useState<Cat[]>([]); const [draft, setDraft] = useState<Filters>(EMPTY); const [filters, setFilters] = useState<Filters>(EMPTY); const [selected, setSelected] = useState<Cat | null>(null); const [loading, setLoading] = useState(true); const [error, setError] = useState(""); const setField = (key: keyof Filters, value: string) => setDraft((current) => ({ ...current, [key]: value }));
-  useEffect(() => { let active = true; const params = { busca: filters.busca || undefined, objeto: filters.objeto || undefined, contratante: filters.contratante || undefined, cidade: filters.cidade || undefined, numero_art: filters.numero_art || undefined, data_inicio_de: filters.data_inicio_de || undefined, data_inicio_ate: filters.data_inicio_ate || undefined, data_fim_de: filters.data_fim_de || undefined, data_fim_ate: filters.data_fim_ate || undefined, area_min: filters.area_min ? Number(filters.area_min) : undefined, area_max: filters.area_max ? Number(filters.area_max) : undefined, valor_min: filters.valor_min ? Number(filters.valor_min) : undefined, valor_max: filters.valor_max ? Number(filters.valor_max) : undefined, desmaterializado: filters.desmaterializado === "" ? undefined : filters.desmaterializado === "true", autenticado: filters.autenticado === "" ? undefined : filters.autenticado === "true", limit: 500 }; fetchCats(params).then((data) => active && setCats(data)).catch(() => active && setError("Não foi possível carregar as CATs.")).finally(() => active && setLoading(false)); return () => { active = false; }; }, [filters]);
-  const active = useMemo(() => Object.entries(filters).filter(([key, value]) => value && !["skip", "limit"].includes(key)).map(([key, value]) => ({ key: key as keyof Filters, value })), [filters]);
-  const apply = () => setFilters({ ...draft }); const clear = () => { setDraft(EMPTY); setFilters(EMPTY); }; const remove = (key: keyof Filters) => { const next = { ...filters, [key]: "" }; setFilters(next); setDraft(next); };
-  return <div className="min-h-screen bg-[#f4f7fb] text-slate-900"><header className="border-b border-slate-200 bg-white/90 px-5 py-3 backdrop-blur-xl lg:px-8"><div className="mx-auto flex max-w-[1900px] items-center justify-between"><div className="flex items-center gap-3"><div className="flex h-10 w-10 items-center justify-center rounded-2xl bg-slate-950 text-white"><FolderOpen size={19} /></div><div><p className="text-sm font-black">Acervo Técnico</p><p className="text-[11px] text-slate-500">Galeria de CATs</p></div></div><nav className="flex items-center gap-1 rounded-2xl border border-slate-200 bg-slate-50 p-1 text-sm font-semibold"><Link href="/" className="flex items-center gap-1.5 rounded-xl px-3 py-2 text-slate-500 hover:bg-white hover:text-slate-900"><ArrowLeft size={15} />Serviços</Link><Link href="/cats" className="rounded-xl bg-white px-3 py-2 text-slate-900 shadow-sm">CATs</Link><Link href="/dashboard" className="flex items-center gap-1.5 rounded-xl px-3 py-2 text-slate-500 hover:bg-white hover:text-slate-900"><BarChart3 size={15} />Dashboard</Link></nav></div></header><main className="mx-auto max-w-[1900px] px-5 py-6 lg:px-8"><section className="rounded-[28px] bg-slate-950 px-6 py-7 text-white shadow-xl"><p className="text-[10px] font-black uppercase tracking-[0.16em] text-blue-200">Biblioteca documental</p><h1 className="mt-2 text-3xl font-black tracking-tight">CATs prontas para consulta.</h1><p className="mt-2 text-sm text-slate-300">Filtre pela obra, ART, objeto, período, valor, área e situação documental.</p></section><section className="mt-5 rounded-3xl border border-slate-200 bg-white p-5 shadow-sm"><div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4 xl:grid-cols-6"><Field label="Busca geral"><div className="relative"><Search className="absolute left-3 top-1/2 -translate-y-1/2 text-slate-400" size={16} /><input value={draft.busca} onChange={(e) => setField("busca", e.target.value)} onKeyDown={(e) => e.key === "Enter" && apply()} placeholder="Obra, contratante, número..." className={`${inputClass} pl-9`} /></div></Field><Field label="ART"><input value={draft.numero_art} onChange={(e) => setField("numero_art", e.target.value)} className={inputClass} placeholder="Número da ART" /></Field><Field label="Objeto"><input value={draft.objeto} onChange={(e) => setField("objeto", e.target.value)} className={inputClass} placeholder="Objeto da obra" /></Field><Field label="Contratante"><input value={draft.contratante} onChange={(e) => setField("contratante", e.target.value)} className={inputClass} placeholder="Órgão / empresa" /></Field><Field label="Cidade"><input value={draft.cidade} onChange={(e) => setField("cidade", e.target.value)} className={inputClass} placeholder="Cidade" /></Field><Field label="Início — de"><input type="date" value={draft.data_inicio_de} onChange={(e) => setField("data_inicio_de", e.target.value)} className={inputClass} /></Field><Field label="Início — até"><input type="date" value={draft.data_inicio_ate} onChange={(e) => setField("data_inicio_ate", e.target.value)} className={inputClass} /></Field><Field label="Fim — de"><input type="date" value={draft.data_fim_de} onChange={(e) => setField("data_fim_de", e.target.value)} className={inputClass} /></Field><Field label="Fim — até"><input type="date" value={draft.data_fim_ate} onChange={(e) => setField("data_fim_ate", e.target.value)} className={inputClass} /></Field><Field label="Área mínima"><input type="number" value={draft.area_min} onChange={(e) => setField("area_min", e.target.value)} className={inputClass} /></Field><Field label="Área máxima"><input type="number" value={draft.area_max} onChange={(e) => setField("area_max", e.target.value)} className={inputClass} /></Field><Field label="Valor mínimo"><input type="number" value={draft.valor_min} onChange={(e) => setField("valor_min", e.target.value)} className={inputClass} /></Field><Field label="Valor máximo"><input type="number" value={draft.valor_max} onChange={(e) => setField("valor_max", e.target.value)} className={inputClass} /></Field><Field label="Desmaterializado"><select value={draft.desmaterializado} onChange={(e) => setField("desmaterializado", e.target.value)} className={inputClass}><option value="">Todos</option><option value="true">Sim</option><option value="false">Não</option></select></Field><Field label="Autenticado"><select value={draft.autenticado} onChange={(e) => setField("autenticado", e.target.value)} className={inputClass}><option value="">Todos</option><option value="true">Sim</option><option value="false">Não</option></select></Field><div className="flex items-end gap-2"><button type="button" onClick={apply} className="flex-1 rounded-xl bg-blue-600 px-4 py-2.5 text-sm font-bold text-white hover:bg-blue-700"><Filter size={15} className="mr-1 inline" />Aplicar</button><button type="button" onClick={clear} className="rounded-xl border border-slate-200 px-3 py-2.5 text-slate-500 hover:bg-slate-50"><X size={17} /></button></div></div>{active.length > 0 && <div className="mt-4 flex flex-wrap gap-2 border-t border-slate-100 pt-4">{active.map(({ key, value }) => <button key={key} type="button" onClick={() => remove(key)} className="inline-flex items-center gap-1 rounded-full bg-blue-50 px-3 py-1.5 text-xs font-bold text-blue-700">{value}<X size={12} /></button>)}</div>}</section>{error && <div className="mt-4 rounded-2xl border border-red-200 bg-red-50 px-4 py-3 text-sm text-red-700">{error}</div>}<div className="mt-5 flex items-center justify-between"><div><p className="text-sm font-black text-slate-900">{loading ? "Carregando CATs..." : `${cats.length.toLocaleString("pt-BR")} CATs encontradas`}</p><p className="text-xs text-slate-500">Clique em um card para abrir o resumo completo.</p></div><div className="hidden items-center gap-2 rounded-full border border-slate-200 bg-white px-3 py-1.5 text-xs font-semibold text-slate-500 sm:flex"><FileStack size={14} className="text-blue-500" />Cards documentais</div></div>{loading ? <div className="mt-4 grid gap-4 md:grid-cols-2 xl:grid-cols-3">{Array.from({ length: 6 }).map((_, i) => <div key={i} className="h-72 animate-pulse rounded-3xl border border-slate-200 bg-white" />)}</div> : cats.length ? <div className="mt-4 grid gap-4 md:grid-cols-2 xl:grid-cols-3">{cats.map((cat) => <CatCard key={cat.id} cat={cat} onOpen={setSelected} />)}</div> : <div className="mt-4 rounded-3xl border border-slate-200 bg-white p-12 text-center text-slate-500">Nenhuma CAT encontrada.</div>}</main>{selected && <DocumentViewerModal source={{ mode: "cat", cat: selected }} onClose={() => setSelected(null)} />}</div>;
+const EMPTY: Filters = {
+  busca: "", objeto: "", contratante: "", cidade: "", numero_art: "", data_inicio_de: "", data_inicio_ate: "", data_fim_de: "", data_fim_ate: "",
+  area_min: "", area_max: "", valor_min: "", valor_max: "", desmaterializado: "", autenticado: "",
+};
+
+function Field({ label, children }: { label: string; children: React.ReactNode }) {
+  return <label className="filter-field"><span>{label}</span>{children}</label>;
 }
-export default function CatsPage() { return <SelectionBasketShell><Content /></SelectionBasketShell>; }
+
+function CatCard({ cat, onOpen }: { cat: Cat; onOpen: (cat: Cat) => void }) {
+  return (
+    <button type="button" onClick={() => onOpen(cat)} className="cat-card">
+      <div className="cat-card__top">
+        <div className="min-w-0"><p className="cat-card__kicker">CAT · {cat.numero_art || "ART não informada"}</p><h2>{cat.apelido || "Documento sem apelido"}</h2></div>
+        <span className="cat-card__number">{cat.numero_cat || "—"}</span>
+      </div>
+      <div className="cat-card__details">
+        <span className="cat-card__detail"><Building2 size={14} />{cat.contratante || "Contratante não informado"}</span>
+        <span className="cat-card__detail"><MapPin size={14} />{[cat.cidade, cat.estado].filter(Boolean).join(" / ") || "Local não informado"}</span>
+        <span className="cat-card__detail"><CalendarRange size={14} />{formatDate(cat.data_inicio)} — {formatDate(cat.data_fim)}</span>
+      </div>
+      {cat.objeto && <p className="cat-card__object">{cat.objeto}</p>}
+      <div className="cat-card__stats">
+        <div className="cat-card__stat"><span>Serviços</span><strong>{formatNumber(cat.total_servicos)}</strong></div>
+        <div className="cat-card__stat"><span>Área</span><strong>{cat.area_m2 != null ? `${formatNumber(cat.area_m2)} m²` : "—"}</strong></div>
+        <div className="cat-card__stat"><span>Valor</span><strong>{formatCurrency(cat.valor_contrato)}</strong></div>
+      </div>
+      <div className="badges"><span className={`status-badge ${cat.desmaterializado ? "is-on" : "is-off"}`}><CheckCircle2 size={12} />Desmaterializado</span><span className={`status-badge ${cat.autenticado ? "is-on" : "is-off"}`}><ShieldCheck size={12} />Autenticado</span></div>
+    </button>
+  );
+}
+
+function Content() {
+  const [cats, setCats] = useState<Cat[]>([]);
+  const [draft, setDraft] = useState<Filters>(EMPTY);
+  const [filters, setFilters] = useState<Filters>(EMPTY);
+  const [selected, setSelected] = useState<Cat | null>(null);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState("");
+  const [showFilters, setShowFilters] = useState(true);
+  const setField = (key: keyof Filters, value: string) => setDraft((current) => ({ ...current, [key]: value }));
+
+  useEffect(() => {
+    let active = true;
+    const params = {
+      busca: filters.busca || undefined,
+      objeto: filters.objeto || undefined,
+      contratante: filters.contratante || undefined,
+      cidade: filters.cidade || undefined,
+      numero_art: filters.numero_art || undefined,
+      data_inicio_de: filters.data_inicio_de || undefined,
+      data_inicio_ate: filters.data_inicio_ate || undefined,
+      data_fim_de: filters.data_fim_de || undefined,
+      data_fim_ate: filters.data_fim_ate || undefined,
+      area_min: filters.area_min ? Number(filters.area_min) : undefined,
+      area_max: filters.area_max ? Number(filters.area_max) : undefined,
+      valor_min: filters.valor_min ? Number(filters.valor_min) : undefined,
+      valor_max: filters.valor_max ? Number(filters.valor_max) : undefined,
+      desmaterializado: filters.desmaterializado === "" ? undefined : filters.desmaterializado === "true",
+      autenticado: filters.autenticado === "" ? undefined : filters.autenticado === "true",
+      limit: 500,
+    };
+    fetchCats(params).then((data) => { if (active) { setCats(data); setError(""); } }).catch(() => active && setError("Não foi possível carregar as CATs.")).finally(() => active && setLoading(false));
+    return () => { active = false; };
+  }, [filters]);
+
+  const active = useMemo(() => Object.entries(filters).filter(([, value]) => value).map(([key, value]) => ({ key: key as keyof Filters, value })), [filters]);
+  const apply = (event?: FormEvent) => { event?.preventDefault(); setLoading(true); setFilters({ ...draft }); };
+  const clear = () => { setLoading(true); setDraft(EMPTY); setFilters(EMPTY); };
+  const remove = (key: keyof Filters) => { const next = { ...filters, [key]: "" }; setLoading(true); setFilters(next); setDraft(next); };
+
+  return (
+    <main className="page">
+      <section className="page-hero">
+        <div className="page-hero__copy"><span className="page-hero__eyebrow"><FileStack size={14} /> Biblioteca documental</span><h1>CATs prontas para consulta.</h1><p>Encontre obras, contratantes e experiências técnicas com filtros claros, contexto completo e acesso ao documento original.</p></div>
+        <div className="page-hero__metric"><span>CATs carregadas</span><strong>{cats.length.toLocaleString("pt-BR")}</strong></div>
+      </section>
+
+      <section className="surface filters" aria-label="Filtros de CATs">
+        <div className="filters__top"><div><div className="filters__title"><Filter size={16} /> Filtrar documentos</div><p className="surface__hint">Combine campos para encontrar exatamente a obra desejada.</p></div><button type="button" className="button button--secondary" onClick={() => setShowFilters((current) => !current)}>{showFilters ? "Ocultar filtros" : "Mostrar filtros"}</button></div>
+        {showFilters && <form onSubmit={apply} className="filters__grid">
+          <Field label="Busca geral"><div className="search-control"><Search size={15} /><input className="control control--search" value={draft.busca} onChange={(event) => setField("busca", event.target.value)} placeholder="Obra, contratante, número..." /></div></Field>
+          <Field label="ART"><input className="control" value={draft.numero_art} onChange={(event) => setField("numero_art", event.target.value)} placeholder="Número da ART" /></Field>
+          <Field label="Objeto"><input className="control" value={draft.objeto} onChange={(event) => setField("objeto", event.target.value)} placeholder="Objeto da obra" /></Field>
+          <Field label="Contratante"><input className="control" value={draft.contratante} onChange={(event) => setField("contratante", event.target.value)} placeholder="Órgão / empresa" /></Field>
+          <Field label="Cidade"><input className="control" value={draft.cidade} onChange={(event) => setField("cidade", event.target.value)} placeholder="Cidade" /></Field>
+          <Field label="Início · de"><input type="date" className="control" value={draft.data_inicio_de} onChange={(event) => setField("data_inicio_de", event.target.value)} /></Field>
+          <Field label="Início · até"><input type="date" className="control" value={draft.data_inicio_ate} onChange={(event) => setField("data_inicio_ate", event.target.value)} /></Field>
+          <Field label="Fim · de"><input type="date" className="control" value={draft.data_fim_de} onChange={(event) => setField("data_fim_de", event.target.value)} /></Field>
+          <Field label="Fim · até"><input type="date" className="control" value={draft.data_fim_ate} onChange={(event) => setField("data_fim_ate", event.target.value)} /></Field>
+          <Field label="Área mínima"><input type="number" className="control" value={draft.area_min} onChange={(event) => setField("area_min", event.target.value)} placeholder="0" /></Field>
+          <Field label="Área máxima"><input type="number" className="control" value={draft.area_max} onChange={(event) => setField("area_max", event.target.value)} placeholder="Sem limite" /></Field>
+          <Field label="Valor mínimo"><input type="number" className="control" value={draft.valor_min} onChange={(event) => setField("valor_min", event.target.value)} placeholder="R$" /></Field>
+          <Field label="Valor máximo"><input type="number" className="control" value={draft.valor_max} onChange={(event) => setField("valor_max", event.target.value)} placeholder="Sem limite" /></Field>
+          <Field label="Desmaterializado"><select className="control" value={draft.desmaterializado} onChange={(event) => setField("desmaterializado", event.target.value)}><option value="">Todos</option><option value="true">Sim</option><option value="false">Não</option></select></Field>
+          <Field label="Autenticado"><select className="control" value={draft.autenticado} onChange={(event) => setField("autenticado", event.target.value)}><option value="">Todos</option><option value="true">Sim</option><option value="false">Não</option></select></Field>
+          <div className="filters__actions"><button type="submit" className="button button--primary">Aplicar filtros</button><button type="button" onClick={clear} className="button button--secondary icon-button--small" aria-label="Limpar filtros" title="Limpar filtros"><X size={16} /></button></div>
+        </form>}
+        {active.length > 0 && <div className="active-filters"><span className="active-filters__label">Ativos</span>{active.map(({ key, value }) => <button key={key} type="button" onClick={() => remove(key)} className="filter-chip"><span>{value}</span><X size={12} /></button>)}</div>}
+      </section>
+
+      {error && <div className="alert alert--error" style={{ marginTop: 16 }}>{error}</div>}
+      <div className="cat-results-meta"><div><h2>{loading ? "Carregando CATs..." : `${cats.length.toLocaleString("pt-BR")} CATs encontradas`}</h2><p>Clique em um card para abrir o resumo completo e os serviços do documento.</p></div><span className="cat-results-meta__badge"><FileStack size={14} /> Cards documentais</span></div>
+      {loading ? <div className="skeleton-grid">{Array.from({ length: 6 }).map((_, index) => <div key={index} className="skeleton" />)}</div> : cats.length ? <div className="cat-grid">{cats.map((cat) => <CatCard key={cat.id} cat={cat} onOpen={setSelected} />)}</div> : <div className="surface empty-state"><Search size={28} /><p>Nenhuma CAT encontrada.</p><span>Tente remover algum filtro ou usar uma busca mais ampla.</span></div>}
+      {selected && <DocumentViewerModal source={{ mode: "cat", cat: selected }} onClose={() => setSelected(null)} />}
+    </main>
+  );
+}
+
+export default function CatsPage() {
+  return <SelectionBasketShell><Content /></SelectionBasketShell>;
+}

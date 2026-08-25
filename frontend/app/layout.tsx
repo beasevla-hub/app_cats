@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
 import AuthGate from "@/components/auth-gate";
+import { ThemeProvider } from "@/lib/theme-context";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -17,7 +18,11 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="pt-BR" className="h-full antialiased">
-      <body className={`${inter.className} min-h-full flex flex-col`}><AuthGate>{children}</AuthGate></body>
+      <body className={`${inter.className} min-h-full`}>
+        <ThemeProvider>
+          <AuthGate>{children}</AuthGate>
+        </ThemeProvider>
+      </body>
     </html>
   );
 }

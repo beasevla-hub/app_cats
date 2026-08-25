@@ -12,48 +12,48 @@ interface SelectionItemCardProps {
 
 function SelectionItemCardInner({ item, onRemove }: SelectionItemCardProps) {
   return (
-    <article className="group relative bg-white border border-slate-200 rounded-lg p-3 shadow-sm hover:border-blue-200 hover:shadow transition-colors">
+    <article className="selection-item">
       <button
         type="button"
         onClick={() => onRemove(item.key)}
-        className="absolute top-2 right-2 p-1 rounded-md text-slate-300 hover:text-red-600 hover:bg-red-50 transition-colors"
+        className="selection-item__remove"
         aria-label="Remover item"
       >
         <X size={14} />
       </button>
 
       <p
-        className="text-xs font-semibold text-blue-800 pr-6 truncate"
+        className="selection-item__title"
         title={item.apelido || ""}
       >
         {item.apelido || "—"}
       </p>
 
       <p
-        className="text-sm text-slate-800 leading-snug mt-1.5 pr-1"
+        className="selection-item__description"
         title={item.descricao || ""}
       >
         {item.descricao || "—"}
       </p>
 
       {(item.grupo || item.numero_cat) && (
-        <div className="flex flex-wrap items-center gap-x-2 gap-y-1 mt-2">
+        <div className="selection-item__tags">
           {item.grupo && (
-            <span className="text-[10px] text-slate-600 bg-slate-100 px-1.5 py-0.5 rounded truncate max-w-full">
+            <span className="selection-item__tag">
               {item.grupo}
             </span>
           )}
           {item.numero_cat && (
-            <span className="text-[10px] font-mono text-slate-500">{item.numero_cat}</span>
+            <span className="selection-item__cat">{item.numero_cat}</span>
           )}
         </div>
       )}
 
-      <div className="flex items-center justify-between mt-2.5 pt-2 border-t border-slate-100">
-        <span className="font-mono text-xs font-bold text-slate-700 bg-slate-100 px-2 py-0.5 rounded">
+      <div className="selection-item__meta">
+        <span className="selection-item__unit">
           {item.unidade || "—"}
         </span>
-        <span className="font-mono text-sm font-semibold text-slate-900 tabular-nums">
+        <span className="selection-item__quantity">
           {formatNumber(item.quantidade)}
         </span>
       </div>

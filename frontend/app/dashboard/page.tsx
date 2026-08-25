@@ -1,150 +1,57 @@
 "use client";
 
-import { useState, useEffect } from "react";
-import { fetchDashboard, DashboardStats } from "@/lib/api";
-import { FileText, Wrench, Building2, AreaChart, DollarSign, ArrowLeft } from "lucide-react";
-import Link from "next/link";
+import { useEffect, useMemo, useState } from "react";
+import { AreaChart, Building2, DollarSign, FileText, LineChart, Wrench } from "lucide-react";
+import { DashboardStats, fetchDashboard } from "@/lib/api";
 
 function StatCard({ icon, label, value, sub }: { icon: React.ReactNode; label: string; value: string; sub?: string }) {
-  return (
-    <div className="bg-white rounded-xl border border-gray-200 p-5 flex items-center gap-4 shadow-sm">
-      <div className="p-3 bg-blue-50 rounded-lg text-blue-600">{icon}</div>
-      <div>
-        <p className="text-xs text-gray-500 font-medium uppercase tracking-wide">{label}</p>
-        <p className="text-2xl font-bold text-gray-900">{value}</p>
-        {sub && <p className="text-xs text-gray-400 mt-0.5">{sub}</p>}
-      </div>
-    </div>
-  );
+  return <article className="stat-card"><span className="stat-card__icon">{icon}</span><div className="min-w-0"><p className="stat-card__label">{label}</p><p className="stat-card__value" title={value}>{value}</p>{sub && <p className="stat-card__sub">{sub}</p>}</div></article>;
+}
+
+function BarList({ items, labelKey, emptyLabel }: { items: Array<Record<string, string | number>>; labelKey: string; emptyLabel: string }) {
+  const max = Math.max(...items.map((item) => Number(item.total)), 1);
+  if (!items.length) return <div className="empty-state" style={{ padding: "35px 10px" }}><span>{emptyLabel}</span></div>;
+  return <div className="bars">{items.map((item) => <div className="bar-row" key={String(item[labelKey])}><span className="bar-row__label" title={String(item[labelKey])}>{String(item[labelKey])}</span><div className="bar-row__track"><div className="bar-row__fill" style={{ width: `${(Number(item.total) / max) * 100}%` }} /></div><span className="bar-row__value">{Number(item.total).toLocaleString("pt-BR")}</span></div>)}</div>;
 }
 
 export default function Dashboard() {
   const [stats, setStats] = useState<DashboardStats | null>(null);
   const [loading, setLoading] = useState(true);
+  const [error, setError] = useState(false);
 
   useEffect(() => {
-    fetchDashboard()
-      .then(setStats)
-      .catch(console.error)
-      .finally(() => setLoading(false));
+    fetchDashboard().then(setStats).catch(() => setError(true)).finally(() => setLoading(false));
   }, []);
 
-  const fmt = (n: number) => n.toLocaleString("pt-BR");
-  const fmtBRL = (n: number) =>
-    n.toLocaleString("pt-BR", { style: "currency", currency: "BRL", maximumFractionDigits: 0 });
+  const fmt = (value: number) => value.toLocaleString("pt-BR");
+  const fmtBRL = (value: number) => value.toLocaleString("pt-BR", { style: "currency", currency: "BRL", maximumFractionDigits: 0 });
+  const yearItems = useMemo(() => stats?.cats_por_ano.map((item) => ({ ano: item.ano, total: item.total })) ?? [], [stats]);
+  const groupItems = useMemo(() => stats?.top_grupos.map((item) => ({ grupo: item.grupo, total: item.total })) ?? [], [stats]);
 
   return (
-    <div className="min-h-screen bg-gray-50">
-      <header className="bg-white border-b border-gray-200 px-6 py-3 flex items-center gap-4 shadow-sm">
-        <Link href="/" className="flex items-center gap-2 text-sm text-gray-600 hover:text-blue-600 transition-colors">
-          <ArrowLeft size={18} />
-          Consulta
-        </Link>
-        <div className="h-5 w-px bg-gray-200" />
-        <div className="flex items-center gap-2">
-          <AreaChart className="text-blue-600" size={22} />
-          <h1 className="text-lg font-bold text-gray-900">Dashboard Gerencial</h1>
-        </div>
-      </header>
+    <main className="page">
+      <section className="page-hero">
+        <div className="page-hero__copy"><span className="page-hero__eyebrow"><LineChart size={14} /> Visão gerencial</span><h1>O acervo em perspectiva.</h1><p>Uma leitura rápida do volume de documentos, serviços, área contratada e relacionamento com os principais clientes.</p></div>
+        <div className="page-hero__metric"><span>Status do acervo</span><strong>{loading ? "..." : stats ? "Ativo" : "—"}</strong></div>
+      </section>
 
-      <main className="max-w-6xl mx-auto px-6 py-8">
-        {loading ? (
-          <div className="flex items-center justify-center py-24 text-gray-400">Carregando estatísticas...</div>
-        ) : stats ? (
-          <>
-            {/* Cards principais */}
-            <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4 mb-8">
-              <StatCard icon={<FileText size={22} />} label="Total de CATs" value={fmt(stats.total_cats)} />
-              <StatCard icon={<Wrench size={22} />} label="Total de Serviços" value={fmt(stats.total_servicos)} />
-              <StatCard icon={<Building2 size={22} />} label="Contratantes" value={fmt(stats.total_contratantes)} />
-              <StatCard
-                icon={<AreaChart size={22} />}
-                label="Área Total"
-                value={`${fmt(Math.round(stats.area_total_m2))} m²`}
-              />
-              <StatCard
-                icon={<DollarSign size={22} />}
-                label="Valor Total"
-                value={fmtBRL(stats.valor_total_contratos)}
-              />
-            </div>
+      {loading && <div className="dashboard-grid">{Array.from({ length: 5 }).map((_, index) => <div className="skeleton" key={index} style={{ height: 88 }} />)}</div>}
+      {!loading && error && <div className="alert alert--error" style={{ marginTop: 20 }}>Não foi possível carregar as estatísticas. Verifique se o backend está rodando.</div>}
+      {!loading && stats && <>
+        <section className="dashboard-grid" aria-label="Indicadores principais">
+          <StatCard icon={<FileText size={17} />} label="Total de CATs" value={fmt(stats.total_cats)} sub="documentos no acervo" />
+          <StatCard icon={<Wrench size={17} />} label="Serviços" value={fmt(stats.total_servicos)} sub="itens catalogados" />
+          <StatCard icon={<Building2 size={17} />} label="Contratantes" value={fmt(stats.total_contratantes)} sub="entidades relacionadas" />
+          <StatCard icon={<AreaChart size={17} />} label="Área total" value={`${fmt(Math.round(stats.area_total_m2))} m²`} sub="soma informada" />
+          <StatCard icon={<DollarSign size={17} />} label="Valor total" value={fmtBRL(stats.valor_total_contratos)} sub="valor de contratos" />
+        </section>
 
-            <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
-              {/* CATs por Ano */}
-              <div className="bg-white rounded-xl border border-gray-200 p-5 shadow-sm">
-                <h2 className="text-sm font-semibold text-gray-700 mb-4">CATs por Ano</h2>
-                <div className="space-y-2">
-                  {stats.cats_por_ano.map((item) => {
-                    const max = Math.max(...stats.cats_por_ano.map((i) => i.total));
-                    const pct = (item.total / max) * 100;
-                    return (
-                      <div key={item.ano} className="flex items-center gap-3">
-                        <span className="text-xs text-gray-500 w-10 text-right">{item.ano}</span>
-                        <div className="flex-1 bg-gray-100 rounded-full h-5 overflow-hidden">
-                          <div
-                            className="bg-blue-500 h-5 rounded-full flex items-center pl-2 transition-all"
-                            style={{ width: `${pct}%` }}
-                          >
-                            <span className="text-xs text-white font-medium">{item.total}</span>
-                          </div>
-                        </div>
-                      </div>
-                    );
-                  })}
-                </div>
-              </div>
-
-              {/* Top Grupos */}
-              <div className="bg-white rounded-xl border border-gray-200 p-5 shadow-sm">
-                <h2 className="text-sm font-semibold text-gray-700 mb-4">Top Grupos de Serviços</h2>
-                <div className="space-y-2">
-                  {stats.top_grupos.map((item) => {
-                    const max = Math.max(...stats.top_grupos.map((i) => i.total));
-                    const pct = (item.total / max) * 100;
-                    return (
-                      <div key={item.grupo} className="flex items-center gap-3">
-                        <span className="text-xs text-gray-500 w-36 truncate text-right" title={item.grupo}>
-                          {item.grupo}
-                        </span>
-                        <div className="flex-1 bg-gray-100 rounded-full h-5 overflow-hidden">
-                          <div
-                            className="bg-emerald-500 h-5 rounded-full flex items-center pl-2 transition-all"
-                            style={{ width: `${pct}%` }}
-                          >
-                            <span className="text-xs text-white font-medium">{item.total}</span>
-                          </div>
-                        </div>
-                      </div>
-                    );
-                  })}
-                </div>
-              </div>
-
-              {/* Top Contratantes */}
-              <div className="bg-white rounded-xl border border-gray-200 p-5 shadow-sm lg:col-span-2">
-                <h2 className="text-sm font-semibold text-gray-700 mb-4">Top Contratantes</h2>
-                <div className="grid grid-cols-1 md:grid-cols-2 gap-2">
-                  {stats.top_contratantes.map((item, i) => (
-                    <div key={item.contratante} className="flex items-center gap-3 p-2 rounded-lg hover:bg-gray-50">
-                      <span className="text-xs font-bold text-gray-400 w-5">#{i + 1}</span>
-                      <span className="flex-1 text-sm text-gray-700 truncate" title={item.contratante}>
-                        {item.contratante}
-                      </span>
-                      <span className="text-xs font-semibold text-blue-600 bg-blue-50 px-2 py-0.5 rounded-full">
-                        {item.total} CATs
-                      </span>
-                    </div>
-                  ))}
-                </div>
-              </div>
-            </div>
-          </>
-        ) : (
-          <div className="text-center py-24 text-gray-400">
-            Não foi possível carregar as estatísticas. Verifique se o backend está rodando.
-          </div>
-        )}
-      </main>
-    </div>
+        <section className="analytics-grid">
+          <article className="surface analytics-panel"><div className="analytics-panel__heading"><div><h2>CATs por ano</h2><p>Distribuição dos documentos por início de obra.</p></div><AreaChart size={17} color="var(--brand)" /></div><BarList items={yearItems} labelKey="ano" emptyLabel="Sem dados anuais disponíveis." /></article>
+          <article className="surface analytics-panel"><div className="analytics-panel__heading"><div><h2>Grupos de serviços</h2><p>Os dez grupos com maior presença no acervo.</p></div><Wrench size={17} color="var(--brand)" /></div><BarList items={groupItems} labelKey="grupo" emptyLabel="Sem grupos disponíveis." /></article>
+          <article className="surface analytics-panel analytics-panel--wide"><div className="analytics-panel__heading"><div><h2>Principais contratantes</h2><p>Organizações com mais CATs cadastradas.</p></div><Building2 size={17} color="var(--brand)" /></div><div className="contractors">{stats.top_contratantes.length ? stats.top_contratantes.map((item, index) => <div className="contractor-row" key={item.contratante}><span className="contractor-row__rank">#{index + 1}</span><span className="contractor-row__name" title={item.contratante}>{item.contratante}</span><span className="contractor-row__count">{item.total} CATs</span></div>) : <div className="empty-state" style={{ gridColumn: "1 / -1", padding: "30px 10px" }}><span>Sem contratantes disponíveis.</span></div>}</div></article>
+        </section>
+      </>}
+    </main>
   );
 }
