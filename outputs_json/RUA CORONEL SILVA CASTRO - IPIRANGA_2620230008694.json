@@ -541,5 +541,9 @@
       "ordem_na_pagina": 20
     }
   ],
-  "apelido": "RUA CORONEL SILVA CASTRO - IPIRANGA"
+  "apelido": "RUA CORONEL SILVA CASTRO - IPIRANGA",
+  "arquivo_pdf": "RUA CORONEL SILVA CASTRO - IPIRANGA_2620230008694.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\RUA CORONEL SILVA CASTRO - IPIRANGA_2620230008694.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

@@ -931,5 +931,9 @@
       "ordem_na_pagina": 29
     }
   ],
-  "apelido": "RUA SYLVIO LAGRECA"
+  "apelido": "RUA SYLVIO LAGRECA",
+  "arquivo_pdf": "RUA SYLVIO LAGRECA_2620250012064.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\RUA SYLVIO LAGRECA_2620250012064.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

@@ -281,5 +281,9 @@
       "ordem_na_pagina": 8
     }
   ],
-  "apelido": "VILA MARCELO, RUA ANA ROSA"
+  "apelido": "VILA MARCELO, RUA ANA ROSA",
+  "arquivo_pdf": "VILA MARCELO RUA ANA ROSA_2620220005110.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\VILA MARCELO RUA ANA ROSA_2620220005110.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

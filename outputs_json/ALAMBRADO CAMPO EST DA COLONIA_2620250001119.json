@@ -19,6 +19,10 @@
     "area_m2": 4641.0,
     "valor_contrato": 783239.95
   },
+  "arquivo_pdf": "PARELHEIROS - ALAMBRADO CAMPO EST DA COLONIA - CAT_2620250001119.pdf",
+  "caminho_pdf": "uploads\\pdfs\\cat_1_69e540d70c.pdf",
+  "desmaterializado": true,
+  "autenticado": true,
   "servicos": [
     {
       "grupo": "SERVIÇOS PRELIMINARES",

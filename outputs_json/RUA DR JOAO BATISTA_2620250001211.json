@@ -541,5 +541,9 @@
       "ordem_na_pagina": 5
     }
   ],
-  "apelido": "RUA DR JOAO BATISTA"
+  "apelido": "RUA DR JOAO BATISTA",
+  "arquivo_pdf": "RUA DR JOAO BATISTA_2620250001211.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\RUA DR JOAO BATISTA_2620250001211.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

@@ -331,5 +331,9 @@
       "ordem_na_pagina": 23
     }
   ],
-  "apelido": "PRAÇA VILA SANTA CRUZ"
+  "apelido": "PRAÇA VILA SANTA CRUZ",
+  "arquivo_pdf": "PRAÇA VILA SANTA CRUZ_2620250003208.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\PRAÇA VILA SANTA CRUZ_2620250003208.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

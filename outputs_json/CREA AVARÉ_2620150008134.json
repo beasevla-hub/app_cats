@@ -2741,5 +2741,9 @@
       "ordem_na_pagina": 7
     }
   ],
-  "apelido": "CREA AVARÉ"
+  "apelido": "CREA AVARÉ",
+  "arquivo_pdf": "CREA AVARÉ_2620150008134.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\CREA AVARÉ_2620150008134.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

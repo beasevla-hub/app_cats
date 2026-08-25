@@ -241,5 +241,9 @@
       "ordem_na_pagina": 10
     }
   ],
-  "apelido": "PARELHEIROS, RUA ISABELA CANALE"
+  "apelido": "PARELHEIROS, RUA ISABELA CANALE",
+  "arquivo_pdf": "PARELHEIROS RUA ISABELA CANALE_2620200007446.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\PARELHEIROS RUA ISABELA CANALE_2620200007446.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

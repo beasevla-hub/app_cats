@@ -1061,5 +1061,9 @@
       "ordem_na_pagina": 30
     }
   ],
-  "apelido": "VESTIÁRIO RUA SEBASTIÃO AFONSO, CIDADE ADEMAR"
+  "apelido": "VESTIÁRIO RUA SEBASTIÃO AFONSO, CIDADE ADEMAR",
+  "arquivo_pdf": "VESTIÁRIO RUA SEBASTIÃO AFONSO CIDADE ADEMAR_2620160002696.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\VESTIÁRIO RUA SEBASTIÃO AFONSO CIDADE ADEMAR_2620160002696.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

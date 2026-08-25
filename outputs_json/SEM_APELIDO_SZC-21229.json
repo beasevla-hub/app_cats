@@ -311,5 +311,9 @@
       "ordem_na_pagina": 1
     }
   ],
-  "apelido": "SEM_APELIDO"
+  "apelido": "SEM_APELIDO",
+  "arquivo_pdf": "SEM_APELIDO_SZC-21229.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\SEM_APELIDO_SZC-21229.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

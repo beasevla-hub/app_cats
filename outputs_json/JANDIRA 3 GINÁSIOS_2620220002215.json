@@ -221,5 +221,9 @@
       "ordem_na_pagina": 20
     }
   ],
-  "apelido": "JANDIRA 3 GINÁSIOS"
+  "apelido": "JANDIRA 3 GINÁSIOS",
+  "arquivo_pdf": "JANDIRA 3 GINÁSIOS_2620220002215.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\JANDIRA 3 GINÁSIOS_2620220002215.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

@@ -471,5 +471,9 @@
       "ordem_na_pagina": 2
     }
   ],
-  "apelido": "RUA CARMEM TORTOLA"
+  "apelido": "RUA CARMEM TORTOLA",
+  "arquivo_pdf": "RUA CARMEM TORTOLA_2620250010925.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\RUA CARMEM TORTOLA_2620250010925.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

@@ -211,5 +211,9 @@
       "ordem_na_pagina": 11
     }
   ],
-  "apelido": "SARGENTO EDESIO"
+  "apelido": "SARGENTO EDESIO",
+  "arquivo_pdf": "SARGENTO EDESIO_SZC-21230.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\SARGENTO EDESIO_SZC-21230.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

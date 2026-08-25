@@ -421,5 +421,9 @@
       "ordem_na_pagina": 2
     }
   ],
-  "apelido": "GUAIANASES, PÇA CAFEEIRO"
+  "apelido": "GUAIANASES, PÇA CAFEEIRO",
+  "arquivo_pdf": "GUAIANASES PÇA CAFEEIRO_2620230015182.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\GUAIANASES PÇA CAFEEIRO_2620230015182.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

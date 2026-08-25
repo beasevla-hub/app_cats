@@ -2741,5 +2741,9 @@
       "ordem_na_pagina": 12
     }
   ],
-  "apelido": "CREA BOTUCATU"
+  "apelido": "CREA BOTUCATU",
+  "arquivo_pdf": "CREA BOTUCATU_2620150008150.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\CREA BOTUCATU_2620150008150.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

@@ -4381,5 +4381,9 @@
       "ordem_na_pagina": 40
     }
   ],
-  "apelido": "MPSP - TAUBATÉ"
+  "apelido": "MPSP - TAUBATÉ",
+  "arquivo_pdf": "MPSP - TAUBATÉ_2620260003885.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\MPSP - TAUBATÉ_2620260003885.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

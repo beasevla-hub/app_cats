@@ -521,5 +521,9 @@
       "ordem_na_pagina": 10
     }
   ],
-  "apelido": "PRAÇA DR. JOAO PEREIRA MONTEIRO JUNIOR - LAPA"
+  "apelido": "PRAÇA DR. JOAO PEREIRA MONTEIRO JUNIOR - LAPA",
+  "arquivo_pdf": "PRAÇA DR JOAO PEREIRA MONTEIRO JUNIOR - LAPA_2620230014266.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\PRAÇA DR JOAO PEREIRA MONTEIRO JUNIOR - LAPA_2620230014266.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

@@ -831,5 +831,9 @@
       "ordem_na_pagina": 4
     }
   ],
-  "apelido": "PREFEITURA DO MUNICÍPIO DE JANDIRA - UBS JD. GABRIELA"
+  "apelido": "PREFEITURA DO MUNICÍPIO DE JANDIRA - UBS JD. GABRIELA",
+  "arquivo_pdf": "PREFEITURA DO MUNICÍPIO DE JANDIRA - UBS JD GABRIELA_2620230011373.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\PREFEITURA DO MUNICÍPIO DE JANDIRA - UBS JD GABRIELA_2620230011373.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

@@ -401,5 +401,9 @@
       "ordem_na_pagina": 15
     }
   ],
-  "apelido": "RUA TIMBORÉ - JABAQUARA"
+  "apelido": "RUA TIMBORÉ - JABAQUARA",
+  "arquivo_pdf": "RUA TIMBORÉ - JABAQUARA_2620230012432.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\RUA TIMBORÉ - JABAQUARA_2620230012432.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

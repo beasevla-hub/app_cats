@@ -391,5 +391,9 @@
       "ordem_na_pagina": 3
     }
   ],
-  "apelido": "PRAÇA PAULINO MENDO"
+  "apelido": "PRAÇA PAULINO MENDO",
+  "arquivo_pdf": "PRAÇA PAULINO MENDO_SZC-19039.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\PRAÇA PAULINO MENDO_SZC-19039.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

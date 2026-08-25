@@ -221,5 +221,9 @@
       "ordem_na_pagina": 2
     }
   ],
-  "apelido": "RUA RICARDO VINES"
+  "apelido": "RUA RICARDO VINES",
+  "arquivo_pdf": "RUA RICARDO VINES_2620250001117.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\RUA RICARDO VINES_2620250001117.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

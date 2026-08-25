@@ -681,5 +681,9 @@
       "ordem_na_pagina": 18
     }
   ],
-  "apelido": "PISTA DE SKATE"
+  "apelido": "PISTA DE SKATE",
+  "arquivo_pdf": "PISTA DE SKATE_SZC-21521.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\PISTA DE SKATE_SZC-21521.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

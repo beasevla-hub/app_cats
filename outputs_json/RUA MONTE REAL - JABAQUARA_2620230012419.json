@@ -331,5 +331,9 @@
       "ordem_na_pagina": 9
     }
   ],
-  "apelido": "RUA MONTE REAL - JABAQUARA"
+  "apelido": "RUA MONTE REAL - JABAQUARA",
+  "arquivo_pdf": "RUA MONTE REAL - JABAQUARA_2620230012419.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\RUA MONTE REAL - JABAQUARA_2620230012419.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

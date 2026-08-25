@@ -2421,5 +2421,9 @@
       "ordem_na_pagina": 15
     }
   ],
-  "apelido": "CDC COTINHA"
+  "apelido": "CDC COTINHA",
+  "arquivo_pdf": "CDC COTINHA_2620250001438.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\CDC COTINHA_2620250001438.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

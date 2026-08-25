@@ -771,5 +771,9 @@
       "ordem_na_pagina": 5
     }
   ],
-  "apelido": "BRINQUEDOTECA BUTANTÃ"
+  "apelido": "BRINQUEDOTECA BUTANTÃ",
+  "arquivo_pdf": "BRINQUEDOTECA BUTANTÃ_2620110009378.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\BRINQUEDOTECA BUTANTÃ_2620110009378.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

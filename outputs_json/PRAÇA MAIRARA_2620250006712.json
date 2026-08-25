@@ -421,5 +421,9 @@
       "ordem_na_pagina": 3
     }
   ],
-  "apelido": "PRAÇA MAIRARA"
+  "apelido": "PRAÇA MAIRARA",
+  "arquivo_pdf": "PRAÇA MAIRARA_2620250006712.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\PRAÇA MAIRARA_2620250006712.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

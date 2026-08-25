@@ -1401,5 +1401,9 @@
       "ordem_na_pagina": 8
     }
   ],
-  "apelido": "FDE"
+  "apelido": "FDE",
+  "arquivo_pdf": "FDE_SZC-21804.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\FDE_SZC-21804.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

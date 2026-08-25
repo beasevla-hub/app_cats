@@ -271,5 +271,9 @@
       "ordem_na_pagina": 12
     }
   ],
-  "apelido": "CALÇADA RUA DOS NAVEGADORES"
+  "apelido": "CALÇADA RUA DOS NAVEGADORES",
+  "arquivo_pdf": "CALÇADA RUA DOS NAVEGADORES_2620120003045.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\CALÇADA RUA DOS NAVEGADORES_2620120003045.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

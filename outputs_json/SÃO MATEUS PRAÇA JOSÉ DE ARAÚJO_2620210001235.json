@@ -381,5 +381,9 @@
       "ordem_na_pagina": 22
     }
   ],
-  "apelido": "SÃO MATEUS, PRAÇA JOSÉ DE ARAÚJO"
+  "apelido": "SÃO MATEUS, PRAÇA JOSÉ DE ARAÚJO",
+  "arquivo_pdf": "SÃO MATEUS PRAÇA JOSÉ DE ARAÚJO_2620210001235.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\SÃO MATEUS PRAÇA JOSÉ DE ARAÚJO_2620210001235.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

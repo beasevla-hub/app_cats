@@ -1531,5 +1531,9 @@
       "ordem_na_pagina": 12
     }
   ],
-  "apelido": "RUA PIERRE LESCOT"
+  "apelido": "RUA PIERRE LESCOT",
+  "arquivo_pdf": "RUA PIERRE LESCOT_2620260002291.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\RUA PIERRE LESCOT_2620260002291.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

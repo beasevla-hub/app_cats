@@ -581,5 +581,9 @@
       "ordem_na_pagina": 12
     }
   ],
-  "apelido": "ESCADARIA MARIA LUIZA"
+  "apelido": "ESCADARIA MARIA LUIZA",
+  "arquivo_pdf": "ESCADARIA MARIA LUIZA_2620260001552.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\ESCADARIA MARIA LUIZA_2620260001552.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

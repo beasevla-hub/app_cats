@@ -191,5 +191,9 @@
       "ordem_na_pagina": 17
     }
   ],
-  "apelido": "RUA DOS APIARIS"
+  "apelido": "RUA DOS APIARIS",
+  "arquivo_pdf": "RUA DOS APIARIS_2620250010159.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\RUA DOS APIARIS_2620250010159.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

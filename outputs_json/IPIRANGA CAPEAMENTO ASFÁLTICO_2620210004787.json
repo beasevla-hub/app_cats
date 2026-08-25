@@ -211,5 +211,9 @@
       "ordem_na_pagina": 3
     }
   ],
-  "apelido": "IPIRANGA, CAPEAMENTO ASFÁLTICO"
+  "apelido": "IPIRANGA, CAPEAMENTO ASFÁLTICO",
+  "arquivo_pdf": "IPIRANGA CAPEAMENTO ASFÁLTICO_2620210004787.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\IPIRANGA CAPEAMENTO ASFÁLTICO_2620210004787.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

@@ -441,5 +441,9 @@
       "ordem_na_pagina": 16
     }
   ],
-  "apelido": "PRAÇA SANTISSIMA TRINDADE"
+  "apelido": "PRAÇA SANTISSIMA TRINDADE",
+  "arquivo_pdf": "PRAÇA SANTISSIMA TRINDADE_2620250002109.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\PRAÇA SANTISSIMA TRINDADE_2620250002109.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

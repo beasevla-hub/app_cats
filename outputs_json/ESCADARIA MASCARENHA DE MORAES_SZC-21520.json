@@ -381,5 +381,9 @@
       "ordem_na_pagina": 7
     }
   ],
-  "apelido": "ESCADARIA MASCARENHA DE MORAES"
+  "apelido": "ESCADARIA MASCARENHA DE MORAES",
+  "arquivo_pdf": "ESCADARIA MASCARENHA DE MORAES_SZC-21520.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\ESCADARIA MASCARENHA DE MORAES_SZC-21520.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

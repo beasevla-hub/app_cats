@@ -1181,5 +1181,9 @@
       "ordem_na_pagina": 17
     }
   ],
-  "apelido": "DETRAN ARARAS"
+  "apelido": "DETRAN ARARAS",
+  "arquivo_pdf": "DETRAN ARARAS_2620150011587.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\DETRAN ARARAS_2620150011587.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

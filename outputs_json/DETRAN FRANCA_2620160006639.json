@@ -13832,5 +13832,9 @@
       "ordem_na_pagina": 9
     }
   ],
-  "apelido": "DETRAN FRANCA"
+  "apelido": "DETRAN FRANCA",
+  "arquivo_pdf": "DETRAN FRANCA_2620160006639.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\DETRAN FRANCA_2620160006639.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

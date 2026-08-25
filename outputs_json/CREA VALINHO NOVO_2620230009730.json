@@ -2541,5 +2541,9 @@
       "ordem_na_pagina": 3
     }
   ],
-  "apelido": "CREA VALINHO NOVO"
+  "apelido": "CREA VALINHO NOVO",
+  "arquivo_pdf": "CREA VALINHO NOVO_2620230009730.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\CREA VALINHO NOVO_2620230009730.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

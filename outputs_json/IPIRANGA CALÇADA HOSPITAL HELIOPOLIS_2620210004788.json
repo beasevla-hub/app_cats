@@ -271,5 +271,9 @@
       "ordem_na_pagina": 20
     }
   ],
-  "apelido": "IPIRANGA, CALÇADA HOSPITAL HELIOPOLIS"
+  "apelido": "IPIRANGA, CALÇADA HOSPITAL HELIOPOLIS",
+  "arquivo_pdf": "IPIRANGA CALÇADA HOSPITAL HELIOPOLIS_2620210004788.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\IPIRANGA CALÇADA HOSPITAL HELIOPOLIS_2620210004788.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

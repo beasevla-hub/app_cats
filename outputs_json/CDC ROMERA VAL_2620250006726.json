@@ -1471,5 +1471,9 @@
       "ordem_na_pagina": 29
     }
   ],
-  "apelido": "CDC ROMERA VAL"
+  "apelido": "CDC ROMERA VAL",
+  "arquivo_pdf": "CDC ROMERA VAL_2620250006726.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\CDC ROMERA VAL_2620250006726.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

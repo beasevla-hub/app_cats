@@ -311,5 +311,9 @@
       "ordem_na_pagina": 24
     }
   ],
-  "apelido": "RUA DR. BRITO"
+  "apelido": "RUA DR. BRITO",
+  "arquivo_pdf": "RUA DR BRITO_2620250001080.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\RUA DR BRITO_2620250001080.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

@@ -2061,5 +2061,9 @@
       "ordem_na_pagina": 17
     }
   ],
-  "apelido": "DETRAN VOTUPORANGA (CAT - Demolição)"
+  "apelido": "DETRAN VOTUPORANGA (CAT - Demolição)",
+  "arquivo_pdf": "DETRAN VOTUPORANGA CAT - Demolição_2620210009769.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\DETRAN VOTUPORANGA CAT - Demolição_2620210009769.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

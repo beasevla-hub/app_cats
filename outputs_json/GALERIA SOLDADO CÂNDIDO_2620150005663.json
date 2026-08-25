@@ -211,5 +211,9 @@
       "ordem_na_pagina": 9
     }
   ],
-  "apelido": "GALERIA SOLDADO CÂNDIDO"
+  "apelido": "GALERIA SOLDADO CÂNDIDO",
+  "arquivo_pdf": "GALERIA SOLDADO CÂNDIDO_2620150005663.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\GALERIA SOLDADO CÂNDIDO_2620150005663.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

@@ -161,5 +161,9 @@
       "ordem_na_pagina": 6
     }
   ],
-  "apelido": "RUA PADRE BRUNO RICCO"
+  "apelido": "RUA PADRE BRUNO RICCO",
+  "arquivo_pdf": "RUA PADRE BRUNO RICCO_SZC-21522.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\RUA PADRE BRUNO RICCO_SZC-21522.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

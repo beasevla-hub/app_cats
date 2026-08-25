@@ -791,5 +791,9 @@
       "ordem_na_pagina": 14
     }
   ],
-  "apelido": "RUA DOS CISNES"
+  "apelido": "RUA DOS CISNES",
+  "arquivo_pdf": "RUA DOS CISNES_2620260002564.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\RUA DOS CISNES_2620260002564.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

@@ -701,5 +701,9 @@
       "ordem_na_pagina": 4
     }
   ],
-  "apelido": "GALERIA RUA MARCELO MULLER"
+  "apelido": "GALERIA RUA MARCELO MULLER",
+  "arquivo_pdf": "GALERIA RUA MARCELO MULLER_2620250006735.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\GALERIA RUA MARCELO MULLER_2620250006735.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

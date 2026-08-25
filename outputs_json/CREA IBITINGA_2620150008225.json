@@ -2201,5 +2201,9 @@
       "ordem_na_pagina": 12
     }
   ],
-  "apelido": "CREA IBITINGA"
+  "apelido": "CREA IBITINGA",
+  "arquivo_pdf": "CREA IBITINGA_2620150008225.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\CREA IBITINGA_2620150008225.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

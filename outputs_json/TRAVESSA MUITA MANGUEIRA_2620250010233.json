@@ -322,5 +322,9 @@
       "ordem_na_pagina": 30
     }
   ],
-  "apelido": "TRAVESSA MUITA MANGUEIRA"
+  "apelido": "TRAVESSA MUITA MANGUEIRA",
+  "arquivo_pdf": "TRAVESSA MUITA MANGUEIRA_2620250010233.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\TRAVESSA MUITA MANGUEIRA_2620250010233.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

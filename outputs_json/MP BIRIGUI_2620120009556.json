@@ -4041,5 +4041,9 @@
       "ordem_na_pagina": 10
     }
   ],
-  "apelido": "MP BIRIGUI"
+  "apelido": "MP BIRIGUI",
+  "arquivo_pdf": "MP BIRIGUI_2620120009556.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\MP BIRIGUI_2620120009556.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

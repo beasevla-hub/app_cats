@@ -1271,5 +1271,9 @@
       "ordem_na_pagina": 12
     }
   ],
-  "apelido": "ITAPEVI - UBS SANTA RITA"
+  "apelido": "ITAPEVI - UBS SANTA RITA",
+  "arquivo_pdf": "ITAPEVI - UBS SANTA RITA_2620240009581.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\ITAPEVI - UBS SANTA RITA_2620240009581.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

@@ -241,5 +241,9 @@
       "ordem_na_pagina": 12
     }
   ],
-  "apelido": "PRAÇA DO RETORNO 2"
+  "apelido": "PRAÇA DO RETORNO 2",
+  "arquivo_pdf": "PRAÇA DO RETORNO 2_SZC-19040.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\PRAÇA DO RETORNO 2_SZC-19040.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

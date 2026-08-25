@@ -261,5 +261,9 @@
       "ordem_na_pagina": 10
     }
   ],
-  "apelido": "PASSARELA ANTÔNIO FABIANO"
+  "apelido": "PASSARELA ANTÔNIO FABIANO",
+  "arquivo_pdf": "PASSARELA ANTÔNIO FABIANO_2620230004555.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\PASSARELA ANTÔNIO FABIANO_2620230004555.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

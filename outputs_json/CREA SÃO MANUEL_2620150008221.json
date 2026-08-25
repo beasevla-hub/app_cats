@@ -2461,5 +2461,9 @@
       "ordem_na_pagina": 7
     }
   ],
-  "apelido": "CREA SÃO MANUEL"
+  "apelido": "CREA SÃO MANUEL",
+  "arquivo_pdf": "CREA SÃO MANUEL_2620150008221.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\CREA SÃO MANUEL_2620150008221.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

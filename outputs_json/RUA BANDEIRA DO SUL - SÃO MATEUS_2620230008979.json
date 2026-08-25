@@ -291,5 +291,9 @@
       "ordem_na_pagina": 14
     }
   ],
-  "apelido": "RUA BANDEIRA DO SUL - SÃO MATEUS"
+  "apelido": "RUA BANDEIRA DO SUL - SÃO MATEUS",
+  "arquivo_pdf": "RUA BANDEIRA DO SUL - SÃO MATEUS_2620230008979.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\RUA BANDEIRA DO SUL - SÃO MATEUS_2620230008979.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

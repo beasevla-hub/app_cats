@@ -371,5 +371,9 @@
       "ordem_na_pagina": 5
     }
   ],
-  "apelido": "MP PRESIDENTE PRUDENTE"
+  "apelido": "MP PRESIDENTE PRUDENTE",
+  "arquivo_pdf": "MP PRESIDENTE PRUDENTE_2620110001640.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\MP PRESIDENTE PRUDENTE_2620110001640.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

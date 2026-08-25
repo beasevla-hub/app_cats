@@ -591,5 +591,9 @@
       "ordem_na_pagina": 37
     }
   ],
-  "apelido": "PAVIMENTAÇÃO 3 ENDEREÇOS"
+  "apelido": "PAVIMENTAÇÃO 3 ENDEREÇOS",
+  "arquivo_pdf": "PAVIMENTAÇÃO 3 ENDEREÇOS_2620250004978.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\PAVIMENTAÇÃO 3 ENDEREÇOS_2620250004978.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

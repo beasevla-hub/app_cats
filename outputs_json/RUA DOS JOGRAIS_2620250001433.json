@@ -251,5 +251,9 @@
       "ordem_na_pagina": 15
     }
   ],
-  "apelido": "RUA DOS JOGRAIS"
+  "apelido": "RUA DOS JOGRAIS",
+  "arquivo_pdf": "RUA DOS JOGRAIS_2620250001433.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\RUA DOS JOGRAIS_2620250001433.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

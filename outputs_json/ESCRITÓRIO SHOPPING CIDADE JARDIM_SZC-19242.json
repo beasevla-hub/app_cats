@@ -181,5 +181,9 @@
       "ordem_na_pagina": 5
     }
   ],
-  "apelido": "ESCRITÓRIO SHOPPING CIDADE JARDIM"
+  "apelido": "ESCRITÓRIO SHOPPING CIDADE JARDIM",
+  "arquivo_pdf": "ESCRITÓRIO SHOPPING CIDADE JARDIM_SZC-19242.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\ESCRITÓRIO SHOPPING CIDADE JARDIM_SZC-19242.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

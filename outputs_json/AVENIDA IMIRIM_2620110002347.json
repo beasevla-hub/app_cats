@@ -451,5 +451,9 @@
       "ordem_na_pagina": 1
     }
   ],
-  "apelido": "AVENIDA IMIRIM"
+  "apelido": "AVENIDA IMIRIM",
+  "arquivo_pdf": "AVENIDA IMIRIM_2620110002347.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\AVENIDA IMIRIM_2620110002347.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

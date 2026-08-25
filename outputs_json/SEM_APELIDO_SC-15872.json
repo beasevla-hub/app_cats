@@ -161,5 +161,9 @@
       "ordem_na_pagina": 3
     }
   ],
-  "apelido": "SEM_APELIDO"
+  "apelido": "SEM_APELIDO",
+  "arquivo_pdf": "SEM_APELIDO_SC-15872.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\SEM_APELIDO_SC-15872.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

@@ -731,5 +731,9 @@
       "ordem_na_pagina": 14
     }
   ],
-  "apelido": "SERVIÇO FUNERAL"
+  "apelido": "SERVIÇO FUNERAL",
+  "arquivo_pdf": "SERVIÇO FUNERAL_2620230006452.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\SERVIÇO FUNERAL_2620230006452.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

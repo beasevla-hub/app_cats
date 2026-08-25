@@ -421,5 +421,9 @@
       "ordem_na_pagina": 20
     }
   ],
-  "apelido": "ESCADARIA DR. ALCIDES DE CAMPOS"
+  "apelido": "ESCADARIA DR. ALCIDES DE CAMPOS",
+  "arquivo_pdf": "ESCADARIA DR ALCIDES DE CAMPOS_2620250001123.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\ESCADARIA DR ALCIDES DE CAMPOS_2620250001123.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

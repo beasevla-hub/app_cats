@@ -641,5 +641,9 @@
       "ordem_na_pagina": 20
     }
   ],
-  "apelido": "SALAO MULTIUSO RUA JULIO CESAR MOREIRA"
+  "apelido": "SALAO MULTIUSO RUA JULIO CESAR MOREIRA",
+  "arquivo_pdf": "SALAO MULTIUSO RUA JULIO CESAR MOREIRA_2620250010678.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\SALAO MULTIUSO RUA JULIO CESAR MOREIRA_2620250010678.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

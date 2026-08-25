@@ -191,5 +191,9 @@
       "ordem_na_pagina": 1
     }
   ],
-  "apelido": "RUA DAS VITACEAS - JABAQUARA"
+  "apelido": "RUA DAS VITACEAS - JABAQUARA",
+  "arquivo_pdf": "RUA DAS VITACEAS - JABAQUARA_2620230014805.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\RUA DAS VITACEAS - JABAQUARA_2620230014805.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

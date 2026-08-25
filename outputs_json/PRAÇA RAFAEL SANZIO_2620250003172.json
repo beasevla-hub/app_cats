@@ -901,5 +901,9 @@
       "ordem_na_pagina": 10
     }
   ],
-  "apelido": "PRAÇA RAFAEL SANZIO"
+  "apelido": "PRAÇA RAFAEL SANZIO",
+  "arquivo_pdf": "PRAÇA RAFAEL SANZIO_2620250003172.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\PRAÇA RAFAEL SANZIO_2620250003172.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

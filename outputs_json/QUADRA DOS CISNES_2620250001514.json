@@ -631,5 +631,9 @@
       "ordem_na_pagina": 10
     }
   ],
-  "apelido": "QUADRA DOS CISNES"
+  "apelido": "QUADRA DOS CISNES",
+  "arquivo_pdf": "QUADRA DOS CISNES_2620250001514.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\QUADRA DOS CISNES_2620250001514.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

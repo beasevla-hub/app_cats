@@ -331,5 +331,9 @@
       "ordem_na_pagina": 3
     }
   ],
-  "apelido": "RUA FREI JOSÉ DA NATIVIDADE"
+  "apelido": "RUA FREI JOSÉ DA NATIVIDADE",
+  "arquivo_pdf": "RUA FREI JOSÉ DA NATIVIDADE_2620250005747.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\RUA FREI JOSÉ DA NATIVIDADE_2620250005747.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

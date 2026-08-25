@@ -861,5 +861,9 @@
       "ordem_na_pagina": 13
     }
   ],
-  "apelido": "MP MANOEL DA NOBREGA NOVO"
+  "apelido": "MP MANOEL DA NOBREGA NOVO",
+  "arquivo_pdf": "MP MANOEL DA NOBREGA NOVO_2620140010910.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\MP MANOEL DA NOBREGA NOVO_2620140010910.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

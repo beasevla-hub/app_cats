@@ -3171,5 +3171,9 @@
       "ordem_na_pagina": 14
     }
   ],
-  "apelido": "MP ARAÇATUBA"
+  "apelido": "MP ARAÇATUBA",
+  "arquivo_pdf": "MP ARAÇATUBA_2620140009891.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\MP ARAÇATUBA_2620140009891.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

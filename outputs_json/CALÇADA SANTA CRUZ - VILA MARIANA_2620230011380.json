@@ -491,5 +491,9 @@
       "ordem_na_pagina": 9
     }
   ],
-  "apelido": "CALÇADA SANTA CRUZ - VILA MARIANA"
+  "apelido": "CALÇADA SANTA CRUZ - VILA MARIANA",
+  "arquivo_pdf": "CALÇADA SANTA CRUZ - VILA MARIANA_2620230011380.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\CALÇADA SANTA CRUZ - VILA MARIANA_2620230011380.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

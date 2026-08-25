@@ -241,5 +241,9 @@
       "ordem_na_pagina": 10
     }
   ],
-  "apelido": "AV PROF HERMOGENES"
+  "apelido": "AV PROF HERMOGENES",
+  "arquivo_pdf": "AV PROF HERMOGENES_2620250001112.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\AV PROF HERMOGENES_2620250001112.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }

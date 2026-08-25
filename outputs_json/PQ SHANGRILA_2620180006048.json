@@ -561,5 +561,9 @@
       "ordem_na_pagina": 2
     }
   ],
-  "apelido": "PQ SHANGRILA"
+  "apelido": "PQ SHANGRILA",
+  "arquivo_pdf": "PQ SHANGRILA_2620180006048.pdf",
+  "caminho_pdf": "C:\\Users\\win\\Documents\\app_cats\\outputs_json\\PQ SHANGRILA_2620180006048.pdf",
+  "desmaterializado": true,
+  "autenticado": true
 }
