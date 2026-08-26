@@ -2,7 +2,7 @@ from fastapi import APIRouter, Depends, Query
 from sqlalchemy.orm import Session, joinedload
 import re
 import unicodedata
-from sqlalchemy import func, or_
+from sqlalchemy import case, func, or_
 from typing import Optional, List
 from datetime import date
 from core.database import get_db
@@ -110,7 +110,7 @@ def listar_servicos(
     desmaterializado: Optional[bool] = Query(None),
     autenticado: Optional[bool] = Query(None),
     cao: Optional[bool] = Query(None),
-    ordenar_quantidade: Optional[str] = Query(None, pattern="^(asc|desc)$"),
+    ordenar_quantidade: Optional[str] = Query(None, pattern="^(asc|desc)$", description="Mantido por compatibilidade; a ordenação agora é sempre decrescente"),
     page: int = Query(1, ge=1),
     page_size: int = Query(100, ge=1, le=500),
     db: Session = Depends(get_db)
@@ -182,12 +182,38 @@ def listar_servicos(
     if cao is not None:
         query = query.filter(Cat.cao == cao)
 
-    if ordenar_quantidade == "desc":
-        query = query.order_by(Servico.quantidade.desc().nullslast(), Servico.id.asc())
-    elif ordenar_quantidade == "asc":
-        query = query.order_by(Servico.quantidade.asc().nullslast(), Servico.id.asc())
-    else:
-        query = query.order_by(Servico.id.asc())
+    ordering = []
+    if busca:
+        normalized_query = normalize_text(busca)
+        description_expr = searchable_expr(Servico.descricao)
+        group_expr = searchable_expr(Servico.grupo)
+        code_expr = searchable_expr(Servico.codigo)
+        cat_number_expr = searchable_expr(Cat.numero_cat)
+        art_expr = searchable_expr(Cat.numero_art)
+        nickname_expr = searchable_expr(Cat.apelido)
+        contractor_expr = searchable_expr(Cat.contratante)
+        object_expr = searchable_expr(Cat.objeto)
+        city_expr = searchable_expr(Cat.cidade)
+
+        relevance = case(
+            (description_expr.like(f"%{normalized_query}%"), 1000),
+            else_=0,
+        )
+        for token in dict.fromkeys(fuzzy_tokens(busca)):
+            relevance = relevance + case((description_expr.like(f"%{token}%"), 180), else_=0)
+            relevance = relevance + case((group_expr.like(f"%{token}%"), 80), else_=0)
+            relevance = relevance + case((code_expr.like(f"%{token}%"), 55), else_=0)
+            relevance = relevance + case((nickname_expr.like(f"%{token}%"), 35), else_=0)
+            relevance = relevance + case((object_expr.like(f"%{token}%"), 30), else_=0)
+            relevance = relevance + case((contractor_expr.like(f"%{token}%"), 20), else_=0)
+            relevance = relevance + case((city_expr.like(f"%{token}%"), 15), else_=0)
+            relevance = relevance + case((cat_number_expr.like(f"%{token}%"), 10), else_=0)
+            relevance = relevance + case((art_expr.like(f"%{token}%"), 10), else_=0)
+        ordering.append(relevance.desc())
+
+    # A busca nunca perde o critério operacional: maior quantitativo primeiro.
+    ordering.extend([Servico.quantidade.desc().nullslast(), Servico.id.asc()])
+    query = query.order_by(*ordering)
 
     total = query.count()
     offset = (page - 1) * page_size
