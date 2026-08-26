@@ -1,8 +1,9 @@
 "use client";
 
+import { useEffect, useState } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { BarChart3, FileCheck2, FileInput, FolderKanban, LogOut, Moon, Search, Sun } from "lucide-react";
+import { BarChart3, FileCheck2, FileInput, FolderKanban, LogOut, Menu, Moon, Search, Sun, X } from "lucide-react";
 import type { AuthUser } from "@/lib/api";
 import { useTheme } from "@/lib/theme-context";
 
@@ -16,6 +17,21 @@ const navItems = [
 export default function AppHeader({ user, onLogout }: { user: AuthUser; onLogout: () => void }) {
   const pathname = usePathname();
   const { theme, toggleTheme } = useTheme();
+  const [mobileOpen, setMobileOpen] = useState(false);
+
+  useEffect(() => {
+    if (!mobileOpen) return;
+    const onKeyDown = (event: KeyboardEvent) => {
+      if (event.key === "Escape") setMobileOpen(false);
+    };
+    const previousOverflow = document.body.style.overflow;
+    document.body.style.overflow = "hidden";
+    document.addEventListener("keydown", onKeyDown);
+    return () => {
+      document.body.style.overflow = previousOverflow;
+      document.removeEventListener("keydown", onKeyDown);
+    };
+  }, [mobileOpen]);
 
   return (
     <header className="app-header">
@@ -28,12 +44,23 @@ export default function AppHeader({ user, onLogout }: { user: AuthUser; onLogout
           </span>
         </Link>
 
-        <nav className="main-nav" aria-label="Navegação principal">
+        <button
+          type="button"
+          className="mobile-menu-toggle"
+          onClick={() => setMobileOpen((current) => !current)}
+          aria-expanded={mobileOpen}
+          aria-controls="primary-navigation"
+          aria-label={mobileOpen ? "Fechar menu principal" : "Abrir menu principal"}
+        >
+          {mobileOpen ? <X size={20} /> : <Menu size={20} />}
+        </button>
+
+        <nav id="primary-navigation" className={`main-nav${mobileOpen ? " is-open" : ""}`} aria-label="Navegação principal">
           {navItems.map(({ href, label, icon: Icon }) => {
             const active = href === "/" ? pathname === "/" : pathname.startsWith(href);
             return (
-              <Link key={href} href={href} className={`main-nav__item${active ? " is-active" : ""}`}>
-                <Icon size={16} strokeWidth={2.2} />
+              <Link key={href} href={href} onClick={() => setMobileOpen(false)} className={`main-nav__item${active ? " is-active" : ""}`}>
+                <Icon size={17} strokeWidth={2.2} />
                 <span>{label}</span>
               </Link>
             );
@@ -42,7 +69,7 @@ export default function AppHeader({ user, onLogout }: { user: AuthUser; onLogout
 
         <div className="app-header__actions">
           <button type="button" className="theme-toggle" onClick={toggleTheme} aria-label={theme === "light" ? "Ativar black mode" : "Ativar white mode"} title={theme === "light" ? "Black mode" : "White mode"}>
-            <span className="theme-toggle__icon">{theme === "light" ? <Moon size={16} /> : <Sun size={16} />}</span>
+            <span className="theme-toggle__icon">{theme === "light" ? <Moon size={17} /> : <Sun size={17} />}</span>
             <span className="theme-toggle__label">{theme === "light" ? "Black" : "White"}</span>
           </button>
           <div className="user-chip">
@@ -50,10 +77,11 @@ export default function AppHeader({ user, onLogout }: { user: AuthUser; onLogout
             <span className="user-chip__name">{user.display_name}</span>
           </div>
           <button type="button" onClick={onLogout} className="icon-button" aria-label="Sair" title="Sair">
-            <LogOut size={16} />
+            <LogOut size={17} />
           </button>
         </div>
       </div>
+      {mobileOpen && <button type="button" className="mobile-menu-backdrop" onClick={() => setMobileOpen(false)} aria-label="Fechar menu principal" />}
     </header>
   );
 }
