@@ -90,8 +90,9 @@ def build_payload_dict(cat: Cat, payload: CatUpdatePayload) -> dict:
                 "quantidade": servico.quantidade,
                 "pagina_pdf": servico.pagina_pdf,
                 "ordem_na_pagina": servico.ordem_na_pagina,
+                "ordem": ordem,
             }
-            for servico in payload.servicos
+            for ordem, servico in enumerate(payload.servicos)
         ],
         "apelido": payload.apelido,
     }
@@ -136,7 +137,7 @@ def apply_cat_update(cat: Cat, payload: CatUpdatePayload, db: Session) -> Cat:
     cat.raw_json = payload_dict
 
     db.query(Servico).filter(Servico.cat_id == cat.id).delete()
-    for servico in payload.servicos:
+    for ordem, servico in enumerate(payload.servicos):
         db.add(
             Servico(
                 cat_id=cat.id,
@@ -148,6 +149,7 @@ def apply_cat_update(cat: Cat, payload: CatUpdatePayload, db: Session) -> Cat:
                 quantidade=servico.quantidade,
                 pagina_pdf=servico.pagina_pdf,
                 ordem_na_pagina=servico.ordem_na_pagina,
+                ordem=ordem,
             )
         )
 

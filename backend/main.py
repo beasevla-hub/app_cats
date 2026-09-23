@@ -13,9 +13,11 @@ try:
         connection.execute(text("ALTER TABLE cats ADD COLUMN IF NOT EXISTS desmaterializado BOOLEAN NOT NULL DEFAULT TRUE"))
         connection.execute(text("ALTER TABLE cats ADD COLUMN IF NOT EXISTS autenticado BOOLEAN NOT NULL DEFAULT TRUE"))
         connection.execute(text("ALTER TABLE cats ADD COLUMN IF NOT EXISTS cao BOOLEAN NOT NULL DEFAULT TRUE"))
+        connection.execute(text("ALTER TABLE servicos ADD COLUMN IF NOT EXISTS ordem INTEGER"))
         connection.execute(text("UPDATE cats SET desmaterializado = TRUE WHERE desmaterializado IS NULL"))
         connection.execute(text("UPDATE cats SET autenticado = TRUE WHERE autenticado IS NULL"))
         connection.execute(text("UPDATE cats SET cao = TRUE WHERE cao IS NULL"))
+        connection.execute(text("UPDATE servicos SET ordem = id WHERE ordem IS NULL"))
 except Exception:
     # O servidor continua iniciando para permitir diagnóstico de configuração do banco.
     pass

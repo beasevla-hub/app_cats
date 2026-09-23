@@ -11,6 +11,7 @@ class ServicoBase(BaseModel):
     quantidade: Optional[float] = None
     pagina_pdf: Optional[int] = None
     ordem_na_pagina: Optional[int] = None
+    ordem: Optional[int] = None
 
 class ServicoResponse(ServicoBase):
     id: int

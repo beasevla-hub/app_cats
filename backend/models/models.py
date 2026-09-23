@@ -35,7 +35,7 @@ class Cat(Base):
     created_at = Column(DateTime(timezone=True), server_default=func.now())
     updated_at = Column(DateTime(timezone=True), onupdate=func.now())
 
-    servicos = relationship("Servico", back_populates="cat", cascade="all, delete-orphan")
+    servicos = relationship("Servico", back_populates="cat", cascade="all, delete-orphan", order_by="Servico.ordem, Servico.id")
 
 
 class IngestionJob(Base):
@@ -70,5 +70,6 @@ class Servico(Base):
     quantidade = Column(Float, nullable=True)
     pagina_pdf = Column(Integer, nullable=True)
     ordem_na_pagina = Column(Integer, nullable=True)
+    ordem = Column(Integer, nullable=True, index=True)
 
     cat = relationship("Cat", back_populates="servicos")
