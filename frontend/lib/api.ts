@@ -25,6 +25,7 @@ export interface Servico {
   quantidade: number | null;
   pagina_pdf: number | null;
   ordem_na_pagina: number | null;
+  ordem?: number | null;
   numero_cat: string | null;
   numero_art: string | null;
   apelido: string | null;
@@ -127,6 +128,7 @@ export interface ServicoDetalhe {
   quantidade: number | null;
   pagina_pdf: number | null;
   ordem_na_pagina: number | null;
+  ordem?: number | null;
 }
 
 export interface CatDetalhe extends Cat {

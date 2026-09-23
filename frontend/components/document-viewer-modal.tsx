@@ -201,6 +201,44 @@ export default function DocumentViewerModal({ source, onClose }: DocumentViewerM
     });
   };
 
+  const moveServico = (from: number, to: number, grupo?: string) => {
+    setEditable((current) => {
+      if (!current || from < 0 || from >= current.servicos.length) return current;
+      const servicos = [...current.servicos];
+      const [moved] = servicos.splice(from, 1);
+      if (grupo !== undefined) moved.grupo = grupo || null;
+      const destination = Math.max(0, Math.min(to, servicos.length));
+      servicos.splice(destination, 0, moved);
+      return { ...current, servicos: servicos.map((servico, ordem) => ({ ...servico, ordem })) };
+    });
+  };
+
+  const moveGrupo = (from: number, to: number) => {
+    setEditable((current) => {
+      if (!current || from === to) return current;
+      const groups = current.servicos.reduce<string[]>((result, servico) => {
+        const group = servico.grupo?.trim() || "Sem grupo informado";
+        if (!result.includes(group)) result.push(group);
+        return result;
+      }, []);
+      if (from < 0 || to < 0 || from >= groups.length || to >= groups.length) return current;
+      const reordered = [...groups];
+      const [moved] = reordered.splice(from, 1);
+      reordered.splice(to, 0, moved);
+      const byGroup = new Map(reordered.map((group) => [group, [] as ServicoDetalhe[]]));
+      current.servicos.forEach((servico) => byGroup.get(servico.grupo?.trim() || "Sem grupo informado")?.push(servico));
+      const servicos = reordered.flatMap((group) => byGroup.get(group) || []).map((servico, ordem) => ({ ...servico, ordem }));
+      return { ...current, servicos };
+    });
+  };
+
+  const renameGrupo = (group: string, nextName: string) => {
+    setEditable((current) => current ? {
+      ...current,
+      servicos: current.servicos.map((servico) => ((servico.grupo?.trim() || "Sem grupo informado") === group ? { ...servico, grupo: nextName === "Sem grupo informado" ? null : nextName } : servico)),
+    } : current);
+  };
+
   const choosePdf = async () => {
     if (!catId) return;
     setChoosingPdf(true);
@@ -304,6 +342,9 @@ export default function DocumentViewerModal({ source, onClose }: DocumentViewerM
                   servicos={currentDoc.servicos}
                   editing={editing}
                   onServicoChange={updateServico}
+                  onServicoMove={moveServico}
+                  onGrupoMove={moveGrupo}
+                  onGrupoRename={renameGrupo}
                   documentMeta={{ cat_id: currentDoc.id, apelido: currentDoc.apelido, numero_cat: currentDoc.numero_cat }}
                   highlightServico={originContext}
                   onSelectServico={(servico) => {

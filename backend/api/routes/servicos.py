@@ -232,6 +232,7 @@ def listar_servicos(
             quantidade=s.quantidade,
             pagina_pdf=s.pagina_pdf,
             ordem_na_pagina=s.ordem_na_pagina,
+            ordem=s.ordem,
             numero_cat=s.cat.numero_cat if s.cat else None,
             apelido=s.cat.apelido if s.cat else None,
             contratante=s.cat.contratante if s.cat else None,
