@@ -71,11 +71,13 @@ python manage_users.py remove lucas
 
 ## 4. Testar localmente
 
-Execute `iniciar_acervo_tecnico.bat`. O frontend deverá abrir em:
+Execute `iniciar_acervo_tecnico.bat`. O script gera o build de produção e inicia o frontend em:
 
 ```text
 http://127.0.0.1:3717
 ```
+
+O modo de produção é necessário para acesso pelo Cloudflare Tunnel. O modo desenvolvimento (`next dev`) usa HMR/Turbopack e pode abrir o HTML, mas não hidratar corretamente o JavaScript quando acessado por um domínio público.
 
 A primeira tela será o login. Após entrar, as páginas de CATs, serviços e dashboard estarão protegidas.
 
