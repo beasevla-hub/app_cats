@@ -1,7 +1,8 @@
 "use client";
 
-import { FormEvent, ReactNode, useEffect, useState } from "react";
-import { ArrowRight, KeyRound, LockKeyhole, Moon, ShieldCheck, Sun } from "lucide-react";
+import { FormEvent, ReactNode, useCallback, useEffect, useState } from "react";
+import { isAxiosError } from "axios";
+import { ArrowRight, KeyRound, LockKeyhole, Moon, RefreshCw, ShieldCheck, Sun, WifiOff } from "lucide-react";
 import { AuthUser, fetchCurrentUser, login, logout } from "@/lib/api";
 import AppHeader from "@/components/app-header";
 import { useTheme } from "@/lib/theme-context";
@@ -13,14 +14,30 @@ export default function AuthGate({ children }: { children: ReactNode }) {
   const [password, setPassword] = useState("");
   const [error, setError] = useState("");
   const [submitting, setSubmitting] = useState(false);
+  const [checkingAccess, setCheckingAccess] = useState(true);
+  const [accessCheckFailed, setAccessCheckFailed] = useState(false);
   const { theme, toggleTheme } = useTheme();
 
-  useEffect(() => {
+  const checkAccess = useCallback(() => {
+    setCheckingAccess(true);
+    setAccessCheckFailed(false);
     fetchCurrentUser()
       .then(setUser)
-      .catch(() => setUser(null))
-      .finally(() => setReady(true));
+      .catch((error) => {
+        setUser(null);
+        // 401 é a resposta normal quando ainda não existe sessão: mostrar o login.
+        // Timeout, erro de rede ou 5xx indicam que o servidor/túnel não respondeu corretamente.
+        setAccessCheckFailed(!isAxiosError(error) || !error.response || error.response.status !== 401);
+      })
+      .finally(() => {
+        setReady(true);
+        setCheckingAccess(false);
+      });
   }, []);
+
+  useEffect(() => {
+    checkAccess();
+  }, [checkAccess]);
 
   const submit = async (event: FormEvent) => {
     event.preventDefault();
@@ -36,11 +53,24 @@ export default function AuthGate({ children }: { children: ReactNode }) {
     }
   };
 
-  if (!ready) {
+  if (!ready || checkingAccess) {
     return (
       <main className="auth-loading">
         <div className="auth-loading__mark"><ShieldCheck size={24} /></div>
         <span>Verificando acesso seguro</span>
+        <small>Conectando ao servidor…</small>
+      </main>
+    );
+  }
+
+  if (accessCheckFailed && !user) {
+    return (
+      <main className="auth-loading auth-loading--error">
+        <div className="auth-loading__mark"><WifiOff size={24} /></div>
+        <strong>Não foi possível conectar ao servidor</strong>
+        <p>O endereço abriu, mas o backend não respondeu. Confirme se o computador principal está ligado e se o Cloudflare Tunnel continua aberto.</p>
+        <button type="button" className="button button--primary" onClick={checkAccess}><RefreshCw size={15} /> Tentar novamente</button>
+        <small>Se o problema continuar, abra a URL novamente depois de iniciar o sistema no computador servidor.</small>
       </main>
     );
   }

@@ -112,6 +112,11 @@ a { color: inherit; text-decoration: none; }
 /* Login */
 .auth-loading { min-height: 100vh; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 12px; color: var(--muted); background: var(--bg); font-size: 12px; font-weight: 800; }
 .auth-loading__mark { display: inline-flex; width: 48px; height: 48px; align-items: center; justify-content: center; border-radius: 16px; color: #fff; background: var(--brand-strong); box-shadow: var(--shadow-md); }
+.auth-loading small { color: var(--muted-light); font-size: 11px; font-weight: 700; }
+.auth-loading--error { gap: 14px; padding: 24px; text-align: center; }
+.auth-loading--error .auth-loading__mark { color: var(--danger); background: var(--danger-soft); box-shadow: none; }
+.auth-loading--error strong { color: var(--ink); font-size: 15px; }
+.auth-loading--error p { max-width: 440px; margin: 0; color: var(--muted); font-size: 12px; font-weight: 600; line-height: 1.6; }
 .login-page { position: relative; min-height: 100vh; overflow: hidden; display: flex; align-items: center; justify-content: center; padding: 32px 20px; background: radial-gradient(circle at 15% 10%, color-mix(in srgb, var(--brand) 17%, transparent), transparent 32%), radial-gradient(circle at 84% 88%, color-mix(in srgb, var(--accent) 15%, transparent), transparent 35%), var(--bg); }
 .login-page__glow { position: absolute; width: 420px; height: 420px; border-radius: 50%; filter: blur(2px); pointer-events: none; }
 .login-page__glow--one { top: -230px; right: -120px; background: color-mix(in srgb, var(--brand) 20%, transparent); }
