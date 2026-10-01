@@ -14,7 +14,7 @@ const navItems = [
   { href: "/ingestion", label: "Ingestão", icon: FileInput },
 ];
 
-export default function AppHeader({ user, onLogout }: { user: AuthUser; onLogout: () => void }) {
+export default function AppHeader({ user, onLogout }: { user: AuthUser; onLogout?: () => void }) {
   const pathname = usePathname();
   const { theme, toggleTheme } = useTheme();
   const [mobileOpen, setMobileOpen] = useState(false);
@@ -76,9 +76,9 @@ export default function AppHeader({ user, onLogout }: { user: AuthUser; onLogout
             <span className="user-chip__avatar">{user.display_name.slice(0, 1).toUpperCase()}</span>
             <span className="user-chip__name">{user.display_name}</span>
           </div>
-          <button type="button" onClick={onLogout} className="icon-button" aria-label="Sair" title="Sair">
+          {onLogout && <button type="button" onClick={onLogout} className="icon-button" aria-label="Sair" title="Sair">
             <LogOut size={17} />
-          </button>
+          </button>}
         </div>
       </div>
       {mobileOpen && <button type="button" className="mobile-menu-backdrop" onClick={() => setMobileOpen(false)} aria-label="Fechar menu principal" />}

@@ -30,6 +30,7 @@ Abra `backend\.env` e ajuste pelo menos:
 DATABASE_URL=postgresql://postgres:SUA_SENHA@localhost:5432/acervos_db
 SESSION_SECRET=cole-aqui-uma-chave-grande-e-aleatoria
 ONEDRIVE_ROOT=C:\Users\win\THI Engenharia\THI - Documentos\Geral\THI 2026
+AUTH_ENABLED=false
 ```
 
 Para gerar uma chave de sessão forte:
@@ -77,6 +78,8 @@ http://127.0.0.1:3717
 ```
 
 A primeira tela será o login. Após entrar, as páginas de CATs, serviços e dashboard estarão protegidas.
+
+> Atualmente o projeto está em **modo temporário sem login** para facilitar o teste remoto. O frontend não faz verificação inicial e o backend aceita as rotas protegidas sem sessão quando `AUTH_ENABLED=false`. Para reativar a proteção, altere para `AUTH_ENABLED=true` no `backend\.env` e reinicie backend e frontend.
 
 ## 5. Testar uma URL temporária sem abrir portas
 

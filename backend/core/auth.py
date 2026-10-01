@@ -89,6 +89,8 @@ def read_session(token: str | None) -> dict[str, str] | None:
 
 
 def require_user(acervo_session: str | None = Cookie(default=None)) -> dict[str, str]:
+    if not settings.AUTH_ENABLED:
+        return {"username": "guest", "display_name": "Acesso temporário"}
     user = read_session(acervo_session)
     if not user:
         raise HTTPException(status_code=status.HTTP_401_UNAUTHORIZED, detail="Login necessário")
