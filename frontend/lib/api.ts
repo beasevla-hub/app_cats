@@ -1,14 +1,9 @@
 import axios from "axios";
 
-const configuredApiUrl = (process.env.NEXT_PUBLIC_API_URL || "/api/v1").trim();
-const browserHostname = typeof window !== "undefined" ? window.location.hostname : "";
-const isRemoteBrowser = browserHostname !== "" && !["localhost", "127.0.0.1", "::1"].includes(browserHostname);
-const pointsToLocalhost = /^https?:\/\/(localhost|127\.0\.0\.1|::1)(:\d+)?\b/i.test(configuredApiUrl);
-
 const api = axios.create({
-  // Um endereço localhost configurado no PC servidor não pode ser usado pelo navegador remoto.
-  // Nesse caso, usa o proxy same-origin do Next, que também funciona pelo Cloudflare Tunnel.
-  baseURL: isRemoteBrowser && pointsToLocalhost ? "/api/v1" : configuredApiUrl,
+  // A API passa sempre pelo proxy same-origin do Next. Assim, o navegador remoto
+  // nunca tenta acessar o localhost do PC do usuário; o Next encaminha para o backend.
+  baseURL: "/api/v1",
   withCredentials: true,
   timeout: 10000,
 });
