@@ -20,7 +20,13 @@ function getInitialTheme(): Theme {
 }
 
 export function ThemeProvider({ children }: { children: ReactNode }) {
-  const [theme, setThemeState] = useState<Theme>(getInitialTheme);
+  // O primeiro render precisa ser igual no servidor e no navegador.
+  // O tema salvo é aplicado depois da hidratação para evitar mismatch no Next.js.
+  const [theme, setThemeState] = useState<Theme>("light");
+
+  useEffect(() => {
+    setThemeState(getInitialTheme());
+  }, []);
 
   useEffect(() => {
     const root = document.documentElement;
