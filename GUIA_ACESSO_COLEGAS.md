@@ -155,6 +155,26 @@ Quando alguém usar `localhost`, o botão de PDF tenta abrir o arquivo no progra
 
 Para o primeiro teste, mantenha abertas as janelas do BAT e do `cloudflared tunnel run`. Depois que o fluxo estiver aprovado, o próximo passo será cadastrar backend, frontend e túnel no Agendador de Tarefas do Windows para iniciar automaticamente quando o PC ligar.
 
+## 9. Se ficar em “Verificando acesso seguro”
+
+Essa tela agora expira após alguns segundos e mostra um diagnóstico. Normalmente significa que o frontend abriu, mas o backend ou o túnel não respondeu.
+
+No computador servidor, confirme:
+
+1. As duas janelas do `iniciar_acervo_tecnico.bat` continuam abertas.
+2. O backend responde localmente:
+
+   ```powershell
+   Invoke-WebRequest http://127.0.0.1:8717/api/v1/auth/me -UseBasicParsing
+   ```
+
+   Uma resposta `401` é esperada quando não existe sessão; isso confirma que o backend está vivo.
+
+3. O `cloudflared tunnel run ...` continua ativo e sem mensagens de erro.
+4. O colega está usando a URL `https://...trycloudflare.com` ou o hostname fixo do túnel, e não uma URL `127.0.0.1`/`localhost`.
+
+Depois de corrigir o servidor, clique em **Tentar novamente** ou atualize a página. O navegador remoto usa o proxy do próprio frontend para falar com o backend; ele não tenta acessar `localhost` no computador do colega.
+
 ## Cuidados importantes
 
 Não compartilhe a pasta `backend`, o arquivo `.env`, o arquivo `backend/users.json` ou o arquivo de credenciais do Cloudflare. Não use a senha `123` para acesso remoto. Se o computador servidor desligar, entrar em suspensão ou perder a sincronização do OneDrive, a URL continuará existindo, mas o app e os PDFs ficarão indisponíveis até o serviço voltar.
